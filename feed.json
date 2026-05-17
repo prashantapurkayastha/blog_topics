@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-17T09:47:52.780014+00:00",
+  "generated_at": "2026-05-17T12:00:46.319604+00:00",
   "owned_count": 10,
   "competitor_count": 26,
-  "industry_count": 176,
+  "industry_count": 178,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,21 +19,133 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Gucci Resort 2027...",
       "score": 0,
-      "published": "2026-05-17T09:42:43+00:00",
+      "published": "2026-05-17T11:57:39+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "6a6e398ae239",
-      "title": "Pratt Institute Fall 2026 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/pratt-institute",
-      "summary": "",
+      "id": "7147407a8c78",
+      "title": "Live From New York! Gucci Shut Down Times Square For Its Cruise 2027 Show",
+      "link": "https://www.whowhatwear.com/fashion/runway/gucci-cruise-2027",
+      "summary": "With Tom Brady and Cindy Crawford as models, to boot.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Live From New York! Gucci Shut Down Times Square For Its Cruise 2027 S...",
+      "score": 2,
+      "published": "2026-05-17T11:51:15+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b1f246c0e331",
+      "title": "The Story Behind Taylor Swift’s Wedding Guest Jewelry—and Their Roots With Elizabeth Taylor",
+      "link": "https://www.vogue.com/article/taylor-swift-travis-kelce-wedding-guests-elizabeth-taylor-jewels",
+      "summary": "Cry her eyes violet at a friend’s wedding in Brooklyn, Taylor Swift may have done—all while wearing a suite of opal and gold jewelry once owned by her idol and muse.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: The Story Behind Taylor Swift’s Wedding Guest Jewelry—and Their Roots With Elizabeth Taylor — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-05-17T11:51:12+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "01b2b1e2b80a",
+      "title": "From the Archives: We Turned Back Time on Cher’s Iconic Fashion",
+      "link": "https://www.vogue.com/article/from-the-archives-the-super-whammos-60-years-of-cher",
+      "summary": "Cher is not of the moment. Cher would have been Cher at any time in history, especially Hollywood history.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Pratt Institute Fall 2026 Ready-to-Wear...",
+      "angle": "Fashion Intelligence: From the Archives: We Turned Back Time on Cher’s Iconic Fashion...",
       "score": 1,
-      "published": "2026-05-17T09:42:43+00:00",
+      "published": "2026-05-17T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "763773cb13b0",
+      "title": "The Best Off-Duty Looks From the 2026 Cannes Film Festival",
+      "link": "https://www.vogue.com/slideshow/2026-cannes-film-festival-off-duty-looks",
+      "summary": "There is no such thing as an off-duty moment—at least not during the Cannes Film Festival, where paparazzi are stationed in airport arrivals, hotel foyers, and beachfronts.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The Best Off-Duty Looks From the 2026 Cannes Film Festival...",
+      "score": 0,
+      "published": "2026-05-17T10:16:22+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b6e3b7f30bca",
+      "title": "All the Fashions From the 2026 Cannes Film Festival Red Carpet",
+      "link": "https://www.vogue.com/slideshow/2026-cannes-film-festival-red-carpet-looks",
+      "summary": "The 79th annual Cannes Film Festival is in full swing! See all of the red carpet fashion highlights here.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-05-17T10:06:35+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1d62f0fde69d",
+      "title": "Forget Oil—Rap Duo Bygdetrapen Is Norway’s New National Treasure",
+      "link": "https://www.vogue.com/article/bygdetrapen-norways-new-national-treasure",
+      "summary": "By performing in their local dialect, HC and Subaru are bringing country into rap.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Forget Oil—Rap Duo Bygdetrapen Is Norway’s New National Treasure...",
+      "score": 0,
+      "published": "2026-05-17T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2a270357108f",
+      "title": "The 20 Best Airbnbs in London, From Victorian Townhomes to Spacious Lofts",
+      "link": "https://www.vogue.com/article/best-london-airbnbs",
+      "summary": "The best airbnbs in London plant visitors in the heart of this vibrant capital—here’s where to stay, according to Vogue.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The 20 Best Airbnbs in London, From Victorian Townhomes to Spacious Lo...",
+      "score": 0,
+      "published": "2026-05-17T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2081c598e785",
+      "title": "These Are the Nordstrom Shoe Trends Stylish Women Are Wearing to Look Rich",
+      "link": "https://www.whowhatwear.com/fashion/shopping/rich-looking-nordstrom-shoe-trends-summer-2026",
+      "summary": "Chic Parisians go '90s. London It girls go Y2K.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-05-17T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d77e035de631",
+      "title": "Not Capris, Not Culottes: The Prettier Spring Pant Trend Every Fashion Person Is Wearing",
+      "link": "https://www.whowhatwear.com/fashion/spring/satin-pants-spring-2026-outfits",
+      "summary": "You probably already own it.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-05-17T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -216,20 +328,6 @@
       "angle": "Fashion Intelligence: Chloé Zhao Is a Spiky, Sparkling Schiaparelli Blowfish at Cannes Film ...",
       "score": 0,
       "published": "2026-05-16T20:35:33+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b6e3b7f30bca",
-      "title": "All the Fashions From the 2026 Cannes Film Festival Red Carpet",
-      "link": "https://www.vogue.com/slideshow/2026-cannes-film-festival-red-carpet-looks",
-      "summary": "The 79th annual Cannes Film Festival is in full swing! See all of the red carpet fashion highlights here.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-05-16T19:33:10+00:00",
       "discovered_via": "feed"
     },
     {
@@ -527,6 +625,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "e3cc67011382",
+      "title": "What Everyone Will Be Wearing From Marbella to Saint-Tropez This Summer, According to Moda Operandi",
+      "link": "https://www.whowhatwear.com/fashion/moda-operandi-vacation-shopping-2026",
+      "summary": "Shop the edit.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-05-16T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "2ab28a4ad965",
       "title": "I'm So Sorry, But Wearing These 6 Things Could Be Dating Your Summer Outfits",
       "link": "https://www.whowhatwear.com/fashion/summer/summer-outdated-trends-2026",
@@ -555,29 +667,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e3cc67011382",
-      "title": "What Everyone Will Be Wearing From Marbella to Saint-Tropez This Summer, According to Moda Operandi",
-      "link": "https://www.whowhatwear.com/fashion/moda-operandi-vacation-shopping-2026",
-      "summary": "Shop the edit.",
+      "id": "a8bcfaee76f0",
+      "title": "In L.A., Every It Girl Is Going to Be Wearing This Exact Outfit Instead of Leggings This Summer",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/hailey-bieber-summer-bike-shorts-outfit-2026",
+      "summary": "Thanks to Hailey Bieber.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
+      "aza_category": "Fashion & Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-05-16T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fd4cf856948a",
-      "title": "This Satin-Shirt Trend Feels Like It's Straight Out of Tom Ford's Gucci Era—7 Ways Fashion People Are Styling It",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/how-to-wear-the-satin-shirt-trend",
-      "summary": "You're going to want to screenshot all of these looks.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-05-16T07:00:00+00:00",
       "discovered_via": "feed"
@@ -593,6 +691,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
+      "published": "2026-05-16T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fd4cf856948a",
+      "title": "This Satin-Shirt Trend Feels Like It's Straight Out of Tom Ford's Gucci Era—7 Ways Fashion People Are Styling It",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/how-to-wear-the-satin-shirt-trend",
+      "summary": "You're going to want to screenshot all of these looks.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
       "published": "2026-05-16T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -621,20 +733,6 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: The Sunglasses Brand That Well-Dressed People Wear to Look Fashionable...",
       "score": 4,
-      "published": "2026-05-16T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a8bcfaee76f0",
-      "title": "In L.A., Every It Girl Is Going to Be Wearing This Exact Outfit Instead of Leggings This Summer",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/hailey-bieber-summer-bike-shorts-outfit-2026",
-      "summary": "Thanks to Hailey Bieber.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
       "published": "2026-05-16T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1087,48 +1185,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a469b7d122a7",
-      "title": "No Notes—These 16 Stylish Nordstrom Sneaker Finds Will Carry You Through the Months Ahead",
-      "link": "https://www.whowhatwear.com/fashion/shoes/best-nordstrom-sneakers-may-2026",
-      "summary": "Editor-approved styles for a summertime shoe update.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: No Notes—These 16 Stylish Nordstrom Sneaker Finds Will Carry You Throu...",
-      "score": 1,
-      "published": "2026-05-15T16:50:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b9cf699e928f",
-      "title": "Brightening, Blurring, and Color-Correcting—Green Setting Powder Is Trending",
-      "link": "https://www.vogue.com/article/green-setting-powder",
-      "summary": "Skin blurring, color correction, and oil control—a writer makes a case for green setting powders, with picks from Prada Beauty, Laura Mercier, and more.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-05-15T16:45:57+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cf0afaf8ebac",
-      "title": "How Aleshea Harris Took ‘Is God Is’ From Stage to Screen",
-      "link": "https://www.vogue.com/article/aleshea-harris-is-god-is-film-interview",
-      "summary": "“It was baptism by fire,” the Pulitzer Prize finalist says of writing and directing her play’s new film adaptation, out May 15.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: How Aleshea Harris Took ‘Is God Is’ From Stage to Screen...",
-      "score": 0,
-      "published": "2026-05-15T16:38:54+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "52ddd9cc1869",
       "title": "Demi Moore Is Fantastic in Red at the 2026 Cannes Film Festival",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71318294/demi-moore-cannes-film-festival-2026-fatherland-premiere-red-carpet-photos/",
@@ -1154,20 +1210,6 @@
       "angle": "Fashion Intelligence: Iris Van Herpen's 'Sculpting the Senses' Exhibit Bridges Couture, Scie...",
       "score": 3,
       "published": "2026-05-15T16:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "71dd1df8ddc6",
-      "title": "Bella Hadid Switches Into Sport Mode at the 2026 Cannes Film Festival",
-      "link": "https://www.vogue.com/article/bella-hadid-sport-mode-2026-cannes-film-festival",
-      "summary": "While Bella Hadid has yet to hit the red carpet at Cannes, her sporty vintage Prada set is a tantalizing curtain-raiser.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Bella Hadid Switches Into Sport Mode at the 2026 Cannes Film Festival...",
-      "score": 0,
-      "published": "2026-05-15T16:19:25+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1210,20 +1252,6 @@
       "angle": "Fashion Intelligence: Unsure What the Future Holds? Maybe That’s OK...",
       "score": 0,
       "published": "2026-05-15T15:47:54+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "783b9752b0ed",
-      "title": "The Super New Moon in Taurus Has Arrived—Here’s What It Means for Every Sign",
-      "link": "https://www.vogue.com/article/super-new-moon-in-taurus-what-it-means-for-every-star-sign",
-      "summary": "The objective is to start fresh, be introspective, and begin projects that appeal to our souls.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The Super New Moon in Taurus Has Arrived—Here’s What It Means for Ever...",
-      "score": 0,
-      "published": "2026-05-15T15:41:07+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2979,52 +3007,52 @@
   ],
   "trends": [
     {
-      "term": "rcb बनाम पीबीकेएस",
+      "term": "luke shaw",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "phil salt",
+      "term": "juventus",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nuwan thushara",
+      "term": "twisha sharma",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "yash dayal",
+      "term": "पुनर्मूल्यांकन",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "comedk",
+      "term": "kriti sanon",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "रिचर्ड ग्लीसन",
+      "term": "varun dhawan",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rcb વિ. pbks",
+      "term": "टिम डेविड",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ஈரான்",
+      "term": "చెన్నై సూపర్ కింగ్స్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "മാണി സി. കാപ്പന്",
+      "term": "ಜಿ. ಟಿ. ದೇವೇಗೌಡ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "megatsunami",
+      "term": "शिक्षक भर्ती आवेदन शुल्क",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
