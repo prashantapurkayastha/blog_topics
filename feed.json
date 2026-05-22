@@ -1,13 +1,111 @@
 {
-  "generated_at": "2026-05-22T05:59:13.019438+00:00",
+  "generated_at": "2026-05-22T08:22:24.597010+00:00",
   "owned_count": 10,
   "competitor_count": 14,
-  "industry_count": 179,
+  "industry_count": 182,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "b108917305e7",
+      "title": "If You’re Going to Wear Capri Leggings in 2026, Wear Them Like This, This and This",
+      "link": "https://www.whowhatwear.com/fashion/shoes/shoes-to-wear-with-capri-leggings-2026",
+      "summary": "A favourite along the French Riviera.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: If You’re Going to Wear Capri Leggings in 2026, Wear Them Like This, T...",
+      "score": 1,
+      "published": "2026-05-22T08:15:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b5246c083189",
+      "title": "The Vogue Business People Moves Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
+      "summary": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Vogue Business People Moves Tracker...",
+      "score": 0,
+      "published": "2026-05-22T07:41:36+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1a2b20ab38af",
+      "title": "Tigers under threat from dogs? Sariska launches canine vaccination drive",
+      "link": "https://www.indiatoday.in/india/story/rajasthan-canine-distemper-virus-sariska-dog-vaccination-protect-tigers-2915437-2026-05-22?utm_source=rss",
+      "summary": "Tigers under threat from dogs? Sariska launches canine vaccination drive",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 2,
+      "published": "2026-05-22T07:36:29+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "248a00f90975",
+      "title": "I'm a Stylist, and This Is the One Runway Trend I'll Be Wearing and Styling All Summer",
+      "link": "https://www.whowhatwear.com/fashion/trends/asymmetric-outfit-trend-2026-brie-welch",
+      "summary": "The trick to looking cool sans effort.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-05-22T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6c37d131778e",
+      "title": "Colorful Shoes! Woven Bags! Tankinis! 7 Fun Trends to Shop for Summer",
+      "link": "https://www.whowhatwear.com/fashion/shopping/fun-trends-summer-2026",
+      "summary": "Shop playful pieces.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-05-22T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8e288fbee9a6",
+      "title": "I Live on the Upper East Side—5 Specific Pieces Everyone Is Wearing This Summer",
+      "link": "https://www.whowhatwear.com/fashion/upper-east-side-summer-fashion",
+      "summary": "Including the sandals everyone is trying to track down.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-05-22T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7fb6b6b75b2b",
+      "title": "Forget Contouring—This Is the Way Beauty Editors Really Sculpt Their Faces",
+      "link": "https://www.whowhatwear.com/beauty/skin/how-to-tantour",
+      "summary": "Natural and luminous.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Forget Contouring—This Is the Way Beauty Editors Really Sculpt Their F...",
+      "score": 1,
+      "published": "2026-05-22T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "2795f54a2879",
       "title": "I'm Living in Dresses This Heatwave—12 Zara, H&M and COS Styles That Are Already Selling Fast",
@@ -961,20 +1059,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8cb9ffa5249f",
-      "title": "Katie Holmes Saw the Peplum Comeback and Did It Her Way",
-      "link": "https://www.vogue.com/article/katie-holmes-saw-the-peplum-comeback-and-did-it-her-way",
-      "summary": "From Anne Hathaway to Taylor Swift, stars are embracing the curve-waist silhouette with aplomb—Katie Holmes offers up her own springtime take.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Katie Holmes Saw the Peplum Comeback and Did It Her Way...",
-      "score": 0,
-      "published": "2026-05-21T09:09:23+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "4e99f7d86808",
       "title": "2026 Is the Era of the Everyday Clutch: Non-Fussy, Dressed-Down, But Still So Elegant",
       "link": "https://www.whowhatwear.com/fashion/luxury/everyday-clutches-uk",
@@ -1073,20 +1157,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f55a93402302",
-      "title": "I've Been Observing for 8 Weeks—These Are the Beauty Products It Girls Are Secretly Using Right Now",
-      "link": "https://www.whowhatwear.com/beauty/it-girl-beauty-products-uk",
-      "summary": "From Vaseline to luxury French skincare.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I've Been Observing for 8 Weeks—These Are the Beauty Products It Girls...",
-      "score": 2,
-      "published": "2026-05-21T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "8d7b1fbdc05b",
       "title": "I'm Bored of Minimalist Nail Designs—This Is the Trend Those In the Know Are Wearing Instead",
       "link": "https://www.whowhatwear.com/beauty/nails/swirl-nail-designs",
@@ -1096,6 +1166,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-05-21T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f55a93402302",
+      "title": "I've Been Observing for 8 Weeks—These Are the Beauty Products It Girls Are Secretly Using Right Now",
+      "link": "https://www.whowhatwear.com/beauty/it-girl-beauty-products-uk",
+      "summary": "From Vaseline to luxury French skincare.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I've Been Observing for 8 Weeks—These Are the Beauty Products It Girls...",
       "score": 2,
       "published": "2026-05-21T06:00:00+00:00",
       "discovered_via": "feed"
@@ -1521,20 +1605,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "058d3c836adc",
-      "title": "My Parents Didn't Work in Fashion, But They Are Fashion Icons—Here Are the Style Lessons I Learned From Them",
-      "link": "https://www.whowhatwear.com/fashion/claudia-li-parents-fashion-lessons",
-      "summary": "Vintage pieces I inherited and brands you should be searching for.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: My Parents Didn't Work in Fashion, But They Are Fashion Icons—Here Are...",
-      "score": 3,
-      "published": "2026-05-20T15:40:17+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a711ab2c12fd",
       "title": "Bella Hadid Always Goes Deep With Her Vintage Finds",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71361110/bella-hadid-vintage-jean-paul-gaultier-khaki-dress-cannes-film-festival-2026/",
@@ -1574,20 +1644,6 @@
       "angle": "Fashion Intelligence: Aubrey Plaza Takes Her Baby Bump Courtside for the Knicks’s Historic G...",
       "score": 1,
       "published": "2026-05-20T14:09:58+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9ad784311445",
-      "title": "\"I'm Very Much a Lip and Brow Girl\": Charli XCX on Her 2026 Beauty Era and Forever Staples",
-      "link": "https://www.whowhatwear.com/beauty/makeup/charli-xcx-ysl-beauty-favorite-products",
-      "summary": "The pop star tells all.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: \"I'm Very Much a Lip and Brow Girl\": Charli XCX on Her 2026 Beauty Era...",
-      "score": 1,
-      "published": "2026-05-20T14:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1672,20 +1728,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 5,
       "published": "2026-05-20T09:19:06+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "706bc2ca8111",
-      "title": "Cool Girls Are Wearing These Pant Trends With Flats, Heels, and Everything in Between",
-      "link": "https://www.whowhatwear.com/fashion/pants-trousers/pant-trends-summer-2026",
-      "summary": "These pants are anything but basic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-05-20T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2515,6 +2557,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "a6e7e1bb83bd",
+      "title": "Kurta Carnival Festival: Top Festive Kurta Styles Every Man Should Try",
+      "link": "https://blog.kalkifashion.com/top-festive-kurta-styles-every-man-should-try/",
+      "summary": "We all love the vibe of the fun-filled, high-octane, and glamorous festive season and look forward to having a blast during the celebrations. So, get ready for the festive season by upgrading your ethnic wardrobe and stocking it with opulent mens festive kurta that are a timeless attire. KALKI Fashion is running a Kurt",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Trend Alert",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 6,
+      "published": "2026-05-22T07:27:47+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "ed3d266fa8d2",
       "title": "Are You Missing These Small Details in Your Sherwani?",
       "link": "https://blog.kalkifashion.com/wedding-sherwani-tips-small-details-make-big-difference/",
@@ -2641,20 +2697,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "08924d41825b",
-      "title": "‘Classic’ is Boring? Ishani Pandey’s Garden-Inspired Delhi Wedding Proves Otherwise",
-      "link": "https://blog.kalkifashion.com/ishani-pandey-delhi-wedding/",
-      "summary": "Still feels like a dream. If someone had told Ishani Pandey years ago that she would be standing on a balcony, watching her own groom arrive like a literal prince while her heart did somersaults, she probably would have laughed—or fainted. But here they are, and spoiler alert: the reality was infinitely better than any",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: ‘Classic’ is Boring? Ishani Pandey’s Garden-Inspired Delhi Wedding Proves Otherwise — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-05-09T04:20:34+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "1ea1d99beaf8",
       "title": "Which Banarasi Saree is Perfect for Indian Weddings in 2026?",
       "link": "https://www.indianclothstore.com/blog/which-banarasi-saree-is-perfect-for-indian-weddings-in-2026",
@@ -2708,6 +2750,34 @@
       "angle": "Bridal Edit: Pathani Suit vs Kurta Pajama — A Complete Style Guide",
       "score": 5,
       "published": "2026-03-24T13:01:16+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f5450ef69f4e",
+      "title": "What to Wear to a Beach Wedding in Goa: A Complete Style Guide",
+      "link": "https://www.azafashions.com/blog/what-to-wear-to-a-goa-beach-wedding/?utm_source=rss&utm_medium=rss&utm_campaign=what-to-wear-to-a-goa-beach-wedding",
+      "summary": "Receiving an invitation to a beach wedding in Goa brings immediate excitement. You picture beautiful sunsets, crashing waves, and dancing under the stars. However, dressing for a beach wedding presents a unique&#8230; The post What to Wear to a Beach Wedding in Goa: A Complete Style Guide appeared first on Aza Editoria",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Bridal Edit: What to Wear to a Beach Wedding in Goa — A Complete Style Guide",
+      "score": 4,
+      "published": "2026-05-21T10:41:24+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3b7a664ee9fc",
+      "title": "How to Perfectly Match Jewelry With Your Lehenga",
+      "link": "https://www.azafashions.com/blog/how-to-match-jewelry-with-your-lehenga/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-match-jewelry-with-your-lehenga",
+      "summary": "Finding the right lehenga feels like a massive victory. You spend weeks looking at fabrics, silhouettes, and embroidery before finally saying yes to the dress. However, your stunning outfit remains incomplete without the&#8230; The post How to Perfectly Match Jewelry With Your Lehenga appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Bridal Edit: How to Perfectly Match Jewelry With Your Lehenga — A Complete Style Guide",
+      "score": 4,
+      "published": "2026-05-21T10:37:01+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2821,84 +2891,56 @@
       "score": 3,
       "published": "2026-05-19T09:10:09+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "0c0c7c262007",
-      "title": "What to Wear to a Wedding in the USA: The Complete Indian Wedding Guest Guide (2026)",
-      "link": "https://www.azafashions.com/blog/what-to-wear-to-a-wedding-in-the-usa-the-complete-indian-wedding-guest-guide-2026/?utm_source=rss&utm_medium=rss&utm_campaign=what-to-wear-to-a-wedding-in-the-usa-the-complete-indian-wedding-guest-guide-2026",
-      "summary": "For an Indian wedding in the USA, wear traditional Indian ethnic wear — a lehenga choli, silk saree, or Anarkali suit for women; a kurta pyjama, sherwani, or bandhgala for&#8230; The post What to Wear to a Wedding in the USA: The Complete Indian Wedding Guest Guide (2026) appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Bridal Edit: What to Wear to a Wedding in the USA — A Complete Style Guide",
-      "score": 9,
-      "published": "2026-05-19T08:59:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cdbe0af73d1b",
-      "title": "What Is Indo-Western Fashion? The Complete Guide (2026)",
-      "link": "https://www.azafashions.com/blog/what-is-indo-western-fashion-the-complete-guide-2026/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-indo-western-fashion-the-complete-guide-2026",
-      "summary": "Indo-Western fashion is a style that blends traditional Indian clothing elements embroidery, handloom fabrics, Indian silhouettes, and cultural motifs with Western cuts, tailoring, and contemporary design sensibility. The result is&#8230; The post What Is Indo-Western Fashion? The Complete Guide (2026) appeared first o",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Art & Craft",
-      "angle": "Fashion Intelligence: What Is Indo-Western Fashion? The Complete Guide (2026)...",
-      "score": 5,
-      "published": "2026-05-19T08:52:29+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "মিমি চক্রবর্তী",
+      "term": "स्कूटर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "मार्को रुबियो",
+      "term": "pakistan squad for australia odi series 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "హైదరాబాద్",
+      "term": "honda india",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "రుతురాజ్ గైక్వాడ్",
+      "term": "cbse answer sheet photocopy class 12 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "jio financial services share price",
+      "term": "cyprus",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "पश्चिमी विक्षोभ",
+      "term": "june 18 rajya sabha polls",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "कुत्ता",
+      "term": "மின் தடை",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "idea share price",
+      "term": "honda zrv",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "saurabh netravalkar",
+      "term": "తెలంగాణ రాష్ట్ర రోడ్డు రవాణా సంస్థ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "apollo micro systems share price",
+      "term": "ಚಿಕ್ಕಮಗಳೂರು",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
