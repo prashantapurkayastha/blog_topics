@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-05-24T07:50:10.335424+00:00",
+  "generated_at": "2026-05-24T09:54:53.318811+00:00",
   "owned_count": 10,
   "competitor_count": 15,
-  "industry_count": 178,
+  "industry_count": 176,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "94f31decbed4",
+      "title": "It's My Job to Spot Nail Trends—I'm Expecting the Spicy French to Dominate All Summer",
+      "link": "https://www.whowhatwear.com/beauty/nails/spicy-french-nail-trend",
+      "summary": "Pro manicurists concur.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-05-24T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "f593507f66a5",
       "title": "You May Disagree, But These 7 Summer Fashion Trends Are Officially \"Dated\" According to Fashion Insiders",
@@ -93,20 +107,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9319d296b646",
-      "title": "6 Chic Sandal Trends That Will Give Your Summer Shoe Collection Some Personality",
-      "link": "https://www.whowhatwear.com/fashion/trends/sandals-microtrends-2026",
-      "summary": "They're cool-girl approved.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 2,
-      "published": "2026-05-24T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "70c8b655e710",
       "title": "Those With Cool Style Know Leggings Aren't Just For Exercising—6 Summer Trends To Wear Them With",
       "link": "https://www.whowhatwear.com/fashion/trends/summer-trends-to-wear-with-leggings-2026",
@@ -117,6 +117,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
+      "published": "2026-05-24T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9319d296b646",
+      "title": "6 Chic Sandal Trends That Will Give Your Summer Shoe Collection Some Personality",
+      "link": "https://www.whowhatwear.com/fashion/trends/sandals-microtrends-2026",
+      "summary": "They're cool-girl approved.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 2,
       "published": "2026-05-24T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -471,20 +485,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3738d291d225",
-      "title": "If You Want to Look Chic This Summer, Trade Barrel Jeans for One of *These* 6 Denim Trends",
-      "link": "https://www.whowhatwear.com/fashion/denim/summer-denim-trends-2026",
-      "summary": "Just saying!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-23T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "df1233f1f824",
       "title": "No Skinny Jeans Here—European It Girls Know These 4 Trouser Trends Are the Key to Fashionable Outfits",
       "link": "https://www.whowhatwear.com/fashion/trends/european-fashion-trouser-trends-2026",
@@ -495,6 +495,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 4,
+      "published": "2026-05-23T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3738d291d225",
+      "title": "If You Want to Look Chic This Summer, Trade Barrel Jeans for One of *These* 6 Denim Trends",
+      "link": "https://www.whowhatwear.com/fashion/denim/summer-denim-trends-2026",
+      "summary": "Just saying!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
       "published": "2026-05-23T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -513,20 +527,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "57be9e921950",
-      "title": "I'm A Low-Maintenance Beauty Editor—This Is My Hack for Doing My Makeup in 10 Minutes and Under",
-      "link": "https://www.whowhatwear.com/beauty/makeup/best-makeup-kits",
-      "summary": "Quick and effortless.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I'm A Low-Maintenance Beauty Editor—This Is My Hack for Doing My Makeu...",
-      "score": 1,
-      "published": "2026-05-23T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "77733f4dea42",
       "title": "In Paris, the Chicest Women Are Wearing One of These Flat-Shoe-and-Cropped-Trouser Combos",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/french-girl-cropped-trouser-and-flats-outfits-2026",
@@ -536,6 +536,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-05-23T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "57be9e921950",
+      "title": "I'm A Low-Maintenance Beauty Editor—This Is My Hack for Doing My Makeup in 10 Minutes and Under",
+      "link": "https://www.whowhatwear.com/beauty/makeup/best-makeup-kits",
+      "summary": "Quick and effortless.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I'm A Low-Maintenance Beauty Editor—This Is My Hack for Doing My Makeu...",
       "score": 1,
       "published": "2026-05-23T06:00:00+00:00",
       "discovered_via": "feed"
@@ -1255,20 +1269,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "58d394fccd57",
-      "title": "Every Chic Londoner Is Wearing One of These 5 Summer Heatwave Staples This Weekend",
-      "link": "https://www.whowhatwear.com/fashion/shopping/london-heatwave-capsule-wardrobe-2026",
-      "summary": "Chic and cool.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-05-22T11:26:41+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7409192184fe",
       "title": "Lauren Ralph Lauren Takes a Dip Into Swim Season",
       "link": "https://www.fashiongonerogue.com/story/lauren-ralph-lauren-swim-2026/",
@@ -1294,34 +1294,6 @@
       "angle": "Festive Dressing: How to Own This Occasion",
       "score": 3,
       "published": "2026-05-22T11:19:49+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "337f715915c1",
-      "title": "The Heatwave Is Here, And Pool-Glazed Nails Are All I Want to Wear This Summer",
-      "link": "https://www.whowhatwear.com/beauty/nails/blue-chrome-nails",
-      "summary": "Dive in.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Heatwave Is Here, And Pool-Glazed Nails Are All I Want to Wear Thi...",
-      "score": 1,
-      "published": "2026-05-22T10:49:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fe99ac08be2f",
-      "title": "Phlur Just Launched Two New Tropical Scents For Summer—I'm Ready for Sun, Sand, and Compliments",
-      "link": "https://www.whowhatwear.com/beauty/fragrance/phlur-new-summer-scents-2026",
-      "summary": "Meet Island Swim and Paradise Nectar.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-05-22T09:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2711,6 +2683,90 @@
       "discovered_via": "feed"
     },
     {
+      "id": "fbb84e177cc9",
+      "title": "Traditional Indian Dresses for Women: Complete Style Guide",
+      "link": "https://www.azafashions.com/blog/traditional-indian-dresses-for-women-style-guide/?utm_source=rss&utm_medium=rss&utm_campaign=traditional-indian-dresses-for-women-style-guide",
+      "summary": "There are eight main types of traditional Indian dresses for women: saree, lehenga choli, salwar kameez (suit set), anarkali, kurta set, sharara, gharara, and half-saree. Each outfit has a distinct&#8230; The post Traditional Indian Dresses for Women: Complete Style Guide appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 8,
+      "published": "2026-05-23T15:19:12+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "04fae7a6b25f",
+      "title": "Wedding Guest Style: Designers Who Redefine Elegance",
+      "link": "https://www.azafashions.com/blog/wedding-guest-style-best-designers/?utm_source=rss&utm_medium=rss&utm_campaign=wedding-guest-style-best-designers",
+      "summary": "There’s no better excuse to dress to the nines than a wedding. Whether it’s a grand celebration or an intimate gathering, your outfit should reflect the festive spirit while keeping you comfortable. Discover designers&#8230; The post Wedding Guest Style: Designers Who Redefine Elegance appeared first on Aza Editorials ",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Wedding Guest Style — A Complete Style Guide",
+      "score": 6,
+      "published": "2026-05-23T12:23:32+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f94cf50188f4",
+      "title": "Best Colours for Dark Skin Tone: Ethnic Wear Guide for Indian Women",
+      "link": "https://www.azafashions.com/blog/best-colours-for-dark-skin-tone-ethnic-wear-guide-indian-women/?utm_source=rss&utm_medium=rss&utm_campaign=best-colours-for-dark-skin-tone-ethnic-wear-guide-indian-women",
+      "summary": "The best colours for dark skin tones are rich jewel tones, vibrant primaries, deep metallics, and bold earthy shades. Dark and deep skin tones are incredibly versatile the key is&#8230; The post Best Colours for Dark Skin Tone: Ethnic Wear Guide for Indian Women appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Best Colours for Dark Skin Tone: Ethnic Wear Guide for Indian Women...",
+      "score": 2,
+      "published": "2026-05-23T11:11:56+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a1bdf6ea57db",
+      "title": "24 Years Later, No One Does Cannes Quite Like Aishwarya Rai Bachchan",
+      "link": "https://www.azafashions.com/blog/aishwarya-rai-cannes-2026-looks/?utm_source=rss&utm_medium=rss&utm_campaign=aishwarya-rai-cannes-2026-looks",
+      "summary": "There are celebrities who attend Cannes, and then there is Aishwarya Rai Bachchan,&#160;a presence so intertwined with the festival that her arrival feels less like an appearance and more like&#8230; The post 24 Years Later, No One Does Cannes Quite Like Aishwarya Rai Bachchan appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 24 Years Later, No One Does Cannes Quite Like Aishwarya Rai Bachchan...",
+      "score": 0,
+      "published": "2026-05-23T11:02:49+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "031670cbbdac",
+      "title": "Styling for a Luxury Hotel Wedding Reception",
+      "link": "https://www.azafashions.com/blog/what-to-wear-to-a-luxury-hotel-wedding-reception/?utm_source=rss&utm_medium=rss&utm_campaign=what-to-wear-to-a-luxury-hotel-wedding-reception",
+      "summary": "Walking into the grand ballroom of a luxury hotel always feels magical. Crystal chandeliers sparkle above you; the floral arrangements look like art, and the entire atmosphere screams about sophistication. When you&#8230; The post Styling for a Luxury Hotel Wedding Reception appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Styling for a Luxury Hotel Wedding Reception — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-05-23T10:58:39+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "79374a6ef25f",
+      "title": "The Riyadh Ladies’ Night Wardrobe Starts with a Statement Gown",
+      "link": "https://www.azafashions.com/blog/riyadh-ladies-night-with-statement-gown/?utm_source=rss&utm_medium=rss&utm_campaign=riyadh-ladies-night-with-statement-gown",
+      "summary": "The air in the capital changes as the sun sets. Soft oud scents drift through the warm evening breeze, and modern Riyadh after dark comes alive with a distinct, quiet&#8230; The post The Riyadh Ladies’ Night Wardrobe Starts with a Statement Gown appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The Riyadh Ladies’ Night Wardrobe Starts with a Statement Gown...",
+      "score": 1,
+      "published": "2026-05-23T10:15:42+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "aa73ca7fb5c1",
       "title": "Dressed for the Diwaniya: 7 Dresses to Wear at a Private Majlis",
       "link": "https://www.azafashions.com/blog/private-majlis-dress-ideas/?utm_source=rss&utm_medium=rss&utm_campaign=private-majlis-dress-ideas",
@@ -2765,140 +2821,56 @@
       "score": 4,
       "published": "2026-05-22T11:38:36+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "9f293d155d1f",
-      "title": "How to Dress for a Multicultural Wedding",
-      "link": "https://www.azafashions.com/blog/guide-to-multicultural-wedding-attire/?utm_source=rss&utm_medium=rss&utm_campaign=guide-to-multicultural-wedding-attire",
-      "summary": "Multicultural weddings bring together the absolute best of two beautiful worlds. You get to witness unique traditions, taste incredible food, and see a vibrant mix of stunning fashion. Navigating the dress code for these&#8230; The post How to Dress for a Multicultural Wedding appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Bridal Edit: How to Dress for a Multicultural Wedding — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-05-22T10:54:10+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "eb42156cd28e",
-      "title": "What to Wear to a Haldi Ceremony",
-      "link": "https://www.azafashions.com/blog/what-to-wear-to-a-haldi-ceremony-guide/?utm_source=rss&utm_medium=rss&utm_campaign=what-to-wear-to-a-haldi-ceremony-guide",
-      "summary": "The Haldi ceremony stands out as one of the most joyous, colorful, and playful events of any Indian wedding. Friends and family gather to apply a paste of turmeric, sandalwood, and&#8230; The post What to Wear to a Haldi Ceremony appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: What to Wear to a Haldi Ceremony...",
-      "score": 2,
-      "published": "2026-05-22T10:48:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f5d5c96a4546",
-      "title": "Aza’s New Association with Bal Raksha Bharat Adds Meaning to Luxury",
-      "link": "https://www.azafashions.com/blog/aza-bal-raksha-bharat-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=aza-bal-raksha-bharat-partnership",
-      "summary": "Luxury has always meant beautiful craftsmanship and memorable experiences. At Aza Fashions, it is now taking on a deeper meaning. India’s leading luxury fashion destination has announced its association with Bal Raksha Bharat, one&#8230; The post Aza’s New Association with Bal Raksha Bharat Adds Meaning to Luxury appea",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Art & Craft",
-      "angle": "Fashion Intelligence: Aza’s New Association with Bal Raksha Bharat Adds Meaning to Luxury...",
-      "score": 3,
-      "published": "2026-05-22T10:01:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f5450ef69f4e",
-      "title": "What to Wear to a Beach Wedding in Goa: A Complete Style Guide",
-      "link": "https://www.azafashions.com/blog/what-to-wear-to-a-goa-beach-wedding/?utm_source=rss&utm_medium=rss&utm_campaign=what-to-wear-to-a-goa-beach-wedding",
-      "summary": "Receiving an invitation to a beach wedding in Goa brings immediate excitement. You picture beautiful sunsets, crashing waves, and dancing under the stars. However, dressing for a beach wedding presents a unique&#8230; The post What to Wear to a Beach Wedding in Goa: A Complete Style Guide appeared first on Aza Editoria",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Bridal Edit: What to Wear to a Beach Wedding in Goa — A Complete Style Guide",
-      "score": 4,
-      "published": "2026-05-21T10:41:24+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3b7a664ee9fc",
-      "title": "How to Perfectly Match Jewelry With Your Lehenga",
-      "link": "https://www.azafashions.com/blog/how-to-match-jewelry-with-your-lehenga/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-match-jewelry-with-your-lehenga",
-      "summary": "Finding the right lehenga feels like a massive victory. You spend weeks looking at fabrics, silhouettes, and embroidery before finally saying yes to the dress. However, your stunning outfit remains incomplete without the&#8230; The post How to Perfectly Match Jewelry With Your Lehenga appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Bridal Edit: How to Perfectly Match Jewelry With Your Lehenga — A Complete Style Guide",
-      "score": 4,
-      "published": "2026-05-21T10:37:01+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e672c61f9c60",
-      "title": "Toronto Cocktail Parties Just Found Their Dress Code — And It’s Pre-Draped Sarees",
-      "link": "https://www.azafashions.com/blog/pre-stitched-sarees-toronto/?utm_source=rss&utm_medium=rss&utm_campaign=pre-stitched-sarees-toronto",
-      "summary": "Toronto knows how to throw a&#160;party.&#160;Whether it's a glam desi cocktail at a Mississauga banquet hall, a rooftop reception at the Bisha Hotel, an intimate anniversary soirée in Forest Hill,&#8230; The post Toronto Cocktail Parties Just Found Their Dress Code — And It’s Pre-Draped Sarees appeared first on Aza Ed",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Toronto Cocktail Parties Just Found Their Dress Code — And It’s Pre-Dr...",
-      "score": 2,
-      "published": "2026-05-20T19:56:51+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "उत्तर प्रदेश",
+      "term": "ajax vs utrecht",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "शुक्र",
+      "term": "weather varanasi",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bank fraud",
+      "term": "dividend",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mlb",
+      "term": "rajasthan royals vs mumbai indians match scorecard",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "അമേരിക്ക",
+      "term": "rr बनाम mi",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "హౌసింగ్",
+      "term": "marta kostyuk",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "രാജ്യസഭ",
+      "term": "सूर्य कांत",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "റദ്ദാക്കി",
+      "term": "స్టాక్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "കേരള",
+      "term": "the odyssey",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "কালবৈশাখী",
+      "term": "मुकेश अंबानी",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
