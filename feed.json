@@ -1,13 +1,237 @@
 {
-  "generated_at": "2026-05-23T12:00:55.461983+00:00",
+  "generated_at": "2026-05-24T05:55:12.025400+00:00",
   "owned_count": 10,
-  "competitor_count": 16,
+  "competitor_count": 15,
   "industry_count": 177,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "3e22c047a95b",
+      "title": "5 Chic Jeans and Top Combos Everyone Will Be Wearing This Summer",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/summer-jeans-and-top-outfits-2026",
+      "summary": "An essential outfit formula.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-05-24T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4c3cf077a241",
+      "title": "Why label Indian youth as Pakistani? Cockroach party reacts to minister's post",
+      "link": "https://www.indiatoday.in/india/story/cockroach-janta-party-founder-abhijeet-dipke-rebuts-kiren-rijiju-pakistan-claim-2916151-2026-05-24?utm_source=rss",
+      "summary": "Why label Indian youth as Pakistani? Cockroach party reacts to minister's post",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Why label Indian youth as Pakistani? Cockroach party reacts to ministe...",
+      "score": 1,
+      "published": "2026-05-24T03:57:29+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "12481c2fd7c4",
+      "title": "The 2026 Cannes Film Festival Red Carpet Was Full of Sartorial Homages",
+      "link": "https://www.harpersbazaar.com/celebrity/red-carpet-dresses/a71392947/2026-cannes-film-festival-red-carpet-sartorial-homages-photos/",
+      "summary": "A Princess Diana tribute, Jane Birkin nod, and more",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 0,
+      "published": "2026-05-23T21:47:20+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6c4ccba9d025",
+      "title": "Beauty Marks: The Best Beauty Looks of the Week",
+      "link": "https://www.vogue.com/slideshow/beauty-marks-the-best-beauty-looks-of-the-week-may-23",
+      "summary": "Another week of Cannes Film Festival and the cruise 2027 shows brought out beauty looks that made the most of the brief summer sun.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Beauty Marks: The Best Beauty Looks of the Week...",
+      "score": 2,
+      "published": "2026-05-23T20:57:10+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "780a051a8d7c",
+      "title": "All the Winners From Cannes 2026",
+      "link": "https://www.vogue.com/article/cannes-film-festival-2026-winners",
+      "summary": "As the 79th edition of the Cannes Film Festival comes to a close, here’s who took home the top prizes. See the full Cannes Film Festival winners’ list, here.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: All the Winners From Cannes 2026...",
+      "score": 0,
+      "published": "2026-05-23T19:49:02+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d4964b3ebd0a",
+      "title": "2026 Palme d’Or Winner ‘Fjord,’ Starring Renate Reinsve, Is a Gripping, Urgent Watch",
+      "link": "https://www.vogue.com/article/2026-palme-dor-winner-fjord-is-a-gripping-urgent-watch",
+      "summary": "Cristian Mungiu’s latest must-see, starring the “Sentimental Value” star opposite an unrecognizable Sebastian Stan, took the top prize at this year’s Cannes Film Festival. Here’s the Vogue review.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: 2026 Palme d’Or Winner ‘Fjord,’ Starring Renate Reinsve, Is a Gripping...",
+      "score": 0,
+      "published": "2026-05-23T19:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "df1bac9d0798",
+      "title": "Miley Cyrus Celebrates Her Hollywood Walk of Fame Star in a ‘Fierce and Fabulous’ Naked Dress",
+      "link": "https://www.vogue.com/article/miley-cyrus-hollywood-walk-of-fame-star-versace",
+      "summary": "For the unveiling of her star, Miley Cyrus had Donatella Versace handpick her Atelier Versace fall 2015 gown—an outfit for a rock star of any era.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Miley Cyrus Celebrates Her Hollywood Walk of Fame Star in a ‘Fierce an...",
+      "score": 3,
+      "published": "2026-05-23T19:12:43+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2a0dc91a1f34",
+      "title": "All of Demi Moore’s Show-Stopping Cannes Film Festival Looks",
+      "link": "https://www.harpersbazaar.com/celebrity/red-carpet-dresses/a71392716/every-demi-moore-look-cannes-film-festival-2026-red-carpet-photos/",
+      "summary": "Including her latest sky-blue pillow sleeves",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: All of Demi Moore’s Show-Stopping Cannes Film Festival Looks...",
+      "score": 1,
+      "published": "2026-05-23T18:55:22+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d3965643f68a",
+      "title": "Anya Taylor-Joy Is Dripping in Fringe in Her Sparkly Bob Mackie Minidress",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a71392491/anya-taylor-joy-bob-mackie-minidress-miley-cyrus-hollywood-walk-of-fame-ceremony-photos/",
+      "summary": "The actor attends Miley Cyrus’s Hollywood Walk of Fame ceremony",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Anya Taylor-Joy Is Dripping in Fringe in Her Sparkly Bob Mackie Minidr...",
+      "score": 1,
+      "published": "2026-05-23T16:11:41+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6df6f450fe8e",
+      "title": "American Ballet Theatre’s Stylish Spring Gala Honored Katie Holmes",
+      "link": "https://www.vogue.com/slideshow/american-ballet-theatre-spring-gala-2026",
+      "summary": "There was plenty to celebrate at American Ballet Theatre’s Spring Gala at Cipriani 42nd Street this week. The evening honored Katie Holmes, a longtime supporter of the company, while also offering a preview of artistic director Susan Jaffe’s newly staged Don Quixote ahead of its debut this season at the Metropolitan Op",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: American Ballet Theatre’s Stylish Spring Gala Honored Katie Holmes...",
+      "score": 1,
+      "published": "2026-05-23T15:52:01+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e901f102a53e",
+      "title": "Taylor Swift Adds to Her Ever-Growing Collection of Little Black Dresses at Dinner With Travis Kelce",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a71392255/taylor-swift-travis-kelce-new-york-city-date-night-style-little-black-dress-valentino-printed-shirt-photos/",
+      "summary": "The pair gives us more of their quintessential couple style",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 3,
+      "published": "2026-05-23T15:33:16+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "41c499c234f2",
+      "title": "Miley Cyrus Celebrates Her Hollywood Walk of Fame Star in a Decaying Versace Gown",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a71392057/miley-cyrus-hollywood-walk-of-fame-star-ceremony-versace-couture-fall-2015-gown-photos/",
+      "summary": "So rockstar",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Miley Cyrus Celebrates Her Hollywood Walk of Fame Star in a Decaying V...",
+      "score": 1,
+      "published": "2026-05-23T14:18:24+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "390c3997c096",
+      "title": "A History of Kristen Stewart’s Rebellious Red Carpet Sneakers",
+      "link": "https://www.vogue.com/slideshow/kristen-stewart-red-carpet-sneakers-trend",
+      "summary": "From Cannes to Hollywood, the star has a history of rebuking stilettos in favor of sneakers on the red carpet.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 0,
+      "published": "2026-05-23T14:07:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dbabda66c941",
+      "title": "Anya Taylor-Joy Presents Naked Dressing’s Next Stage: The Naked Shoe",
+      "link": "https://www.vogue.com/article/anya-taylor-joy-naked-shoe",
+      "summary": "The actor honored Miley Cyrus at her Hollywood Walk of Fame ceremony, wearing the celebrity-loved sheer dress trend—paired with a similarly revealing shoe.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Anya Taylor-Joy Presents Naked Dressing’s Next Stage: The Naked Shoe...",
+      "score": 4,
+      "published": "2026-05-23T13:58:33+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7c2180192832",
+      "title": "Taylor Swift and Travis Kelce Navigate a Fashion Minimalist-Maximalist Relationship",
+      "link": "https://www.vogue.com/article/taylor-swift-and-travis-kelce-navigate-a-fashion-minimalist-maximalist-relationship",
+      "summary": "Stepping out for Italian food in New York City, Taylor Swift kept up her more pared back style beat, while menswear-head Travis Kelce stayed true to form.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Taylor Swift and Travis Kelce Navigate a Fashion Minimalist-Maximalist...",
+      "score": 4,
+      "published": "2026-05-23T13:35:55+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c0067b99d7c8",
+      "title": "I'm an Expert Shopper—I Saved $200 by Shopping the Nordstrom Half-Yearly Sale With These Chic Picks",
+      "link": "https://www.whowhatwear.com/fashion/shopping/chic-nordstrom-half-yearly-sale-picks-may-2026",
+      "summary": "Lace! Adidas Sneakers! Dresses!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm an Expert Shopper—I Saved $200 by Shopping the Nordstrom Half-Year...",
+      "score": 1,
+      "published": "2026-05-23T13:00:38+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "ff8e664e7c0b",
       "title": "ICYMI: Shein Acquires Everlane, Inside SCAD's 2026 Student Runway Show & Roberto Cavalli's New Owner",
@@ -793,20 +1017,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0da3f5338fcf",
-      "title": "Lessons from the Vogue Business Global Summit: Chantilly",
-      "link": "https://www.vogue.com/article/lessons-from-the-vogue-business-global-summit-chantilly",
-      "summary": "This year’s European Global Summit was held at the beautiful Château du Chantilly just outside of Paris. The two-day event saw industry leaders discuss the future of luxury, AI, and new growth markets.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Lessons from the Vogue Business Global Summit: Chantilly...",
-      "score": 1,
-      "published": "2026-05-22T14:55:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "463f53d1a172",
       "title": "Prince William Says He’s Hoping for an Invite to Taylor Swift’s Wedding",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71385905/prince-william-wants-invite-attend-taylor-swift-wedding-comment-heart-breakfast-interview/",
@@ -832,62 +1042,6 @@
       "angle": "Fashion Intelligence: Nordstrom’s Half-Yearly Fashion Sale Deserves Your Attention—Here’s Wh...",
       "score": 2,
       "published": "2026-05-22T14:29:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d7b85e46fb46",
-      "title": "Not Even Timothée Chalamet Can Resist the Siren Song of Mini Uggs.",
-      "link": "https://www.vogue.com/article/timothee-chalamet-mini-uggs-knicks-game-2",
-      "summary": "Amongst the celebrity set, Uggs are a beloved companion for long days on set, traveling, and backstage. Now, Timothée Chalamet is bringing the coziness courtside.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Not Even Timothée Chalamet Can Resist the Siren Song of Mini Uggs....",
-      "score": 1,
-      "published": "2026-05-22T14:28:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8ae2c0a9aaf4",
-      "title": "Shein Finally Confirms Everlane Sale",
-      "link": "https://www.vogue.com/article/shein-finally-confirms-everlane-sale",
-      "summary": "Shein will buy the majority stake in Everlane from L Catterton for an undisclosed amount, pending approval. Everlane employees were officially informed today.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Shein Finally Confirms Everlane Sale...",
-      "score": 0,
-      "published": "2026-05-22T14:22:06+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8dbd8511bc65",
-      "title": "Radiant Cut Engagement Rings: What to Know About the Sparkling Stone",
-      "link": "https://www.vogue.com/article/radiant-cut-engagement-rings-guide",
-      "summary": "Radiant cut engagement rings are one of the sparkliest of diamond shapes. Here, experts break down everything to know about this rectangular stone.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Fashion Intelligence: Radiant Cut Engagement Rings: What to Know About the Sparkling Stone...",
-      "score": 0,
-      "published": "2026-05-22T14:13:26+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fc802a0615ed",
-      "title": "Behind the scenes at the Vogue Business Global Summit: Chantilly",
-      "link": "https://www.vogue.com/slideshow/behind-the-scenes-at-the-vogue-business-global-summit-chantilly",
-      "summary": "This year’s European Global Summit was held at the beautiful Château du Chantilly just outside of Paris. The two-day event saw industry leaders discuss the future of luxury, AI, and new growth markets.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Behind the scenes at the Vogue Business Global Summit: Chantilly...",
-      "score": 1,
-      "published": "2026-05-22T14:01:48+00:00",
       "discovered_via": "feed"
     },
     {
@@ -933,20 +1087,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "dfbc47e71b78",
-      "title": "How Celebrities Style Burberry’s Iconic Check Print",
-      "link": "https://www.vogue.com/article/burberry-print-styling",
-      "summary": "Steeped in ’90s and early-aughts nostalgia, the heritage print endures today as a symbol of British cool.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Art & Craft",
-      "angle": "Fashion Intelligence: How Celebrities Style Burberry’s Iconic Check Print...",
-      "score": 1,
-      "published": "2026-05-22T13:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b2badead43d7",
       "title": "Inside Fashion’s 'Niche Cool Girl' Obsession",
       "link": "https://fashionista.com/2026/05/niche-cool-girl-indie-fashion-trend-tiktok",
@@ -958,20 +1098,6 @@
       "angle": "Fashion Intelligence: Inside Fashion’s 'Niche Cool Girl' Obsession...",
       "score": 3,
       "published": "2026-05-22T12:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "646035e93c5b",
-      "title": "Missoni Group Completes Ownership Restructure",
-      "link": "https://www.vogue.com/article/missoni-group-completes-ownership-restructure",
-      "summary": "Ownership of the Italian brand will be split between growth equity group FSI and Katjes Quiet Luxury.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Missoni Group Completes Ownership Restructure...",
-      "score": 2,
-      "published": "2026-05-22T12:10:45+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1059,20 +1185,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "218ca7484614",
-      "title": "Has Demi Moore Finally Chopped Her Famous Hair?",
-      "link": "https://www.vogue.com/article/demi-moore-bob",
-      "summary": "The Cannes Film Festival jury member has let her hip-length raven locks fly free all week on the Croisette. Now, Demi Moore is sporting a soft new lob.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Has Demi Moore Finally Chopped Her Famous Hair?...",
-      "score": 0,
-      "published": "2026-05-22T11:14:54+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "337f715915c1",
       "title": "The Heatwave Is Here, And Pool-Glazed Nails Are All I Want to Wear This Summer",
       "link": "https://www.whowhatwear.com/beauty/nails/blue-chrome-nails",
@@ -1129,20 +1241,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6c37d131778e",
-      "title": "Colorful Shoes! Woven Bags! Tankinis! 7 Fun Trends to Shop for Summer",
-      "link": "https://www.whowhatwear.com/fashion/shopping/fun-trends-summer-2026",
-      "summary": "Shop playful pieces.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-22T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "248a00f90975",
       "title": "I'm a Stylist, and This Is the One Runway Trend I'll Be Wearing and Styling All Summer",
       "link": "https://www.whowhatwear.com/fashion/trends/asymmetric-outfit-trend-2026-brie-welch",
@@ -1166,6 +1264,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-05-22T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6c37d131778e",
+      "title": "Colorful Shoes! Woven Bags! Tankinis! 7 Fun Trends to Shop for Summer",
+      "link": "https://www.whowhatwear.com/fashion/shopping/fun-trends-summer-2026",
+      "summary": "Shop playful pieces.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-05-22T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1196,34 +1308,6 @@
       "angle": "Fashion Intelligence: I'm Living in Dresses This Heatwave—12 Zara, H&M and COS Styles That A...",
       "score": 2,
       "published": "2026-05-22T05:50:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8daeb231cc37",
-      "title": "It Girls Around the Globe Know These 5 Trends Are the Key to Undeniably Chic Outfits This Summer",
-      "link": "https://www.whowhatwear.com/fashion/summer/summer-trends-by-city-2026",
-      "summary": "From Paris to New York.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-05-22T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7e000a120358",
-      "title": "I'm Calling It: These 5 Nail Colors Will Be Spotted at Every Wedding in 2026",
-      "link": "https://www.whowhatwear.com/beauty/nails/wedding-nail-colors-ideas",
-      "summary": "Bridal season's chicest shades.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: I'm Calling It — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-05-22T04:20:52+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1280,20 +1364,6 @@
       "angle": "Fashion Intelligence: They Didn’t Win Survivor, but They Booked The White Lotus...",
       "score": 1,
       "published": "2026-05-21T21:04:20+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d40571d70795",
-      "title": "37 Summer Staples Every It Girl Will Undoubtedly Have in Their Wardrobes This Season",
-      "link": "https://www.whowhatwear.com/fashion/summer/summer-2026-wardrobe-staples",
-      "summary": "I'm not saying you need these, but… you need these.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-21T20:23:21+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1549,62 +1619,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "650e4d0f93e4",
-      "title": "Alex Consani Gets So Real About Her Unexpected Dating Types",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a71368658/alex-consani-reveals-her-dating-type-checklist-cover-interview/",
-      "summary": "“European soccer player. Female firefighter. Chef,” to name a few.",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Alex Consani Gets So Real About Her Unexpected Dating Types...",
-      "score": 0,
-      "published": "2026-05-21T12:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cc2f189fa4f3",
-      "title": "Alex Consani Says Trans People Have a “Really Beautiful Connection,” Even in the Face of Trump’s America",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a71368648/alex-consani-trans-connection-rights-donald-trump-administration-quotes-cover-interview/",
-      "summary": "“Whether you’re Black and trans, white and trans, rich or poor, you’re still trans”",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Alex Consani Says Trans People Have a “Really Beautiful Connection,” E...",
-      "score": 0,
-      "published": "2026-05-21T12:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4858b57a46d9",
-      "title": "Samira Nasr’s Summer Editor’s Letter: On Freedom",
-      "link": "https://www.harpersbazaar.com/culture/a71294372/samira-nasrs-summer-editors-letter-on-freedom/",
-      "summary": "Bazaar celebrates the country's 250th birthday with the help of cover girl Alex Consani",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Samira Nasr’s Summer Editor’s Letter: On Freedom...",
-      "score": 0,
-      "published": "2026-05-21T12:07:19+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "dead2466545e",
-      "title": "Alex Consani Is Having More Fun Than Anyone in Fashion",
-      "link": "https://www.harpersbazaar.com/culture/film-tv/a71270350/alex-consani-supermodel-interview-2026/",
-      "summary": "She was a bored teenager in the suburbs during Covid, making TikTok videos to keep herself amused. Now she is one of the world’s most famous supermodels, trying her hand at acting, moving into her big-girl home, and entering her “experimental era.”",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Alex Consani Is Having More Fun Than Anyone in Fashion...",
-      "score": 2,
-      "published": "2026-05-21T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6aaddd0fbe9d",
       "title": "Kaia Gerber & RE/DONE Make Denim Feel Personal",
       "link": "https://www.fashiongonerogue.com/story/kaia-gerber-redone-short-cuts/",
@@ -1658,20 +1672,6 @@
       "angle": "Fashion Intelligence: Zara’s Summer Wardrobe Looks Like a Vacation Dream...",
       "score": 1,
       "published": "2026-05-20T22:27:45+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b3ba6bb6f535",
-      "title": "The 10 Best Firming Neck Creams, According to Dermatologists",
-      "link": "https://www.harpersbazaar.com/beauty/skin-care/g71353751/best-neck-creams-for-mature-skin/",
-      "summary": "Who says your skin routine ends at the chin?",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The 10 Best Firming Neck Creams, According to Dermatologists...",
-      "score": 0,
-      "published": "2026-05-20T22:03:53+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2697,20 +2697,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "97f1cc3398d7",
-      "title": "Pathani Suit vs Kurta Pajama: What Should Men Wear for Weddings and Festivals?",
-      "link": "https://www.indianclothstore.com/blog/pathani-suit-vs-kurta-pajama-wedding-india",
-      "summary": "A pathani suit is a great choice if you want a strong, robust look with a hint of modernity. A kurta pajama is a classic and well-liked garment for weddings and festivities. A white kurta pajama for guys is great for daytime events or when you don&#8217;t want to style it too much. Both outfits are rooted in Indian tra",
-      "source": "Indian Cloth Store",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Pathani Suit vs Kurta Pajama — A Complete Style Guide",
-      "score": 5,
-      "published": "2026-03-24T13:01:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "aa73ca7fb5c1",
       "title": "Dressed for the Diwaniya: 7 Dresses to Wear at a Private Majlis",
       "link": "https://www.azafashions.com/blog/private-majlis-dress-ideas/?utm_source=rss&utm_medium=rss&utm_campaign=private-majlis-dress-ideas",
@@ -2853,52 +2839,52 @@
   ],
   "trends": [
     {
-      "term": "सीएनबीसी",
+      "term": "प्राजक्ता माळी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "university of kashmir",
+      "term": "శ్రేయాస్ అయ్యర్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "raghav chadha",
+      "term": "শান্তনু সেন",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "iphone 18 pro rumors",
+      "term": "രാഷ്ട്രീയം",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ఎంసెట్",
+      "term": "openai",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "বৃষ্টি",
+      "term": "cyprus",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kashmir university",
+      "term": "फाल्टा चुनाव परिणाम 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "പിണറായി വിജയന്",
+      "term": "tirupati",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "weather jaipur",
+      "term": "शिवसेना (उद्धव बाळासाहेब ठाकरे)",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "అరవ శ్రీధర్",
+      "term": "meenakshi madan rai",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
