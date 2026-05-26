@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-26T05:59:54.461529+00:00",
+  "generated_at": "2026-05-26T08:32:42.184555+00:00",
   "owned_count": 10,
   "competitor_count": 15,
-  "industry_count": 174,
+  "industry_count": 176,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,91 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Huishan Zhang Resort 2027...",
       "score": 0,
-      "published": "2026-05-26T05:56:22+00:00",
+      "published": "2026-05-26T08:30:45+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "187ec66c50b6",
+      "title": "Twisha's mother-in-law Giribala Singh demanded Rs 2 lakh during wedding: FIR",
+      "link": "https://www.indiatoday.in/india/story/twisha-sharma-death-case-fir-dowry-harassment-abortion-pressure-whatsapp-calls-2917218-2026-05-26?utm_source=rss",
+      "summary": "Twisha's mother-in-law Giribala Singh demanded Rs 2 lakh during wedding: FIR",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Twisha's mother-in-law Giribala Singh demanded Rs 2 lakh during wedding — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-05-26T07:12:41+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b0b1f8baf227",
+      "title": "This Ultra-Affordable Beauty Brand Is My One-Stop Shop for Everything From Skincare to Fragrance",
+      "link": "https://www.whowhatwear.com/beauty/skin/dime-beauty-review",
+      "summary": "I'm hooked, and it's too good to gatekeep.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: This Ultra-Affordable Beauty Brand Is My One-Stop Shop for Everything ...",
+      "score": 2,
+      "published": "2026-05-26T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "540df83d3f16",
+      "title": "I Asked Gen Zers What They're Wearing This Summer—These Trends Came Up Every Time",
+      "link": "https://www.whowhatwear.com/fashion/summer/gen-z-summer-trends-2026",
+      "summary": "Read this if you want to be cool.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-05-26T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2837387f2049",
+      "title": "This Designer Bride Made All Her Own Dresses – And Her Handbag! – For Her Palermo Wedding",
+      "link": "https://www.vogue.com/slideshow/georgie-wright-and-charles-forte-wedding",
+      "summary": "Designer Georgie Wright—co-founder of the cult handbag brand The Veil with Adwoa Aboah—overlooked no detail of her Italian wedding weekend with Charles Forte, vice president of development at Rocco Forte Hotels.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: This Designer Bride Made All Her Own Dresses – And Her Handbag! – For Her Palermo Wedding — A Complete Style Guide",
+      "score": 4,
+      "published": "2026-05-26T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bd8cadad15fe",
+      "title": "It's Official: This Is the Chicest Way to Wear Short Nails",
+      "link": "https://www.whowhatwear.com/beauty/nails/short-almond-nails-designs",
+      "summary": "Ready for your next manicure?",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: It's Official: This Is the Chicest Way to Wear Short Nails...",
+      "score": 1,
+      "published": "2026-05-26T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "105ffffe6e08",
+      "title": "Trust Me, These 6 Beauty Trends Will Be Making a Huge Comeback This Summer",
+      "link": "https://www.whowhatwear.com/beauty/summer-beauty-trends-making-a-comeback-2026",
+      "summary": "They're never gone for long.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-05-26T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -38,30 +122,16 @@
     },
     {
       "id": "9326eb2c5102",
-      "title": "In rare gesture, groom's family insures whole village during wedding",
+      "title": "Maharashtra groom insures entire village at his wedding",
       "link": "https://www.indiatoday.in/india/maharashtra/story/nanded-wedding-pethkar-family-insures-3500-bahadurpura-villagers-2917123-2026-05-26?utm_source=rss",
-      "summary": "In rare gesture, groom's family insures whole village during wedding",
+      "summary": "Maharashtra groom insures entire village at his wedding",
       "source": "India Today Fashion",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: In rare gesture, groom's family insures whole village during wedding — A Complete Style Guide",
+      "angle": "Bridal Edit: Maharashtra groom insures entire village at his wedding — A Complete Style Guide",
       "score": 1,
       "published": "2026-05-26T05:24:10+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fb61e8e9625f",
-      "title": "It's Officially Blouse Season—13 Zara Styles That Will Make Every Summer Outfit Instantly Chicer",
-      "link": "https://www.whowhatwear.com/fashion/affordable/best-zara-summer-blouses-2026",
-      "summary": "Everyone will think they're designer.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 4,
-      "published": "2026-05-26T05:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,6 +145,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Mark My Words—These Are the 7 Luxury Basics Worth Investing In for an ...",
       "score": 1,
+      "published": "2026-05-26T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fb61e8e9625f",
+      "title": "It's Officially Blouse Season—13 Zara Styles That Will Make Every Summer Outfit Instantly Chicer",
+      "link": "https://www.whowhatwear.com/fashion/affordable/best-zara-summer-blouses-2026",
+      "summary": "Everyone will think they're designer.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
       "published": "2026-05-26T05:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -104,20 +188,6 @@
       "angle": "Fashion Intelligence: Which Brand Will Win the World Cup?...",
       "score": 1,
       "published": "2026-05-26T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "605a403e5eb5",
-      "title": "Live: Siddaramaiah's breakfast meet with MLAs in show of strength vs Shivakumar",
-      "link": "https://www.indiatoday.in/india/karnataka/story/karnataka-leadership-change-buzz-live-updates-siddaramaiah-shivakumar-cm-post-power-tussle-meeting-congress-high-command-kharge-rahul-gandhi-delhi-2917073-2026-05-26?utm_source=rss",
-      "summary": "Live: Siddaramaiah's breakfast meet with MLAs in show of strength vs Shivakumar",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Live: Siddaramaiah's breakfast meet with MLAs in show of strength vs S...",
-      "score": 1,
-      "published": "2026-05-26T03:30:05+00:00",
       "discovered_via": "feed"
     },
     {
@@ -653,20 +723,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6c42164779e7",
-      "title": "The Very Best Travel Sneakers, According to Vogue Editors",
-      "link": "https://www.vogue.com/article/best-travel-sneakers",
-      "summary": "From retro runners to comfortable walking shoes, these are the best travel sneakers on the market, according to Vogue editors.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Very Best Travel Sneakers, According to Vogue Editors...",
-      "score": 0,
-      "published": "2026-05-24T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2d533f523aef",
       "title": "Five Whirlwind Days in Italy, at and Beyond the Venice Biennale",
       "link": "https://www.vogue.com/article/five-whirlwind-days-2026-venice-biennale",
@@ -676,6 +732,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Five Whirlwind Days in Italy, at and Beyond the Venice Biennale...",
+      "score": 0,
+      "published": "2026-05-24T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6c42164779e7",
+      "title": "The Very Best Travel Sneakers, According to Vogue Editors",
+      "link": "https://www.vogue.com/article/best-travel-sneakers",
+      "summary": "From retro runners to comfortable walking shoes, these are the best travel sneakers on the market, according to Vogue editors.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Very Best Travel Sneakers, According to Vogue Editors...",
       "score": 0,
       "published": "2026-05-24T10:00:00+00:00",
       "discovered_via": "feed"
@@ -751,6 +821,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "78dbc69ace3c",
+      "title": "My Summer Uniform Centers Around Skirts and Dresses—39 Fresh Styles I Can't Wait to Buy",
+      "link": "https://www.whowhatwear.com/fashion/shopping/skirts-dresses-summer-2026",
+      "summary": "From Cou Cou, Faithfull, J.Crew, Leset, Rixo, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: My Summer Uniform Centers Around Skirts and Dresses—39 Fresh Styles I ...",
+      "score": 2,
+      "published": "2026-05-24T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e3e90b7b6619",
+      "title": "Who What Wear Editors Told Me Their 20 Best Fashion Finds This Month",
+      "link": "https://www.whowhatwear.com/fashion/best-editor-fashion-items-june-2026",
+      "summary": "Shop the edit.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Who What Wear Editors Told Me Their 20 Best Fashion Finds This Month...",
+      "score": 2,
+      "published": "2026-05-24T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "942fd2b59f5a",
       "title": "Goodbye, Boring Outfits—the Playful Trend Taking Over Our Summer 2026 Wardrobes",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-fringe-fashion",
@@ -779,34 +877,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e3e90b7b6619",
-      "title": "Who What Wear Editors Told Me Their 20 Best Fashion Finds This Month",
-      "link": "https://www.whowhatwear.com/fashion/best-editor-fashion-items-june-2026",
-      "summary": "Shop the edit.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Who What Wear Editors Told Me Their 20 Best Fashion Finds This Month...",
-      "score": 2,
-      "published": "2026-05-24T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "78dbc69ace3c",
-      "title": "My Summer Uniform Centers Around Skirts and Dresses—39 Fresh Styles I Can't Wait to Buy",
-      "link": "https://www.whowhatwear.com/fashion/shopping/skirts-dresses-summer-2026",
-      "summary": "From Cou Cou, Faithfull, J.Crew, Leset, Rixo, and more.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: My Summer Uniform Centers Around Skirts and Dresses—39 Fresh Styles I ...",
-      "score": 2,
-      "published": "2026-05-24T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "cb92ccba322f",
       "title": "Italian Women are the Chicest Dressers Around—17 Items They'd Choose from Zara's Latest Drop",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-zara-italian-girl-items-2026",
@@ -818,20 +888,6 @@
       "angle": "Fashion Intelligence: Italian Women are the Chicest Dressers Around—17 Items They'd Choose f...",
       "score": 1,
       "published": "2026-05-24T06:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8f1d63bd1ebf",
-      "title": "Benvenuti in Sardegna! Mytheresa and Dolce & Gabbana Toasted Their Latest Collection in Porto Cervo",
-      "link": "https://www.vogue.com/slideshow/mytheresa-dolce-gabbana-porto-cervo",
-      "summary": "For the 10th annual Mytheresa x Dolce & Gabbana sojourn in ‘the boot,’ it was time to welcome friends of both brands to join them in Costa Smerelda, Sardinia, to put the new Porto Cervo-inspired capsule to the test.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 2,
-      "published": "2026-05-24T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1014,34 +1070,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-05-23T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8f8fdb6134ec",
-      "title": "The Heatwave Is Here—27 Expensive-Looking High-Street Dresses You’ll See All Over Europe This Summer",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-expensive-looking-summer-dresses-2026",
-      "summary": "Sweat-proof and elegant.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Heatwave Is Here—27 Expensive-Looking High-Street Dresses You’ll S...",
-      "score": 1,
-      "published": "2026-05-23T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "df1233f1f824",
-      "title": "No Skinny Jeans Here—European It Girls Know These 4 Trouser Trends Are the Key to Fashionable Outfits",
-      "link": "https://www.whowhatwear.com/fashion/trends/european-fashion-trouser-trends-2026",
-      "summary": "Modern and cool styles.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 4,
-      "published": "2026-05-23T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2797,52 +2825,52 @@
   ],
   "trends": [
     {
-      "term": "राहुल गांधी",
+      "term": "சமுத்திரக்கனி",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "రోహిణి",
+      "term": "వెండి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "gas",
+      "term": "இசக்கி சுப்பையா",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "itc dividend record date",
+      "term": "ಸರಕಾರ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bts",
+      "term": "lottery sambad old",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "నందమూరి బాలకృష్ణ",
+      "term": "h 1b వీసా",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bakrid holiday 2026",
-      "summary": "",
-      "aza_category": "Occasion Dressing"
-    },
-    {
-      "term": "jsw cement share price",
+      "term": "ईरान",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "premier energies share price",
+      "term": "employees' provident fund organisation",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "wipro share",
+      "term": "सौर पैनल",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "ramakant dayama",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
