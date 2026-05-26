@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-26T08:32:42.184555+00:00",
+  "generated_at": "2026-05-26T13:55:13.500481+00:00",
   "owned_count": 10,
   "competitor_count": 15,
-  "industry_count": 176,
+  "industry_count": 174,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,21 +19,161 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Huishan Zhang Resort 2027...",
       "score": 0,
-      "published": "2026-05-26T08:30:45+00:00",
+      "published": "2026-05-26T13:53:01+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "187ec66c50b6",
-      "title": "Twisha's mother-in-law Giribala Singh demanded Rs 2 lakh during wedding: FIR",
-      "link": "https://www.indiatoday.in/india/story/twisha-sharma-death-case-fir-dowry-harassment-abortion-pressure-whatsapp-calls-2917218-2026-05-26?utm_source=rss",
-      "summary": "Twisha's mother-in-law Giribala Singh demanded Rs 2 lakh during wedding: FIR",
-      "source": "India Today Fashion",
+      "id": "b5246c083189",
+      "title": "The Vogue Business People Moves Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
+      "summary": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
+      "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Twisha's mother-in-law Giribala Singh demanded Rs 2 lakh during wedding — A Complete Style Guide",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Vogue Business People Moves Tracker...",
+      "score": 0,
+      "published": "2026-05-26T13:24:23+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "097dcf8199a1",
+      "title": "Not Flip Flops, Not Jelly Sandals—This Elegant Shoe Trend Makes Your Midi Skirt Look the Chicest",
+      "link": "https://www.whowhatwear.com/fashion/celebrity/alexa-chung-heeled-ballet-flat-midi-skirt-trend",
+      "summary": "The combo you need to know this summer.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
-      "published": "2026-05-26T07:12:41+00:00",
+      "published": "2026-05-26T12:32:56+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "128de2994dcb",
+      "title": "My Friend Asked Me Which Shoes Look Best With Capri Pants—Without a Doubt, These Two Trends Work Best",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/shoes-and-capri-pants-outfits-elsa-hosk-2026",
+      "summary": "Tried and tested.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-05-26T12:09:43+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d1998d74e8fa",
+      "title": "Brunello Cucinelli’s Summer Eyewear is Road-Trip Glam",
+      "link": "https://www.fashiongonerogue.com/story/brunello-cucinelli-eyewear-summer-2026/",
+      "summary": "Brunello Cucinelli&#8217;s spring–summer 2026 eyewear collection combines luxury and practicality. The images take model Hazel Jane somewhere between a road ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Brunello Cucinelli’s Summer Eyewear is Road-Trip Glam...",
+      "score": 4,
+      "published": "2026-05-26T11:34:11+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1362afdc0553",
+      "title": "The Summer Wardrobe Shift Fashion People Always Return To",
+      "link": "https://www.whowhatwear.com/fashion/shopping/www-curates-tommy-hilfiger-summer-wardrobe-edit-2026",
+      "summary": "Because it's foolproof.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Summer Wardrobe Shift Fashion People Always Return To...",
+      "score": 1,
+      "published": "2026-05-26T10:58:53+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2982573a00a9",
+      "title": "A Rare Blue Moon Is Coming This Weekend—Here’s How It Affects Every Star Sign",
+      "link": "https://www.vogue.com/article/a-rare-blue-moon-is-coming-heres-how-it-will-affect-every-star-sign",
+      "summary": "This rare lunation, which next occurs in 2028, marks the culmination of the current lunar cycle—and harbors a mix of celestial extremes that make it electric.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: A Rare Blue Moon Is Coming This Weekend—Here’s How It Affects Every St...",
+      "score": 0,
+      "published": "2026-05-26T10:54:36+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bfda85cd816f",
+      "title": "On the Podcast: Vogue Editors Answer Your Summer Dressing Questions with Liana Satenstein",
+      "link": "https://www.vogue.com/article/on-the-podcast-vogue-editors-answer-your-summer-dressing-questions-with-liana-satenstein",
+      "summary": "On this Tuesday’s special episode of “The Run-Through,” Nicole and Chioma are joined by contributing writer and former Vogue staffer Liana Satenstein to talk through all of the most pressing summer-dressing questions.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: On the Podcast: Vogue Editors Answer Your Summer Dressing Questions wi...",
+      "score": 1,
+      "published": "2026-05-26T10:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "750601ae76cd",
+      "title": "Eight Truths About Long-Term Desire, According to Esther Perel’s ‘Mating in Captivity’",
+      "link": "https://www.vogue.com/article/eight-truths-about-long-term-desire-according-to-mating-in-captivity-esther-perel",
+      "summary": "From how to maintain desire in a long-term relationship to whether heightened intimacy always make for good sex, the renowned psychotherapist’s seminal work still feels fresh 20 years later.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Eight Truths About Long-Term Desire, According to Esther Perel’s ‘Mati...",
+      "score": 0,
+      "published": "2026-05-26T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dd72df611c6d",
+      "title": "Amoako Boafo Drew on Venice’s Rich Creative Heritage for His First Solo Show in Italy",
+      "link": "https://www.vogue.com/article/amoako-boafo-venice-biennale-2026",
+      "summary": "Produced by Gagosian, “Amoako Boafo: It doesn’t have to always make sense” opened this May at the Museo di Palazzo Grimani during the 61st Venice Biennale and is on view through November 22.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
+      "score": 1,
+      "published": "2026-05-26T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "140c2a7d4ab5",
+      "title": "Now Boarding: Here's Everything I'm Packing for 5 Days in Miami as an NYC Fashion Editor",
+      "link": "https://www.whowhatwear.com/fashion/shopping/fashion-editor-approved-miami-trip-packing-list-summer-2026",
+      "summary": "Flirty bikinis, Reformation dresses, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Now Boarding: Here's Everything I'm Packing for 5 Days in Miami as an ...",
+      "score": 2,
+      "published": "2026-05-26T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dc3cccf5960d",
+      "title": "Not Flip-Flops or Fisherman's—This “Dated” Shoe Trend Looks Chicest With White Dresses",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/white-dress-raffia-wedge-outfit-jennifer-lopez-2026",
+      "summary": "Elegant every time.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-05-26T09:41:42+00:00",
       "discovered_via": "feed"
     },
     {
@@ -66,14 +206,14 @@
     },
     {
       "id": "2837387f2049",
-      "title": "This Designer Bride Made All Her Own Dresses – And Her Handbag! – For Her Palermo Wedding",
+      "title": "This Designer Bride Made All Her Own Dresses—and Her Handbag—for Her Sicilian Wedding",
       "link": "https://www.vogue.com/slideshow/georgie-wright-and-charles-forte-wedding",
       "summary": "Designer Georgie Wright—co-founder of the cult handbag brand The Veil with Adwoa Aboah—overlooked no detail of her Italian wedding weekend with Charles Forte, vice president of development at Rocco Forte Hotels.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: This Designer Bride Made All Her Own Dresses – And Her Handbag! – For Her Palermo Wedding — A Complete Style Guide",
+      "angle": "Bridal Edit: This Designer Bride Made All Her Own Dresses—and Her Handbag—for Her Sicilian Wedding — A Complete Style Guide",
       "score": 4,
       "published": "2026-05-26T06:00:00+00:00",
       "discovered_via": "feed"
@@ -121,17 +261,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9326eb2c5102",
-      "title": "Maharashtra groom insures entire village at his wedding",
-      "link": "https://www.indiatoday.in/india/maharashtra/story/nanded-wedding-pethkar-family-insures-3500-bahadurpura-villagers-2917123-2026-05-26?utm_source=rss",
-      "summary": "Maharashtra groom insures entire village at his wedding",
-      "source": "India Today Fashion",
+      "id": "fb61e8e9625f",
+      "title": "It's Officially Blouse Season—13 Zara Styles That Will Make Every Summer Outfit Instantly Chicer",
+      "link": "https://www.whowhatwear.com/fashion/affordable/best-zara-summer-blouses-2026",
+      "summary": "Everyone will think they're designer.",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Maharashtra groom insures entire village at his wedding — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-05-26T05:24:10+00:00",
+      "aza_category": "Designer Spotlight",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
+      "published": "2026-05-26T05:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -145,20 +285,6 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Mark My Words—These Are the 7 Luxury Basics Worth Investing In for an ...",
       "score": 1,
-      "published": "2026-05-26T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fb61e8e9625f",
-      "title": "It's Officially Blouse Season—13 Zara Styles That Will Make Every Summer Outfit Instantly Chicer",
-      "link": "https://www.whowhatwear.com/fashion/affordable/best-zara-summer-blouses-2026",
-      "summary": "Everyone will think they're designer.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 4,
       "published": "2026-05-26T05:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -360,14 +486,14 @@
     },
     {
       "id": "d833ace124bb",
-      "title": "Mango’s New Swimwear Had Vacation Written All Over It",
+      "title": "Mango’s New Swimwear Has Vacation Written All Over It",
       "link": "https://www.fashiongonerogue.com/story/mango-swimwear-2026/",
       "summary": "Mango&#8217;s 2026 swimwear collection lands on a stretch of coast that feels like the edge of the world. Shot against ... Source",
       "source": "Fashion Gone Rogue",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Mango’s New Swimwear Had Vacation Written All Over It...",
+      "angle": "Fashion Intelligence: Mango’s New Swimwear Has Vacation Written All Over It...",
       "score": 2,
       "published": "2026-05-25T10:39:36+00:00",
       "discovered_via": "feed"
@@ -429,20 +555,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d2114f2be55f",
-      "title": "5 Runway-Inspired Ways To Wear A Dress And Flip-Flops",
-      "link": "https://www.vogue.com/article/how-to-wear-dresses-and-flip-flops",
-      "summary": "Les tongs quittent le bord de mer et s'imposent sur les podiums du printemps-été 2026.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 5 Runway-Inspired Ways To Wear A Dress And Flip-Flops...",
-      "score": 3,
-      "published": "2026-05-25T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "781791eb72d1",
       "title": "How to Dress Like Daisy Edgar-Jones This Summer",
       "link": "https://www.vogue.com/article/how-to-dress-like-daisy-edgar-jones-this-summer",
@@ -452,6 +564,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: How to Dress Like Daisy Edgar-Jones This Summer...",
+      "score": 3,
+      "published": "2026-05-25T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d2114f2be55f",
+      "title": "5 Runway-Inspired Ways To Wear A Dress And Flip-Flops",
+      "link": "https://www.vogue.com/article/how-to-wear-dresses-and-flip-flops",
+      "summary": "Les tongs quittent le bord de mer et s'imposent sur les podiums du printemps-été 2026.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 5 Runway-Inspired Ways To Wear A Dress And Flip-Flops...",
       "score": 3,
       "published": "2026-05-25T10:00:00+00:00",
       "discovered_via": "feed"
@@ -695,20 +821,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d6a4c77cbfba",
-      "title": "From the Archives: The Romantic Englishwoman, Helena Bonham Carter",
-      "link": "https://www.vogue.com/article/from-the-archives-the-romantic-englishwoman",
-      "summary": "Spreading her wings: this month, Helena Bonham Carter takes on Henry James.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: From the Archives: The Romantic Englishwoman, Helena Bonham Carter...",
-      "score": 0,
-      "published": "2026-05-24T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "5f7b33da4df9",
       "title": "In L.A. and Paris, the Chicest Dressers Keep Coming Back to This Blouse, Jeans and Flat Shoe Summer Look",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/french-white-blouse-jeans-ballet-flats-kaia-gerber-2026",
@@ -720,62 +832,6 @@
       "angle": "Fashion Intelligence: In L.A. and Paris, the Chicest Dressers Keep Coming Back to This Blous...",
       "score": 1,
       "published": "2026-05-24T10:10:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2d533f523aef",
-      "title": "Five Whirlwind Days in Italy, at and Beyond the Venice Biennale",
-      "link": "https://www.vogue.com/article/five-whirlwind-days-2026-venice-biennale",
-      "summary": "An accounting of one writer’s jam-packed week in Venice—and a few tips for anyone plotting a similar trip.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Five Whirlwind Days in Italy, at and Beyond the Venice Biennale...",
-      "score": 0,
-      "published": "2026-05-24T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6c42164779e7",
-      "title": "The Very Best Travel Sneakers, According to Vogue Editors",
-      "link": "https://www.vogue.com/article/best-travel-sneakers",
-      "summary": "From retro runners to comfortable walking shoes, these are the best travel sneakers on the market, according to Vogue editors.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Very Best Travel Sneakers, According to Vogue Editors...",
-      "score": 0,
-      "published": "2026-05-24T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2162d8610a33",
-      "title": "37 of the Best Beach Reads to Lose Yourself in This Summer",
-      "link": "https://www.vogue.com/article/best-beach-reads",
-      "summary": "What exactly is it about a book that makes it deserve the “best beach read” designation? The real inherent quality: It satisfies.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 37 of the Best Beach Reads to Lose Yourself in This Summer...",
-      "score": 0,
-      "published": "2026-05-24T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f911588c67db",
-      "title": "12 of the Best ’90s Movies to Lose Yourself in This Weekend",
-      "link": "https://www.vogue.com/article/12-best-90s-movies-long-weekend",
-      "summary": "From Lynchian classics to Sofia Coppola fever dreams, here are the ’90s films worth watching—for the first or 10th time—today.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 12 of the Best ’90s Movies to Lose Yourself in This Weekend...",
-      "score": 0,
-      "published": "2026-05-24T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1003,20 +1059,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c0067b99d7c8",
-      "title": "I'm an Expert Shopper—I Saved $200 by Shopping the Nordstrom Half-Yearly Sale With These Chic Picks",
-      "link": "https://www.whowhatwear.com/fashion/shopping/chic-nordstrom-half-yearly-sale-picks-may-2026",
-      "summary": "Lace! Adidas Sneakers! Dresses!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm an Expert Shopper—I Saved $200 by Shopping the Nordstrom Half-Year...",
-      "score": 1,
-      "published": "2026-05-23T13:00:38+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ff8e664e7c0b",
       "title": "ICYMI: Shein Acquires Everlane, Inside SCAD's 2026 Student Runway Show & Roberto Cavalli's New Owner",
       "link": "https://fashionista.com/2026/05/fashion-news-you-need-to-know-may-23",
@@ -1028,48 +1070,6 @@
       "angle": "Fashion Intelligence: ICYMI: Shein Acquires Everlane, Inside SCAD's 2026 Student Runway Show...",
       "score": 2,
       "published": "2026-05-23T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2c1dc962ab01",
-      "title": "This Fashion Publicist Wore a Skirt Set From Sept for Her Beautiful South Florida Wedding",
-      "link": "https://www.whowhatwear.com/kelli-orihuela-and-chris-denci-wedding",
-      "summary": "See every detail.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: This Fashion Publicist Wore a Skirt Set From Sept for Her Beautiful South Florida Wedding — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-05-23T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bc372101276a",
-      "title": "My Closet Needs a Major Overhaul—These 27 Chic Items From Madewell, J.Crew, and Sézane Were Highly Effective",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-madewell-jcrew-sezane-finds-summer-2026",
-      "summary": "Cute jeans. Minidresses. Balloon pants.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: My Closet Needs a Major Overhaul—These 27 Chic Items From Madewell, J....",
-      "score": 1,
-      "published": "2026-05-23T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f6ea63e0fd3b",
-      "title": "Spotted in Cannes: The Elegant Shoe That Makes Your Simple Summer Dress Look Chicest",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/white-dress-black-pointed-toe-heels-outfit-eva-longoria-2026",
-      "summary": "Get to know.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-05-23T09:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1686,20 +1686,6 @@
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 4,
       "published": "2026-05-21T07:29:55+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7f9dbb8df93e",
-      "title": "Zara’s Summer Wardrobe Looks Like a Vacation Dream",
-      "link": "https://www.fashiongonerogue.com/story/zara-trf-summer-2026-pastels/",
-      "summary": "Zara TRF&#8217;s summer 2026 collection takes the heat seriously, sending Anna Goryainova through sun-drenched tropical locations in looks built around ... Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Zara’s Summer Wardrobe Looks Like a Vacation Dream...",
-      "score": 1,
-      "published": "2026-05-20T22:27:45+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2445,20 +2431,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "13478b4ba94e",
-      "title": "20 Best Men’s Colognes of All Time 2026",
-      "link": "https://www.fashionbeans.com/article/best-mens-fragrances-of-all-time/",
-      "summary": "There are hundreds of great men’s fragrances, but truly iconic ones are a sniff out of the ordinary. Among all the amazing eaus, there are probably fewer than 50 (in fact, there are 20, according to this list) that have survived fads and fashions to earn their place in the olfactory hall of fame. These &#8230; Continue",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: 20 Best Men’s Colognes of All Time 2026...",
-      "score": 1,
-      "published": "2026-05-06T10:41:58+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "581d8f69aec5",
       "title": "GUESS celebra Marilyn Monroe: la mostra al MUDEC e la capsule collection. Un progetto che unisce moda, fotografia e cultura contemporanea",
       "link": "https://www.theblondesalad.com/fashion/guess-celebra-marilyn-monroe-la-mostra-al-mudec-e-la-capsule-collection-un-progetto-che-unisce-moda-fotografia-e-cultura-contemporanea/",
@@ -2683,6 +2655,62 @@
       "discovered_via": "feed"
     },
     {
+      "id": "030249e4666d",
+      "title": "How to Care for Premium Ethnic Wear: Washing and Storage Guide",
+      "link": "https://www.azafashions.com/blog/how-to-care-for-premium-ethnic-wear-guide/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-care-for-premium-ethnic-wear-guide",
+      "summary": "Premium Indian ethnic wear silk sarees, embroidered lehengas, zari work, and velvet garments requires special care to maintain its beauty and extend its life. The most important rules are: never&#8230; The post How to Care for Premium Ethnic Wear: Washing and Storage Guide appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How to Care for Premium Ethnic Wear: Washing and Storage Guide...",
+      "score": 7,
+      "published": "2026-05-26T11:47:55+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d582b4ab5527",
+      "title": "South Indian Actress Fashion: Ethnic Style Inspiration for Indian Women",
+      "link": "https://www.azafashions.com/blog/south-indian-actress-fashion-ethnic-style-inspiration-indian-women/?utm_source=rss&utm_medium=rss&utm_campaign=south-indian-actress-fashion-ethnic-style-inspiration-indian-women",
+      "summary": "South Indian actresses are among the most elegantly dressed women in Indian cinema, known for wearing some of the most stunning ethnic wear on screen and off. From silk Kanjivaram&#8230; The post South Indian Actress Fashion: Ethnic Style Inspiration for Indian Women appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: South Indian Actress Fashion: Ethnic Style Inspiration for Indian Wome...",
+      "score": 6,
+      "published": "2026-05-26T11:26:30+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6e761fd97010",
+      "title": "The Eid ul-Adha 2026 Colour Edit: Pastels, Jewel Tones and Festive Metallics",
+      "link": "https://www.azafashions.com/blog/the-eid-ul-adha-2026-colour-edit-pastels-jewel-tones-and-festive-metallics/?utm_source=rss&utm_medium=rss&utm_campaign=the-eid-ul-adha-2026-colour-edit-pastels-jewel-tones-and-festive-metallics",
+      "summary": "Colour is one of the great joys of Eid dressing, setting the mood for everything from a quiet morning prayer to a lively evening feast. For Eid ul-Adha 2026, the&#8230; The post The Eid ul-Adha 2026 Colour Edit: Pastels, Jewel Tones and Festive Metallics appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 2,
+      "published": "2026-05-25T11:07:27+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "17200f37fd10",
+      "title": "Warm Skin Tone Fashion Guide: Best Ethnic Wear Colours for Indian Women",
+      "link": "https://www.azafashions.com/blog/warm-skin-tone-fashion-guide-best-ethnic-wear-colours-indian-women/?utm_source=rss&utm_medium=rss&utm_campaign=warm-skin-tone-fashion-guide-best-ethnic-wear-colours-indian-women",
+      "summary": "A warm skin tone has golden, peachy, or yellow undertones. If your veins look greenish, you tan easily, and gold jewellery flatters you more than silver you have a warm&#8230; The post Warm Skin Tone Fashion Guide: Best Ethnic Wear Colours for Indian Women appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Warm Skin Tone Fashion Guide: Best Ethnic Wear Colours for Indian Wome...",
+      "score": 4,
+      "published": "2026-05-25T11:07:04+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "3a6c797623ae",
       "title": "Which Colour to Wear on Which Day: Astrology Day-Wise Colour Guide",
       "link": "https://www.azafashions.com/blog/which-colour-to-wear-on-which-day-astrology-day-wise-colour-guide/?utm_source=rss&utm_medium=rss&utm_campaign=which-colour-to-wear-on-which-day-astrology-day-wise-colour-guide",
@@ -2765,112 +2793,56 @@
       "score": 2,
       "published": "2026-05-23T10:58:39+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "79374a6ef25f",
-      "title": "The Riyadh Ladies’ Night Wardrobe Starts with a Statement Gown",
-      "link": "https://www.azafashions.com/blog/riyadh-ladies-night-with-statement-gown/?utm_source=rss&utm_medium=rss&utm_campaign=riyadh-ladies-night-with-statement-gown",
-      "summary": "The air in the capital changes as the sun sets. Soft oud scents drift through the warm evening breeze, and modern Riyadh after dark comes alive with a distinct, quiet&#8230; The post The Riyadh Ladies’ Night Wardrobe Starts with a Statement Gown appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The Riyadh Ladies’ Night Wardrobe Starts with a Statement Gown...",
-      "score": 1,
-      "published": "2026-05-23T10:15:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "32da06924204",
-      "title": "Eid ul-Adha 2026: Your Complete Guide to Festive Dressing",
-      "link": "https://www.azafashions.com/blog/eid-ul-adha-2026-festive-dressing-guide/?utm_source=rss&utm_medium=rss&utm_campaign=eid-ul-adha-2026-festive-dressing-guide",
-      "summary": "Eid ul-Adha, the “Festival of Sacrifice,” is one of the most cherished occasions in the Islamic calendar — a time for prayer, togetherness, generosity, and of course, dressing in your&#8230; The post Eid ul-Adha 2026: Your Complete Guide to Festive Dressing appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 3,
-      "published": "2026-05-23T09:10:15+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "aa73ca7fb5c1",
-      "title": "Dressed for the Diwaniya: 7 Dresses to Wear at a Private Majlis",
-      "link": "https://www.azafashions.com/blog/private-majlis-dress-ideas/?utm_source=rss&utm_medium=rss&utm_campaign=private-majlis-dress-ideas",
-      "summary": "Behind the doors of a Saudi diwaniya, fashion becomes intimate. Free from&#160;stringent outdoor&#160;dress codes, women embrace&#160;flowing&#160;maxi dresses, rich textures, and quietly striking details. Outfits designed to move through hours of&#8230; The post Dressed for the Diwaniya: 7 Dresses to Wear at a Private",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Dressed for the Diwaniya: 7 Dresses to Wear at a Private Majlis...",
-      "score": 4,
-      "published": "2026-05-22T18:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d6d21a415577",
-      "title": "Cotton Kurta Sets for Women: Styling and Buying Guide",
-      "link": "https://www.azafashions.com/blog/cotton-kurta-sets-for-women-styling-buying-guide/?utm_source=rss&utm_medium=rss&utm_campaign=cotton-kurta-sets-for-women-styling-buying-guide",
-      "summary": "A cotton kurta set consists of a cotton kurta (long tunic) paired with coordinated bottoms straight pants, palazzo, dhoti pants, or a salwar and usually a matching or contrast dupatta.&#8230; The post Cotton Kurta Sets for Women: Styling and Buying Guide appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Cotton Kurta Sets for Women: Styling and Buying Guide...",
-      "score": 2,
-      "published": "2026-05-22T15:47:51+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "சமுத்திரக்கனி",
+      "term": "micron share price",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "వెండి",
+      "term": "ipl toss today",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "இசக்கி சுப்பையா",
+      "term": "jiostar",
+      "summary": "",
+      "aza_category": "Celebrity Style"
+    },
+    {
+      "term": "दिल्ली जिमखाना क्लब",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಸರಕಾರ",
+      "term": "rcb वि gt",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "lottery sambad old",
+      "term": "rcb વિ. gt",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "h 1b వీసా",
+      "term": "naomi osaka",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ईरान",
+      "term": "ssc gd",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "employees' provident fund organisation",
+      "term": "phil salt",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सौर पैनल",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "ramakant dayama",
+      "term": "yash dayal",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
