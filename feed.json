@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-27T06:10:42.417596+00:00",
+  "generated_at": "2026-05-27T08:39:39.342849+00:00",
   "owned_count": 10,
   "competitor_count": 15,
-  "industry_count": 174,
+  "industry_count": 178,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Fendi Resort 2027...",
       "score": 0,
-      "published": "2026-05-27T06:05:22+00:00",
+      "published": "2026-05-27T08:34:29+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Dsquared2 Resort 2027...",
       "score": 0,
-      "published": "2026-05-27T06:05:22+00:00",
+      "published": "2026-05-27T08:34:29+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Baum und Pferdgarten Resort 2027...",
       "score": 0,
-      "published": "2026-05-27T06:05:22+00:00",
+      "published": "2026-05-27T08:34:29+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +61,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Dsquared2 Resort 2027 Menswear...",
       "score": 2,
-      "published": "2026-05-27T06:05:22+00:00",
+      "published": "2026-05-27T08:34:29+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +75,161 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Blumarine Resort 2027...",
       "score": 0,
-      "published": "2026-05-27T06:05:22+00:00",
+      "published": "2026-05-27T08:34:29+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "389d80e0a2bb",
+      "title": "Ground Report: Wedding hall in Murshidabad now a holding centre for detainees",
+      "link": "https://www.indiatoday.in/india/story/west-bengal-deportation-bangladeshi-nationals-wedding-hall-murshidabad-now-holding-centre-for-detainees-2917811-2026-05-27?utm_source=rss",
+      "summary": "Ground Report: Wedding hall in Murshidabad now a holding centre for detainees",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Ground Report — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-05-27T08:14:08+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "42d179e7bf29",
+      "title": "​​From Bloat-Reducing Soda to Milky SPF—WWW Beauty Editors Told Me the Best Products They Tried in May",
+      "link": "https://www.whowhatwear.com/beauty/best-new-beauty-products-may-2026",
+      "summary": "Fifteen standout heroes.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: ​​From Bloat-Reducing Soda to Milky SPF—WWW Beauty Editors Told Me the...",
+      "score": 1,
+      "published": "2026-05-27T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b0c465026801",
+      "title": "I’ve Found Them—The 4 Pretty Blouse Trends Elegant Women Are Wearing With Jeans and Linen All Summer",
+      "link": "https://www.whowhatwear.com/fashion/shopping/summer-blouse-trends-2026",
+      "summary": "Lace! Ruffles! Linen!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-05-27T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "eec98877a5de",
+      "title": "Zara and H&M Just Dropped Designer-Looking Resortwear—These 9 Pieces Will Sell Out First",
+      "link": "https://www.whowhatwear.com/fashion/shopping/hm-zara-summer-collections-2026",
+      "summary": "The Amalfi coast is calling.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Zara and H&M Just Dropped Designer-Looking Resortwear—These 9 Pieces W...",
+      "score": 2,
+      "published": "2026-05-27T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b7eeb1b86187",
+      "title": "The Return of Casual Heels—Here's How Fashion People Are Styling Them With Laidback Outfits",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/casual-outfits-with-heels-2026",
+      "summary": "See the inspiration inside.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Return of Casual Heels—Here's How Fashion People Are Styling Them ...",
+      "score": 2,
+      "published": "2026-05-27T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "aa731e3f56e6",
+      "title": "The Chicest Way to Update Your Summer 2026 Outfits? These 7 New Jewelry Trends",
+      "link": "https://www.whowhatwear.com/fashion/jewelry/summer-jewelry-trends-2026",
+      "summary": "The fastest way to make your summer outfits feel current.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-05-27T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "091ec6f8851d",
+      "title": "This Is the Specific 7-Piece Summer 2026 Wardrobe I Tell Everyone to Wear (And All the Items Are at Nordstrom)",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/summer-capsule-wardrobe-nordstrom-2026",
+      "summary": "Staples. Period.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: This Is the Specific 7-Piece Summer 2026 Wardrobe I Tell Everyone to W...",
+      "score": 1,
+      "published": "2026-05-27T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6cf2b9b042e3",
+      "title": "These Under-$75 Tops Will Make Your Summer Outfits 10 Times Chicer, and They're on Sale at Nordstrom",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-tops-nordstrom-half-yearly-sale",
+      "summary": "Don't miss out.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: These Under-$75 Tops Will Make Your Summer Outfits 10 Times Chicer, an...",
+      "score": 1,
+      "published": "2026-05-27T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7e56efde9224",
+      "title": "If You Want to Level Up Your Baseball-Cap Outfits, Borrow These Looks From Kendall Jenner and Zoë Kravitz",
+      "link": "https://www.whowhatwear.com/fashion/baseball-cap-outfit-ideas",
+      "summary": "From the airport to the streets of New York.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: If You Want to Level Up Your Baseball-Cap Outfits, Borrow These Looks ...",
+      "score": 1,
+      "published": "2026-05-27T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "161c22db4f2f",
+      "title": "Sorry, Flip Flops— This \"Dated\" Footwear Trend is Taking Over Our Summer 2026 Wardrobes",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/summer-outfits-with-wedge-sandals-2026",
+      "summary": "The coolest footwear around.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-05-27T06:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7c6038a45a56",
+      "title": "I'm a Shopping Expert Whose Favourite Season Is Summer—8 Trending Pieces Every Wardrobe Needs This Year",
+      "link": "https://www.whowhatwear.com/fashion/summer/summer-starter-pack-2026",
+      "summary": "The ultimate summer starter kit.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-05-27T06:40:21+00:00",
       "discovered_via": "feed"
     },
     {
@@ -94,15 +248,15 @@
     },
     {
       "id": "867675db45a7",
-      "title": "Wearing Jeans In Summer Sometimes Feels Illegal—6 Chic Alts To Wear When It’s Far Too Hot For Denim",
+      "title": "Not Stovepipes, Not Skinny Jeans—6 Pretty Summer Trouser Trends Every Fashion Person Is Wearing Instead",
       "link": "https://www.whowhatwear.com/fashion/summer/anti-jeans-trends-summer-2026",
       "summary": "Take notes.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
+      "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
+      "score": 3,
       "published": "2026-05-27T05:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -132,20 +286,6 @@
       "angle": "Fashion Intelligence: How to Make an Entry-Level It-Bag...",
       "score": 1,
       "published": "2026-05-27T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "527731ca67bb",
-      "title": "Restore traditional rituals, consider Goswamis' suggestions: SC to Vrindavan temple",
-      "link": "https://www.indiatoday.in/india/law-news/story/supreme-court-vrindavan-banke-bihari-temple-committee-goswami-community-suggestions-restore-traditional-rituals-up-government-2917637-2026-05-27?utm_source=rss",
-      "summary": "Restore traditional rituals, consider Goswamis' suggestions: SC to Vrindavan temple",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Restore traditional rituals, consider Goswamis' suggestions: SC to Vri...",
-      "score": 1,
-      "published": "2026-05-27T02:28:56+00:00",
       "discovered_via": "feed"
     },
     {
@@ -821,20 +961,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "dd72df611c6d",
-      "title": "Amoako Boafo Drew on Venice’s Rich Creative Heritage for His First Solo Show in Italy",
-      "link": "https://www.vogue.com/article/amoako-boafo-venice-biennale-2026",
-      "summary": "Produced by Gagosian, “Amoako Boafo: It doesn’t have to always make sense” opened this May at the Museo di Palazzo Grimani during the 61st Venice Biennale and is on view through November 22.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
-      "score": 1,
-      "published": "2026-05-26T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "750601ae76cd",
       "title": "Eight Truths About Long-Term Desire, According to Esther Perel’s ‘Mating in Captivity’",
       "link": "https://www.vogue.com/article/eight-truths-about-long-term-desire-according-to-mating-in-captivity-esther-perel",
@@ -845,6 +971,20 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Eight Truths About Long-Term Desire, According to Esther Perel’s ‘Mati...",
       "score": 0,
+      "published": "2026-05-26T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dd72df611c6d",
+      "title": "Amoako Boafo Drew on Venice’s Rich Creative Heritage for His First Solo Show in Italy",
+      "link": "https://www.vogue.com/article/amoako-boafo-venice-biennale-2026",
+      "summary": "Produced by Gagosian, “Amoako Boafo: It doesn’t have to always make sense” opened this May at the Museo di Palazzo Grimani during the 61st Venice Biennale and is on view through November 22.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
+      "score": 1,
       "published": "2026-05-26T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -919,20 +1059,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bd8cadad15fe",
-      "title": "It's Official: This Is the Chicest Way to Wear Short Nails",
-      "link": "https://www.whowhatwear.com/beauty/nails/short-almond-nails-designs",
-      "summary": "Ready for your next manicure?",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: It's Official: This Is the Chicest Way to Wear Short Nails...",
-      "score": 1,
-      "published": "2026-05-26T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "105ffffe6e08",
       "title": "Trust Me, These 6 Beauty Trends Will Be Making a Huge Comeback This Summer",
       "link": "https://www.whowhatwear.com/beauty/summer-beauty-trends-making-a-comeback-2026",
@@ -943,6 +1069,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
+      "published": "2026-05-26T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bd8cadad15fe",
+      "title": "It's Official: This Is the Chicest Way to Wear Short Nails",
+      "link": "https://www.whowhatwear.com/beauty/nails/short-almond-nails-designs",
+      "summary": "Ready for your next manicure?",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: It's Official: This Is the Chicest Way to Wear Short Nails...",
+      "score": 1,
       "published": "2026-05-26T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1182,90 +1322,6 @@
       "angle": "Fashion Intelligence: All the Courtside Photos of Taylor Swift and Travis Kelce...",
       "score": 0,
       "published": "2026-05-24T14:08:40+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b5282805e4e6",
-      "title": "Not Black, Not White: This Is the Dress Color Fashion People Are Wearing From Stockholm to Paris",
-      "link": "https://www.whowhatwear.com/fashion/trends/brown-dress-trend-summer-2026",
-      "summary": "See the chic outfit ideas.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 4,
-      "published": "2026-05-24T12:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8bdc1b4043d5",
-      "title": "Editors Love to Gatekeep This Bikini Brand—4 Outfits I Tried On and Have to Talk About",
-      "link": "https://www.whowhatwear.com/fashion/summer/monday-swimwear-clothing-brand-review",
-      "summary": "Booking a tropical vacation ASAP.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Editors Love to Gatekeep This Bikini Brand—4 Outfits I Tried On and Ha...",
-      "score": 2,
-      "published": "2026-05-24T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5f7b33da4df9",
-      "title": "In L.A. and Paris, the Chicest Dressers Keep Coming Back to This Blouse, Jeans and Flat Shoe Summer Look",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/french-white-blouse-jeans-ballet-flats-kaia-gerber-2026",
-      "summary": "Chic every time.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: In L.A. and Paris, the Chicest Dressers Keep Coming Back to This Blous...",
-      "score": 1,
-      "published": "2026-05-24T10:10:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "528c9af5adb8",
-      "title": "Not Jelly Sandals, Not Bag Charms—These Are the Highly Specific Accessories It Girls Are Wearing This Summer",
-      "link": "https://www.whowhatwear.com/fashion/trends/it-girl-summer-accessories-2026",
-      "summary": "And the silk scarf gets a promotion.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-05-24T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "94f31decbed4",
-      "title": "It's My Job to Spot Nail Trends—I'm Expecting the Spicy French to Dominate All Summer",
-      "link": "https://www.whowhatwear.com/beauty/nails/spicy-french-nail-trend",
-      "summary": "Pro manicurists concur.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-24T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f593507f66a5",
-      "title": "You May Disagree, But These 7 Summer Fashion Trends Are Officially \"Dated\", According to Fashion Insiders",
-      "link": "https://www.whowhatwear.com/fashion/trends/dated-summer-fashion-trends-2026",
-      "summary": "A quick seasonal update.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-05-24T07:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2445,6 +2501,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "362dfb6b923d",
+      "title": "Tuxedos: Are You Wearing It or Just Putting It On?",
+      "link": "https://blog.kalkifashion.com/are-you-wearing-tuxedo-or-just-putting-it-on/",
+      "summary": "Tuxedo suits &#8211; a dapper outfit that has all men looking like stars &#8211; classy, chic, and iconic. An outfit perfect for weddings and special occasions. But why is it that the same outfit has two versions?&#160; On one side, you will see some tuxedos for men that feel opulent and polished; on the other, [&#8230",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
+      "published": "2026-05-27T07:41:02+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "5396b9b34563",
       "title": "Top 5 Plus Size Fashion Tips for a Glamorous Look",
       "link": "https://blog.kalkifashion.com/top-5-plus-size-fashion-tips-for-glamorous-look/",
@@ -2568,20 +2638,6 @@
       "angle": "Fashion Intelligence: Sharara Sets Are Everywhere – But Are You Styling Them Right?...",
       "score": 1,
       "published": "2026-05-15T11:04:06+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8a367e20b600",
-      "title": "Met Gala 2026: Top Fashion Trends That Stole the Spotlight",
-      "link": "https://blog.kalkifashion.com/met-gala-2026-top-fashion-trends-that-stole-the-spotlight/",
-      "summary": "Every year, the Met Gala delivers a wave of looks and over-the-top fashion statements by Bollywood and Hollywood stars, designers, influencers, and other celebs. From Natasha Poonawalla’s to white orchid look to Beyoncé’s skeleton-themed outfit, each Met Gala 2026 look was magical, theatrical, and appeared like a movin",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 5,
-      "published": "2026-05-14T03:58:47+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2797,52 +2853,52 @@
   ],
   "trends": [
     {
-      "term": "ബൈജു രവീന്ദ്രന്",
+      "term": "ఇండియన్ ప్రీమియర్ లీగ్ 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "eenadu rasi phalalu",
+      "term": "lottery sambad result",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "lic share price",
+      "term": "rpsc",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "jp power share price",
+      "term": "ദൃശ്യം",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "যুবশক্তি প্রকল্প",
+      "term": "ibm",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "apollo micro systems share price",
+      "term": "വില",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hscap kerala gov in 2026",
+      "term": "ईद उल-अज़हा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "punjab and haryana high court",
+      "term": "পাট",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bseap",
+      "term": "দিলীপ মণ্ডল",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "wipro share",
+      "term": "assam university",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
