@@ -1,13 +1,41 @@
 {
-  "generated_at": "2026-05-27T08:39:39.342849+00:00",
+  "generated_at": "2026-05-27T14:28:15.214614+00:00",
   "owned_count": 10,
   "competitor_count": 15,
-  "industry_count": 178,
+  "industry_count": 177,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "6b36775f581c",
+      "title": "Paul Anthony Kelly Is So JFK Jr.-Coded in New York City",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a71420607/paul-anthony-kelly-jfk-jr-coded-outfits-nyc-street-style-gma-appearance/",
+      "summary": "He continues to embody the American icon off-screen",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Paul Anthony Kelly Is So JFK Jr.-Coded in New York City...",
+      "score": 0,
+      "published": "2026-05-27T14:27:19+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d2b3d60f9e9e",
+      "title": "Brett Johnson Spring 2027 Menswear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-menswear/brett-johnson",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Brett Johnson Spring 2027 Menswear...",
+      "score": 2,
+      "published": "2026-05-27T14:25:58+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "8706571bf2c4",
       "title": "Fendi Resort 2027",
@@ -19,7 +47,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Fendi Resort 2027...",
       "score": 0,
-      "published": "2026-05-27T08:34:29+00:00",
+      "published": "2026-05-27T14:25:58+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +61,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Dsquared2 Resort 2027...",
       "score": 0,
-      "published": "2026-05-27T08:34:29+00:00",
+      "published": "2026-05-27T14:25:58+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +75,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Baum und Pferdgarten Resort 2027...",
       "score": 0,
-      "published": "2026-05-27T08:34:29+00:00",
+      "published": "2026-05-27T14:25:58+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,35 +89,273 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Dsquared2 Resort 2027 Menswear...",
       "score": 2,
-      "published": "2026-05-27T08:34:29+00:00",
+      "published": "2026-05-27T14:25:58+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "d3f3457c3723",
-      "title": "Blumarine Resort 2027",
-      "link": "https://www.vogue.com/fashion-shows/resort-2027/blumarine",
-      "summary": "",
+      "id": "4298ec36429a",
+      "title": "Henry Zankov Is Diane von Furstenberg's First Artistic Director",
+      "link": "https://fashionista.com/2026/05/henry-zankov-diane-von-furstenberg-artistic-director-announcement",
+      "summary": "The American designer will reveal his debut collection for the iconic label this September.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Henry Zankov Is Diane von Furstenberg's First Artistic Director...",
+      "score": 3,
+      "published": "2026-05-27T14:02:17+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d5caf53a05b7",
+      "title": "A Moment for the Beckhams’s Flawless Ibiza Vacation Style",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a71420586/victoria-beckham-david-family-vacation-ibiza-yacht-style-photos/",
+      "summary": "Posh Spice is chic in every setting",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: A Moment for the Beckhams’s Flawless Ibiza Vacation Style...",
+      "score": 1,
+      "published": "2026-05-27T14:00:44+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "df0e72319daa",
+      "title": "Ciara, Amanda, West, and What It Means to Date in White Spaces As a Black Woman",
+      "link": "https://www.vogue.com/article/dating-in-white-spaces-as-a-black-woman",
+      "summary": "During the season of “Summer House” that aired before the Amanda–West scandal, Ciara Miller discussed her experience of dating in white spaces: the flak she gets from the Black community for dating outside of her race, the jealous anger directed at her by white fans. I could wholly relate.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Blumarine Resort 2027...",
-      "score": 0,
-      "published": "2026-05-27T08:34:29+00:00",
+      "angle": "Fashion Intelligence: Ciara, Amanda, West, and What It Means to Date in White Spaces As a Bl...",
+      "score": 1,
+      "published": "2026-05-27T13:19:32+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "389d80e0a2bb",
-      "title": "Ground Report: Wedding hall in Murshidabad now a holding centre for detainees",
-      "link": "https://www.indiatoday.in/india/story/west-bengal-deportation-bangladeshi-nationals-wedding-hall-murshidabad-now-holding-centre-for-detainees-2917811-2026-05-27?utm_source=rss",
-      "summary": "Ground Report: Wedding hall in Murshidabad now a holding centre for detainees",
-      "source": "India Today Fashion",
+      "id": "b5246c083189",
+      "title": "The Vogue Business People Moves Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
+      "summary": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Vogue Business People Moves Tracker...",
+      "score": 0,
+      "published": "2026-05-27T13:08:37+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ca23c0bb2aac",
+      "title": "This Cult Danish Design Brand Has Opened Its First US Guesthouse in Upstate NY",
+      "link": "https://www.vogue.com/article/vipp-pavilion-upstate-guesthouse",
+      "summary": "The historic Danish brand Vipp might be best known for its sleek kitchens, but it also now operates 15 stylish guesthouses in rural locations—including a new outpost in the Catskills.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: This Cult Danish Design Brand Has Opened Its First US Guesthouse in Up...",
+      "score": 1,
+      "published": "2026-05-27T13:07:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4cd93e6e3560",
+      "title": "Henry Zankov Has a Brand New Gig: Artistic Director of Diane Von Furstenberg",
+      "link": "https://www.vogue.com/article/henry-zankov-has-a-brand-new-gig-artistic-director-of-diane-von-furstenberg",
+      "summary": "It’s a homecoming for Zankov, who worked at Diane Von Furstenberg in the 2010s, and returned to make a capsule collection to sell at Bergdorf’s last year.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Henry Zankov Has a Brand New Gig: Artistic Director of Diane Von Furst...",
+      "score": 2,
+      "published": "2026-05-27T13:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "22001591ea6f",
+      "title": "Which Beauty Retailers Are Winning the Indie Perfume Race?",
+      "link": "https://fashionista.com/2026/05/retailers-competing-with-indie-fragrance-brands",
+      "summary": "As interest in niche fragrance grows, retailers need to expand their offerings to win over new clientele — or risk getting left in the dust.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Which Beauty Retailers Are Winning the Indie Perfume Race?...",
+      "score": 1,
+      "published": "2026-05-27T12:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f37a27eeebbf",
+      "title": "Anna Wintour Remembers Donald Newhouse",
+      "link": "https://www.vogue.com/article/anna-wintour-remembers-donald-newhouse",
+      "summary": "“His mix of humility and strength, his willingness to step aside while also being at hand for help, is rare in leadership,” Wintour recalls of Donald Newhouse, the longtime head of Advance Publications’ newspaper division, who died on Tuesday. “Donald imbued Advance with spirit, ambition, trust, and real care for peopl",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Anna Wintour Remembers Donald Newhouse...",
+      "score": 0,
+      "published": "2026-05-27T12:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "45f85f20c8d8",
+      "title": "“I Was Born to Love, Not to Hate”—the Painter Taking Inspiration From “Antigone”",
+      "link": "https://www.harpersbazaar.com/culture/art-books-music/a71364137/painter-alexandra-grant-show-new-york/",
+      "summary": "Alexandra Grant is presenting the final works in a decade-long project inspired by the Greek myth",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: “I Was Born to Love, Not to Hate”—the Painter Taking Inspiration From ...",
+      "score": 0,
+      "published": "2026-05-27T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bfbcd52c4eb5",
+      "title": "The Embellished Sandals We’re Loving for Summer 2026—From Sequined and Beaded to Netted",
+      "link": "https://www.vogue.com/article/embellished-sandal-trend",
+      "summary": "Sequined, beaded, and even netted, embellished sandals are a fresh summer must-have. Shop favorites from Staud, Tory Burch, Dries Van Noten, and more.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Embellished Sandals We’re Loving for Summer 2026—From Sequined and...",
+      "score": 0,
+      "published": "2026-05-27T11:48:22+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d70ed436814a",
+      "title": "The Vogue Business Funding Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-funding-tracker",
+      "summary": "Bringing you the latest fashion and beauty financing news, including investments and acquisitions.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Vogue Business Funding Tracker...",
+      "score": 2,
+      "published": "2026-05-27T11:39:15+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "513037cbdfae",
+      "title": "The Best Celebrity Bobs and Chops of 2026",
+      "link": "https://www.vogue.com/slideshow/the-best-celebrity-bobs-and-chops-of-2026",
+      "summary": "Short hair is continuing to trend in 2026. See all the celebs who’ve gone for a dramatic cut so far.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-05-27T11:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ef5a255ba90c",
+      "title": "Irina Shayk Goes Femme Fatale in Blumarine Resort 2027",
+      "link": "https://www.fashiongonerogue.com/story/irina-shayk-blumarine-resort-2027/",
+      "summary": "Blumarine&#8217;s Resort 2027 collection has creative director David Koma tapping supermodel Irina Shayk as his muse. And the result is ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Irina Shayk Goes Femme Fatale in Blumarine Resort 2027...",
+      "score": 2,
+      "published": "2026-05-27T11:18:02+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "92390ed7c2dd",
+      "title": "Burberry Scores Big for Match Day with Fall 2026 Campaign",
+      "link": "https://www.fashiongonerogue.com/story/burberry-fall-2026-campaign/",
+      "summary": "Burberry just turned the football terrace into a fashion show with its fall 2026 campaign, called &#8220;A Good Sport&#8221;. It ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Burberry Scores Big for Match Day with Fall 2026 Campaign...",
+      "score": 2,
+      "published": "2026-05-27T10:55:29+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d1ef10233392",
+      "title": "Meet the Vogue & Condé Nast PhotoVogue Committee",
+      "link": "https://www.vogue.com/article/meet-the-vogue-and-conde-nast-photovogue-committee",
+      "summary": "Discover the expansive creative community of Vogue and Condé Nast talent from around the world collaborating with PhotoVogue",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Meet the Vogue & Condé Nast PhotoVogue Committee...",
+      "score": 0,
+      "published": "2026-05-27T10:53:22+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c6a8a2e447a5",
+      "title": "Lily-Rose Depp’s 27 Best Beauty Looks on Her 27th Birthday",
+      "link": "https://www.vogue.com/article/lily-rose-depp-best-beauty-looks",
+      "summary": "From unstructured eyeliner to that trending blurred lip—Lily-Rose Depp has firmed established the beauty signatures that work best for her.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Lily-Rose Depp’s 27 Best Beauty Looks on Her 27th Birthday...",
+      "score": 2,
+      "published": "2026-05-27T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a1843fa60b98",
+      "title": "28 Black-Tie Wedding Guest Dresses That Are Perfectly Formal",
+      "link": "https://www.vogue.com/slideshow/black-tie-wedding-guest-dresses",
+      "summary": "From sequined gowns to maximalist florals, our edit of the best black-tie wedding guest dresses will help you master the formal attire dress code.",
+      "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Ground Report — A Complete Style Guide",
+      "angle": "Bridal Edit: 28 Black-Tie Wedding Guest Dresses That Are Perfectly Formal — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-05-27T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f0b54dba6eac",
+      "title": "How I Planned a Bachelorette Trip Off the Beaten Path",
+      "link": "https://www.vogue.com/article/taos-new-mexico-bachelorette-trip",
+      "summary": "One writer shares her itinerary, Airbnb, and packing list for a bachelorette trip off the beaten path in Taos, New Mexico.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: How I Planned a Bachelorette Trip Off the Beaten Path...",
+      "score": 0,
+      "published": "2026-05-27T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cf80c5fe7cfa",
+      "title": "Forget Flip-Flops, VB Just Wore the Classic Sandal Trend the Chicest Over-50s Always Come Back To",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/throw-on-dress-hermes-oran-sandals-outfit-victoria-beckham-2026",
+      "summary": "If it's good enough for VB...",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
-      "published": "2026-05-27T08:14:08+00:00",
+      "published": "2026-05-27T09:58:46+00:00",
       "discovered_via": "feed"
     },
     {
@@ -135,20 +401,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b7eeb1b86187",
-      "title": "The Return of Casual Heels—Here's How Fashion People Are Styling Them With Laidback Outfits",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/casual-outfits-with-heels-2026",
-      "summary": "See the inspiration inside.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Return of Casual Heels—Here's How Fashion People Are Styling Them ...",
-      "score": 2,
-      "published": "2026-05-27T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "aa731e3f56e6",
       "title": "The Chicest Way to Update Your Summer 2026 Outfits? These 7 New Jewelry Trends",
       "link": "https://www.whowhatwear.com/fashion/jewelry/summer-jewelry-trends-2026",
@@ -158,6 +410,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-05-27T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b7eeb1b86187",
+      "title": "The Return of Casual Heels—Here's How Fashion People Are Styling Them With Laidback Outfits",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/casual-outfits-with-heels-2026",
+      "summary": "See the inspiration inside.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Return of Casual Heels—Here's How Fashion People Are Styling Them ...",
       "score": 2,
       "published": "2026-05-27T07:00:00+00:00",
       "discovered_via": "feed"
@@ -286,6 +552,20 @@
       "angle": "Fashion Intelligence: How to Make an Entry-Level It-Bag...",
       "score": 1,
       "published": "2026-05-27T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f984cb93f64a",
+      "title": "The Future of AI",
+      "link": "https://www.vogue.com/article/watch-vogue-businesss-future-of-ai-live-webinar-on-demand",
+      "summary": "Discover the key findings from our exploration into how AI is reshaping how we shop and how brands can keep up.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Future of AI...",
+      "score": 1,
+      "published": "2026-05-27T03:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -653,20 +933,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b5246c083189",
-      "title": "The Vogue Business People Moves Tracker",
-      "link": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
-      "summary": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Vogue Business People Moves Tracker...",
-      "score": 0,
-      "published": "2026-05-26T17:00:08+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ca7d61c9bbfd",
       "title": "David Sedaris Has the Answer",
       "link": "https://www.vogue.com/article/david-sedaris-has-the-answer",
@@ -695,48 +961,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4f8ed8e40b21",
-      "title": "The Best Airbnbs in Santorini Offer a Tranquil Take on the Bustling Island",
-      "link": "https://www.vogue.com/article/airbnbs-in-santorini",
-      "summary": "Heading to the Cyclades this summer? Skip the crowds and stay in one of the best Airbnbs in Santorini instead.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Airbnbs in Santorini Offer a Tranquil Take on the Bustling Is...",
-      "score": 0,
-      "published": "2026-05-26T16:03:10+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "60a1d8820ec0",
-      "title": "This Bride’s Pregnancy Didn’t Hold Her Back From Creating Her Dream Wedding Looks",
-      "link": "https://www.vogue.com/article/lynn-rozenberg-something-bold-something-new",
-      "summary": "Galia Lahav’s head of marketing Lynn Rozenberg wore two custom looks from the designer for her wedding—and saved making the final adjustments until the last minute to accommodate her baby bump.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: This Bride’s Pregnancy Didn’t Hold Her Back From Creating Her Dream Wedding Looks — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-05-26T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "72611b119fcd",
-      "title": "Naomi Osaka Makes a Grand (Slam) Entrance at the 2026 French Open",
-      "link": "https://www.vogue.com/article/naomi-osaka-2026-french-open",
-      "summary": "Though Naomi Osaka is just one match into the French Open, she’s already running away with the best-dressed trophy.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Naomi Osaka Makes a Grand (Slam) Entrance at the 2026 French Open...",
-      "score": 1,
-      "published": "2026-05-26T15:56:07+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "fa0e7b895d51",
       "title": "I'm a French Fashion Editor—These Are My Favorite Sandals of the Summer",
       "link": "https://www.whowhatwear.com/fashion/shopping/eugenie-trochu-french-style-best-sandals",
@@ -748,34 +972,6 @@
       "angle": "Fashion Intelligence: I'm a French Fashion Editor—These Are My Favorite Sandals of the Summe...",
       "score": 1,
       "published": "2026-05-26T15:34:07+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "27a587ba2abc",
-      "title": "Victoria and David Beckham Switch Up Their Style For Summer Vacation",
-      "link": "https://www.vogue.com/article/victoria-david-beckham-vacation-summer-wardrobe",
-      "summary": "Victoria and David Beckham are currently on vacation in Ibiza—and their off-duty wardrobes could not be more different from their day-to-day style.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Victoria and David Beckham Switch Up Their Style For Summer Vacation...",
-      "score": 1,
-      "published": "2026-05-26T15:30:18+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0a6dc6fdd66d",
-      "title": "Collagen Supplements: What 5 Dermatologists Actually Think",
-      "link": "https://www.vogue.com/article/dermatologists-think-collagen-supplements",
-      "summary": "Collagen supplements are everywhere, but do they actually work? Here, five dermatologists give their honest opinions on how—and if—we should be taking these so-called skin and health miracle workers.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Collagen Supplements: What 5 Dermatologists Actually Think...",
-      "score": 0,
-      "published": "2026-05-26T14:55:38+00:00",
       "discovered_via": "feed"
     },
     {
@@ -832,20 +1028,6 @@
       "angle": "Fashion Intelligence: Kendall Jenner and Jacob Elordi Test Out Their Couple Style on a Date ...",
       "score": 1,
       "published": "2026-05-26T14:37:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9feced2a8237",
-      "title": "A New Book Explores the Unique Relationship Between Tennis and Fashion",
-      "link": "https://www.vogue.com/article/ace-tennis-fashion-book",
-      "summary": "From René Lacoste to Coco Gauff, ACE: The Times & Style of Tennis is a timely exploration of how the on-court fashion has permeated culture.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: A New Book Explores the Unique Relationship Between Tennis and Fashion...",
-      "score": 2,
-      "published": "2026-05-26T14:33:44+00:00",
       "discovered_via": "feed"
     },
     {
@@ -933,62 +1115,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2982573a00a9",
-      "title": "A Rare Blue Moon Is Coming This Weekend—Here’s How It Affects Every Star Sign",
-      "link": "https://www.vogue.com/article/a-rare-blue-moon-is-coming-heres-how-it-will-affect-every-star-sign",
-      "summary": "This rare lunation, which next occurs in 2028, marks the culmination of the current lunar cycle—and harbors a mix of celestial extremes that make it electric.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: A Rare Blue Moon Is Coming This Weekend—Here’s How It Affects Every St...",
-      "score": 0,
-      "published": "2026-05-26T10:54:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bfda85cd816f",
-      "title": "On the Podcast: Vogue Editors Answer Your Summer Dressing Questions with Liana Satenstein",
-      "link": "https://www.vogue.com/article/on-the-podcast-vogue-editors-answer-your-summer-dressing-questions-with-liana-satenstein",
-      "summary": "On this Tuesday’s special episode of “The Run-Through,” Nicole and Chioma are joined by contributing writer and former Vogue staffer Liana Satenstein to talk through all of the most pressing summer-dressing questions.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: On the Podcast: Vogue Editors Answer Your Summer Dressing Questions wi...",
-      "score": 1,
-      "published": "2026-05-26T10:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "750601ae76cd",
-      "title": "Eight Truths About Long-Term Desire, According to Esther Perel’s ‘Mating in Captivity’",
-      "link": "https://www.vogue.com/article/eight-truths-about-long-term-desire-according-to-mating-in-captivity-esther-perel",
-      "summary": "From how to maintain desire in a long-term relationship to whether heightened intimacy always make for good sex, the renowned psychotherapist’s seminal work still feels fresh 20 years later.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Eight Truths About Long-Term Desire, According to Esther Perel’s ‘Mati...",
-      "score": 0,
-      "published": "2026-05-26T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "dd72df611c6d",
-      "title": "Amoako Boafo Drew on Venice’s Rich Creative Heritage for His First Solo Show in Italy",
-      "link": "https://www.vogue.com/article/amoako-boafo-venice-biennale-2026",
-      "summary": "Produced by Gagosian, “Amoako Boafo: It doesn’t have to always make sense” opened this May at the Museo di Palazzo Grimani during the 61st Venice Biennale and is on view through November 22.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
-      "score": 1,
-      "published": "2026-05-26T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "140c2a7d4ab5",
       "title": "Now Boarding: Here's Everything I'm Packing for 5 Days in Miami as an NYC Fashion Editor",
       "link": "https://www.whowhatwear.com/fashion/shopping/fashion-editor-approved-miami-trip-packing-list-summer-2026",
@@ -1045,20 +1171,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2837387f2049",
-      "title": "This Designer Bride Made All Her Own Dresses—and Her Handbag—for Her Sicilian Wedding",
-      "link": "https://www.vogue.com/slideshow/georgie-wright-and-charles-forte-wedding",
-      "summary": "Designer Georgie Wright—co-founder of the cult handbag brand The Veil with Adwoa Aboah—overlooked no detail of her Italian wedding weekend with Charles Forte, vice president of development at Rocco Forte Hotels.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: This Designer Bride Made All Her Own Dresses—and Her Handbag—for Her Sicilian Wedding — A Complete Style Guide",
-      "score": 4,
-      "published": "2026-05-26T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "105ffffe6e08",
       "title": "Trust Me, These 6 Beauty Trends Will Be Making a Huge Comeback This Summer",
       "link": "https://www.whowhatwear.com/beauty/summer-beauty-trends-making-a-comeback-2026",
@@ -1101,20 +1213,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "85410af94008",
-      "title": "Mark My Words—These Are the 7 Luxury Basics Worth Investing In for an Elegant Summer Wardrobe",
-      "link": "https://www.whowhatwear.com/fashion/luxury/luxury-summer-basics-2026",
-      "summary": "Just in time for the sunshine.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Mark My Words—These Are the 7 Luxury Basics Worth Investing In for an ...",
-      "score": 1,
-      "published": "2026-05-26T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "fb61e8e9625f",
       "title": "It's Officially Blouse Season—13 Zara Styles That Will Make Every Summer Outfit Instantly Chicer",
       "link": "https://www.whowhatwear.com/fashion/affordable/best-zara-summer-blouses-2026",
@@ -1129,17 +1227,31 @@
       "discovered_via": "feed"
     },
     {
-      "id": "37f00d5b14df",
-      "title": "French Luxury Flexes Its Soft Power in a New York Exhibition",
-      "link": "https://www.vogue.com/article/french-luxury-flexes-its-soft-power-in-a-new-york-exhibition",
-      "summary": "Dozens of French houses and institutions are taking part in a New York exhibition organized by luxury association Comité Colbert.",
-      "source": "Vogue US",
+      "id": "85410af94008",
+      "title": "Mark My Words—These Are the 7 Luxury Basics Worth Investing In for an Elegant Summer Wardrobe",
+      "link": "https://www.whowhatwear.com/fashion/luxury/luxury-summer-basics-2026",
+      "summary": "Just in time for the sunshine.",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: French Luxury Flexes Its Soft Power in a New York Exhibition...",
+      "angle": "Fashion Intelligence: Mark My Words—These Are the 7 Luxury Basics Worth Investing In for an ...",
       "score": 1,
-      "published": "2026-05-26T04:30:00+00:00",
+      "published": "2026-05-26T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4f713d178157",
+      "title": "Business Casual for Men – 14 Dress Code Styles + Guide 2026",
+      "link": "https://www.fashionbeans.com/article/business-casual-guide-men/",
+      "summary": "Business Casual is an album by Canadian electro-funk duo Chromeo. Confusingly, men&#8217;s business casual is also a dress code &#8211; one that is as baffling as its inherently contradictory moniker. Business isn’t something that you want to be casual about. Which oxymoron came up with that not-too-smart idea? “Busine",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Business Casual for Men – 14 Dress Code Styles + Guide 2026...",
+      "score": 2,
+      "published": "2026-05-26T01:30:02+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1238,20 +1350,6 @@
       "angle": "Fashion Intelligence: Dress Code: Marlowe...",
       "score": 1,
       "published": "2026-05-25T06:31:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ada64d5451d6",
-      "title": "I Spent Hours Searching for Elegant Wedding Guest Nails—These Are the Best Ideas I Found",
-      "link": "https://www.whowhatwear.com/beauty/nails/wedding-guest-nail-ideas",
-      "summary": "Just in time for wedding season.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: I Spent Hours Searching for Elegant Wedding Guest Nails—These Are the Best Ideas I Found — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-05-25T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1563,48 +1661,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "191997b5185b",
-      "title": "Long Hair Is Back!",
-      "link": "https://www.harpersbazaar.com/beauty/hair/a71375433/long-hair-trend-2026/",
-      "summary": "Is bobmania finally over? Here, celebrity hairstylists explain why long hair is suddenly everywhere",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Long Hair Is Back!...",
-      "score": 1,
-      "published": "2026-05-22T15:43:23+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6829a9d49e76",
-      "title": "A Complete Guide to Bella Hadid’s Favorite Vintage Stores",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a71364373/bella-hadid-favorite-vintage-stores-guide/",
-      "summary": "From celebrity-favorite spots to hidden gems",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: A Complete Guide to Bella Hadid’s Favorite Vintage Stores...",
-      "score": 1,
-      "published": "2026-05-22T15:19:24+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8fae57282b35",
-      "title": "Bella Hadid Accessorizes Her Bright-White Monokini With a Sweet Little Crochet Bandana",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a71385627/bella-hadid-white-one-piece-swimsuit-crochet-bandana-cannes-film-festival-2026/",
-      "summary": "Let the queen of Cannes inspire your Memorial Day weekend looks",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Bella Hadid Accessorizes Her Bright-White Monokini With a Sweet Little...",
-      "score": 0,
-      "published": "2026-05-22T15:01:08+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "9c81dba4c5c1",
       "title": "How This Luxury Boutique Founder Is Introducing Emerging Labels to Toronto Shoppers",
       "link": "https://fashionista.com/2026/05/kaelen-haworth-absolutely-fabrics-founder-interview",
@@ -1703,20 +1759,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "442897742334",
-      "title": "Finding the Perfect Gel Polish Match for Every Occasion",
-      "link": "https://www.fashiongonerogue.com/story/gel-polish-every-occasion/",
-      "summary": "Whether you love soft pink nails or bold red nails, the right gel polish helps you stand out on any ... Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 1,
-      "published": "2026-05-21T23:03:11+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "dba835faff8b",
       "title": "5 Handbag Trends to Shop This Summer",
       "link": "https://fashionista.com/2026/05/shop-summer-handbag-trends-coach",
@@ -1756,20 +1798,6 @@
       "angle": "Fashion Intelligence: The Recent Central Saint Martins Grad Who's Already Designed Custom Pi...",
       "score": 3,
       "published": "2026-05-21T12:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6aaddd0fbe9d",
-      "title": "Kaia Gerber & RE/DONE Make Denim Feel Personal",
-      "link": "https://www.fashiongonerogue.com/story/kaia-gerber-redone-short-cuts/",
-      "summary": "Kaia Gerber has never looked more like herself as the face of RE/DONE&#8217;s new Short/Cuts campaign. It stars the model ... Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Kaia Gerber & RE/DONE Make Denim Feel Personal...",
-      "score": 1,
-      "published": "2026-05-21T11:26:55+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2249,34 +2277,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7fec8f90096e",
-      "title": "Is Private Equity's Involvement in Beauty Stifling Brand Individuality?",
-      "link": "https://fashionista.com/2026/05/private-equity-beauty-brand-risks",
-      "summary": "Growth capital can accelerate success, but it can also compromise the identity that made a brand worth investing in to begin with.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Is Private Equity's Involvement in Beauty Stifling Brand Individuality...",
-      "score": 2,
-      "published": "2026-05-13T12:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1852a9f67ddb",
-      "title": "Must Read: A Look at Beauty's Highest-Paid CEOs, Saks Global CEO Details Post-Bankruptcy Strategy",
-      "link": "https://fashionista.com/2026/05/beauty-industry-highest-paid-ceos-ranking",
-      "summary": "Plus, Shein v. Temu U.K. trial spotlights supply chains.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Must Read: A Look at Beauty's Highest-Paid CEOs, Saks Global CEO Detai...",
-      "score": 1,
-      "published": "2026-05-12T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b11d01a74f84",
       "title": "7 Timeless Summer Old Money Outfits For Men",
       "link": "https://www.fashionbeans.com/article/old-money-summer-outfits-for-men/",
@@ -2470,20 +2470,6 @@
       "angle": "Fashion Intelligence: 5 Best Low-Rise Jeans for Men: It’s All on the Hips in 2026...",
       "score": 1,
       "published": "2026-05-06T15:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "11c3fc29c250",
-      "title": "Barber-Approved Faux Hawk Hairstyles For Men",
-      "link": "https://www.fashionbeans.com/article/faux-hawk-hairstyles-guide/",
-      "summary": "We&#8217;re going to assume that you&#8217;ve heard of the mohawk, that pointy, green thing that lived on the heads of punk rockers and which has also been co-opted in other forms by men as diverse as Travis Bickle, Mr T and David Beckham. It&#8217;s a strong look. You may not, however, be as confident identifying &#82",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Barber-Approved Faux Hawk Hairstyles For Men...",
-      "score": 1,
-      "published": "2026-05-06T12:16:22+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2853,52 +2839,52 @@
   ],
   "trends": [
     {
-      "term": "ఇండియన్ ప్రీమియర్ లీగ్ 2026",
+      "term": "most sixes in ipl",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "lottery sambad result",
+      "term": "fastest 50 in ipl",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rpsc",
+      "term": "vaibhav suryavanshi",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ദൃശ്യം",
+      "term": "chandigarh",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ibm",
+      "term": "hotstar jio",
+      "summary": "",
+      "aza_category": "Celebrity Style"
+    },
+    {
+      "term": "jiostar",
+      "summary": "",
+      "aza_category": "Celebrity Style"
+    },
+    {
+      "term": "hotstar",
+      "summary": "",
+      "aza_category": "Celebrity Style"
+    },
+    {
+      "term": "jiohotstar",
+      "summary": "",
+      "aza_category": "Celebrity Style"
+    },
+    {
+      "term": "novak djokovic",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "വില",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "ईद उल-अज़हा",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "পাট",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "দিলীপ মণ্ডল",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "assam university",
+      "term": "ultraviolette tesseract release date",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
