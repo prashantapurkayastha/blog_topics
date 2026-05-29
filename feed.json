@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T06:05:54.303890+00:00",
+  "generated_at": "2026-05-29T08:43:32.206729+00:00",
   "owned_count": 10,
   "competitor_count": 15,
   "industry_count": 180,
@@ -8,20 +8,6 @@
     "US": 1791
   },
   "articles": [
-    {
-      "id": "ff42d8687266",
-      "title": "If You Need Summer Jean Outfit Inspiration, These Are the 6 Styles French Women Are Wearing on Repeat",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/french-girl-summer-jean-outfits-2026",
-      "summary": "Denim through a summer lens.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-05-29T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
     {
       "id": "ab4c04568116",
       "title": "Rhode Island School of Design Fall 2026 Ready-to-Wear",
@@ -33,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Rhode Island School of Design Fall 2026 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-05-29T05:59:49+00:00",
+      "published": "2026-05-29T08:42:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +33,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: LaPointe Resort 2027...",
       "score": 0,
-      "published": "2026-05-29T05:59:49+00:00",
+      "published": "2026-05-29T08:42:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +47,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Alémais Resort 2027...",
       "score": 0,
-      "published": "2026-05-29T05:59:49+00:00",
+      "published": "2026-05-29T08:42:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +61,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Zimmermann Resort 2027...",
       "score": 0,
-      "published": "2026-05-29T05:59:49+00:00",
+      "published": "2026-05-29T08:42:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,7 +75,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Mancandy Mexico Fall 2026...",
       "score": 0,
-      "published": "2026-05-29T05:59:49+00:00",
+      "published": "2026-05-29T08:42:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -103,7 +89,77 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Lafayette 148 New York Resort 2027...",
       "score": 0,
-      "published": "2026-05-29T05:59:49+00:00",
+      "published": "2026-05-29T08:42:11+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "477aa008f04d",
+      "title": "It's My Job to Predict Bestsellers—These are the New Designer Buys Set to Go Viral in 2026",
+      "link": "https://www.whowhatwear.com/fashion/luxury/best-designer-pre-fall-buys",
+      "summary": "Prepare your baskets.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: It's My Job to Predict Bestsellers—These are the New Designer Buys Set...",
+      "score": 1,
+      "published": "2026-05-29T07:05:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9a6798373468",
+      "title": "My Mom Always Spots the Best Fashion Items at Walmart—Here’s What She Found for Summer",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-walmart-fashion-items-summer-2026",
+      "summary": "Shop the list inside.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: My Mom Always Spots the Best Fashion Items at Walmart—Here’s What She ...",
+      "score": 1,
+      "published": "2026-05-29T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8d62ac764c9b",
+      "title": "If You’re Going to Buy a New White Dress This Summer, Make Sure It’s One of These",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-white-dresses-2026",
+      "summary": "Shop the best styles inside.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: If You’re Going to Buy a New White Dress This Summer, Make Sure It’s O...",
+      "score": 2,
+      "published": "2026-05-29T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "abdd6a1d6d45",
+      "title": "I'm Having a Bridal Shower in Both NYC and L.A.—Here's What I'm Wearing in Each City (and What Almost Made the Cut)",
+      "link": "https://www.whowhatwear.com/living/wedding/bridal-shower-outfits-sara-walker",
+      "summary": "Get inspired.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: I'm Having a Bridal Shower in Both NYC and L.A.—Here's What I'm Wearing in Each City (and What Almost Made the Cut) — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-05-29T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ff42d8687266",
+      "title": "If You Need Summer Jean Outfit Inspiration, These Are the 6 Styles French Women Are Wearing on Repeat",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/french-girl-summer-jean-outfits-2026",
+      "summary": "Denim through a summer lens.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-05-29T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -541,20 +597,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "cc9b02fc21ee",
-      "title": "Punjab launches menstrual health curriculum across 3,600 government schools",
-      "link": "https://www.indiatoday.in/india/story/punjab-bhagwant-mann-menstrual-health-curriculum-school-girls-2918779-2026-05-28?utm_source=rss",
-      "summary": "Punjab launches menstrual health curriculum across 3,600 government schools",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-05-28T18:28:35+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "5dc9ebf08d1c",
       "title": "Sara Byworth Is Hiring A Senior Account Executive In New York, NY",
       "link": "https://fashionista.com/2026/05/sara-byworth-is-hiring-a-senior-account-executive-in-new-york-ny",
@@ -779,6 +821,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "950fa542251e",
+      "title": "A Visit to The Broad’s Engaging New Yoko Ono Exhibition",
+      "link": "https://www.vogue.com/article/yoko-ono-music-of-the-mind-the-broad",
+      "summary": "Running through October 11, “Yoko Ono: Music of the Mind” is the artist, musician, and activist’s first solo museum exhibition in Southern California and surveys much of Ono’s early work, spanning conceptual art, music, film, installation, instruction pieces, and activism.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: A Visit to The Broad’s Engaging New Yoko Ono Exhibition...",
+      "score": 0,
+      "published": "2026-05-28T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "4ea894029253",
       "title": "I Gave Up Sugar for 90 Days: Here’s What It Taught Me About Focus",
       "link": "https://www.vogue.com/article/what-quitting-sugar-taught-me-about-focus",
@@ -802,20 +858,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Experts Love This Protein-Packed and Gut-Friendly Breakfast Choice...",
-      "score": 0,
-      "published": "2026-05-28T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "950fa542251e",
-      "title": "A Visit to The Broad’s Engaging New Yoko Ono Exhibition",
-      "link": "https://www.vogue.com/article/yoko-ono-music-of-the-mind-the-broad",
-      "summary": "Running through October 11, “Yoko Ono: Music of the Mind” is the artist, musician, and activist’s first solo museum exhibition in Southern California and surveys much of Ono’s early work, spanning conceptual art, music, film, installation, instruction pieces, and activism.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: A Visit to The Broad’s Engaging New Yoko Ono Exhibition...",
       "score": 0,
       "published": "2026-05-28T12:00:00+00:00",
       "discovered_via": "feed"
@@ -947,30 +989,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "dd7e09a4ff0a",
-      "title": "Not Lace, Not Fringe—This Is the Coolest Skirt Trend Dominating This Season",
-      "link": "https://www.whowhatwear.com/fashion/shopping/pareo-sarong-wrap-scarf-skirt-trend-summer-2026",
-      "summary": "Perfect for the city or by the sea.",
+      "id": "496ac10cff13",
+      "title": "Everywhere I Look, Fashion People Are Wearing These 7 Summer Trends With Jeans",
+      "link": "https://www.whowhatwear.com/summer-trends-to-wear-with-jeans",
+      "summary": "From sporty jackets to thong sandals.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-05-28T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "392e76b05d66",
-      "title": "I'm From Florida and Live in NYC—These Are the 8 Summer Essentials I Wear in the South and the City",
-      "link": "https://www.whowhatwear.com/fashion/basics/wardrobe-essentials-for-hot-weather",
-      "summary": "Add these to your must-have list.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm From Florida and Live in NYC—These Are the 8 Summer Essentials I W...",
-      "score": 1,
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
       "published": "2026-05-28T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1017,16 +1045,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c95394541e6a",
-      "title": "The 6 Sneaker Trends to Wear If You Want Your Summer Outfits to Look Relevant",
-      "link": "https://www.whowhatwear.com/fashion/summer/summer-sneaker-trends-2026",
-      "summary": "Peak cool.",
+      "id": "dd7e09a4ff0a",
+      "title": "Not Lace, Not Fringe—This Is the Coolest Skirt Trend Dominating This Season",
+      "link": "https://www.whowhatwear.com/fashion/shopping/pareo-sarong-wrap-scarf-skirt-trend-summer-2026",
+      "summary": "Perfect for the city or by the sea.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
+      "score": 2,
       "published": "2026-05-28T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1045,15 +1073,29 @@
       "discovered_via": "feed"
     },
     {
-      "id": "496ac10cff13",
-      "title": "Everywhere I Look, Fashion People Are Wearing These 7 Summer Trends With Jeans",
-      "link": "https://www.whowhatwear.com/summer-trends-to-wear-with-jeans",
-      "summary": "From sporty jackets to thong sandals.",
+      "id": "392e76b05d66",
+      "title": "I'm From Florida and Live in NYC—These Are the 8 Summer Essentials I Wear in the South and the City",
+      "link": "https://www.whowhatwear.com/fashion/basics/wardrobe-essentials-for-hot-weather",
+      "summary": "Add these to your must-have list.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm From Florida and Live in NYC—These Are the 8 Summer Essentials I W...",
+      "score": 1,
+      "published": "2026-05-28T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c95394541e6a",
+      "title": "The 6 Sneaker Trends to Wear If You Want Your Summer Outfits to Look Relevant",
+      "link": "https://www.whowhatwear.com/fashion/summer/summer-sneaker-trends-2026",
+      "summary": "Peak cool.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
       "published": "2026-05-28T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1199,34 +1241,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "89f571277071",
-      "title": "I've Done the Research: This Is Where the 1% Buy Their Beauty Products",
-      "link": "https://www.whowhatwear.com/beauty/fragrance/where-the-1-per-cent-shop-for-beauty",
-      "summary": "How the super-rich buy beauty.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I've Done the Research: This Is Where the 1% Buy Their Beauty Products...",
-      "score": 1,
-      "published": "2026-05-28T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9c27c738e5b9",
-      "title": "The Luxury Edit: 12 Industry Tastemakers on the Pieces That Make Their Ultimate Wish Lists",
-      "link": "https://www.whowhatwear.com/fashion/luxury/designer-wishlist-2026",
-      "summary": "The best of the best.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Luxury Edit: 12 Industry Tastemakers on the Pieces That Make Their...",
-      "score": 1,
-      "published": "2026-05-28T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "73bd7452df04",
       "title": "What Makes a Hoodie Look High-End",
       "link": "https://www.fashiongonerogue.com/story/hoodie-look-high-end/",
@@ -1238,20 +1252,6 @@
       "angle": "Fashion Intelligence: What Makes a Hoodie Look High-End...",
       "score": 1,
       "published": "2026-05-28T02:47:38+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b57dc32061e3",
-      "title": "If You're Going to Wear a Colorful Outfit, This \"Risky\" Shoe Trend Is Cooler Than Black Flats",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/silver-flats-trend-emma-roberts",
-      "summary": "Fashion people will be all over this.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 4,
-      "published": "2026-05-27T21:01:25+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2881,52 +2881,52 @@
   ],
   "trends": [
     {
-      "term": "punjab national bank",
+      "term": "भारतीय रिज़र्व बैंक",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "విశాఖపట్నం",
+      "term": "तेज प्रताप यादव",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "tcs",
+      "term": "আজকের আবহাওয়া",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "indian navy",
+      "term": "janata party",
+      "summary": "",
+      "aza_category": "Occasion Dressing"
+    },
+    {
+      "term": "hang seng",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "benjamin netanyahu",
+      "term": "hindware",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "high court allahabad",
+      "term": "stock",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sheets",
+      "term": "indian air force",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "dte",
+      "term": "ರಾಜೀನಾಮೆ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "भारत बांग्लादेश सीमा",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "ബിനീഷ് കോടിയേരി",
+      "term": "škoda kodiaq",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
