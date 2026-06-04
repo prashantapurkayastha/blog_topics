@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-04T06:29:19.882394+00:00",
+  "generated_at": "2026-06-04T08:48:20.526593+00:00",
   "owned_count": 10,
   "competitor_count": 12,
-  "industry_count": 173,
+  "industry_count": 174,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Sea Resort 2027...",
       "score": 0,
-      "published": "2026-06-04T06:25:47+00:00",
+      "published": "2026-06-04T08:46:23+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Officine Générale Resort 2027...",
       "score": 0,
-      "published": "2026-06-04T06:25:47+00:00",
+      "published": "2026-06-04T08:46:23+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Officine Générale Resort 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-04T06:25:47+00:00",
+      "published": "2026-06-04T08:46:23+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +61,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Frederick Anderson Resort 2027...",
       "score": 0,
-      "published": "2026-06-04T06:25:47+00:00",
+      "published": "2026-06-04T08:46:23+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +75,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Partow Resort 2027...",
       "score": 0,
-      "published": "2026-06-04T06:25:47+00:00",
+      "published": "2026-06-04T08:46:23+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,7 +89,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Yigal Azrouël Resort 2027...",
       "score": 0,
-      "published": "2026-06-04T06:25:47+00:00",
+      "published": "2026-06-04T08:46:23+00:00",
       "discovered_via": "feed"
     },
     {
@@ -103,7 +103,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Khaite Resort 2027...",
       "score": 0,
-      "published": "2026-06-04T06:25:47+00:00",
+      "published": "2026-06-04T08:46:23+00:00",
       "discovered_via": "feed"
     },
     {
@@ -117,21 +117,119 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: R13 Resort 2027...",
       "score": 0,
-      "published": "2026-06-04T06:25:47+00:00",
+      "published": "2026-06-04T08:46:23+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "a5a30fe57cb6",
-      "title": "Diesel Resort 2027",
-      "link": "https://www.vogue.com/fashion-shows/resort-2027/diesel",
-      "summary": "",
-      "source": "Vogue US",
+      "id": "1399a3e19783",
+      "title": "I Asked Experts What Summer 2026 Will Smell Like—6 Perfume Trends You'll Want on Your Radar",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/summer-fragrance-trends-2026",
+      "summary": "Prepare for compliments.",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Diesel Resort 2027...",
-      "score": 0,
-      "published": "2026-06-04T06:25:47+00:00",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-06-04T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8725f43561f9",
+      "title": "If You Want to Make Denim Capris Look Chic This Summer, Wearing These 5 Outfits Will Earn You Compliments",
+      "link": "https://www.whowhatwear.com/fashion/summer/denim-capri-outfits-summer-2026",
+      "summary": "Cropped and cute.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-06-04T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f4e4b3c53922",
+      "title": "From Vintage Denim to Red Carpet Silk—Olivia Dean’s Style Is Quietly Perfect",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/olivia-dean-style-evolution",
+      "summary": "POV: A vintage-loving cool girl became a red carpet star,",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-06-04T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6a22cef3ad26",
+      "title": "I'm a Fashion Mom Who Works in NYC—These Are the Chic Tops I Wear With Jeans and Trousers",
+      "link": "https://www.whowhatwear.com/fashion/trends/fashionable-tops-jeans-trousers",
+      "summary": "All about the versatility.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm a Fashion Mom Who Works in NYC—These Are the Chic Tops I Wear With...",
+      "score": 2,
+      "published": "2026-06-04T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "80a8208e79df",
+      "title": "8 Elegant Outfits to Wear to the Ballet This Summer, From an NYCB-Loving Fashion Editor",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/summer-ballet-outfit-ideas",
+      "summary": "These looks are effortlessly chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 8 Elegant Outfits to Wear to the Ballet This Summer, From an NYCB-Lovi...",
+      "score": 3,
+      "published": "2026-06-04T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "04ce7e774e5b",
+      "title": "I Wear Black Even in 90-Degree Weather—Here’s How I Make It Work",
+      "link": "https://www.whowhatwear.com/fashion/shopping/black-clothes-summer-2026",
+      "summary": "Shop black clothes for summer.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Wear Black Even in 90-Degree Weather—Here’s How I Make It Work...",
+      "score": 1,
+      "published": "2026-06-04T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2feb1995a34f",
+      "title": "Live From Paris: 6 Early Summer Trends I'm Already Spotting on Every French Woman",
+      "link": "https://www.whowhatwear.com/fashion/trends/summer-trends-paris-2026",
+      "summary": "Heat wave approved.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-06-04T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "49d957dd9982",
+      "title": "Kerala debt Rs 5.07 lakh crore: White Paper sparks ruling UDF vs LDF showdown",
+      "link": "https://www.indiatoday.in/india/kerala/story/kerala-white-paper-chief-minister-vd-satheesan-tables-report-rs-507-lakh-crore-debtsparks-ruling-udf-vs-ldf-showdown-2921703-2026-06-04?utm_source=rss",
+      "summary": "Kerala debt Rs 5.07 lakh crore: White Paper sparks ruling UDF vs LDF showdown",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Kerala debt Rs 5.07 lakh crore: White Paper sparks ruling UDF vs LDF s...",
+      "score": 1,
+      "published": "2026-06-04T06:38:44+00:00",
       "discovered_via": "feed"
     },
     {
@@ -300,6 +398,20 @@
       "angle": "Fashion Intelligence: 3 Styles at Work: How to Wear Flip-Flops This Summer...",
       "score": 2,
       "published": "2026-06-03T23:30:18+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0b03c3fb18c5",
+      "title": "Trosort Wins the eBay Circular Fashion Fund",
+      "link": "https://www.vogue.com/article/trosort-wins-the-ebay-circular-fashion-fund",
+      "summary": "At the eBay Fashion Forum, seven finalists presented their sustainable fashion businesses to a panel of judges, alongside industry talks.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "Fashion Intelligence: Trosort Wins the eBay Circular Fashion Fund...",
+      "score": 2,
+      "published": "2026-06-03T23:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1031,20 +1143,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7a39494c9338",
-      "title": "Jonathan Daviss Is Done Living Up to Expectations",
-      "link": "https://www.whowhatwear.com/fashion/celebrity/jonathan-daviss-interview",
-      "summary": "After five seasons of Outer Banks, the actor is confidently stepping into the moment he's been waiting for.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Jonathan Daviss Is Done Living Up to Expectations...",
-      "score": 1,
-      "published": "2026-06-03T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6cc428129a2c",
       "title": "I Never Wear High Heels Anymore—These Are the Chic Summer Shoes I Wear Instead",
       "link": "https://www.whowhatwear.com/fashion/shopping/summer-shoes-under-two-inches",
@@ -1054,6 +1152,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I Never Wear High Heels Anymore—These Are the Chic Summer Shoes I Wear...",
+      "score": 1,
+      "published": "2026-06-03T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7a39494c9338",
+      "title": "Jonathan Daviss Is Done Living Up to Expectations",
+      "link": "https://www.whowhatwear.com/fashion/celebrity/jonathan-daviss-interview",
+      "summary": "After five seasons of Outer Banks, the actor is confidently stepping into the moment he's been waiting for.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Jonathan Daviss Is Done Living Up to Expectations...",
       "score": 1,
       "published": "2026-06-03T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1213,20 +1325,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "01e8a15a775b",
-      "title": "Shopbop Just Launched an Incredible Sale—15 of the Best Pieces",
-      "link": "https://www.whowhatwear.com/fashion/shopping/shopbop-sale-june-2026",
-      "summary": "Get an extra 25% off sale items through June 5.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-06-02T20:37:38+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3ea2ef1a5500",
       "title": "Ugly Hiking Shoes Are Trending—Here’s How to Make Them Look Chic",
       "link": "https://www.harpersbazaar.com/fashion/trends/a71430276/how-to-style-walking-sandals/",
@@ -1252,20 +1350,6 @@
       "angle": "Fashion Intelligence: Anne Hathaway Makes Pajama Dressing Look So Chic With a Breezy Bright-...",
       "score": 1,
       "published": "2026-06-02T20:27:50+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7e3c1edd1642",
-      "title": "If You Want to Look Rich in PVC Heels, J.Lo Just Wore the Pretty Skirt Trend That Works in 2026",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/slip-skirt-pvc-heels-outfit-jennifer-lopez",
-      "summary": "Take note of the color too.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-06-02T20:21:28+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1339,34 +1423,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "548a620c2557",
-      "title": "The It Bag Chic Moms in London Are Suddenly Wearing With Jeans and Boots",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/suki-waterhouse-it-bag-jeans-outfit",
-      "summary": "Suki Waterhouse in the blueprint.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-06-02T17:51:26+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d71d77f38c50",
-      "title": "5 Summer Trends I'm Excited About—Here Are 44 Standout Fashion Finds for Getting Each Look",
-      "link": "https://www.whowhatwear.com/fashion/shopping/kaye-bassey-summer-2026-fashion-picks",
-      "summary": "Time to hit your closet's refresh button.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-06-02T16:46:03+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "71650f75de63",
       "title": "Jennifer Lopez Does Tonal Dressing the Blood-Red Way With a Snakeskin Coat, Birkin, and Boots",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71470599/jennifer-lopez-tonal-dressing-blood-red-snakeskin-coat-birkin-bag-photos-office-romance-press/",
@@ -1392,20 +1448,6 @@
       "angle": "Fashion Intelligence: Ariana Grande and the Return of the Narrative Music Video...",
       "score": 1,
       "published": "2026-06-02T16:31:28+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e4cf05c3ac5c",
-      "title": "Spotted in New York: The Chicest Way to Wear Capris and Kitten Heels This Summer",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/capris-kitten-heels-outfit-tessa-thompson",
-      "summary": "Wear this outfit combination from now until September.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-06-02T16:18:36+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1591,20 +1633,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c49857715258",
-      "title": "Just When You Thought It Disappeared, J.Law Brought This Controversial Colour Trend Back for Summer",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/jennifer-lawrence-chartreuse-colour-trend-2026",
-      "summary": "Brace for impact.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-06-02T09:49:38+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7ebaf4f2cb92",
       "title": "How A Man Should Dress In His 40s 2026",
       "link": "https://www.fashionbeans.com/article/how-to-dress-in-your-40s-men/",
@@ -1616,34 +1644,6 @@
       "angle": "Fashion Intelligence: How A Man Should Dress In His 40s 2026...",
       "score": 1,
       "published": "2026-06-02T09:00:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "96b5ab7eb8bb",
-      "title": "Wait—Instead of Ballet Flats, Try the Alternative Flat-Shoe Trend Lily Collins Just Wore in Paris",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/lily-collins-jazz-flats-shoe-trend",
-      "summary": "So French.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-06-02T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "32533282ddad",
-      "title": "Victoria Beckham Just Showed Me the Classiest Way to Wear a Tank Top This Summer",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/tank-top-tailored-trousers-outfit-victoria-beckham-2026",
-      "summary": "How to make a tank look chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Victoria Beckham Just Showed Me the Classiest Way to Wear a Tank Top T...",
-      "score": 2,
-      "published": "2026-06-02T08:57:02+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2431,6 +2431,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "581d8f69aec5",
+      "title": "GUESS celebra Marilyn Monroe: la mostra al MUDEC e la capsule collection. Un progetto che unisce moda, fotografia e cultura contemporanea",
+      "link": "https://www.theblondesalad.com/fashion/guess-celebra-marilyn-monroe-la-mostra-al-mudec-e-la-capsule-collection-un-progetto-che-unisce-moda-fotografia-e-cultura-contemporanea/",
+      "summary": "C’è un momento preciso in cui la moda smette di essere solo prodotto e diventa racconto culturale. È quello che [&#8230;] The post GUESS celebra Marilyn Monroe: la mostra al MUDEC e la capsule collection. Un progetto che unisce moda, fotografia e cultura contemporanea first appeared on The Blonde Salad .",
+      "source": "The Blonde Salad",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-04-21T10:00:12+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "06c1cba1b0dd",
       "title": "Beat the Heat in Style with These Stunning Indian Summer Outfits",
       "link": "https://blog.kalkifashion.com/beat-the-heat-indian-stunning-summer-outfits/",
@@ -2741,52 +2755,52 @@
   ],
   "trends": [
     {
-      "term": "neet 2026",
+      "term": "प्रधानमंत्री किसान सम्मान निधि",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ஓ. பன்னீர்செல்வம்",
+      "term": "uppsc",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "भारत मौसम विज्ञान विभाग",
+      "term": "विराट कोहली",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಶುಭಾ ಪೂಂಜಾ",
+      "term": "ಮಳೆಗಾಲ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "సెలవు",
+      "term": "joe root",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ifci share price",
+      "term": "ক্রিকেট",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "vicky kaushal",
+      "term": "हिंदुस्तान ज़िंक",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "पाकिस्तान",
+      "term": "భారతీయ రిజర్వ్ బ్యాంక్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cmr green technologies ipo gmp",
+      "term": "maa behen",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "trent share price",
+      "term": "റസൂല് പൂക്കുട്ടി",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
