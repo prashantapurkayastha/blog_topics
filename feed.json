@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T10:04:24.200148+00:00",
+  "generated_at": "2026-06-06T12:06:52.932346+00:00",
   "owned_count": 10,
   "competitor_count": 18,
   "industry_count": 173,
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Zegna Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-06T10:02:21+00:00",
+      "published": "2026-06-06T12:04:10+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Ganni Resort 2027...",
       "score": 0,
-      "published": "2026-06-06T10:02:21+00:00",
+      "published": "2026-06-06T12:04:10+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: A.L.C. Resort 2027...",
       "score": 0,
-      "published": "2026-06-06T10:02:21+00:00",
+      "published": "2026-06-06T12:04:10+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +61,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: By Malene Birger Resort 2027...",
       "score": 0,
-      "published": "2026-06-06T10:02:21+00:00",
+      "published": "2026-06-06T12:04:10+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +75,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Bevza Resort 2027...",
       "score": 0,
-      "published": "2026-06-06T10:02:21+00:00",
+      "published": "2026-06-06T12:04:10+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,7 +89,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Rabanne Resort 2027...",
       "score": 0,
-      "published": "2026-06-06T10:02:21+00:00",
+      "published": "2026-06-06T12:04:10+00:00",
       "discovered_via": "feed"
     },
     {
@@ -103,7 +103,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Tibi Resort 2027...",
       "score": 0,
-      "published": "2026-06-06T10:02:21+00:00",
+      "published": "2026-06-06T12:04:10+00:00",
       "discovered_via": "feed"
     },
     {
@@ -117,7 +117,35 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Roberto Cavalli Resort 2027...",
       "score": 0,
-      "published": "2026-06-06T10:02:21+00:00",
+      "published": "2026-06-06T12:04:10+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ddfb6957bddc",
+      "title": "Not Skinny Jeans—Fashion People in Their 40s Are Wearing This Dated Denim Trend With Heeled Flip-Flops",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/palazzo-jeans-heeled-flip-flops-outfit-katie-holmes",
+      "summary": "Spotted in NYC.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-06-06T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5ea759988e33",
+      "title": "ICYMI: CFDA/'Vogue' Fashion Fund 2026 Finalists, Sandy Liang's Second Baggu Collab & Miami Swim Week Trends",
+      "link": "https://fashionista.com/2026/06/fashion-news-you-need-to-know-june-6",
+      "summary": "A must-read roundup of our most popular stories of the week.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-06-06T12:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -261,20 +289,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d3dd855c49dd",
-      "title": "A Nail Expert Just Confirmed—These Are the Most Stylish Pedicure Shades to Wear on Your Toes",
-      "link": "https://www.whowhatwear.com/beauty/nails/june-pedicure-colour-trends-2026",
-      "summary": "Sandal season is upon us.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: A Nail Expert Just Confirmed—These Are the Most Stylish Pedicure Shade...",
-      "score": 2,
-      "published": "2026-06-06T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f49de2f24954",
       "title": "I've Done the Research—These Are the 6 Best Summer Tops to Wear With Jeans in 2026",
       "link": "https://www.whowhatwear.com/fashion/tops/summer-tops-to-wear-with-jeans-2026",
@@ -285,6 +299,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I've Done the Research—These Are the 6 Best Summer Tops to Wear With J...",
       "score": 1,
+      "published": "2026-06-06T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d3dd855c49dd",
+      "title": "A Nail Expert Just Confirmed—These Are the Most Stylish Pedicure Shades to Wear on Your Toes",
+      "link": "https://www.whowhatwear.com/beauty/nails/june-pedicure-colour-trends-2026",
+      "summary": "Sandal season is upon us.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: A Nail Expert Just Confirmed—These Are the Most Stylish Pedicure Shade...",
+      "score": 2,
       "published": "2026-06-06T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1367,20 +1395,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "97cce532ca8e",
-      "title": "I Just Got Back From Miami Swim Week: These Are the 8 It-Girl Trends to Know",
-      "link": "https://www.whowhatwear.com/fashion/swimwear/miami-swim-week-trends-2026",
-      "summary": "Plus, see what Megan Thee Stallion and Grace Ann Nader wore on the runway.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-06-04T18:20:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3020a084081f",
       "title": "The French Bob Is This Season’s Most Elegant Hair Trend—Here’s How to Style It",
       "link": "https://www.harpersbazaar.com/beauty/hair/a71496174/french-bob-haircut-trend/",
@@ -2403,20 +2417,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4854fff2f8bb",
-      "title": "Peixoto Is Hiring A Senior Marketing Manager In Miami, FL",
-      "link": "https://fashionista.com/2026/05/peixoto-is-hiring-a-senior-marketing-manager-in-miami-fl",
-      "summary": "Peixoto is a Miami-based, Colombian-made resortwear brand focused on elevated, feminine dressing designed for life under the sun — from beach to brunch to vacation dressing.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Peixoto Is Hiring A Senior Marketing Manager In Miami, FL...",
-      "score": 3,
-      "published": "2026-05-26T17:25:13+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "581d8f69aec5",
       "title": "GUESS celebra Marilyn Monroe: la mostra al MUDEC e la capsule collection. Un progetto che unisce moda, fotografia e cultura contemporanea",
       "link": "https://www.theblondesalad.com/fashion/guess-celebra-marilyn-monroe-la-mostra-al-mudec-e-la-capsule-collection-un-progetto-che-unisce-moda-fotografia-e-cultura-contemporanea/",
@@ -2683,6 +2683,62 @@
       "discovered_via": "feed"
     },
     {
+      "id": "809d1c39b2c2",
+      "title": "The Dresses Taking Over Saudi’s Women-Only Beach Clubs",
+      "link": "https://www.azafashions.com/blog/dresses-for-saudis-women-beach-clubs/?utm_source=rss&utm_medium=rss&utm_campaign=dresses-for-saudis-women-beach-clubs",
+      "summary": "There is a new kind of luxury unfolding along the Saudi coastline. Women only beach clubs in Saudi Arabia have become some of the most coveted destinations in the Kingdom. Think private&#8230; The post The Dresses Taking Over Saudi&#8217;s Women-Only Beach Clubs appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Dresses Taking Over Saudi’s Women-Only Beach Clubs...",
+      "score": 2,
+      "published": "2026-06-05T22:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "eabad4805fd3",
+      "title": "What to Wear to Food & Wine Festivals in Australia: Outfit Inspiration",
+      "link": "https://www.azafashions.com/blog/food-wine-festivals-australia-outfit-ideas/?utm_source=rss&utm_medium=rss&utm_campaign=food-wine-festivals-australia-outfit-ideas",
+      "summary": "Australia's food and wine festival scene&#160;pairs spectacular&#160;flavours&#160;with jaw-dropping natural backdrops. These events sit at the crossroads of culture, cuisine, and community,&#160;set against landscapes that range from sun-bleached coastal towns to&#8230; The post What to Wear to Food &amp; Wine Festiva",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: What to Wear to Food & Wine Festivals in Australia: Outfit Inspiration...",
+      "score": 2,
+      "published": "2026-06-05T14:07:36+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3c30409cdf29",
+      "title": "If Old-Money Indian Fashion Had a Face, It Would Be Kangana Ranaut in a Saree",
+      "link": "https://www.azafashions.com/blog/kangana-ranaut-saree-collection/?utm_source=rss&utm_medium=rss&utm_campaign=kangana-ranaut-saree-collection",
+      "summary": "Old-money style is widely misunderstood. Most people assume it means expensive clothes, rare labels, or the kind of dressing that announces wealth before a word is spoken. In India, that&#8230; The post If Old-Money Indian Fashion Had a Face, It Would Be Kangana Ranaut in a Saree appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: If Old-Money Indian Fashion Had a Face, It Would Be Kangana Ranaut in ...",
+      "score": 5,
+      "published": "2026-06-05T11:05:52+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4a0dcaaf1502",
+      "title": "We Didn’t Know We Needed a Denim Saree Until Madhuri Dixit Wore One and Broke the Internet",
+      "link": "https://www.azafashions.com/blog/madhuri-dixit-denim-saree/?utm_source=rss&utm_medium=rss&utm_campaign=madhuri-dixit-denim-saree",
+      "summary": "There are trends, and then there are moments.&#160;Madhuri Dixit's recent promotional appearance for her upcoming Netflix film&#160;Maa Behan&#160;was definitively the latter.&#160;The Bollywood icon, who has never needed much of an&#8230; The post We Didn&#8217;t Know We Needed a Denim Saree Until Madhuri Dixit Wore O",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-06-05T08:31:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "b279c622ec67",
       "title": "World Environment Day 2026: Can Your Outfit Save the Planet?",
       "link": "https://www.azafashions.com/blog/world-environment-day-sustainable-fashion/?utm_source=rss&utm_medium=rss&utm_campaign=world-environment-day-sustainable-fashion",
@@ -2739,138 +2795,82 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ccd111968356",
-      "title": "What to Wear in Amritsar: Golden Temple Visit & Heritage Walk Style Guide",
-      "link": "https://www.azafashions.com/blog/what-to-wear-in-amritsar-golden-temple-heritage-walk-outfits/?utm_source=rss&utm_medium=rss&utm_campaign=what-to-wear-in-amritsar-golden-temple-heritage-walk-outfits",
-      "summary": "The best outfits for Amritsar are modest, breathable, and comfortable for walking. For the Golden Temple, wear clothes that cover your shoulders and knees, and carry a dupatta, scarf, or&#8230; The post What to Wear in Amritsar: Golden Temple Visit &amp; Heritage Walk Style Guide appeared first on Aza Editorials .",
+      "id": "333dcdde0c29",
+      "title": "From Majlis to Masjid: 7 Muharram Outfit Ideas That Feel Right in the UAE",
+      "link": "https://www.azafashions.com/blog/muharram-fashion-uae/?utm_source=rss&utm_medium=rss&utm_campaign=muharram-fashion-uae",
+      "summary": "Muharram, the first month of the Islamic calendar, is a time of quiet introspection, spiritual renewal, and deep-rooted community. In the UAE, where culture, heritage, and cosmopolitan energy converge in the most&#8230; The post From Majlis to Masjid: 7 Muharram Outfit Ideas That Feel Right in the UAE appeared first on",
       "source": "AZA Blog",
       "tier": "owned",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
-      "score": 4,
-      "published": "2026-06-01T10:27:00+00:00",
+      "aza_category": "Art & Craft",
+      "angle": "Fashion Intelligence: From Majlis to Masjid: 7 Muharram Outfit Ideas That Feel Right in the ...",
+      "score": 1,
+      "published": "2026-06-03T00:14:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "ab6d4513d9bb",
-      "title": "The Gentleman’s Closet at Aza Santacruz: A Curated Vision of Modern Menswear",
-      "link": "https://www.azafashions.com/blog/the-gentlemans-closet-at-aza-santacruz/?utm_source=rss&utm_medium=rss&utm_campaign=the-gentlemans-closet-at-aza-santacruz",
-      "summary": "The best menswear moments rarely announce themselves. They settle quietly in a sharp shoulder line, a perfectly weighted fabric, a garment that feels like it was made for exactly the&#8230; The post The Gentleman’s Closet at Aza Santacruz: A Curated Vision of Modern Menswear appeared first on Aza Editorials .",
+      "id": "303291901b4d",
+      "title": "From Temple Visits to Home Pujas: What to Wear for Vat Savitri in the USA",
+      "link": "https://www.azafashions.com/blog/vat-savitri-puja-outfit-usa/?utm_source=rss&utm_medium=rss&utm_campaign=vat-savitri-puja-outfit-usa",
+      "summary": "Vat Savitri Puja is one of those festivals that carries the weight of devotion, tradition, and beauty all at once. Observed by married Hindu women who fast and pray for&#8230; The post From Temple Visits to Home Pujas: What to Wear for Vat Savitri in the USA appeared first on Aza Editorials .",
       "source": "AZA Blog",
       "tier": "owned",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Gentleman’s Closet at Aza Santacruz: A Curated Vision of Modern Me...",
+      "angle": "Fashion Intelligence: From Temple Visits to Home Pujas: What to Wear for Vat Savitri in the ...",
       "score": 2,
-      "published": "2026-06-01T08:34:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "24bf0828fb57",
-      "title": "What to Wear in Sri Lanka: A Simple Style Guide",
-      "link": "https://www.azafashions.com/blog/what-to-wear-in-sri-lanka-travel-style-guide/?utm_source=rss&utm_medium=rss&utm_campaign=what-to-wear-in-sri-lanka-travel-style-guide",
-      "summary": "Sri Lanka is warm, tropical, and full of variety. One day you may be relaxing on a sunny beach, and the next you may be walking through a temple, exploring&#8230; The post What to Wear in Sri Lanka: A Simple Style Guide appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-06-01T07:31:43+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "94af45f11870",
-      "title": "What to Wear in Paris: A Stylish Travel Guide by Aza Fashions",
-      "link": "https://www.azafashions.com/blog/what-to-wear-in-paris/?utm_source=rss&utm_medium=rss&utm_campaign=what-to-wear-in-paris",
-      "summary": "Paris is known for its effortless style. The look is polished, simple, and never too loud. Parisians often choose tailored staples, neutral colors, clean lines, and comfortable shoes that still&#8230; The post What to Wear in Paris: A Stylish Travel Guide by Aza Fashions appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: What to Wear in Paris: A Stylish Travel Guide by Aza Fashions...",
-      "score": 3,
-      "published": "2026-06-01T06:09:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a14932d26d82",
-      "title": "How to Find the Perfect Vacation Dress With Aza’s Virtual Try-On",
-      "link": "https://www.azafashions.com/blog/vacation-dress-with-azas-virtual-try-on/?utm_source=rss&utm_medium=rss&utm_campaign=vacation-dress-with-azas-virtual-try-on",
-      "summary": "Vacation fashion is no longer an afterthought. It is part of the full travel mood. From airport looks and beach cafés to sunset dinners, poolside lounging, and photo-ready resort moments,&#8230; The post How to Find the Perfect Vacation Dress With Aza’s Virtual Try-On appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How to Find the Perfect Vacation Dress With Aza’s Virtual Try-On...",
-      "score": 2,
-      "published": "2026-05-30T22:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0f44088dd51a",
-      "title": "The Dupatta Saree Is Officially the Prettiest Trend of 2026",
-      "link": "https://www.azafashions.com/blog/dupatta-saree-trend/?utm_source=rss&utm_medium=rss&utm_campaign=dupatta-saree-trend",
-      "summary": "There is something almost poetic about fashion returning to what it was always meant to be,&#160;graceful, layered, and deeply rooted. And right now, no trend captures that spirit better than&#8230; The post The Dupatta Saree Is Officially the Prettiest Trend of 2026 appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 4,
-      "published": "2026-05-30T11:39:07+00:00",
+      "published": "2026-06-02T15:02:00+00:00",
       "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "व्लादिमीर पुतिन",
+      "term": "बोनस शेयर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cji surya kant london lecture",
+      "term": "தமிழ்நாடு அரசு",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "നരേന്ദ്ര മോദി",
+      "term": "weather hyderabad",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "stock market crash",
+      "term": "करिश्मा कपूर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "സലീം കുമാര്",
+      "term": "न्यायालय",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "netherlands vs scotland",
+      "term": "రుతుపవనం",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "world cup warm-up",
+      "term": "ஹர்திக் பாண்டியா",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "రష్యా",
+      "term": "ভ্লাদিমির পুতিন",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mumbai auto driver honest return",
+      "term": "आनंदीबेन पटेल",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "आयरलैण्ड क्रिकेट टीम",
+      "term": "डार्क कॉमेडी",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
