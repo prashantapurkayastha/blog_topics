@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-07T06:15:31.705557+00:00",
+  "generated_at": "2026-06-07T08:24:27.167687+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 173,
+  "industry_count": 176,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: House of Dagmar Fall 2026 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-06-07T06:10:38+00:00",
+      "published": "2026-06-07T08:22:12+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Ashlyn Resort 2027...",
       "score": 0,
-      "published": "2026-06-07T06:10:38+00:00",
+      "published": "2026-06-07T08:22:12+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Norma Kamali Resort 2027...",
       "score": 0,
-      "published": "2026-06-07T06:10:38+00:00",
+      "published": "2026-06-07T08:22:12+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +61,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Anna Sui Resort 2027...",
       "score": 0,
-      "published": "2026-06-07T06:10:38+00:00",
+      "published": "2026-06-07T08:22:12+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +75,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Zegna Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-07T06:10:38+00:00",
+      "published": "2026-06-07T08:22:12+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,7 +89,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Ganni Resort 2027...",
       "score": 0,
-      "published": "2026-06-07T06:10:38+00:00",
+      "published": "2026-06-07T08:22:12+00:00",
       "discovered_via": "feed"
     },
     {
@@ -103,7 +103,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: A.L.C. Resort 2027...",
       "score": 0,
-      "published": "2026-06-07T06:10:38+00:00",
+      "published": "2026-06-07T08:22:12+00:00",
       "discovered_via": "feed"
     },
     {
@@ -117,21 +117,133 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: By Malene Birger Resort 2027...",
       "score": 0,
-      "published": "2026-06-07T06:10:38+00:00",
+      "published": "2026-06-07T08:22:12+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "8404fadcdb8e",
-      "title": "I Wore This Bella Hadid–Approved LED Mask for 14 Days—My Real, Unfiltered Thoughts",
-      "link": "https://www.whowhatwear.com/beauty/skin/omnilux-led-face-mask-review-uk",
-      "summary": "Inside, my quest for supermodel skin.",
+      "id": "30045e0a0998",
+      "title": "Not Capris—Loafers Look Chicest With This Trending Alternative",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/black-long-shorts-loafers-outfit-amelia-grey-hamlin-2026",
+      "summary": "It's true.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
-      "published": "2026-06-07T06:00:00+00:00",
+      "published": "2026-06-07T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3ae782d238c5",
+      "title": "Dove Cameron on Bridal Beauty, Vulnerability, and How Going Brunette Changed Her Makeup Routine",
+      "link": "https://www.whowhatwear.com/beauty/makeup/dove-cameron-beauty-interview-2026",
+      "summary": "Read our Unfiltered chat.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Dove Cameron on Bridal Beauty, Vulnerability, and How Going Brunette Changed Her Makeup Routine — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-06-07T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a6fd7d1b473a",
+      "title": "I Know You Love Cute Sandals and Summer Tops—These New Nordstrom Styles Will Look So Chic With Your Favorite Basics",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-nordstrom-sandals-tops-summer-2026",
+      "summary": "Heeled flip-flops! Linen trousers! Satin tanks!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Know You Love Cute Sandals and Summer Tops—These New Nordstrom Style...",
+      "score": 1,
+      "published": "2026-06-07T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "62bfd234fbbb",
+      "title": "This Bag Brand Is Designing the Hottest Accessories For Summer 2026",
+      "link": "https://www.whowhatwear.com/fashion/valesque-bag-brand",
+      "summary": "This Bag Brand Is Designing the Hottest Accessories For Summer 2026",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: This Bag Brand Is Designing the Hottest Accessories For Summer 2026...",
+      "score": 1,
+      "published": "2026-06-07T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "37c4e7d6649e",
+      "title": "We’re Fashion Editors, and We’re Over Wearing These 9 Summer Trends",
+      "link": "https://www.whowhatwear.com/fashion/trends/dated-summer-trends-2026",
+      "summary": "Trust us—we're experts.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-06-07T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3c2a00ad9dfb",
+      "title": "I'm Tired of Boring Feet—These 6 Elegant Sandal Trends are The Best Thing You'll Wear This Summer",
+      "link": "https://www.whowhatwear.com/fashion/shoes/sandal-trends-summer-2026",
+      "summary": "Prepare your pedi.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-06-07T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b4163cca91b6",
+      "title": "I Did My Own Wedding Makeup as a Type-A Bride—4 Non-Negotiable Tips I Got from The Internet's Favorite MUAs",
+      "link": "https://www.whowhatwear.com/beauty/wedding-makeup-mua-tips",
+      "summary": "The ultimate DIY bridal glow, ahead.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: I Did My Own Wedding Makeup as a Type-A Bride—4 Non-Negotiable Tips I Got from The Internet's Favorite MUAs — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-06-07T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "99fe6145700f",
+      "title": "14 Swimwear Brands Celebrities Can't Get Enough of This Summer",
+      "link": "https://www.whowhatwear.com/fashion/shopping/swimwear-brands-summer-2026",
+      "summary": "From Frankies Bikinis to Hunza G.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 14 Swimwear Brands Celebrities Can't Get Enough of This Summer...",
+      "score": 2,
+      "published": "2026-06-07T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ecf878aab78d",
+      "title": "Going to a Summer Wedding? These 6 Dress Trends at M&S Will Ensure You're Best Dressed",
+      "link": "https://www.whowhatwear.com/best-marks-and-spencer-wedding-guest-dresses",
+      "summary": "The award is yours.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Going to a Summer Wedding? These 6 Dress Trends at M&S Will Ensure You're Best Dressed — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-06-07T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -144,6 +256,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I Hate the Feeling of Too Much Makeup on My Face—These Are the Product...",
+      "score": 1,
+      "published": "2026-06-07T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8404fadcdb8e",
+      "title": "I Wore This Bella Hadid–Approved LED Mask for 14 Days—My Real, Unfiltered Thoughts",
+      "link": "https://www.whowhatwear.com/beauty/skin/omnilux-led-face-mask-review-uk",
+      "summary": "Inside, my quest for supermodel skin.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-06-07T06:00:00+00:00",
       "discovered_via": "feed"
@@ -541,15 +667,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f3aaa65b8e98",
-      "title": "I Usually Refuse to Wear Skirts, But These 30 Chic Ones From Zara, Madewell, and J.Crew Made Me Change My Mind",
-      "link": "https://www.whowhatwear.com/fashion/skirts/best-zara-madewell-jcrew-skirts",
-      "summary": "Trust me—I'm a classic tomboy.",
+      "id": "2964c434fc1d",
+      "title": "Not Sneakers, Not Sandals—Celebs in NYC are Wearing the Iconic Flats Parisians Buy in Bulk",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/repetto-ballet-flats-celebrities",
+      "summary": "Kaia! Vittoria! Maude!",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Usually Refuse to Wear Skirts, But These 30 Chic Ones From Zara, Mad...",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-06-06T07:00:00+00:00",
       "discovered_via": "feed"
@@ -569,15 +695,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2964c434fc1d",
-      "title": "Not Sneakers, Not Sandals—Celebs in NYC are Wearing the Iconic Flats Parisians Buy in Bulk",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/repetto-ballet-flats-celebrities",
-      "summary": "Kaia! Vittoria! Maude!",
+      "id": "f3aaa65b8e98",
+      "title": "I Usually Refuse to Wear Skirts, But These 30 Chic Ones From Zara, Madewell, and J.Crew Made Me Change My Mind",
+      "link": "https://www.whowhatwear.com/fashion/skirts/best-zara-madewell-jcrew-skirts",
+      "summary": "Trust me—I'm a classic tomboy.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "angle": "Fashion Intelligence: I Usually Refuse to Wear Skirts, But These 30 Chic Ones From Zara, Mad...",
       "score": 1,
       "published": "2026-06-06T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1115,6 +1241,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "3d610c9c5fd6",
+      "title": "Elvis Presley: The King Of Fashion",
+      "link": "https://www.fashionbeans.com/article/elvis-presley-fashion/",
+      "summary": "It’s 1968, an NBC TV special. There’s a small stage, surrounded by primly-dressed women with big bouffant dos and men dressed as though they might be accountants. On the stage is a raven-maned man who occasionally sits on the steps to be among the people. But he is clearly not of the people &#8211; not &#8230; Continue",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Elvis Presley: The King Of Fashion...",
+      "score": 3,
+      "published": "2026-06-05T12:48:10+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "6e02cdfbdfb2",
       "title": "Weekly Drop Watch: Mango x Eckhaus Latta, Reformation x Courtney Grow, Le Labo and More",
       "link": "https://fashionista.com/2026/06/best-fashion-beauty-launches-collabs-june-5",
@@ -1269,20 +1409,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b7be9997668c",
-      "title": "Not PDRN, Not Exosomes—Korean Beauty Experts Say This Is the Ultimate Hero for Glass Skin",
-      "link": "https://www.whowhatwear.com/beauty/skin/best-collagen-jelly-cream",
-      "summary": "Gen Z is already obsessed.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Not PDRN, Not Exosomes—Korean Beauty Experts Say This Is the Ultimate ...",
-      "score": 1,
-      "published": "2026-06-05T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6b5af3e72aaf",
       "title": "5 Best Onitsuka Tiger Shoes: Tops Among a Scarce Breed 2026",
       "link": "https://www.fashionbeans.com/article/best-onitsuka-tiger-shoes/",
@@ -1297,59 +1423,31 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0631926e1c95",
-      "title": "Wondering What to Wear to a Summer Wedding? These Are The Expert-Backed Dresses To Know About",
-      "link": "https://www.whowhatwear.com/living/wedding/wedding-guest-dresses-summer-2026",
-      "summary": "To have and to hold.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Wondering What to Wear to a Summer Wedding? These Are The Expert-Backed Dresses To Know About — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-06-05T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d36da434686a",
-      "title": "The 5 Most Important Trends of 2026, According to Celebrity Stylists Wayman and Micah",
-      "link": "https://www.whowhatwear.com/fashion/fashion-trends-wayman-and-micah-2026",
-      "summary": "These are key.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-06-05T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9109373129f0",
-      "title": "Kate Middleton Just Wore the Elegant Dress Trend That's All Over Zara, H&M and M&S—21 Chic Styles Worth Seeing",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-polka-dot-dresses-2026",
-      "summary": "Royally chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-06-05T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d3e301334548",
-      "title": "Hear Me Out—These 37 Nordstrom Tops, Dresses, Skirts, and Pants Solve 99% of Your Summer Fashion Needs",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-nordstrom-tops-skirts-pants-dresses-summer-june-2026",
-      "summary": "The only hot-weather shopping guide you need.",
-      "source": "Who What Wear",
+      "id": "342a18638d3f",
+      "title": "The Best Loafers Guide You’ll Ever Read",
+      "link": "https://www.fashionbeans.com/article/guide-to-mens-loafers/",
+      "summary": "A country house shoe for the landed gentry, or a Norwegian farmer’s favoured style of footwear? Whatever you consider to be the true origins of the contemporary loafer, what’s indisputable is this timeless silhouette’s skilful blend of comfort and flair. Unlike the holy footwear trinity of brogues, Derbies and Oxfords ",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Hear Me Out—These 37 Nordstrom Tops, Dresses, Skirts, and Pants Solve ...",
+      "angle": "Fashion Intelligence: The Best Loafers Guide You’ll Ever Read...",
       "score": 2,
-      "published": "2026-06-05T07:00:00+00:00",
+      "published": "2026-06-05T08:00:40+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ab41366e873b",
+      "title": "What To Wear To A Summer Wedding",
+      "link": "https://www.fashionbeans.com/article/summer-wedding-what-to-wear/",
+      "summary": "There comes a time in every man’s life when summers become a seemingly endless succession of other people’s nuptials. If you haven’t reached that point yet, then rest assured: summer wedding season is coming. As is the constant deliberation over wedding attire. Sometimes, in the case of stricter dress codes, there’s a ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Bridal Edit: What To Wear To A Summer Wedding — A Complete Style Guide",
+      "score": 4,
+      "published": "2026-06-05T07:00:47+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1367,31 +1465,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d183681e5d14",
-      "title": "I've Found Them: The 6 Minimalist Summer Trends Gen Z Is Backing This Summer",
-      "link": "https://www.whowhatwear.com/fashion/trends/gen-z-minimalist-summer-trends-2026",
-      "summary": "Gen Z can be minimalist too!",
-      "source": "Who What Wear",
+      "id": "05e432a92a8d",
+      "title": "25 Best Luxury Watches For Men: Show Up In Style 2026",
+      "link": "https://www.fashionbeans.com/article/luxury-watches-brands/",
+      "summary": "Perhaps no area of bodily real estate is more valuable—and more overlooked—than your wrist. It may feel like no one’s looking, but that couldn’t be further from the truth. Your choice to drape a fine watch over your wrist as opposed to a lesser object speaks directly to your appreciation of the exceptional. If this &#8",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-06-05T05:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1c3226a106e9",
-      "title": "If You Need an Excuse to Shop, Revolve Just Dropped the Chicest Summer Pieces—See What's in My Cart",
-      "link": "https://www.whowhatwear.com/fashion/shopping/revolve-summer-2026",
-      "summary": "Dresses, skirts, shoes, and more.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: If You Need an Excuse to Shop, Revolve Just Dropped the Chicest Summer...",
-      "score": 1,
-      "published": "2026-06-05T04:00:00+00:00",
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: 25 Best Luxury Watches For Men: Show Up In Style 2026...",
+      "score": 3,
+      "published": "2026-06-05T04:00:20+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2109,48 +2193,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3b8995322710",
-      "title": "7 Shoes Like Hey Dude – Similar Alternatives For Men 2026",
-      "link": "https://www.fashionbeans.com/article/shoes-like-hey-dude/",
-      "summary": "Whether you’re looking for something more affordable, unique, or just an alternative to those old high school canvas slip ons, there are a lot of shoes like Hey Dude out there. The Italian brand is synonymous with casual slip-on loafer-style shoes made for comfort and functionality, but they aren’t the only option for ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 7 Shoes Like Hey Dude – Similar Alternatives For Men 2026...",
-      "score": 2,
-      "published": "2026-06-02T11:16:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "66c4234276e1",
-      "title": "Smart Casual Dress Code For Men: Attire and Style Guide 2026",
-      "link": "https://www.fashionbeans.com/article/mens-smart-casual-dress-guide/",
-      "summary": "Trying to find the true meaning of the phrase smart casual can quickly turn into a nightmare. The Oxford Dictionary defines it as “neat, conventional, yet relatively informal in style, especially as worn to conform to a particular dress code”. But these days it&#8217;s quite common for smart casual to be the dress code",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-06-02T10:02:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7ebaf4f2cb92",
-      "title": "How A Man Should Dress In His 40s 2026",
-      "link": "https://www.fashionbeans.com/article/how-to-dress-in-your-40s-men/",
-      "summary": "They say that life begins at 40, which frankly is a little bit too Benjamin Button for comfort. It’s also not true, clearly. Even if you can reasonably expect to make it to 80, up from a short and not especially sweet 25 in medieval times, your fifth decade is middle age at best; you’re &#8230; Continue reading How A M",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: How A Man Should Dress In His 40s 2026...",
-      "score": 1,
-      "published": "2026-06-02T09:00:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2fa855c20fc9",
       "title": "Sandy Liang's Second Collab With Baggu Is Here & It's Better Than the First",
       "link": "https://fashionista.com/2026/06/sandy-liang-baggu-second-collaboration",
@@ -2825,52 +2867,52 @@
   ],
   "trends": [
     {
-      "term": "वेतन",
+      "term": "কলকাতা",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "അച്ചു ഉമ്മന്",
+      "term": "మామిడి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "समोसा",
+      "term": "मोहम्मद सिराज",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ashok khemka",
+      "term": "राजस्थान",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ध्रुव जुरेल",
+      "term": "विजय केडिया",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kuldeep yadav",
+      "term": "बैंक",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "dhruv jurel",
+      "term": "चेक",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "भारत वि अफगाणिस्तान",
+      "term": "সূর্যগ্রহণ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "csk",
+      "term": "ദിലീപ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ભારત વિ. અફઘાનિસ્તાન",
+      "term": "ગુજરાત",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
