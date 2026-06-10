@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-10T06:15:05.494873+00:00",
+  "generated_at": "2026-06-10T08:49:46.045874+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 184,
+  "industry_count": 183,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Carolina Herrera Resort 2027...",
       "score": 0,
-      "published": "2026-06-10T06:13:53+00:00",
+      "published": "2026-06-10T08:44:36+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: House of Dagmar Resort 2027...",
       "score": 0,
-      "published": "2026-06-10T06:13:53+00:00",
+      "published": "2026-06-10T08:44:36+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Lela Rose Resort 2027...",
       "score": 0,
-      "published": "2026-06-10T06:13:53+00:00",
+      "published": "2026-06-10T08:44:36+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +61,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Ulla Johnson Resort 2027...",
       "score": 0,
-      "published": "2026-06-10T06:13:53+00:00",
+      "published": "2026-06-10T08:44:36+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +75,105 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Sandy Liang Resort 2027...",
       "score": 0,
-      "published": "2026-06-10T06:13:53+00:00",
+      "published": "2026-06-10T08:44:36+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ba436c74ceba",
+      "title": "From Silk Scarves to Crochet Caps, These are the Summer Hair Accessories It Girls Can’t Stop Wearing",
+      "link": "https://www.whowhatwear.com/beauty/hair/summer-hair-accessories-trends-2026",
+      "summary": "We'll know you have taste if we spot you wearing these.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-06-10T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b0fc7f3f9746",
+      "title": "Sorry Linen, London Girls Are Making Summer Dressing Feel Cool Again With These 7 Capsule Wardrobe Pieces",
+      "link": "https://www.whowhatwear.com/fashion/summer/london-summer-capsule-wardrobe-2026",
+      "summary": "Warm weather staples.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Sorry Linen, London Girls Are Making Summer Dressing Feel Cool Again W...",
+      "score": 1,
+      "published": "2026-06-10T07:05:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bf1e9620dacd",
+      "title": "I Spend Summers on the East Coast—These Nantucket Outfits Always Get Compliments",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/nantucket-outfits",
+      "summary": "You can nail the Nantucket aesthetic from home.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Spend Summers on the East Coast—These Nantucket Outfits Always Get C...",
+      "score": 1,
+      "published": "2026-06-10T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6ecb6ea9b3a0",
+      "title": "Not a Clutch—The Evening Bag Has Been Updated to This It Girl Style For 2026",
+      "link": "https://www.whowhatwear.com/fashion/embellished-bag-trend",
+      "summary": "The accessory of the summer.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Not a Clutch—The Evening Bag Has Been Updated to This It Girl Style Fo...",
+      "score": 2,
+      "published": "2026-06-10T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f8f4e4899261",
+      "title": "If You Know, You Know— 5 Trends Cool Fashion People Are Wearing For Months To Come",
+      "link": "https://www.whowhatwear.com/fashion/trends/top-cool-girl-fashion-trends-june-2026",
+      "summary": "Up your style game by learning from the best.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
+      "published": "2026-06-10T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cd73160c1e60",
+      "title": "7 Summer Tops Chic European Women Are Wearing With Jeans",
+      "link": "https://www.whowhatwear.com/fashion/shopping/summer-tops-with-jeans",
+      "summary": "Which one will you try?",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-06-10T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "21432b6157b0",
+      "title": "This 'Tacky' 2016 Summer Trend Is Back and More Elegant Than Ever",
+      "link": "https://www.whowhatwear.com/fashion/trends/mermaid-trend-2026",
+      "summary": "Sequins, shells and aquamarine shades.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-06-10T06:26:08+00:00",
       "discovered_via": "feed"
     },
     {
@@ -471,6 +569,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "31f7fdad2604",
+      "title": "Chanel Taps Marie-Laure Cérède as Director of Jewelry Creation Studio",
+      "link": "https://www.vogue.com/article/chanel-taps-marie-laure-cerede-as-director-of-jewelry-creation-studio",
+      "summary": "The former Cartier creative director of jewelry and watchmaking will join the company in October 2026.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Chanel Taps Marie-Laure Cérède as Director of Jewelry Creation Studio...",
+      "score": 0,
+      "published": "2026-06-09T16:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "3ef0d9515b78",
       "title": "Gracie Abrams Mixes “Extra-Dirty” Gin Martinis—and Shares the Story Behind Her New Album",
       "link": "https://www.vogue.com/article/now-serving-gracie-abrams",
@@ -495,20 +607,6 @@
       "aza_category": "Designer Spotlight",
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 2,
-      "published": "2026-06-09T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "31f7fdad2604",
-      "title": "Chanel Taps Marie-Laure Cérède as Director of Jewelry Creation Studio",
-      "link": "https://www.vogue.com/article/chanel-taps-marie-laure-cerede-as-director-of-jewelry-creation-studio",
-      "summary": "The former Cartier creative director of jewelry and watchmaking will join the company in October 2026.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Chanel Taps Marie-Laure Cérède as Director of Jewelry Creation Studio...",
-      "score": 0,
       "published": "2026-06-09T16:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -877,15 +975,43 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a5c1106a145d",
-      "title": "5 Major Jewelry Trends That Will Define 2026",
-      "link": "https://www.whowhatwear.com/fashion/jewelry/couture-jewelry-show-las-vegas-2026-trends",
-      "summary": "Here are the front-runners.",
+      "id": "a68b98712820",
+      "title": "Everyone Is Wearing Necklaces in 2026—These Are the 5 Specific Trends Set to Dominate This Summer",
+      "link": "https://www.whowhatwear.com/fashion/jewelry/summer-necklace-trends-2026",
+      "summary": "Get in the know before they're mainstream.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-06-09T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ad05f1a8d0da",
+      "title": "Here You Go: The Best Summer 2026 Basics at Nordstrom That You Can Style With Everything",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-nordstrom-basics-summer-2026",
+      "summary": "From cool pants to chic tops.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Here You Go: The Best Summer 2026 Basics at Nordstrom That You Can Sty...",
+      "score": 1,
+      "published": "2026-06-09T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ce41724e9de6",
+      "title": "This Is Where Fashion Editors Buy High-Quality Basics",
+      "link": "https://www.whowhatwear.com/fashion/shopping/high-quality-basics",
+      "summary": "Flore Flore, CDLP, Cou Cou, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: This Is Where Fashion Editors Buy High-Quality Basics...",
       "score": 1,
       "published": "2026-06-09T07:00:00+00:00",
       "discovered_via": "feed"
@@ -905,44 +1031,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ce41724e9de6",
-      "title": "This Is Where Fashion Editors Buy High-Quality Basics",
-      "link": "https://www.whowhatwear.com/fashion/shopping/high-quality-basics",
-      "summary": "Flore Flore, CDLP, Cou Cou, and more.",
+      "id": "a5c1106a145d",
+      "title": "5 Major Jewelry Trends That Will Define 2026",
+      "link": "https://www.whowhatwear.com/fashion/jewelry/couture-jewelry-show-las-vegas-2026-trends",
+      "summary": "Here are the front-runners.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: This Is Where Fashion Editors Buy High-Quality Basics...",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
-      "published": "2026-06-09T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ad05f1a8d0da",
-      "title": "Here You Go: The Best Summer 2026 Basics at Nordstrom That You Can Style With Everything",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-nordstrom-basics-summer-2026",
-      "summary": "From cool pants to chic tops.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Here You Go: The Best Summer 2026 Basics at Nordstrom That You Can Sty...",
-      "score": 1,
-      "published": "2026-06-09T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a68b98712820",
-      "title": "Everyone Is Wearing Necklaces in 2026—These Are the 5 Specific Trends Set to Dominate This Summer",
-      "link": "https://www.whowhatwear.com/fashion/jewelry/summer-necklace-trends-2026",
-      "summary": "Get in the know before they're mainstream.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
       "published": "2026-06-09T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1409,20 +1507,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ffbd8c7c0fc0",
-      "title": "ICYMI: This Is the Summer 2026 Way to Wear a Knee-Length Skirt",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/white-knee-length-skirt-outfit-kendall-jenner",
-      "summary": "It's about to be everywhere.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: ICYMI: This Is the Summer 2026 Way to Wear a Knee-Length Skirt...",
-      "score": 1,
-      "published": "2026-06-08T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c121a9610f5c",
       "title": "7 Best 5 Pocket Pants For Men – Comfortable Fits For 2026",
       "link": "https://www.fashionbeans.com/article/best-5-pocket-pants/",
@@ -1493,34 +1577,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "108e86533f9d",
-      "title": "Hello, Fashion People Care About Chic Basics and Shoes—These New Zara, J.Crew, and Reformation Items Are So Good",
-      "link": "https://www.whowhatwear.com/fashion/shopping/fashionable-basics-shoes-zara-j-crew-reformation-2026",
-      "summary": "Linen pieces! Cool flip-flops! It's all here.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Hello, Fashion People Care About Chic Basics and Shoes—These New Zara,...",
-      "score": 1,
-      "published": "2026-06-08T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f46cbb6592ad",
-      "title": "5 Minimalist Summer Shoe Trends Classic Dressers Wear When They Want to Look Chic and Expensive",
-      "link": "https://www.whowhatwear.com/fashion/shoes/minimalist-shoe-trends-summer-2026",
-      "summary": "Okay, these are really good.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-06-08T06:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c595aa5265f5",
       "title": "12 Pieces Of Menswear That Defined Style In The 2010s",
       "link": "https://www.fashionbeans.com/article/menswear-defined-2010s/",
@@ -1546,76 +1602,6 @@
       "angle": "Fashion Intelligence: 13 Best Jacket Brands For Men – From Winter to Summer 2026...",
       "score": 5,
       "published": "2026-06-08T06:00:26+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f2d91df3050a",
-      "title": "I Asked 9 Beauty Editors to Share the Nostalgic Perfumes That Shaped Them",
-      "link": "https://www.whowhatwear.com/beauty/fragrance/best-nostalgic-perfumes",
-      "summary": "An ode to our first fragrances.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I Asked 9 Beauty Editors to Share the Nostalgic Perfumes That Shaped T...",
-      "score": 1,
-      "published": "2026-06-08T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e55391c630e6",
-      "title": "No One Does Summer Dressing Like French Women—5 Chic Outfit Trends to Copy This Summer",
-      "link": "https://www.whowhatwear.com/fashion/trends/paris-summer-outfit-trends-2026",
-      "summary": "Très chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-06-08T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5a2941ef0f06",
-      "title": "Silk! Taffeta! Tassels! These 7 Summer Trouser Trends Worth Ditching Your Jeans for in 2026",
-      "link": "https://www.whowhatwear.com/fashion/pants-trousers/summer-trouser-trends-2026",
-      "summary": "Long live long trousers.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-06-08T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "aada923b5d56",
-      "title": "I Work in Fashion—My 5-Piece Business Casual Capsule Wardrobe Never Includes This One Item",
-      "link": "https://www.whowhatwear.com/fashion/trends/what-is-business-casual-2026",
-      "summary": "Retail Therapy (the new WWW show!) helps explain it all.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: I Work in Fashion—My 5-Piece Business Casual Capsule Wardrobe Never In...",
-      "score": 2,
-      "published": "2026-06-08T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "28ae2badbb52",
-      "title": "I'm Calling It: These 6 Hair-Accessory Trends Will Be Everywhere This Summer",
-      "link": "https://www.whowhatwear.com/beauty/hair/hair-accessories-trends-summer-2026",
-      "summary": "They're all over my feeds.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-06-08T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2979,52 +2965,52 @@
   ],
   "trends": [
     {
-      "term": "fifa world cup betting betmgm",
+      "term": "தமிழக வெற்றிக் கழகம்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "चोरी",
+      "term": "தங்கம்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cmr green technologies share price",
+      "term": "കെ. അണ്ണാമലൈ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "భారతీరాజా",
+      "term": "తెలంగాణ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nse",
+      "term": "സ്വര്ണം",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "shafeeq ur rahman announces hollywood film",
+      "term": "तस्करी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "பாரதிராஜா",
+      "term": "salesforce agentforce mulesoft layoffs",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "tnea",
+      "term": "cognizant",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ssa",
+      "term": "హౌసింగ్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "world cup 2026",
+      "term": "monsoon 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
