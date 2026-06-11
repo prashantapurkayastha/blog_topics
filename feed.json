@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-11T06:42:16.226378+00:00",
+  "generated_at": "2026-06-11T09:13:03.108294+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 176,
+  "industry_count": 175,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Prabal Gurung Resort 2027...",
       "score": 0,
-      "published": "2026-06-11T06:40:36+00:00",
+      "published": "2026-06-11T09:12:36+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Atelier Prabal Gurung Fall 2026 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-06-11T06:40:36+00:00",
+      "published": "2026-06-11T09:12:36+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,161 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: LoveShackFancy Resort 2027...",
       "score": 0,
-      "published": "2026-06-11T06:40:36+00:00",
+      "published": "2026-06-11T09:12:36+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c55ab06e6a72",
+      "title": "Hailey Bieber's Viral Gap Jeans Just Went on Sale—But Don't Buy Them If You Don't Own This Shoe Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/hailey-bieber-gap-jeans-on-sale",
+      "summary": "20% off is music to my ears.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-06-11T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "52085beb34f7",
+      "title": "Kylie Jenner and Timothée Chalamet Are Love’s Young (Denim) Dream for the Knicks",
+      "link": "https://www.vogue.com/article/kylie-jenner-timothee-chalamet-knicks-nba-game-4",
+      "summary": "For what became an era-defining match for the New York Knicks, Kylie Jenner and Timothée Chalamet pulled out a couples look for the history books—care of Chrome Hearts.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Kylie Jenner and Timothée Chalamet Are Love’s Young (Denim) Dream for ...",
+      "score": 0,
+      "published": "2026-06-11T08:59:39+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f294a8c4739a",
+      "title": "The Bridal Pieces I'd Buy If My Wedding Mood Board Was Entirely Dua Lipa",
+      "link": "https://www.whowhatwear.com/living/wedding/dua-lipa-inspired-bridal-shopping",
+      "summary": "For cool brides-to-be.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: The Bridal Pieces I'd Buy If My Wedding Mood Board Was Entirely Dua Lipa — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-06-11T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "76e33ca7642a",
+      "title": "8 Destinations, 16 Trends: What to Pack for the Ultimate 2026 Vacation Wardrobe",
+      "link": "https://www.whowhatwear.com/living/travel/summer-2026-fashion-travel-trends",
+      "summary": "From the Hamptons to Ibiza.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-06-11T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7b4d25c5be64",
+      "title": "The Travel Issue 2026",
+      "link": "https://www.whowhatwear.com/living/travel/travel-issue-2026",
+      "summary": "Discover the Who What Wear Travel Issue filled with everything you need to know in insider travel this year.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Travel Issue 2026...",
+      "score": 1,
+      "published": "2026-06-11T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8818ef33d4d3",
+      "title": "All the Major Cultural Events Worth Traveling for This Summer—Where to Stay and What to Pack for Each",
+      "link": "https://www.whowhatwear.com/living/travel/summer-2026-sporting-art-music-events-packing-hotel-recommendations",
+      "summary": "Let's talk about the FIFA World Cup and Harry Styles's MSG residency outfits.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: All the Major Cultural Events Worth Traveling for This Summer—Where to...",
+      "score": 2,
+      "published": "2026-06-11T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e695e49dd359",
+      "title": "7 Art Destinations Worth Making a Journey Across the World For",
+      "link": "https://www.whowhatwear.com/living/travel/best-destinations-for-art-galleries-museums-architecture",
+      "summary": "From Pierre Cardin's famed Bubble House to the Brazilian museum where Louis Vuitton staged its 2017 cruise show.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: 7 Art Destinations Worth Making a Journey Across the World For...",
+      "score": 1,
+      "published": "2026-06-11T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c7f91ec80cbd",
+      "title": "From Cutouts to Plunging Necklines, These Are the One-Piece Swimsuit Trends Everyone Is Wearing in the Sun",
+      "link": "https://www.whowhatwear.com/fashion/swimwear/chic-one-piece-swimsuits-summer-2026",
+      "summary": "Summer swims just got way chicer.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-06-11T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "057656d83a6d",
+      "title": "From NYC to L.A.—Fashion People Are Escaping the City for These 6 Weekend Trips",
+      "link": "https://www.whowhatwear.com/living/travel/best-weekend-trips-from-los-angeles-new-york",
+      "summary": "And these chic hotels, specifically.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: From NYC to L.A.—Fashion People Are Escaping the City for These 6 Week...",
+      "score": 1,
+      "published": "2026-06-11T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "095115e2ed95",
+      "title": "5 Pretty and Chic J.Crew Outfits That Will Make Everyone Think You Hired a Personal Stylist",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/j-crew-summer-outfits-2026",
+      "summary": "Hello, compliments.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 5 Pretty and Chic J.Crew Outfits That Will Make Everyone Think You Hir...",
+      "score": 1,
+      "published": "2026-06-11T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5edc249efe16",
+      "title": "Not Black, Not White—This Is the Linen Trouser Fashion People Are Suddenly Wearing This Summer",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/navy-linen-trouser-outfits-2026",
+      "summary": "Take note.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-06-11T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -454,20 +608,6 @@
       "angle": "Fashion Intelligence: What I Packed for a 4-Day Trip to Mallorca...",
       "score": 0,
       "published": "2026-06-10T18:36:49+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bb56fbf79881",
-      "title": "India's first indigenous military transport aircraft completes maiden test flight",
-      "link": "https://www.indiatoday.in/india/story/airbus-c295-india-built-aircraft-maiden-test-flight-vadodara-2924867-2026-06-10?utm_source=rss",
-      "summary": "India's first indigenous military transport aircraft completes maiden test flight",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Art & Craft",
-      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
-      "score": 1,
-      "published": "2026-06-10T18:28:10+00:00",
       "discovered_via": "feed"
     },
     {
@@ -891,20 +1031,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8ad22a962c89",
-      "title": "Who What Wear's Special Recognition Beauty Awards of 2026",
-      "link": "https://www.whowhatwear.com/beauty/who-what-wear-special-recognition-beauty-awards-2026",
-      "summary": "Check out four outstanding products that stood out to our judges.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Who What Wear's Special Recognition Beauty Awards of 2026...",
-      "score": 2,
-      "published": "2026-06-10T10:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "565e3e85d85d",
       "title": "The Best Beauty Tools of 2026",
       "link": "https://www.whowhatwear.com/beauty/best-beauty-tools-2026",
@@ -919,6 +1045,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "8ad22a962c89",
+      "title": "Who What Wear's Special Recognition Beauty Awards of 2026",
+      "link": "https://www.whowhatwear.com/beauty/who-what-wear-special-recognition-beauty-awards-2026",
+      "summary": "Check out four outstanding products that stood out to our judges.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Who What Wear's Special Recognition Beauty Awards of 2026...",
+      "score": 2,
+      "published": "2026-06-10T10:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "c36da6328840",
       "title": "Feels Like a Steal: Shop Vogue Favorite Under-$300 Finds",
       "link": "https://www.vogue.com/article/feels-like-a-steal",
@@ -929,20 +1069,6 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Feels Like a Steal: Shop Vogue Favorite Under-$300 Finds...",
       "score": 1,
-      "published": "2026-06-10T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a7559d1066ed",
-      "title": "The Best ’90s Wedding Guest Dresses to Buy Ahead of Summer Ceremonies",
-      "link": "https://www.vogue.com/article/90s-wedding-guest-dresses",
-      "summary": "From simple slips to cowl-neck styles, ’90s wedding guest dresses are trending—shop our favorites from Khaite, The Row, and more.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: The Best ’90s Wedding Guest Dresses to Buy Ahead of Summer Ceremonies — A Complete Style Guide",
-      "score": 4,
       "published": "2026-06-10T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -975,34 +1101,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6ecb6ea9b3a0",
-      "title": "Not a Clutch—the Evening Bag Has Been Updated to This It-Girl Style for 2026",
-      "link": "https://www.whowhatwear.com/fashion/embellished-bag-trend",
-      "summary": "The accessory of the summer.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Not a Clutch—the Evening Bag Has Been Updated to This It-Girl Style fo...",
-      "score": 2,
-      "published": "2026-06-10T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bf1e9620dacd",
-      "title": "I Spend Summers on the East Coast—These Nantucket Outfits Always Get Compliments",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/nantucket-outfits",
-      "summary": "You can perfect the Nantucket aesthetic from home.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Spend Summers on the East Coast—These Nantucket Outfits Always Get C...",
-      "score": 1,
-      "published": "2026-06-10T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f8f4e4899261",
       "title": "If You Know, You Know: 5 Trends Cool Fashion People Will Wear for Months to Come",
       "link": "https://www.whowhatwear.com/fashion/trends/top-cool-girl-fashion-trends-june-2026",
@@ -1031,6 +1129,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "6ecb6ea9b3a0",
+      "title": "Not a Clutch—the Evening Bag Has Been Updated to This It-Girl Style for 2026",
+      "link": "https://www.whowhatwear.com/fashion/embellished-bag-trend",
+      "summary": "The accessory of the summer.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Not a Clutch—the Evening Bag Has Been Updated to This It-Girl Style fo...",
+      "score": 2,
+      "published": "2026-06-10T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bf1e9620dacd",
+      "title": "I Spend Summers on the East Coast—These Nantucket Outfits Always Get Compliments",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/nantucket-outfits",
+      "summary": "You can perfect the Nantucket aesthetic from home.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Spend Summers on the East Coast—These Nantucket Outfits Always Get C...",
+      "score": 1,
+      "published": "2026-06-10T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "21432b6157b0",
       "title": "This 'Tacky' 2016 Summer Trend Is Back and More Elegant Than Ever",
       "link": "https://www.whowhatwear.com/fashion/trends/mermaid-trend-2026",
@@ -1045,20 +1171,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d5f02863152f",
-      "title": "The Experts Have Spoken—These Are the Chicest Hairstyles to Wear This Summer",
-      "link": "https://www.whowhatwear.com/beauty/hair/summer-hairstyles-ideas-2026",
-      "summary": "Which one will you choose?",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Experts Have Spoken—These Are the Chicest Hairstyles to Wear This ...",
-      "score": 2,
-      "published": "2026-06-10T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ce6bc3846a84",
       "title": "Forget Sandals and Flats—Suddenly Everyone With Taste Is Wearing Heels With Their Jeans",
       "link": "https://www.whowhatwear.com/fashion/denim/jeans-and-heels-outfits-summer-2026",
@@ -1070,34 +1182,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-06-10T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5591c4b3aba1",
-      "title": "Like It or Not, Fashion Insiders Think These 5 Sandal Colours Are Officially \"Dated\" in 2026",
-      "link": "https://www.whowhatwear.com/fashion/shoes/dated-sandal-colour-trends-2026",
-      "summary": "Plus, the five they'll be wearing instead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Like It or Not, Fashion Insiders Think These 5 Sandal Colours Are Offi...",
-      "score": 2,
-      "published": "2026-06-10T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d6548c6b8d84",
-      "title": "Taylor Swift Just Wore the Elegant Shoe Color Trend Quietly Replacing Silver and Gold",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/taylor-swift-toy-story-5-red-carpet-outfit",
-      "summary": "All the outfit details from the Toy Story 5 red carpet.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-06-10T03:34:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1140,20 +1224,6 @@
       "angle": "Fashion Intelligence: Why Designer Shoes Are the Ultimate Marker in Modern Fashion...",
       "score": 2,
       "published": "2026-06-09T22:38:41+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "853aca2aca57",
-      "title": "LBDs Aren't Out, But in 2026, This High-Value Dress Color Feels Far More In",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/navy-blue-dress-trend-emily-ratajkowski",
-      "summary": "Spotted on EmRata.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: LBDs Aren't Out, But in 2026, This High-Value Dress Color Feels Far Mo...",
-      "score": 1,
-      "published": "2026-06-09T20:39:18+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1353,20 +1423,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "67dcce0cadc6",
-      "title": "I Already Have an Elevated Closet, But If I Were to Start Over, I'd Go For These 5 Staples",
-      "link": "https://www.whowhatwear.com/fashion/shopping/must-have-elevated-closet-staples-2026",
-      "summary": "Effortless outfit ideas ahead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: I Already Have an Elevated Closet, But If I Were to Start Over, I'd Go...",
-      "score": 1,
-      "published": "2026-06-09T14:50:41+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d76d33c693c5",
       "title": "Timothée Chalamet’s Orange Chrome Hearts Set Was the Best Part of Last Night’s Knicks Game",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71534967/timothee-chalamet-orange-chrome-hearts-outfit-ny-knicks-game-3-finals-photos/",
@@ -1409,20 +1465,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "eae55ea832ea",
-      "title": "It’s Here: The Chicest Shoe Trend to Wear With Tailored Trousers Right Now",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/black-trousers-beige-heels-outfit-katie-homes-2026",
-      "summary": "Confirmed.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-06-09T13:48:47+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "cd5386564e9b",
       "title": "Chloe Kim Wants a Jumbo Chanel Flap Bag—and More Books",
       "link": "https://fashionista.com/2026/06/chloe-kim-fashion-style-interview",
@@ -1448,62 +1490,6 @@
       "angle": "Fashion Intelligence: Eckhaus Latta Gives Mango a Downtown Twist...",
       "score": 1,
       "published": "2026-06-09T11:38:01+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6ecc8ca3edbd",
-      "title": "From the French Revolution to 4 a.m. At a Waffle House—This Chappell Roan-Loved Lipstick Fits Every Summer Beauty Vibe",
-      "link": "https://www.whowhatwear.com/beauty/makeup/chappell-roan-mac-viva-glam-campaign-2026",
-      "summary": "Introducing the star's new collection with MAC Viva Glam.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: From the French Revolution to 4 a.m. At a Waffle House—This Chappell R...",
-      "score": 2,
-      "published": "2026-06-09T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c15b9339e05d",
-      "title": "So Elegant, So Effortless—Jeans and Sandals Look Chicest When Styled Exactly Like This",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/baggy-jeans-strappy-sandals-snake-print-jacket-outfit-sienna-miller-2026",
-      "summary": "Sienna-approved.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: So Elegant, So Effortless—Jeans and Sandals Look Chicest When Styled E...",
-      "score": 1,
-      "published": "2026-06-09T10:24:37+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cf85e9688fb2",
-      "title": "Finally, the Expensive-Looking Linen Trousers Fashion People Sell Out Every Year Are Back in Stock",
-      "link": "https://www.whowhatwear.com/fashion/affordable/abercrombie-sloane-linen-blend-pant",
-      "summary": "But they're already moving fast.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Finally, the Expensive-Looking Linen Trousers Fashion People Sell Out ...",
-      "score": 1,
-      "published": "2026-06-09T08:42:06+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a5c1106a145d",
-      "title": "5 Major Jewelry Trends That Will Define 2026",
-      "link": "https://www.whowhatwear.com/fashion/jewelry/couture-jewelry-show-las-vegas-2026-trends",
-      "summary": "Here are the front-runners.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-06-09T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2473,6 +2459,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "782828c8e1bd",
+      "title": "KALKI Celebration Sale 2026: The Most Awaited Fashion Event is Here",
+      "link": "https://blog.kalkifashion.com/kalki-celebration-sale-2026-most-awaited-fashion-event-is-here/",
+      "summary": "Fashion enthusiasts, wedding shoppers, and festive style lovers, get ready for one of the most exciting shopping events of the season! The KALKI Celebration Sale is officially live from 12th June to 28th June, bringing together incredible fashion finds, stunning ethnic wear, and irresistible offers that make luxury fas",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Fashion Intelligence: KALKI Celebration Sale 2026: The Most Awaited Fashion Event is Here...",
+      "score": 8,
+      "published": "2026-06-11T07:09:34+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "69408e515338",
       "title": "Celebrity-Inspired Plus Size Lehenga Looks You Can Recreate",
       "link": "https://blog.kalkifashion.com/create-celebrity-inspired-plus-size-lehenga/",
@@ -2613,20 +2613,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5396b9b34563",
-      "title": "Top 5 Plus Size Fashion Tips for a Glamorous Look",
-      "link": "https://blog.kalkifashion.com/top-5-plus-size-fashion-tips-for-glamorous-look/",
-      "summary": "Self-love, confidence, and perfectly fitted plus size clothing can make a woman look ravishing and also take her places. Whether it is a party, a festive occasion, a wedding, at work or everyday fashion, don’t let your plus size body dampen your spirit; no more settling for basic or oversized clothing, rather pamper yo",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Top 5 Plus Size Fashion Tips for a Glamorous Look...",
-      "score": 4,
-      "published": "2026-05-26T04:16:58+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "941624218963",
       "title": "The Colours We Carry: Emotions Behind Indian Festive Dressing",
       "link": "https://www.torani.in/blogs/news/the-colours-we-carry-emotions-behind-indian-festive-dressing",
@@ -2722,6 +2708,20 @@
       "angle": "Fashion Intelligence: The Big Luxury Sale Is Back – Designer Fashion at Up to 80% Off Across...",
       "score": 4,
       "published": "2026-06-08T07:21:31+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8a9830285e70",
+      "title": "9 Jamai Shashthi Outfits That Say ‘Favourite Jamai’ Energy",
+      "link": "https://www.azafashions.com/blog/what-to-wear-for-jamai-shashthi/?utm_source=rss&utm_medium=rss&utm_campaign=what-to-wear-for-jamai-shashthi",
+      "summary": "Jamai Shashthi is essentially Bengal’s annual reminder that the jamai deserves blessings, a royal feast, and perhaps most importantly, a good outfit. And if you're the jamai stepping into that household loaded with expectations and mishti doi, you might as well look the&#8230; The post 9 Jamai Shashthi Outfits That Say",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 9 Jamai Shashthi Outfits That Say ‘Favourite Jamai’ Energy...",
+      "score": 1,
+      "published": "2026-06-08T05:09:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2835,70 +2835,56 @@
       "score": 1,
       "published": "2026-06-05T02:30:00+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "7325ac467a7e",
-      "title": "7 Rainbow Colors, 7 Outfits, 7 Main Character Moments",
-      "link": "https://www.azafashions.com/blog/pride-colors-in-style/?utm_source=rss&utm_medium=rss&utm_campaign=pride-colors-in-style",
-      "summary": "June has a way of making the&#160;whole world&#160;more colorful. With Pride Month putting rainbow colors back in the spotlight, fashion lovers have the perfect excuse to step away from neutrals&#8230; The post 7 Rainbow Colors, 7 Outfits, 7 Main Character Moments appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 7 Rainbow Colors, 7 Outfits, 7 Main Character Moments...",
-      "score": 2,
-      "published": "2026-06-04T11:41:36+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "nahid rana",
+      "term": "अखिल भारतीय तृणमूल कांग्रेस",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "inter supply results 2026",
+      "term": "अधिकमास",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "australia vs bangladesh",
+      "term": "ಗೃಹಲಕ್ಷ್ಮಿ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ऑस्ट्रेलिया बनाम बांगलादेश",
+      "term": "வெள்ளி",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "parama ekadashi 2026 date significance fasting rules",
+      "term": "cusat",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "एचएएल तेजस",
+      "term": "ক্রিকেট",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "संजय राउत",
+      "term": "प्रकाश चिक बड़ाईक",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ssa",
+      "term": "marnus labuschagne",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "weather dehradun",
+      "term": "कंपनी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "मौसम",
+      "term": "jeecup",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
