@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-14T06:26:20.047194+00:00",
+  "generated_at": "2026-06-14T08:41:17.346038+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 183,
+  "industry_count": 187,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,133 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Kate Barton Resort 2027...",
       "score": 0,
-      "published": "2026-06-14T06:21:13+00:00",
+      "published": "2026-06-14T08:36:52+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e029451eb891",
+      "title": "They're Here: The All-Time Chicest Pedicure Trends for Summer 2026",
+      "link": "https://www.whowhatwear.com/beauty/nails/2026-summer-pedicure-trends",
+      "summary": "The experts have spoken.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-06-14T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "38f7f3a1619e",
+      "title": "I Discovered 5 French-Girl Ways to Wear Eye Makeup This Summer, and It's All Thanks to This One Product",
+      "link": "https://www.whowhatwear.com/beauty/makeup/violette-fr-plume-eyeshadow-review",
+      "summary": "Parisian mystique in every swipe.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Discovered 5 French-Girl Ways to Wear Eye Makeup This Summer, and It...",
+      "score": 1,
+      "published": "2026-06-14T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "829d857da633",
+      "title": "I'm a Football-Obsessed Fashion Editor—5 Cool-Girl Trends You Need to Know to Be A World Cup Pro",
+      "link": "https://www.whowhatwear.com/fashion/trends/football-fashion-trends-2026",
+      "summary": "The Wags! The Players! The Slogan Tees!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-06-14T07:16:01+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "204ab4344bc7",
+      "title": "Move Over, Minimalist—There's a New Sandal Trend That's Everywhere for Summer 2026",
+      "link": "https://www.whowhatwear.com/beaded-sandals-trend-2026",
+      "summary": "And we love it.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-06-14T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bdab03c12d5d",
+      "title": "Travel Season is Upon Us—Here's Where Every Fashion Insider is Heading This Year",
+      "link": "https://www.whowhatwear.com/living/travel/travel-destinations-fashion-insiders-2026",
+      "summary": "Plus what they're packing.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-06-14T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e75755f96a5d",
+      "title": "Women in Their 50s Have Better Summer Shoe Collections Than Women in Their 20s—5 Trends I’m Copying",
+      "link": "https://www.whowhatwear.com/fashion/shoes/summer-2026-shoe-trends-for-over-50s",
+      "summary": "Take notes.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 2,
+      "published": "2026-06-14T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d4a8829b73c3",
+      "title": "\"Art Teacher\" Jewelry Is In—These Are the Pieces an NYC Designer Swears By",
+      "link": "https://www.whowhatwear.com/fashion/shopping/dont-let-disco",
+      "summary": "Ashley Moubayed’s Don’t Let Disco.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: \"Art Teacher\" Jewelry Is In—These Are the Pieces an NYC Designer Swear...",
+      "score": 2,
+      "published": "2026-06-14T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dfa624d4f3d8",
+      "title": "L.A. and Scandi It Girls Agree: This Is How You Style Summer 2026's Highly Debated Pant Trend",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-shoes-to-wear-with-balloon-pants-2026",
+      "summary": "Not capris, not culottes.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-06-14T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b5b4d3bf6561",
+      "title": "I Just Tried On H&M's Entire Linen Collection—These 18 Pieces Looked and Felt So Expensive",
+      "link": "https://www.whowhatwear.com/fashion/affordable/hm-linen-try-on-summer-2026",
+      "summary": "Seriously, you need to see them.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-06-14T06:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -429,20 +555,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ad4f12fafc07",
-      "title": "10 Items to Style With Your Ballet Flats to Look Chic and On-Trend This Summer",
-      "link": "https://www.whowhatwear.com/fashion/shopping/what-to-wear-with-ballet-flats-summer-2026",
-      "summary": "The coolest pairings.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-06-13T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "93e07c65e975",
       "title": "I Got 10+ Compliments in One Day, All for One Dress—the Next Morning, I Went to Shop More From the Brand",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-hutch-dresses-summer-2026",
@@ -471,16 +583,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0e92baef0db4",
-      "title": "Not Sambas—IMO, This Timeless Trainer Trend Looks Better With Jeans Every Time",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/converse-jeans-outfit-cara-delevingne-2026",
-      "summary": "The chicest choice.",
+      "id": "ad4f12fafc07",
+      "title": "10 Items to Style With Your Ballet Flats to Look Chic and On-Trend This Summer",
+      "link": "https://www.whowhatwear.com/fashion/shopping/what-to-wear-with-ballet-flats-summer-2026",
+      "summary": "The coolest pairings.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
+      "score": 2,
       "published": "2026-06-13T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -499,16 +611,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "68e256223a7f",
-      "title": "The Prettiest Bridal Lingerie That Feels Special (But Still Wearable)",
-      "link": "https://www.whowhatwear.com/living/wedding/best-bridal-lingerie",
-      "summary": "Think special enough for your big day but versatile enough to wear long after.",
+      "id": "0e92baef0db4",
+      "title": "Not Sambas—IMO, This Timeless Trainer Trend Looks Better With Jeans Every Time",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/converse-jeans-outfit-cara-delevingne-2026",
+      "summary": "The chicest choice.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: The Prettiest Bridal Lingerie That Feels Special (But Still Wearable) — A Complete Style Guide",
-      "score": 2,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
       "published": "2026-06-13T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -523,6 +635,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Sorry White Trainers—Fashion People are Choosing These 5 Summer Shades...",
       "score": 1,
+      "published": "2026-06-13T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "68e256223a7f",
+      "title": "The Prettiest Bridal Lingerie That Feels Special (But Still Wearable)",
+      "link": "https://www.whowhatwear.com/living/wedding/best-bridal-lingerie",
+      "summary": "Think special enough for your big day but versatile enough to wear long after.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: The Prettiest Bridal Lingerie That Feels Special (But Still Wearable) — A Complete Style Guide",
+      "score": 2,
       "published": "2026-06-13T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1283,48 +1409,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9b2a8a157347",
-      "title": "My Mum and I Are Always Complaining About Dry Lips—This Is the Lipstick We Both Swear By",
-      "link": "https://www.whowhatwear.com/beauty/makeup/estee-lauder-pure-colour-melt-on-glosstick",
-      "summary": "Our handbag staple.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: My Mum and I Are Always Complaining About Dry Lips—This Is the Lipstic...",
-      "score": 1,
-      "published": "2026-06-12T11:05:07+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1cb42eaa171d",
-      "title": "If You Want to Wear Midi Skirts This Summer, Forget Flip-Flops and Flats—Opt for This Shoe Trend Instead",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/graphic-tee-knee-length-skirt-heeled-ballet-pumps-outfit-shay-mitchell-2026",
-      "summary": "It's a Zoë-Kravitz kind of cool.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-06-12T10:38:27+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4959f2441b95",
-      "title": "If You Want to Future-Proof Your Wardrobe, This Vintage-Inspired Bag Is the Style to Invest In",
-      "link": "https://www.whowhatwear.com/fashion/luxury/history-of-coach-tabby-bag",
-      "summary": "Future heirloom.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: If You Want to Future-Proof Your Wardrobe, This Vintage-Inspired Bag I...",
-      "score": 1,
-      "published": "2026-06-12T09:19:24+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ae8f4887ff8a",
       "title": "Elevate Your Style: Picking the Perfect Seiko 5 Watch Bands",
       "link": "https://www.fashionbeans.com/article/seiko-5-watch-band/",
@@ -1336,34 +1420,6 @@
       "angle": "Fashion Intelligence: Elevate Your Style: Picking the Perfect Seiko 5 Watch Bands...",
       "score": 1,
       "published": "2026-06-12T08:20:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "64d214071ad7",
-      "title": "5 Elegant Outfits to Wear to Wimbledon That Ace Courtside Style",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/what-to-wear-to-wimbledon-2026",
-      "summary": "Serve stylish looks.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 5 Elegant Outfits to Wear to Wimbledon That Ace Courtside Style...",
-      "score": 3,
-      "published": "2026-06-12T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d3529d80afbe",
-      "title": "Not Jean Shorts, Not Linen Pants—the Anti-Basic Trend Every Cool Girl Will Be Wearing This Summer",
-      "link": "https://www.whowhatwear.com/fashion/summer/beaded-shorts-skirts-trend-for-summer-2026",
-      "summary": "See the outfits inside.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-06-12T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2951,6 +3007,41 @@
   ],
   "trends": [
     {
+      "term": "గౌతమ్ గంభీర్",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "राष्ट्रीय पात्रता व प्रवेश परीक्षा",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "ஜி கே வாசன்",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "കോളേജ്",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "पाटलिपुत्र जंक्शन",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "tawhid hridoy",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "germany vs curaçao",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
       "term": "from episode 8",
       "summary": "",
       "aza_category": "Fashion & Style"
@@ -2961,42 +3052,7 @@
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "connor metcalfe",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "മൂര്ഖന്",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "soumya sarkar",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
       "term": "bangladesh vs australia",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "मोसमी पाऊस",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "nishan velupillay",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "बांगलादेश बनाम ऑस्ट्रेलिया",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "kenan yıldız",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
