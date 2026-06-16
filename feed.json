@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-06-16T07:15:35.834338+00:00",
+  "generated_at": "2026-06-16T10:07:42.725088+00:00",
   "owned_count": 10,
-  "competitor_count": 17,
-  "industry_count": 187,
+  "competitor_count": 15,
+  "industry_count": 186,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "b6ea9c271415",
+      "title": "The Attico Fall 2026 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/attico",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Attico Fall 2026 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-06-16T10:05:01+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "c9dc969633b9",
       "title": "Lauren Manoogian Resort 2027",
@@ -19,7 +33,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Lauren Manoogian Resort 2027...",
       "score": 0,
-      "published": "2026-06-16T07:12:44+00:00",
+      "published": "2026-06-16T10:05:01+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +47,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Heirlome Resort 2027...",
       "score": 0,
-      "published": "2026-06-16T07:12:44+00:00",
+      "published": "2026-06-16T10:05:01+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Rag & Bone Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-16T07:12:44+00:00",
+      "published": "2026-06-16T10:05:01+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,21 +75,35 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: La Cambre Fall 2026 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-06-16T07:12:44+00:00",
+      "published": "2026-06-16T10:05:01+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "f15e7d366a68",
-      "title": "It's Been Months Since I've Browsed Amazon—28 Surprisingly Chic Fashion DealsI Found",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-amazon-prime-day-2026-clothing-deals",
-      "summary": "Top-tier clothing ahead.",
-      "source": "Who What Wear",
+      "id": "cded31c4ef5d",
+      "title": "10 Airbnbs Near National Parks, Just in Time for Your Summer Road Trip",
+      "link": "https://www.vogue.com/article/best-national-parks-airbnbs",
+      "summary": "Heading to a national park this summer? From Yosemite to Acadia, we found 10 great Airbnbs that put you right next to the best spots.",
+      "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: It's Been Months Since I've Browsed Amazon—28 Surprisingly Chic Fashio...",
-      "score": 1,
-      "published": "2026-06-16T07:00:00+00:00",
+      "angle": "Fashion Intelligence: 10 Airbnbs Near National Parks, Just in Time for Your Summer Road Trip...",
+      "score": 0,
+      "published": "2026-06-16T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6f1f695c639f",
+      "title": "26 Summer Bedding Ideas, from Lightweight Quilts to Linen Sheets",
+      "link": "https://www.vogue.com/article/summer-bedding-how-to",
+      "summary": "Thinking of switching out your summer bedding? Here, our guide to the best sheets, duvets, and quilts of the season from brands like Brooklinen, Matouk, and more.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 26 Summer Bedding Ideas, from Lightweight Quilts to Linen Sheets...",
+      "score": 2,
+      "published": "2026-06-16T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -88,6 +116,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I'm Planning My Bachelorette Wardrobe Before Anything Else—9 Outfits M...",
+      "score": 1,
+      "published": "2026-06-16T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f15e7d366a68",
+      "title": "It's Been Months Since I've Browsed Amazon—28 Surprisingly Chic Fashion DealsI Found",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-amazon-prime-day-2026-clothing-deals",
+      "summary": "Top-tier clothing ahead.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: It's Been Months Since I've Browsed Amazon—28 Surprisingly Chic Fashio...",
       "score": 1,
       "published": "2026-06-16T07:00:00+00:00",
       "discovered_via": "feed"
@@ -681,34 +723,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "99193ed3bee7",
-      "title": "Kate Middleton Salutes British Craftsmanship in Custom Patrick McDowell for the 2026 Order of the Garter",
-      "link": "https://www.vogue.com/article/kate-middleton-garter-day-2026-patrick-mcdowell",
-      "summary": "While she has also often reworn pieces from her wardrobe, Garter Day is a moment where Kate Middleton has fun with her accessories and stylings.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Art & Craft",
-      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
-      "score": 1,
-      "published": "2026-06-15T14:28:27+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "40fdce84f63e",
-      "title": "If Frasers Group Acquires Hugo Boss, Who Wins?",
-      "link": "https://www.vogue.com/article/if-frasers-group-acquires-hugo-boss-who-wins",
-      "summary": "Mike Ashley’s retail empire is already the largest shareholder in Hugo Boss. Would full ownership unlock growth or create new challenges?",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: If Frasers Group Acquires Hugo Boss, Who Wins?...",
-      "score": 0,
-      "published": "2026-06-15T14:14:43+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "4fecef613f4b",
       "title": "Celebrity Makeup Artist Meredith Baraf Seeking Personal Brand & Partnerships Manager In NYC",
       "link": "https://fashionista.com/2026/06/celebrity-makeup-artist-meredith-baraf-seeking-personal-brand-partnerships-manager-in-nyc",
@@ -751,20 +765,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1c8fff3149e9",
-      "title": "Zendaya and Tom Holland Just Made Their Red-Carpet Debut as Husband and Wife",
-      "link": "https://www.vogue.com/article/zendaya-tom-holland-red-carpet-debut-husband-and-wife",
-      "summary": "Their first red-carpet appearance since October 2024—and their first as husband and wife—Zendaya and Tom Holland are taking a his-and-hers approach to their ‘Spider-Man’ wardrobes.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 0,
-      "published": "2026-06-15T13:51:27+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3f8d2db39ab2",
       "title": "Inside the First Official Portrait of Barack and Michelle Obama Together",
       "link": "https://www.harpersbazaar.com/culture/art-books-music/a71485735/barack-michelle-obama-portrait-artist-interview-2026/",
@@ -790,6 +790,20 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-06-15T12:20:42+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "381019a0c2a9",
+      "title": "9 Shoes that Make You Taller – Added Height for Men In 2026",
+      "link": "https://www.fashionbeans.com/article/shoes-that-make-you-taller/",
+      "summary": "If you’re short, it’s only natural that you might want shoes that make you taller. But you should be inconspicuous about it. You need a shoe that’s subtle and not super obvious so you don’t look like you’re walking on stilts. Fortunately, the chunky–soled thing is very much in for every style of shoes, from &#8230; Con",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 9 Shoes that Make You Taller – Added Height for Men In 2026...",
+      "score": 1,
+      "published": "2026-06-15T11:58:31+00:00",
       "discovered_via": "feed"
     },
     {
@@ -877,6 +891,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "bd62e8aa214d",
+      "title": "Who What Wear's Go Sports Guide to the 2026 World Cup",
+      "link": "https://www.whowhatwear.com/landing-pages/go-sports-world-cup-2026",
+      "summary": "The biggest tournament in soccer has taken over North America.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Who What Wear's Go Sports Guide to the 2026 World Cup...",
+      "score": 1,
+      "published": "2026-06-15T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "60f735597f0d",
       "title": "I Just Re-Created 7 Incredibly Chic Summer Outfits for Under $125 From Amazon",
       "link": "https://www.whowhatwear.com/fashion/shopping/early-amazon-prime-day-summer-outfits",
@@ -933,16 +961,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bd62e8aa214d",
-      "title": "Who What Wear's Go Sports Guide to the 2026 World Cup",
-      "link": "https://www.whowhatwear.com/landing-pages/go-sports-world-cup-2026",
-      "summary": "The biggest tournament in soccer has taken over North America.",
+      "id": "71b188a10a23",
+      "title": "If You're Wearing One of These 2026 Sandal Micro-Trends, It's Clear You're a Fashion Person",
+      "link": "https://www.whowhatwear.com/fashion/shoes/sandal-microtrends-2026",
+      "summary": "It girl–approved shoes await.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Who What Wear's Go Sports Guide to the 2026 World Cup...",
-      "score": 1,
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
       "published": "2026-06-15T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -957,20 +985,6 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Not Skirts, Not T-Shirts—These Are the 4 Items a Fashion Editor Looks ...",
       "score": 1,
-      "published": "2026-06-15T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "71b188a10a23",
-      "title": "If You're Wearing One of These 2026 Sandal Micro-Trends, It's Clear You're a Fashion Person",
-      "link": "https://www.whowhatwear.com/fashion/shoes/sandal-microtrends-2026",
-      "summary": "It girl–approved shoes await.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
       "published": "2026-06-15T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1348,20 +1362,6 @@
       "is_competitor": false,
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: \"Art Teacher\" Jewelry Is In—These Are the Pieces an NYC Designer Swear...",
-      "score": 2,
-      "published": "2026-06-14T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "dfa624d4f3d8",
-      "title": "L.A. and Scandi It Girls Agree: This Is How You Style Summer 2026's Highly Debated Pant Trend",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-shoes-to-wear-with-balloon-pants-2026",
-      "summary": "Not capris, not culottes.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-06-14T07:00:00+00:00",
       "discovered_via": "feed"
@@ -2347,20 +2347,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2a3cc609fd1c",
-      "title": "8 Best Barber Shop Colognes – Men’s Scents For 2026",
-      "link": "https://www.fashionbeans.com/article/barber-shop-colognes/",
-      "summary": "For style-conscious men like you, choosing the right cologne is no doubt a top priority. If you’re in search of a nostril-tingling scent that merges modern and classic, you can’t go wrong with a good cologne. The best barber shop cologne will make you smell outstanding while giving you that freshly pampered feeling thr",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 8 Best Barber Shop Colognes – Men’s Scents For 2026...",
-      "score": 1,
-      "published": "2026-06-07T11:35:49+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "5ea759988e33",
       "title": "ICYMI: CFDA/'Vogue' Fashion Fund 2026 Finalists, Sandy Liang's Second Baggu Collab & Miami Swim Week Trends",
       "link": "https://fashionista.com/2026/06/fashion-news-you-need-to-know-june-6",
@@ -2837,34 +2823,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8bb2dc27bd98",
-      "title": "What Should You Look For Before Buying Designer Ethnic Wear",
-      "link": "https://www.torani.in/blogs/news/what-should-you-look-for-before-buying-designer-ethnic-wear",
-      "summary": "Choosing the perfect ethnic wear isn’t just about picking something that looks nice, it’s really about finding something that actually fits your style, the kind of occasion you’re going to, and your personality. From big festivals to weddings or even those smaller get-togethers, the right outfit can make you feel confi",
-      "source": "Torani",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Fashion Intelligence: What Should You Look For Before Buying Designer Ethnic Wear...",
-      "score": 7,
-      "published": "2026-04-17T09:23:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9f17428bc4f6",
-      "title": "How to Choose the Perfect Outfit for a Summer Festive Occasion",
-      "link": "https://www.torani.in/blogs/news/how-to-choose-the-perfect-outfit-for-a-summer-festive-occasion",
-      "summary": "Summer celebrations have a mood of their own. The days feel lighter, the colours feel brighter, and there’s an ease in the air that naturally reflects in what you wear. Everything feels a little more relaxed, a little more effortless, whether it’s a daytime function under the sun or those intimate evening gatherings th",
-      "source": "Torani",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Occasion Dressing",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 4,
-      "published": "2026-04-17T09:06:25+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0ccf2198c64d",
       "title": "What to Wear to Luxury Women-Only Events in Saudi Arabia: 9 Gowns That Command Attention",
       "link": "https://www.azafashions.com/blog/saudi-luxury-event-gowns/?utm_source=rss&utm_medium=rss&utm_campaign=saudi-luxury-event-gowns",
@@ -3007,52 +2965,52 @@
   ],
   "trends": [
     {
-      "term": "आयात",
+      "term": "अभिषेक बनर्जी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "up bed result 2026",
+      "term": "ક્રિકેટ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "indigo",
+      "term": "portugal vs dr congo",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "icai",
+      "term": "mg university",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "આગાહી",
+      "term": "आईफ़ोन",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rahul sadasivan",
+      "term": "novak djokovic",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ഭൂതകാലം",
+      "term": "ईंट",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "হাবরা",
+      "term": "പെട്രോള്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cbse class 10 result 2026 second board",
+      "term": "chennai super kings",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ugc net admit card",
+      "term": "ખેડૂત",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
