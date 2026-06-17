@@ -1,13 +1,153 @@
 {
-  "generated_at": "2026-06-17T07:00:31.951168+00:00",
+  "generated_at": "2026-06-17T09:30:35.890531+00:00",
   "owned_count": 10,
   "competitor_count": 15,
-  "industry_count": 186,
+  "industry_count": 185,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "bf6e4c8e54a7",
+      "title": "MM6 Maison Margiela Resort 2027",
+      "link": "https://www.vogue.com/fashion-shows/resort-2027/mm6-maison-martin-margiela",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: MM6 Maison Margiela Resort 2027...",
+      "score": 0,
+      "published": "2026-06-17T09:28:47+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "af2356b84042",
+      "title": "Ferrari Resort 2027",
+      "link": "https://www.vogue.com/fashion-shows/resort-2027/ferrari",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Ferrari Resort 2027...",
+      "score": 0,
+      "published": "2026-06-17T09:28:47+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fe9442cca759",
+      "title": "Rachel Comey Resort 2027",
+      "link": "https://www.vogue.com/fashion-shows/resort-2027/rachel-comey",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Rachel Comey Resort 2027...",
+      "score": 0,
+      "published": "2026-06-17T09:28:47+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0517d837f874",
+      "title": "Coach Resort 2027",
+      "link": "https://www.vogue.com/fashion-shows/resort-2027/coach",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Coach Resort 2027...",
+      "score": 0,
+      "published": "2026-06-17T09:28:47+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4c0b040febfe",
+      "title": "I Waited Months for This Cult High-Street Handbag to Restock—Now It’s Back in Even Chicer Shades",
+      "link": "https://www.whowhatwear.com/fashion/handbags/mint-velvet-rae-woven-leather-tote-bag",
+      "summary": "This designer-passing summer bag stopped me in my tracks. Now, I'm snapping it up before it sells out again.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: I Waited Months for This Cult High-Street Handbag to Restock—Now It’s ...",
+      "score": 1,
+      "published": "2026-06-17T09:14:17+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d9698bb966db",
+      "title": "No, But Seriously, Every Fashion Person Will Be Using This Skincare Brand This Summer",
+      "link": "https://www.whowhatwear.com/beauty/skin/rocco-skincare-review",
+      "summary": "I mean, look at it!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: No, But Seriously, Every Fashion Person Will Be Using This Skincare Br...",
+      "score": 2,
+      "published": "2026-06-17T09:02:21+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c7c5953fcfe8",
+      "title": "No Skinny Jeans Here—Off-Duty Models in NY Know Sneakers Look Cooler With This Denim Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/irina-shayk-adidas-samba-sneakers-outfit",
+      "summary": "From the catwalk to the concrete.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-06-17T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e3831e7cbce2",
+      "title": "Tomorrow's meet will show who is on which side: Sanjay Raut on Sena UBT rebellion",
+      "link": "https://www.indiatoday.in/india/video/shiv-sena-ubt-crisis-rebel-mps-offered-15-crore-to-switch-sides-amid-defection-buzz-frvd-2928368-2026-06-17?utm_source=rss",
+      "summary": "Tomorrow's meet will show who is on which side: Sanjay Raut on Sena UBT rebellion",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Tomorrow's meet will show who is on which side: Sanjay Raut on Sena UB...",
+      "score": 1,
+      "published": "2026-06-17T08:47:37+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9053ebb08823",
+      "title": "Rosalía Will Back Balletcore to the Bitter End",
+      "link": "https://www.vogue.com/article/rosalia-will-back-balletcore-to-the-bitter-end",
+      "summary": "In New York for the “Lux” tour, Rosalía gave a very Rosalía twist to the ever-enduring trend for dancewear.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Rosalía Will Back Balletcore to the Bitter End...",
+      "score": 2,
+      "published": "2026-06-17T08:44:36+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "77a945110cc0",
+      "title": "I'm Calling It: This Elegant, Under-£50 M&S Dress Is the Cult Buy of the Summer",
+      "link": "https://www.whowhatwear.com/fashion/shopping/marks-and-spencer-lace-skater-dress",
+      "summary": "And it's still in stock.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm Calling It: This Elegant, Under-£50 M&S Dress Is the Cult Buy of t...",
+      "score": 1,
+      "published": "2026-06-17T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "ba39792747ce",
       "title": "Suddenly, the Chicest Dressers Are Ditching Their Neutral Totes for These Cooler Summer Bag Colours",
@@ -48,76 +188,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-06-17T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bf6e4c8e54a7",
-      "title": "MM6 Maison Margiela Resort 2027",
-      "link": "https://www.vogue.com/fashion-shows/resort-2027/mm6-maison-martin-margiela",
-      "summary": "",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: MM6 Maison Margiela Resort 2027...",
-      "score": 0,
-      "published": "2026-06-17T06:58:08+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "af2356b84042",
-      "title": "Ferrari Resort 2027",
-      "link": "https://www.vogue.com/fashion-shows/resort-2027/ferrari",
-      "summary": "",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Ferrari Resort 2027...",
-      "score": 0,
-      "published": "2026-06-17T06:58:08+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fe9442cca759",
-      "title": "Rachel Comey Resort 2027",
-      "link": "https://www.vogue.com/fashion-shows/resort-2027/rachel-comey",
-      "summary": "",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Rachel Comey Resort 2027...",
-      "score": 0,
-      "published": "2026-06-17T06:58:08+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0517d837f874",
-      "title": "Coach Resort 2027",
-      "link": "https://www.vogue.com/fashion-shows/resort-2027/coach",
-      "summary": "",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Coach Resort 2027...",
-      "score": 0,
-      "published": "2026-06-17T06:58:08+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2801a0029ffa",
-      "title": "Emilia Wickstead Resort 2027",
-      "link": "https://www.vogue.com/fashion-shows/resort-2027/emilia-wickstead",
-      "summary": "",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Emilia Wickstead Resort 2027...",
-      "score": 0,
-      "published": "2026-06-17T06:58:08+00:00",
       "discovered_via": "feed"
     },
     {
@@ -976,7 +1046,7 @@
     },
     {
       "id": "000e47bd780a",
-      "title": "Forget Black and White—Kate Middleton Just Wore the Shoe Colour Trend That Looks Chicest With Butter Yellow",
+      "title": "Forget Black and White—Kate Middleton Just Wore the Shoe-Colour Trend That Looks Chicest With Butter Yellow",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/beige-shoes-butter-yellow-dress-outfit-kate-middleton-2026",
       "summary": "The perfect pairing.",
       "source": "Who What Wear",
@@ -1115,17 +1185,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f15e7d366a68",
-      "title": "It's Been Months Since I've Browsed Amazon—28 Surprisingly Chic Fashion DealsI Found",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-amazon-prime-day-2026-clothing-deals",
-      "summary": "Top-tier clothing ahead.",
-      "source": "Who What Wear",
+      "id": "bcd9cdef4303",
+      "title": "8 Best Ray-Bans for Men – Classic Picks For Any Face Shape in 2026",
+      "link": "https://www.fashionbeans.com/article/best-ray-bans-for-men/",
+      "summary": "Ray-Ban is the OG. It has dominated the optics industry for over a century now, amassing a slew of iconic styles along the way. Wayfarer, Aviator, and Clubmaster, to name a few. The breadth of the range is dizzying since each style contains within it a bounty of offshoots. And this presents a problem: How &#8230; Conti",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: It's Been Months Since I've Browsed Amazon—28 Surprisingly Chic Fashio...",
+      "angle": "Fashion Intelligence: 8 Best Ray-Bans for Men – Classic Picks For Any Face Shape in 2026...",
       "score": 1,
-      "published": "2026-06-16T07:00:00+00:00",
+      "published": "2026-06-16T07:57:02+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1138,6 +1208,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I'm Planning My Bachelorette Wardrobe Before Anything Else—9 Outfits M...",
+      "score": 1,
+      "published": "2026-06-16T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f15e7d366a68",
+      "title": "It's Been Months Since I've Browsed Amazon—28 Surprisingly Chic Fashion DealsI Found",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-amazon-prime-day-2026-clothing-deals",
+      "summary": "Top-tier clothing ahead.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: It's Been Months Since I've Browsed Amazon—28 Surprisingly Chic Fashio...",
       "score": 1,
       "published": "2026-06-16T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1157,20 +1241,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d853adbbeefc",
-      "title": "I'm After a Low-Maintenance Haircut—A Hairstylist Bookmarked These 6 Summer Styles for Me",
-      "link": "https://www.whowhatwear.com/beauty/hair/summer-haircuts-2026",
-      "summary": "I'm talking minimal effort.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm After a Low-Maintenance Haircut—A Hairstylist Bookmarked These 6 S...",
-      "score": 1,
-      "published": "2026-06-16T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "08e1f66738b5",
       "title": "Beauty Editors Unanimously Agree: This Is the Best Bronzer in the World",
       "link": "https://www.whowhatwear.com/beauty/makeup/chanel-les-beiges-healthy-glow-bronzing-cream",
@@ -1180,6 +1250,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Beauty Editors Unanimously Agree: This Is the Best Bronzer in the Worl...",
+      "score": 1,
+      "published": "2026-06-16T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d853adbbeefc",
+      "title": "I'm After a Low-Maintenance Haircut—A Hairstylist Bookmarked These 6 Summer Styles for Me",
+      "link": "https://www.whowhatwear.com/beauty/hair/summer-haircuts-2026",
+      "summary": "I'm talking minimal effort.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm After a Low-Maintenance Haircut—A Hairstylist Bookmarked These 6 S...",
       "score": 1,
       "published": "2026-06-16T06:00:00+00:00",
       "discovered_via": "feed"
@@ -1614,76 +1698,6 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: The Right Way to Style a Soccer Jersey...",
-      "score": 2,
-      "published": "2026-06-15T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b2f40ff9145d",
-      "title": "Meet Naomi Girma, Soccer's Million-Dollar Woman and the Star of Burberry's Ode to Football Fandom",
-      "link": "https://www.whowhatwear.com/fashion/naomi-girma-2026-world-cup-interview",
-      "summary": "The Chelsea defender discusses personal style, making history, and life in London.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Meet Naomi Girma, Soccer's Million-Dollar Woman and the Star of Burber...",
-      "score": 1,
-      "published": "2026-06-15T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "71b188a10a23",
-      "title": "If You're Wearing One of These 2026 Sandal Micro-Trends, It's Clear You're a Fashion Person",
-      "link": "https://www.whowhatwear.com/fashion/shoes/sandal-microtrends-2026",
-      "summary": "It girl–approved shoes await.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-06-15T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1bafc9b71231",
-      "title": "Not Skirts, Not T-Shirts—These Are the 4 Items a Fashion Editor Looks For When Shopping on Amazon",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-amazon-prime-day-2026-denim-shoes-swimwear-activewear-deals",
-      "summary": "It's time to prep for Amazon Prime Day.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Not Skirts, Not T-Shirts—These Are the 4 Items a Fashion Editor Looks ...",
-      "score": 1,
-      "published": "2026-06-15T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bd62e8aa214d",
-      "title": "Who What Wear's Go Sports Guide to the 2026 World Cup",
-      "link": "https://www.whowhatwear.com/landing-pages/go-sports-world-cup-2026",
-      "summary": "The biggest tournament in soccer has taken over North America.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Who What Wear's Go Sports Guide to the 2026 World Cup...",
-      "score": 1,
-      "published": "2026-06-15T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ecacb2b80b1d",
-      "title": "French Women Never Look Dated—6 Summer Trends They Wear to Stay Ahead of the Curve",
-      "link": "https://www.whowhatwear.com/fashion/trends/dated-french-fashion-trends-summer-2026",
-      "summary": "Their trend radar is impeccable.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-06-15T07:00:00+00:00",
       "discovered_via": "feed"
@@ -2389,34 +2403,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d636ecc3eba7",
-      "title": "The Salomon Sneakers Taking Over Streets, Cafés and Fashion Week",
-      "link": "https://www.fashionbeans.com/article/salomon-sneakers-fashion-week-2026/",
-      "summary": "Salomon Stopped Trying To Be Fashion And that’s exactly why fashion won’t stop wearing it. During Paris Men’s Fashion Week, new creative director Heikki Salonen said something disarmingly simple about Salomon: “Salomon is not a fashion house.” So the brand is doubling down on what it does best. Serious mountain footwea",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Salomon Sneakers Taking Over Streets, Cafés and Fashion Week...",
-      "score": 3,
-      "published": "2026-06-07T21:46:37+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "50dd5b6be04b",
-      "title": "How to Wear a Zip-Up Hoodie Without Looking Sloppy",
-      "link": "https://www.fashionbeans.com/article/best-zip-up-hoodies-for-men/",
-      "summary": "TL;DR: The best zip-up hoodies for men balance comfort, fit, and versatility. Look for soft fabrics, thoughtful details, and a silhouette that layers well without feeling bulky. Once the uniform of skaters and indie bands, the zip-up hoodie has made an unexpected comeback. After years of pullover dominance, menswear ha",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How to Wear a Zip-Up Hoodie Without Looking Sloppy...",
-      "score": 2,
-      "published": "2026-06-07T19:14:59+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "5ea759988e33",
       "title": "ICYMI: CFDA/'Vogue' Fashion Fund 2026 Finalists, Sandy Liang's Second Baggu Collab & Miami Swim Week Trends",
       "link": "https://fashionista.com/2026/06/fashion-news-you-need-to-know-june-6",
@@ -2965,52 +2951,52 @@
   ],
   "trends": [
     {
-      "term": "grand theft auto vi",
+      "term": "ஆசிரியர்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "toy story 5 toys",
+      "term": "tarique rahman",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "రైతు",
+      "term": "বেতন",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "haunted 3d echoes of the past film",
+      "term": "lucknow temperature",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sri lanka cricket match",
+      "term": "uco bank share",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ടിക്കറ്റ്",
+      "term": "jio",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "android 17 pixel",
+      "term": "hotstar jio",
+      "summary": "",
+      "aza_category": "Celebrity Style"
+    },
+    {
+      "term": "lucknow",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "plug in hybrid cars in india",
+      "term": "tata motors",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "virat kohli son pictures",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "ന്യൂസ്",
+      "term": "vedanta oil and gas ltd",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
