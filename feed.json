@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T06:44:53.307326+00:00",
+  "generated_at": "2026-06-18T09:14:35.008968+00:00",
   "owned_count": 10,
   "competitor_count": 15,
   "industry_count": 187,
@@ -19,7 +19,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Valentino Resort 2027...",
       "score": 0,
-      "published": "2026-06-18T06:42:43+00:00",
+      "published": "2026-06-18T09:11:02+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Greta Constantine Resort 2027...",
       "score": 0,
-      "published": "2026-06-18T06:42:43+00:00",
+      "published": "2026-06-18T09:11:02+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Sunflower Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-18T06:42:43+00:00",
+      "published": "2026-06-18T09:11:02+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +61,175 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Plan C Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-06-18T06:42:43+00:00",
+      "published": "2026-06-18T09:11:02+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a7e2590d5ed3",
+      "title": "Kate Middleton Doubles Down on Summer Yellow at Ascot in a Favorite Dress",
+      "link": "https://www.vogue.com/article/kate-middleton-royal-ascot-yellow-dress",
+      "summary": "The Princess of Wales marked her return to Royal Ascot after a three-year hiatus in a Kate Middleton fave: a sunshine yellow Roksanda dress.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Kate Middleton Doubles Down on Summer Yellow at Ascot in a Favorite Dr...",
+      "score": 1,
+      "published": "2026-06-18T09:08:37+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "83a66759b0e2",
+      "title": "Rosalía and Loli Bahia Make the Coolest Case for Contrasting Couple Style",
+      "link": "https://www.vogue.com/article/rosalia-and-loli-bahia-contrasting-couple-style",
+      "summary": "Heading to her second sold-out New York show, Rosalía walked hand-in-hand with Loli Bahia—both stuck ardently to their own style codes, and looked gloriously happy to do so.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Rosalía and Loli Bahia Make the Coolest Case for Contrasting Couple St...",
+      "score": 2,
+      "published": "2026-06-18T08:54:37+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a4de5c4db87d",
+      "title": "If You Know, You Know: 5 Trends Cool Fashion People Will Wear for Months to Come",
+      "link": "https://www.whowhatwear.com/fashion/trends/top-cool-girl-fashion-trends-june-2026-uk",
+      "summary": "Up your style game by learning from the best.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
+      "published": "2026-06-18T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0d02f5c74cac",
+      "title": "My French Best Friend Wears This One Elegant Summer Staple Every Single Year—And It's Still in Stock",
+      "link": "https://www.whowhatwear.com/fashion/shopping/with-nothing-underneath-boyfriend-shirt",
+      "summary": "Heatwave ready.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: My French Best Friend Wears This One Elegant Summer Staple Every Singl...",
+      "score": 1,
+      "published": "2026-06-18T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "858083b54774",
+      "title": "The Real Show of Status in 2026 Isn't Carrying a Birkin—It's Wearing Your Bag Unbuckled and Undone",
+      "link": "https://www.whowhatwear.com/fashion/handbags/undone-handbag-trend-2026",
+      "summary": "(Un)Buckle Up.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-06-18T07:05:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "efc965481149",
+      "title": "I've Found It: The Anti-Trend, Highly Elegant Dress Chic Women Can't Stop Wearing This Summer",
+      "link": "https://www.whowhatwear.com/fashion/dresses/doen-daphne-dress-summer-2026",
+      "summary": "Of course, I want it.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-06-18T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5b2d4ba52ec3",
+      "title": "Chic Dressers Are Pairing Their Summer Dresses and Denim Shorts With These Trending Sandal Colours",
+      "link": "https://www.whowhatwear.com/fashion/shoes/sandal-colour-trends-2026",
+      "summary": "Not black, not tan—I know you have taste if you wear one of these 5 sandal colours this summer.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-06-18T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f6e144525264",
+      "title": "Not Black Flip-Flops—It Girls Are Wearing This 2026 Sandal Trend Instead",
+      "link": "https://www.whowhatwear.com/fashion/two-tone-flip-flops",
+      "summary": "Shop the shoes.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-06-18T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5317334a88d5",
+      "title": "The 2026 Shoe Trends That Are the Most Vacation-Friendly",
+      "link": "https://www.whowhatwear.com/fashion/shoes/summer-vacation-shoe-trends-2026",
+      "summary": "Pack your bags.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-06-18T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "db3de319d86e",
+      "title": "Phoebe Philo! Ralph Lauren! Colleen Allen! The Bride Wore 7 Impeccably Elegant Looks for Her Saint Bart's Wedding",
+      "link": "https://www.whowhatwear.com/living/wedding/alexis-and-andrew-wedding",
+      "summary": "See every detail, including the ways the couple honored their Filipino and Jewish roots.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Phoebe Philo! Ralph Lauren! Colleen Allen! The Bride Wore 7 Impeccably Elegant Looks for Her Saint Bart's Wedding — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-06-18T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d2f350fee7bd",
+      "title": "The Vacation Edit: The 7 Most Important Trends to Pack in 2026",
+      "link": "https://www.whowhatwear.com/fashion/vacation/vacation-fashion-trends-2026",
+      "summary": "For your most stylish getaway yet.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-06-18T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5777b46ab8e2",
+      "title": "From Prada to Gucci: The Designer Shoes Fashion People Are Wearing for Summer 2026",
+      "link": "https://www.whowhatwear.com/fashion/luxury/designer-shoes-summer-2026",
+      "summary": "Alexa Chung, Elsa Hosk, Hailey Bieber, Kendall Jenner, Kylie Jenner, and Tessa Thompson.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-06-18T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -835,20 +1003,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2e013a1b8fbb",
-      "title": "Zendaya and Tom Holland’s Spider-Man Tour Is All About Couple Style",
-      "link": "https://www.vogue.com/slideshow/zendaya-tom-holland-spider-man-tour",
-      "summary": "The film's press tour marks their first splashy outings as husband and wife.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Zendaya and Tom Holland’s Spider-Man Tour Is All About Couple Style...",
-      "score": 1,
-      "published": "2026-06-17T14:04:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "deece30dedb8",
       "title": "Are Lymphatic Drainage Brushes Really Worth the Hype?",
       "link": "https://www.harpersbazaar.com/beauty/skin-care/a70944000/lymphatic-face-brush-review/",
@@ -860,20 +1014,6 @@
       "angle": "Fashion Intelligence: Are Lymphatic Drainage Brushes Really Worth the Hype?...",
       "score": 0,
       "published": "2026-06-17T14:01:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7e0fdbb5e87c",
-      "title": "Rose Esselstyn Wore Oscar de la Renta to Marry Teddy Kennedy III on Her Family’s Historic Hudson Valley Farm",
-      "link": "https://www.vogue.com/slideshow/teddy-kennedy-iii-and-rose-esselstyn-wedding",
-      "summary": "The Kennedy scion exchanged vows atop Tank House Hill before celebrating with a New Orleans–style second line, family serenades, and plenty of Guinness.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-06-17T14:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1028,6 +1168,20 @@
       "angle": "Fashion Intelligence: Armani Beauty Mare Embraces Italian Summer...",
       "score": 2,
       "published": "2026-06-17T11:47:15+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ee2b5a0877b5",
+      "title": "9 Linen Outfits For Men To Avoid Overheating During Summer",
+      "link": "https://www.fashionbeans.com/article/linen-outfits-for-men/",
+      "summary": "Good summer outfits are built around simplicity and comfort without sacrificing style. The practical challenge men face during high heat is managing humidity and fabric weight without letting their silhouette collapse. Linen is the definitive answer, offering unmatched breathability and a distinct texture that handles ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 9 Linen Outfits For Men To Avoid Overheating During Summer...",
+      "score": 2,
+      "published": "2026-06-17T11:08:51+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1367,34 +1521,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "423ebf165523",
-      "title": "FYI: Taylor Swift Just Made This \"Dated\" Accessory-Color Trend Cool Again",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/matching-accessory-color-trend-taylor-swift",
-      "summary": "Maybe we do like fashion rules.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-06-16T19:37:56+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9311ee0e65f7",
-      "title": "If You Want Cool Stuff But Your Budget Is Under $100, These Are the Nordstrom Beauty Finds, Shoes, and Accessories You Need to See",
-      "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-beauty-shoes-accessories-june-2026",
-      "summary": "Osea, Byredo, Sandy Liang, Coach, and more.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: If You Want Cool Stuff But Your Budget Is Under $100, These Are the No...",
-      "score": 1,
-      "published": "2026-06-16T19:22:15+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "666789afb748",
       "title": "This Summer’s Crop of Linen Dresses Will Help You Beat the Heat in Style",
       "link": "https://www.harpersbazaar.com/fashion/trends/a71579203/best-linen-dresses-2026/",
@@ -1647,20 +1773,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "000e47bd780a",
-      "title": "Forget Black and White—Kate Middleton Just Wore the Shoe-Colour Trend That Looks Chicest With Butter Yellow",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/beige-shoes-butter-yellow-dress-outfit-kate-middleton-2026",
-      "summary": "The perfect pairing.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-06-16T13:14:25+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "4a589e6d8514",
       "title": "Meet the 19-Year-Old Parsons Student Running an Australian Fashion Brand",
       "link": "https://fashionista.com/2026/06/parsons-student-jingyi-luo-lovebyvenus-australian-fashion-brand",
@@ -1717,20 +1829,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8fc2d6d6cf4b",
-      "title": "Fashion People Know This “Tacky” Sandal Trend Is Actually the Chicest Shoe You Could Wear This Summer",
-      "link": "https://www.whowhatwear.com/fashion/shoes/beaded-sandal-trend-2026",
-      "summary": "And it's available at Ref, H&amp;M and Zara.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-06-16T11:20:37+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "119045fd6f63",
       "title": "Leni Voester Takes a Fashion Road Trip in ELLE Greece",
       "link": "https://www.fashiongonerogue.com/editorial/leni-voester-elle-greece/",
@@ -1742,20 +1840,6 @@
       "angle": "Fashion Intelligence: Leni Voester Takes a Fashion Road Trip in ELLE Greece...",
       "score": 1,
       "published": "2026-06-16T10:53:49+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "85dea810ecec",
-      "title": "Instead of Flip-Flops, Sofia Richie-Grainge Wore the Comfortable Sandal Trend I’ve Always Found More Elegant",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/chunky-sandals-trend-sofia-richie-2026",
-      "summary": "My new go-to.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-06-16T10:39:10+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1801,20 +1885,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6ffef2786c9f",
-      "title": "I Was Convinced My Friend's Zara Blouse Was Designer—so I Bought It in Three Colours",
-      "link": "https://www.whowhatwear.com/fashion/shopping/zara-minimalist-satin-blouse-2026",
-      "summary": "So elegant.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: I Was Convinced My Friend's Zara Blouse Was Designer—so I Bought It in...",
-      "score": 1,
-      "published": "2026-06-16T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "bcd9cdef4303",
       "title": "8 Best Ray-Bans for Men – Classic Picks For Any Face Shape in 2026",
       "link": "https://www.fashionbeans.com/article/best-ray-bans-for-men/",
@@ -1829,34 +1899,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "dd6896fcc45b",
-      "title": "I'm Planning My Bachelorette Wardrobe Before Anything Else—9 Outfits Making the Cut",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/bachelorette-outfits-for-bride",
-      "summary": "From Dua Lipa's, Jordyn Woods's, and Leonie Hanne's closets.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm Planning My Bachelorette Wardrobe Before Anything Else—9 Outfits M...",
-      "score": 1,
-      "published": "2026-06-16T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f15e7d366a68",
-      "title": "It's Been Months Since I've Browsed Amazon—28 Surprisingly Chic Fashion DealsI Found",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-amazon-prime-day-2026-clothing-deals",
-      "summary": "Top-tier clothing ahead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: It's Been Months Since I've Browsed Amazon—28 Surprisingly Chic Fashio...",
-      "score": 1,
-      "published": "2026-06-16T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "107b6cee9f0d",
       "title": "18 Best Casual Sneakers for Men To Master Any Look In 2026",
       "link": "https://www.fashionbeans.com/article/best-casual-sneakers-for-men/",
@@ -1868,34 +1910,6 @@
       "angle": "Fashion Intelligence: 18 Best Casual Sneakers for Men To Master Any Look In 2026...",
       "score": 1,
       "published": "2026-06-16T06:07:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f382852a05e5",
-      "title": "If You're a Minimalist Looking for a Trend With Big Impact, This Is for You",
-      "link": "https://www.whowhatwear.com/fashion/summer/trending-silhouettes-summer-2026",
-      "summary": "High-drama dressing without the effort.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-06-16T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "08e1f66738b5",
-      "title": "Beauty Editors Unanimously Agree: This Is the Best Bronzer in the World",
-      "link": "https://www.whowhatwear.com/beauty/makeup/chanel-les-beiges-healthy-glow-bronzing-cream",
-      "summary": "I'm not even being dramatic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Beauty Editors Unanimously Agree: This Is the Best Bronzer in the Worl...",
-      "score": 1,
-      "published": "2026-06-16T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2487,20 +2501,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "decfc2f33711",
-      "title": "How To Wear Green For Men",
-      "link": "https://www.fashionbeans.com/article/ways-to-wear-green-this-season/",
-      "summary": "Pick any piece of menswear and there’s a solid chance it’s done a tour in the armed forces. The T-shirt: issued to sailors as underwear in the late 19th century. Bomber jackets: designed, as the name suggests, to keep pilots warm in high altitude cockpits. The trench coat: now you’re not even trying. So it’s &#8230; Co",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How To Wear Green For Men...",
-      "score": 2,
-      "published": "2026-06-08T09:00:55+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "5ea759988e33",
       "title": "ICYMI: CFDA/'Vogue' Fashion Fund 2026 Finalists, Sandy Liang's Second Baggu Collab & Miami Swim Week Trends",
       "link": "https://fashionista.com/2026/06/fashion-news-you-need-to-know-june-6",
@@ -2979,52 +2979,52 @@
   ],
   "trends": [
     {
-      "term": "el sisi",
+      "term": "rte",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "உயிரியல் பூங்கா",
+      "term": "batwara 1947",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ఉదయనిధి స్టాలిన్",
+      "term": "अरूप बिस्वास",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sbi po",
+      "term": "cbse class 10 result 2026 second board",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "pm kisan yojana",
+      "term": "ఆంధ్ర ప్రదేశ్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सोने चांदी का भाव",
+      "term": "ഡോണള്ഡ് ട്രംപ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rti",
+      "term": "कर्मचारी भविष्य निधि संगठन",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "icc women t20 world cup",
+      "term": "ఉద్యోగి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "horoscope today",
+      "term": "అనిల్ రావిపూడి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "indian politics",
+      "term": "fabrizio romano",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
