@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T08:22:29.482249+00:00",
+  "generated_at": "2026-06-20T12:27:13.136620+00:00",
   "owned_count": 10,
   "competitor_count": 15,
   "industry_count": 182,
@@ -8,6 +8,34 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "6000cdc936d6",
+      "title": "Dolce & Gabbana Spring 2027 Menswear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-menswear/dolce-gabbana",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Dolce & Gabbana Spring 2027 Menswear...",
+      "score": 2,
+      "published": "2026-06-20T12:25:02+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6e7a8395a7ef",
+      "title": "Pronounce Spring 2027 Menswear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-menswear/pronounce",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Pronounce Spring 2027 Menswear...",
+      "score": 2,
+      "published": "2026-06-20T12:25:02+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "4ab5c964fbba",
       "title": "Brunello Cucinelli Spring 2027 Menswear",
@@ -19,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Brunello Cucinelli Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-20T08:19:17+00:00",
+      "published": "2026-06-20T12:25:02+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Missoni Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-20T08:19:17+00:00",
+      "published": "2026-06-20T12:25:02+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +75,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Missoni Resort 2027...",
       "score": 0,
-      "published": "2026-06-20T08:19:17+00:00",
+      "published": "2026-06-20T12:25:02+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +89,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Dunhill Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-20T08:19:17+00:00",
+      "published": "2026-06-20T12:25:02+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +103,133 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Ralph Lauren Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-20T08:19:17+00:00",
+      "published": "2026-06-20T12:25:02+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "980769cda987",
+      "title": "ICYMI: Indie Sun-Care Brands on the New FDA-Approved SPF Filter, Meet Chappell Roan's Makeup Artist & Isaac Mizrahi Returns to Target",
+      "link": "https://fashionista.com/2026/06/fashion-news-you-need-to-know-june-20",
+      "summary": "A must-read roundup of our most popular stories of the week.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: ICYMI: Indie Sun-Care Brands on the New FDA-Approved SPF Filter, Meet ...",
+      "score": 1,
+      "published": "2026-06-20T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "80b95ddd8bba",
+      "title": "Poriborton uplifted people's spirits: PM's 1st address after BJP's Bengal win",
+      "link": "https://www.indiatoday.in/india/story/new-sense-of-freshness-in-bengals-air-poriborton-uplifted-peoples-spirits-pms-1st-address-after-bjps-win-2930547-2026-06-20?utm_source=rss",
+      "summary": "Poriborton uplifted people's spirits: PM's 1st address after BJP's Bengal win",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Poriborton uplifted people's spirits: PM's 1st address after BJP's Ben...",
+      "score": 1,
+      "published": "2026-06-20T11:52:20+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0cb04723512f",
+      "title": "Women in Their 30s and 60s Agree—These Are the Chicest Things to Wear This Summer",
+      "link": "https://www.whowhatwear.com/fashion/summer/ageless-summer-trends",
+      "summary": "To be specific, they have these six things in common.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Women in Their 30s and 60s Agree—These Are the Chicest Things to Wear ...",
+      "score": 1,
+      "published": "2026-06-20T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "893fb192ef4f",
+      "title": "The 15 Best Airbnbs in Joshua Tree for a Scenic Desert Retreat",
+      "link": "https://www.vogue.com/article/best-airbnbs-in-joshua-tree",
+      "summary": "For a desert getaway, head to the best Airbnbs in Joshua Tree, where cowboy pools and fire pits are common fare.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The 15 Best Airbnbs in Joshua Tree for a Scenic Desert Retreat...",
+      "score": 0,
+      "published": "2026-06-20T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "66502f8fe306",
+      "title": "Karnataka to launch Prajaseva Department for faster public grievance redressal",
+      "link": "https://www.indiatoday.in/india/story/karnataka-prajaseva-department-public-grievance-redressal-old-buildings-permanent-electricity-ptag-2930483-2026-06-20?utm_source=rss",
+      "summary": "Karnataka to launch Prajaseva Department for faster public grievance redressal",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 2,
+      "published": "2026-06-20T09:53:42+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3750621d3e59",
+      "title": "Michelle Obama Embraces a Classic: Jeans and a Nice Top",
+      "link": "https://www.vogue.com/article/michelle-obama-embraces-a-classic-jeans-and-a-nice-top",
+      "summary": "A fail-safe outfit formula gets the former First Lady touch, as Michelle and Barack Obama open the Obama Presidential Center to the public.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Michelle Obama Embraces a Classic: Jeans and a Nice Top...",
+      "score": 1,
+      "published": "2026-06-20T09:09:37+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b9079be64a24",
+      "title": "Every Cool-Girl Brand Is Putting Its Money Behind Freaky Sunglasses This Summer",
+      "link": "https://www.whowhatwear.com/fashion/runway/bug-eye-sunglasses-runway-trend-try-on",
+      "summary": "Buzz.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Every Cool-Girl Brand Is Putting Its Money Behind Freaky Sunglasses Th...",
+      "score": 1,
+      "published": "2026-06-20T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d20588425ff7",
+      "title": "Never Wear Your Sports Shorts With Trainers—They Look Coolest With These Shoe Trends Instead",
+      "link": "https://www.whowhatwear.com/fashion/shoes/shoes-to-wear-with-sports-shorts",
+      "summary": "Confirmed.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-06-20T08:39:55+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "866a383d2b61",
+      "title": "President, PM's Odisha outreach, to launch projects worth Rs 47,000 crore today",
+      "link": "https://www.indiatoday.in/india/video/pm-and-president-lead-tribal-outreach-in-odisha-launch-rs-47000-crore-projects-frvd-2930434-2026-06-20?utm_source=rss",
+      "summary": "President, PM's Odisha outreach, to launch projects worth Rs 47,000 crore today",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-06-20T08:28:33+00:00",
       "discovered_via": "feed"
     },
     {
@@ -555,6 +709,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "881a49f9c3e1",
+      "title": "10 Weekend Outfits to Try This Summer",
+      "link": "https://www.vogue.com/article/what-to-wear-this-weekend",
+      "summary": "Whether you’re going away to Europe this weekend or staying close to home, here are ten summer weekend outfits to try this summer.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 10 Weekend Outfits to Try This Summer...",
+      "score": 1,
+      "published": "2026-06-19T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "08d40204806c",
       "title": "The 17 Best Airbnbs in New England Include Cozy Cabins & Coastal Retreats",
       "link": "https://www.vogue.com/article/best-airbnbs-in-new-england",
@@ -583,16 +751,30 @@
       "discovered_via": "feed"
     },
     {
-      "id": "881a49f9c3e1",
-      "title": "10 Weekend Outfits to Try This Summer",
-      "link": "https://www.vogue.com/article/what-to-wear-this-weekend",
-      "summary": "Whether you’re going away to Europe this weekend or staying close to home, here are ten summer weekend outfits to try this summer.",
+      "id": "ec2df6d4ac47",
+      "title": "3 Styles at Work: How to Wear Bermuda Shorts This Summer",
+      "link": "https://www.vogue.com/article/three-styles-at-work",
+      "summary": "A pair of Bermuda shorts. Three Vogue editors. Here's how to style the shorts of the summer in three entirely different ways.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 10 Weekend Outfits to Try This Summer...",
-      "score": 1,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 3 Styles at Work: How to Wear Bermuda Shorts This Summer...",
+      "score": 2,
+      "published": "2026-06-19T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c84275f81013",
+      "title": "Shop Our Favorite Celebrity Looks of the Week | Vogue",
+      "link": "https://www.vogue.com/article/best-celebrity-outfits",
+      "summary": "Shop the best celebrity street style looks of the week, perfect for the season ahead—just a few simple clicks away.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
       "published": "2026-06-19T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -606,20 +788,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Lessons From Street Style on Bringing Beach Vibes to City Dressing...",
-      "score": 2,
-      "published": "2026-06-19T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ec2df6d4ac47",
-      "title": "3 Styles at Work: How to Wear Bermuda Shorts This Summer",
-      "link": "https://www.vogue.com/article/three-styles-at-work",
-      "summary": "A pair of Bermuda shorts. Three Vogue editors. Here's how to style the shorts of the summer in three entirely different ways.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 3 Styles at Work: How to Wear Bermuda Shorts This Summer...",
       "score": 2,
       "published": "2026-06-19T10:00:00+00:00",
       "discovered_via": "feed"
@@ -649,20 +817,6 @@
       "aza_category": "Celebrity Style",
       "angle": "Fashion Intelligence: Vogue Vacations: 6 Days in Puglia With Madeline Fass...",
       "score": 1,
-      "published": "2026-06-19T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c84275f81013",
-      "title": "Shop Our Favorite Celebrity Looks of the Week | Vogue",
-      "link": "https://www.vogue.com/article/best-celebrity-outfits",
-      "summary": "Shop the best celebrity street style looks of the week, perfect for the season ahead—just a few simple clicks away.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
       "published": "2026-06-19T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -720,62 +874,6 @@
       "angle": "Fashion Intelligence: “It’s Latin Maximalism”: Meet Garcias, Milan’s New Menswear Brand...",
       "score": 5,
       "published": "2026-06-19T09:47:15+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8d6f45ec3f55",
-      "title": "Michelle Obama Defies the Maximalist Summer Manicure Trend",
-      "link": "https://www.vogue.com/article/michelle-obama-defies-the-maximalist-summer-manicure-trend",
-      "summary": "Opening the Barack Obama Presidential Center, Michelle Obama honored her husband in an emotional speech, sporting a manicure that sweetly matched his tie.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-06-19T09:37:03+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2a7431274e5a",
-      "title": "The New Luxury Flex? Your Hairbrush",
-      "link": "https://www.vogue.com/article/the-new-luxury-flex-your-hairbrush",
-      "summary": "By shifting the focus to self-care and superior craftsmanship, hairbrushes have transformed from simple grooming tools into modern luxury items. Brands are innovating to capture market share.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Art & Craft",
-      "angle": "Fashion Intelligence: The New Luxury Flex? Your Hairbrush...",
-      "score": 3,
-      "published": "2026-06-19T09:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "904f20a31d4f",
-      "title": "The Vogue Business Beauty Trend Tracker",
-      "link": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
-      "summary": "Vogue Business brings you weekly exclusive data from Spate tracking historic growth across brands, trends and ingredients. Stay tuned as we spotlight a different beauty category each week.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-06-19T09:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "dce07fe9372d",
-      "title": "Katie Holmes Embraces Summer Goth Mode",
-      "link": "https://www.vogue.com/article/katie-holmes-embraces-summer-goth-mode",
-      "summary": "The arbiter of downtown cool girl trends, Katie Holmes jetted off to Shanghai and experimented in a sleek new look.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Katie Holmes Embraces Summer Goth Mode...",
-      "score": 1,
-      "published": "2026-06-19T09:15:44+00:00",
       "discovered_via": "feed"
     },
     {
@@ -849,15 +947,29 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9ddb3cdaba7e",
-      "title": "My Stylish Mom Is Shopping on Amazon More and Wanted a List of Cool Items—I Like These Chic Finds",
-      "link": "https://www.whowhatwear.com/fashion/shopping/amazon-prime-day-early-sale-fashion-2026",
-      "summary": "Fashionable sandals and cool basics included.",
+      "id": "8ebeb570773b",
+      "title": "I Don't Take Leads from Men, But I *Will* Borrow These Pieces From Their Summer Wardrobes",
+      "link": "https://www.whowhatwear.com/fashion/summer/mens-summer-fashion-2026",
+      "summary": "Expect BDE (bold, dressy ensembles).",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: My Stylish Mom Is Shopping on Amazon More and Wanted a List of Cool It...",
+      "angle": "Fashion Intelligence: I Don't Take Leads from Men, But I *Will* Borrow These Pieces From The...",
+      "score": 1,
+      "published": "2026-06-19T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e52a9c0ac7be",
+      "title": "30 Under-$100 Shorts That'll Make Your Outfits Look Expensive",
+      "link": "https://www.whowhatwear.com/fashion/affordable/best-affordable-summer-shorts",
+      "summary": "These are the best summer bottoms.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 30 Under-$100 Shorts That'll Make Your Outfits Look Expensive...",
       "score": 1,
       "published": "2026-06-19T07:00:00+00:00",
       "discovered_via": "feed"
@@ -891,29 +1003,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8ebeb570773b",
-      "title": "I Don't Take Leads from Men, But I *Will* Borrow These Pieces From Their Summer Wardrobes",
-      "link": "https://www.whowhatwear.com/fashion/summer/mens-summer-fashion-2026",
-      "summary": "Expect BDE (bold, dressy ensembles).",
+      "id": "9ddb3cdaba7e",
+      "title": "My Stylish Mom Is Shopping on Amazon More and Wanted a List of Cool Items—I Like These Chic Finds",
+      "link": "https://www.whowhatwear.com/fashion/shopping/amazon-prime-day-early-sale-fashion-2026",
+      "summary": "Fashionable sandals and cool basics included.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Don't Take Leads from Men, But I *Will* Borrow These Pieces From The...",
-      "score": 1,
-      "published": "2026-06-19T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e52a9c0ac7be",
-      "title": "30 Under-$100 Shorts That'll Make Your Outfits Look Expensive",
-      "link": "https://www.whowhatwear.com/fashion/affordable/best-affordable-summer-shorts",
-      "summary": "These are the best summer bottoms.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 30 Under-$100 Shorts That'll Make Your Outfits Look Expensive...",
+      "angle": "Fashion Intelligence: My Stylish Mom Is Shopping on Amazon More and Wanted a List of Cool It...",
       "score": 1,
       "published": "2026-06-19T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1507,20 +1605,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b3a702884154",
-      "title": "I Suggest Sprinting to Zara—These Wedding Guest Dresses Will Sell Out by July 1",
-      "link": "https://www.whowhatwear.com/living/wedding/zara-wedding-guest-dresses",
-      "summary": "This is too good to gatekeep.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: I Suggest Sprinting to Zara—These Wedding Guest Dresses Will Sell Out by July 1 — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-06-18T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "fe9735e60d14",
       "title": "Massimo Dutti’s Azure Coast Is French Riviera Cool",
       "link": "https://www.fashiongonerogue.com/story/massimo-dutti-azure-coast-editorial/",
@@ -1532,20 +1616,6 @@
       "angle": "Fashion Intelligence: Massimo Dutti’s Azure Coast Is French Riviera Cool...",
       "score": 1,
       "published": "2026-06-18T10:52:59+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "202f26eee616",
-      "title": "If You Want To Give \"Elegant French Woman\" This Summer, Wear This Dress Trend",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/cotton-minidress-trend-bella-hadid-2026",
-      "summary": "Throw-on chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-06-18T10:25:54+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1574,48 +1644,6 @@
       "angle": "Fashion Intelligence: The Dad Look: How To Dress Like A DILF...",
       "score": 3,
       "published": "2026-06-18T09:15:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0d02f5c74cac",
-      "title": "My French Best Friend Wears This One Elegant Summer Staple Every Single Year, and It's Still in Stock",
-      "link": "https://www.whowhatwear.com/fashion/shopping/with-nothing-underneath-boyfriend-shirt",
-      "summary": "Heatwave-ready.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: My French Best Friend Wears This One Elegant Summer Staple Every Singl...",
-      "score": 1,
-      "published": "2026-06-18T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a4de5c4db87d",
-      "title": "If You Know, You Know: 5 Trends Cool Fashion People Will Wear for Months to Come",
-      "link": "https://www.whowhatwear.com/fashion/trends/top-cool-girl-fashion-trends-june-2026-uk",
-      "summary": "Learn from the best.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-06-18T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "858083b54774",
-      "title": "The Real Show of Status in 2026 Isn't Carrying a Birkin—It's Wearing Your Bag Unbuckled and Undone",
-      "link": "https://www.whowhatwear.com/fashion/handbags/undone-handbag-trend-2026",
-      "summary": "(Un)Buckle Up.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-06-18T07:05:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2529,34 +2557,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5ea759988e33",
-      "title": "ICYMI: CFDA/'Vogue' Fashion Fund 2026 Finalists, Sandy Liang's Second Baggu Collab & Miami Swim Week Trends",
-      "link": "https://fashionista.com/2026/06/fashion-news-you-need-to-know-june-6",
-      "summary": "A must-read roundup of our most popular stories of the week.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-06-06T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "581d8f69aec5",
-      "title": "GUESS celebra Marilyn Monroe: la mostra al MUDEC e la capsule collection. Un progetto che unisce moda, fotografia e cultura contemporanea",
-      "link": "https://www.theblondesalad.com/fashion/guess-celebra-marilyn-monroe-la-mostra-al-mudec-e-la-capsule-collection-un-progetto-che-unisce-moda-fotografia-e-cultura-contemporanea/",
-      "summary": "C’è un momento preciso in cui la moda smette di essere solo prodotto e diventa racconto culturale. È quello che [&#8230;] The post GUESS celebra Marilyn Monroe: la mostra al MUDEC e la capsule collection. Un progetto che unisce moda, fotografia e cultura contemporanea first appeared on The Blonde Salad .",
-      "source": "The Blonde Salad",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-04-21T10:00:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "68418340ae34",
       "title": "What to Buy During KALKI Fashion’s Biggest Sale: The Ultimate Shopping Guide",
       "link": "https://blog.kalkifashion.com/best-fashion-finds-during-kalki-fashions-biggest-sale/",
@@ -2909,52 +2909,52 @@
   ],
   "trends": [
     {
-      "term": "અફઘાનિસ્તાન વિ. ભારત",
+      "term": "karuppu movie",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಮಂಗಳೂರು",
+      "term": "mojtaba khamenei",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ગુજરાત",
+      "term": "namibia vs nigeria",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "रेवती सुळे",
+      "term": "cockroach janta party jantar mantar",
+      "summary": "",
+      "aza_category": "Occasion Dressing"
+    },
+    {
+      "term": "rashid khan",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "afghanistan national cricket team vs india national cricket team match scorecard",
+      "term": "kim garth",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अफगानिस्तान क्रिकेट टीम बनाम भारतीय क्रिकेट टीम के मैच का स्कोरकार्ड",
+      "term": "kerala psc",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ఓటీటీ",
+      "term": "शेखर सुमन",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "चण्डीगढ़",
+      "term": "tata technologies",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಕರ್ನಾಟಕ ಸರ್ಕಾರ",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "ആര്.എസ് ബാബു",
+      "term": "பல்கலைக்கழகம்",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
