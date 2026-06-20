@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-20T06:11:37.899343+00:00",
+  "generated_at": "2026-06-20T08:22:29.482249+00:00",
   "owned_count": 10,
   "competitor_count": 15,
-  "industry_count": 181,
+  "industry_count": 182,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Brunello Cucinelli Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-20T06:10:40+00:00",
+      "published": "2026-06-20T08:19:17+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Missoni Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-20T06:10:40+00:00",
+      "published": "2026-06-20T08:19:17+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Missoni Resort 2027...",
       "score": 0,
-      "published": "2026-06-20T06:10:40+00:00",
+      "published": "2026-06-20T08:19:17+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Dunhill Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-20T06:10:40+00:00",
+      "published": "2026-06-20T08:19:17+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +75,91 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Ralph Lauren Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-20T06:10:40+00:00",
+      "published": "2026-06-20T08:19:17+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "42d4aff72d77",
+      "title": "Beauty Marks: The Best Beauty Looks of the Week",
+      "link": "https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-june-20",
+      "summary": "From Kim Petras’s just-bitten lips to Olandria’s chrome fuchsia body highlight—this week saw the best beauty looks embrace all things pink.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Beauty Marks: The Best Beauty Looks of the Week...",
+      "score": 1,
+      "published": "2026-06-20T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5e699165bedc",
+      "title": "Not Jelly Shoes—Suddenly, Everyone With Expensive Taste Is Wearing This Exact Pair of Elegant Flip-Flops",
+      "link": "https://www.whowhatwear.com/fashion/shoes/aemery-kinto-flip-flops-summer-2026",
+      "summary": "They're not The Row.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-06-20T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6c7957c4d0e4",
+      "title": "According to Both Fashion Editors and It Girls, This Is How You're Supposed to Wear Adidas Sneakers in 2026",
+      "link": "https://www.whowhatwear.com/fashion/shopping/how-to-style-adidas-sneakers-summer-2026",
+      "summary": "OG Sambas, plus trendy ballet flat silhouettes.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: According to Both Fashion Editors and It Girls, This Is How You're Sup...",
+      "score": 3,
+      "published": "2026-06-20T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "079b24484a65",
+      "title": "The Summer 2026 Trend That Makes Getting Ready Ridiculously Easy",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-matching-sets-for-summer",
+      "summary": "Maximum impact, minimal effort.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-06-20T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c9854e7a9846",
+      "title": "Not Black Capris, Not Blue Jeans—Chic Dressers Are All Wearing This Trouser Colour This Summer",
+      "link": "https://www.whowhatwear.com/fashion/pants-trousers/summer-outfits-with-white-trousers-2026",
+      "summary": "A little refresh.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-06-20T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f995e76fe275",
+      "title": "I Didn't Own a Single Pair of Jeans (I Know), But My Fashionable Colleagues Convinced Me to Try This One Style",
+      "link": "https://www.whowhatwear.com/fashion/shopping/levis-501-90s-jeans",
+      "summary": "My first pair of jeans as an adult.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Didn't Own a Single Pair of Jeans (I Know), But My Fashionable Colle...",
+      "score": 2,
+      "published": "2026-06-20T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -471,20 +555,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "881a49f9c3e1",
-      "title": "10 Weekend Outfits to Try This Summer",
-      "link": "https://www.vogue.com/article/what-to-wear-this-weekend",
-      "summary": "Whether you’re going away to Europe this weekend or staying close to home, here are ten summer weekend outfits to try this summer.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 10 Weekend Outfits to Try This Summer...",
-      "score": 1,
-      "published": "2026-06-19T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "08d40204806c",
       "title": "The 17 Best Airbnbs in New England Include Cozy Cabins & Coastal Retreats",
       "link": "https://www.vogue.com/article/best-airbnbs-in-new-england",
@@ -509,6 +579,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: The 15 Best Airbnbs in Miami, From South Beach to Coconut Grove...",
       "score": 0,
+      "published": "2026-06-19T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "881a49f9c3e1",
+      "title": "10 Weekend Outfits to Try This Summer",
+      "link": "https://www.vogue.com/article/what-to-wear-this-weekend",
+      "summary": "Whether you’re going away to Europe this weekend or staying close to home, here are ten summer weekend outfits to try this summer.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 10 Weekend Outfits to Try This Summer...",
+      "score": 1,
       "published": "2026-06-19T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -695,20 +779,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c8fe7121a241",
-      "title": "Beauty’s World Cup Goal? Elevate Men’s Grooming on the Global Stage",
-      "link": "https://www.vogue.com/article/beautys-world-cup-goal-elevate-mens-grooming-on-the-global-stage",
-      "summary": "Beauty is taking on a bigger role than ever in the World Cup, with official sponsorships and a slew of ambassador deals, many of which are targeted toward male fans.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Beauty’s World Cup Goal? Elevate Men’s Grooming on the Global Stage...",
-      "score": 1,
-      "published": "2026-06-19T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ec008865a0c0",
       "title": "Banana Girl Summer Is Here—13 Sweet and Sun-Kissed Beauty Products That Fit the Bill",
       "link": "https://www.whowhatwear.com/beauty/banana-beauty-products",
@@ -779,6 +849,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "9ddb3cdaba7e",
+      "title": "My Stylish Mom Is Shopping on Amazon More and Wanted a List of Cool Items—I Like These Chic Finds",
+      "link": "https://www.whowhatwear.com/fashion/shopping/amazon-prime-day-early-sale-fashion-2026",
+      "summary": "Fashionable sandals and cool basics included.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: My Stylish Mom Is Shopping on Amazon More and Wanted a List of Cool It...",
+      "score": 1,
+      "published": "2026-06-19T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "bfd41ad6b50e",
       "title": "8 Specific Summer Trends Fashion People Are Wearing With Their Basic Tank Tops This Summer",
       "link": "https://www.whowhatwear.com/fashion/shopping/what-to-wear-with-tank-tops-summer-2026",
@@ -816,20 +900,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I Don't Take Leads from Men, But I *Will* Borrow These Pieces From The...",
-      "score": 1,
-      "published": "2026-06-19T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9ddb3cdaba7e",
-      "title": "My Stylish Mom Is Shopping on Amazon More and Wanted a List of Cool Items—I Like These Chic Finds",
-      "link": "https://www.whowhatwear.com/fashion/shopping/amazon-prime-day-early-sale-fashion-2026",
-      "summary": "Fashionable sandals and cool basics included.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: My Stylish Mom Is Shopping on Amazon More and Wanted a List of Cool It...",
       "score": 1,
       "published": "2026-06-19T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1546,62 +1616,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-06-18T07:05:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f6e144525264",
-      "title": "Not Black Flip-Flops—It Girls Are Wearing This 2026 Sandal Trend Instead",
-      "link": "https://www.whowhatwear.com/fashion/two-tone-flip-flops",
-      "summary": "Shop the shoes.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-06-18T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "db3de319d86e",
-      "title": "Phoebe Philo! Ralph Lauren! Colleen Allen! The Bride Wore 7 Impeccably Elegant Looks for Her Saint Bart's Wedding",
-      "link": "https://www.whowhatwear.com/living/wedding/alexis-and-andrew-wedding",
-      "summary": "See every detail, including the ways the couple honored their Filipino and Jewish roots.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Phoebe Philo! Ralph Lauren! Colleen Allen! The Bride Wore 7 Impeccably Elegant Looks for Her Saint Bart's Wedding — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-06-18T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d2f350fee7bd",
-      "title": "The Vacation Edit: The 7 Most Important Trends to Pack in 2026",
-      "link": "https://www.whowhatwear.com/fashion/vacation/vacation-fashion-trends-2026",
-      "summary": "For your most stylish getaway yet.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-06-18T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "efc965481149",
-      "title": "I've Found It: The Anti-Trend, Highly Elegant Dress Chic Women Can't Stop Wearing This Summer",
-      "link": "https://www.whowhatwear.com/fashion/dresses/doen-daphne-dress-summer-2026",
-      "summary": "Of course, I want it.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-06-18T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2895,52 +2909,52 @@
   ],
   "trends": [
     {
-      "term": "bigg boss 20",
+      "term": "અફઘાનિસ્તાન વિ. ભારત",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "when is amazon prime day 2026",
+      "term": "ಮಂಗಳೂರು",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ఉద్ధవ్ థాకరే",
+      "term": "ગુજરાત",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "जेडी वेंस",
+      "term": "रेवती सुळे",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "miguel almirón",
+      "term": "afghanistan national cricket team vs india national cricket team match scorecard",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "smackdown",
+      "term": "अफगानिस्तान क्रिकेट टीम बनाम भारतीय क्रिकेट टीम के मैच का स्कोरकार्ड",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "దీవానా",
+      "term": "ఓటీటీ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "isidro pitta",
+      "term": "चण्डीगढ़",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "aeroflex enterprises ltd",
+      "term": "ಕರ್ನಾಟಕ ಸರ್ಕಾರ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "tim seifert",
+      "term": "ആര്.എസ് ബാബു",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
