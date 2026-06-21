@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-06-21T08:58:24.588167+00:00",
+  "generated_at": "2026-06-21T13:06:18.104474+00:00",
   "owned_count": 10,
   "competitor_count": 15,
-  "industry_count": 183,
+  "industry_count": 182,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "d5ca9c5e379a",
+      "title": "Prada Spring 2027 Menswear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-menswear/prada",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Prada Spring 2027 Menswear...",
+      "score": 2,
+      "published": "2026-06-21T13:03:56+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "aea45f5ecca1",
       "title": "MSGM Spring 2027 Menswear",
@@ -19,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: MSGM Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-21T08:57:29+00:00",
+      "published": "2026-06-21T13:03:56+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Brioni Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-21T08:57:29+00:00",
+      "published": "2026-06-21T13:03:56+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Philipp Plein Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-21T08:57:29+00:00",
+      "published": "2026-06-21T13:03:56+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +75,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Umit Benan Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-21T08:57:29+00:00",
+      "published": "2026-06-21T13:03:56+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +89,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Paul Smith Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-21T08:57:29+00:00",
+      "published": "2026-06-21T13:03:56+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,7 +103,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Setchu Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-21T08:57:29+00:00",
+      "published": "2026-06-21T13:03:56+00:00",
       "discovered_via": "feed"
     },
     {
@@ -103,7 +117,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Dolce & Gabbana Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-21T08:57:29+00:00",
+      "published": "2026-06-21T13:03:56+00:00",
       "discovered_via": "feed"
     },
     {
@@ -117,7 +131,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Pronounce Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-21T08:57:29+00:00",
+      "published": "2026-06-21T13:03:56+00:00",
       "discovered_via": "feed"
     },
     {
@@ -131,7 +145,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Brunello Cucinelli Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-21T08:57:29+00:00",
+      "published": "2026-06-21T13:03:56+00:00",
       "discovered_via": "feed"
     },
     {
@@ -145,49 +159,105 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Missoni Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-21T08:57:29+00:00",
+      "published": "2026-06-21T13:03:56+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "9081753a127b",
-      "title": "Missoni Resort 2027",
-      "link": "https://www.vogue.com/fashion-shows/resort-2027/missoni",
-      "summary": "",
+      "id": "ce04bfd1b123",
+      "title": "From the Archives: Tamasin Day-Lewis Remembers Her Father, Cecil Day-Lewis",
+      "link": "https://www.vogue.com/article/from-the-archives-bow-ties-and-poetry",
+      "summary": "Poet laureate Cecil Day-Lewis died when his daughter Tamasin was a teenager. This portrait, by Irving Penn, reminds her of everything she knew about him—and much that she didn't.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: From the Archives: Tamasin Day-Lewis Remembers Her Father, Cecil Day-L...",
+      "score": 0,
+      "published": "2026-06-21T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1a7bcbaa5a92",
+      "title": "The Best Dressed Stars of the Week Delivered Playful Whimsy",
+      "link": "https://www.vogue.com/slideshow/10-best-dressed-stars-zendaya-ayo-edebiri-sarah-pidgeon",
+      "summary": "Rama’s custom Knicks look! Zendaya’s fringe! This week was all about looks that did not take themselves too seriously.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The Best Dressed Stars of the Week Delivered Playful Whimsy...",
+      "score": 1,
+      "published": "2026-06-21T10:17:47+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "17bb3fbe9cb9",
+      "title": "Chloë Sevigny Takes This Cool Girl Skirt Trend for a Spin",
+      "link": "https://www.vogue.com/article/chloe-sevigny-takes-this-cool-girl-skirt-trend-for-a-spin",
+      "summary": "On vacation in Massachusetts, perennial it-girl Chloë Sevigny’s look combined indie brands, friend’s merch, and forever pieces to make the perfect summer fit.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Missoni Resort 2027...",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-06-21T10:13:06+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4d12c926f3ca",
+      "title": "Tommy’s Take on the Joy of Accessorizing",
+      "link": "https://www.vogue.com/article/tommy-tons-take",
+      "summary": "In monthly installments surrounding a fashion theme, street style photographer Tommy Ton gives us an unfiltered close-up of the outfits that caught his eye and why.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Tommy’s Take on the Joy of Accessorizing...",
+      "score": 3,
+      "published": "2026-06-21T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9d721abca121",
+      "title": "What Does a Goth Girl Wear to Her Bachelorette? Vintage Chanel, as per Gabbriette",
+      "link": "https://www.vogue.com/article/gabbriette-vintage-chanel-skirt-suit-bachelorette",
+      "summary": "Mrs. Matty Healy-to-be Gabbriette embraced all aspects of the bachelorette experience on a trip to Las Vegas.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: What Does a Goth Girl Wear to Her Bachelorette? Vintage Chanel, as per...",
+      "score": 1,
+      "published": "2026-06-21T09:41:36+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "66135ea38fc2",
+      "title": "Kim Kardashian Is Back Bleached Blonde and on Team Bob",
+      "link": "https://www.vogue.com/article/kim-kardashian-bleached-blonde-bob",
+      "summary": "A lover of a good hair transformation and a Marilyn Monroe stan, Kim Kardashian switched up her look to play femme fatale with a chin-skimming cut.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Kim Kardashian Is Back Bleached Blonde and on Team Bob...",
       "score": 0,
-      "published": "2026-06-21T08:57:29+00:00",
+      "published": "2026-06-21T09:23:20+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "0dd5c404e84b",
-      "title": "Dunhill Spring 2027 Menswear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-menswear/dunhill",
-      "summary": "",
+      "id": "101bb1cceae6",
+      "title": "Moschino Taps Sunnei Designers As Co-Creative Directors",
+      "link": "https://www.vogue.com/article/sunnei-founders-take-the-helm-at-moschino",
+      "summary": "Loris Messina and Simone Rizzo will step into Moschino's co-creative director role following Adrian Appiolaza’s exit.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Dunhill Spring 2027 Menswear...",
-      "score": 2,
-      "published": "2026-06-21T08:57:29+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cc8c1a2dfa07",
-      "title": "Ralph Lauren Spring 2027 Menswear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-menswear/ralph-lauren",
-      "summary": "",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Ralph Lauren Spring 2027 Menswear...",
-      "score": 2,
-      "published": "2026-06-21T08:57:29+00:00",
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Moschino Taps Sunnei Designers As Co-Creative Directors...",
+      "score": 1,
+      "published": "2026-06-21T09:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -384,20 +454,6 @@
       "angle": "Fashion Intelligence: The Best Street Style Photos From the Spring 2027 Menswear Shows in Mi...",
       "score": 5,
       "published": "2026-06-20T19:42:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8b18e517b197",
-      "title": "Sabarimala may get AI-based pilgrim management system this season",
-      "link": "https://www.indiatoday.in/india/kerala/story/sabarimala-ai-pilgrim-management-system-crowd-safety-ptag-2930609-2026-06-20?utm_source=rss",
-      "summary": "Sabarimala may get AI-based pilgrim management system this season",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-06-20T18:22:02+00:00",
       "discovered_via": "feed"
     },
     {
@@ -779,34 +835,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "79838271c399",
-      "title": "An Exclusive Look Behind the Scenes at the Ralph Lauren Spring 2027 Menswear Show",
-      "link": "https://www.vogue.com/slideshow/an-exclusive-look-behind-the-scenes-at-the-ralph-lauren-spring-2027-menswear-show",
-      "summary": "Ralph Lauren's spring 2027 menswear show is ready for its closeup.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: An Exclusive Look Behind the Scenes at the Ralph Lauren Spring 2027 Me...",
-      "score": 3,
-      "published": "2026-06-19T20:02:37+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a5e6df2bf5bf",
-      "title": "Hayley Kiyoko on Making Her Filmmaking Debut With Girls Like Girls",
-      "link": "https://www.vogue.com/article/hayley-kiyoko-girls-like-girls-interview",
-      "summary": "Vogue spoke to Kiyoko about working with stylist Avigail Collins on a custom look for the film’s Los Angeles premiere, her dreams of continuing to direct while scoring her own films, and making the love story she wishes she’d seen growing up.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 0,
-      "published": "2026-06-19T17:56:50+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f4ca8edb8cad",
       "title": "Adrian Appiolaza Is Leaving Moschino",
       "link": "https://www.harpersbazaar.com/fashion/designers/a69677299/adrian-appiolaza-exits-moschino/",
@@ -821,20 +849,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3d0f23d25e4e",
-      "title": "Adrian Appiolaza to Exit Moschino",
-      "link": "https://www.vogue.com/article/adrian-appiolaza-to-exit-moschino",
-      "summary": "The designer has left the brand after two and a half years.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Adrian Appiolaza to Exit Moschino...",
-      "score": 2,
-      "published": "2026-06-19T16:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "835d62ac3afa",
       "title": "Anne Hathaway Is Pregnant With Her Third Child!",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71638590/anne-hathaway-pregnant-third-child-announcement-video-instagram-details/",
@@ -846,34 +860,6 @@
       "angle": "Fashion Intelligence: Anne Hathaway Is Pregnant With Her Third Child!...",
       "score": 0,
       "published": "2026-06-19T15:45:50+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d4fe7c58f55a",
-      "title": "Anne Hathaway Reveals She Is Pregnant With Her Third Child",
-      "link": "https://www.vogue.com/article/anne-hathaway-pregnant-with-her-third-child",
-      "summary": "Congratulations are in order for Anne Hathaway, who is expecting her third child with Adam Shulman.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Anne Hathaway Reveals She Is Pregnant With Her Third Child...",
-      "score": 0,
-      "published": "2026-06-19T15:15:21+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "279a3d1061cd",
-      "title": "Marquise Cut Engagement Rings: What to Know About the Elongated Stone",
-      "link": "https://www.vogue.com/article/marquise-cut-engagement-rings-guide",
-      "summary": "Marquise cut engagement rings are a stylish choice for a reason. We break down what to know about the cut from its history to setting choices for the stone.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Fashion Intelligence: Marquise Cut Engagement Rings: What to Know About the Elongated Stone...",
-      "score": 0,
-      "published": "2026-06-19T14:19:55+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1129,6 +1115,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "9ddb3cdaba7e",
+      "title": "My Stylish Mom Is Shopping on Amazon More and Wanted a List of Cool Items—I Like These Chic Finds",
+      "link": "https://www.whowhatwear.com/fashion/shopping/amazon-prime-day-early-sale-fashion-2026",
+      "summary": "Fashionable sandals and cool basics included.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: My Stylish Mom Is Shopping on Amazon More and Wanted a List of Cool It...",
+      "score": 1,
+      "published": "2026-06-19T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "8ebeb570773b",
       "title": "I Don't Take Leads from Men, But I *Will* Borrow These Pieces From Their Summer Wardrobes",
       "link": "https://www.whowhatwear.com/fashion/summer/mens-summer-fashion-2026",
@@ -1167,20 +1167,6 @@
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
-      "published": "2026-06-19T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9ddb3cdaba7e",
-      "title": "My Stylish Mom Is Shopping on Amazon More and Wanted a List of Cool Items—I Like These Chic Finds",
-      "link": "https://www.whowhatwear.com/fashion/shopping/amazon-prime-day-early-sale-fashion-2026",
-      "summary": "Fashionable sandals and cool basics included.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: My Stylish Mom Is Shopping on Amazon More and Wanted a List of Cool It...",
-      "score": 1,
       "published": "2026-06-19T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -2923,52 +2909,52 @@
   ],
   "trends": [
     {
-      "term": "आईफ़ोन",
+      "term": "sa-w vs indw",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "wi-w vs sl-w",
+      "term": "chennai weather",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "മുല്ലപ്പെരിയാര് അണക്കെട്ട്",
+      "term": "mumbai indians",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "भारतीय वायुसेना",
+      "term": "അമ്മ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "tilak varma india a captain",
+      "term": "tiruvallur ammonia gas leak workers",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "shamim hossain",
+      "term": "పరీక్ష",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "આગાહી",
+      "term": "emma navarro",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hockey pro league",
+      "term": "பிளாஸ்ட்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "जनता पार्टी",
+      "term": "motogp",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "iphone 18",
+      "term": "karan aujla",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
