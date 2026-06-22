@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T07:12:32.586509+00:00",
+  "generated_at": "2026-06-22T10:38:44.650415+00:00",
   "owned_count": 10,
   "competitor_count": 16,
   "industry_count": 183,
@@ -8,6 +8,20 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "1164b0a4e239",
+      "title": "Shinyakozuka Spring 2027 Menswear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-menswear/shinyakozuka",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Shinyakozuka Spring 2027 Menswear...",
+      "score": 2,
+      "published": "2026-06-22T10:34:27+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "b9da88e86f55",
       "title": "Etro Spring 2027 Menswear",
@@ -19,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Etro Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-22T07:10:12+00:00",
+      "published": "2026-06-22T10:34:27+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Tod's Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-22T07:10:12+00:00",
+      "published": "2026-06-22T10:34:27+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Saul Nash Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-22T07:10:12+00:00",
+      "published": "2026-06-22T10:34:27+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +75,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Prada Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-22T07:10:12+00:00",
+      "published": "2026-06-22T10:34:27+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,35 +89,49 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: MSGM Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-22T07:10:12+00:00",
+      "published": "2026-06-22T10:34:27+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "b0881cafadaa",
-      "title": "Brioni Spring 2027 Menswear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-menswear/brioni",
-      "summary": "",
+      "id": "a659351fca00",
+      "title": "\"Will It Start A New Bridal Trend? I Think So\"—Everything We Know (And Loved) About Dua's Chanel Wedding Dress",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/dua-lipa-wedding-dress",
+      "summary": "A new bridal era is beginning.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: \"Will It Start A New Bridal Trend? I Think So\"—Everything We Know (And Loved) About Dua's Chanel Wedding Dress — A Complete Style Guide",
+      "score": 4,
+      "published": "2026-06-22T10:23:03+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "20269cdcf248",
+      "title": "8 Airbnbs in Ibiza for Pure Relaxation and Balearic Charm",
+      "link": "https://www.vogue.com/article/best-airbnbs-in-ibiza",
+      "summary": "Heading to Ibiza? Discover a quieter part of the island by booking one of the best Airbnbs in Ibiza, replete with traditional details.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Brioni Spring 2027 Menswear...",
-      "score": 2,
-      "published": "2026-06-22T07:10:12+00:00",
+      "angle": "Fashion Intelligence: 8 Airbnbs in Ibiza for Pure Relaxation and Balearic Charm...",
+      "score": 1,
+      "published": "2026-06-22T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "3937bca6dca6",
-      "title": "Philipp Plein Spring 2027 Menswear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-menswear/philipp-plein",
-      "summary": "",
-      "source": "Vogue US",
+      "id": "b9277a5cee6d",
+      "title": "Shu Lea Cheang On Her Queer Eco-Feminist Cyberpunk Cult Classic Film",
+      "link": "https://www.harpersbazaar.com/culture/film-tv/a71608327/shu-lea-cheang-fresh-kill-criterion/",
+      "summary": "The Taiwanese American filmmaker discusses why Fresh Kill , her 1994 debut film, feels more prescient than ever",
+      "source": "Harper's Bazaar",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Philipp Plein Spring 2027 Menswear...",
-      "score": 2,
-      "published": "2026-06-22T07:10:12+00:00",
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Shu Lea Cheang On Her Queer Eco-Feminist Cyberpunk Cult Classic Film...",
+      "score": 0,
+      "published": "2026-06-22T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -121,20 +149,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5df9d9dfccb4",
-      "title": "Every Stylish Woman I Know Owns a Pair of These Chic Jeans—Here's 5 Ways To Wear Them",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/cropped-jeans-outfits-2026",
-      "summary": "An essential for your collection.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Every Stylish Woman I Know Owns a Pair of These Chic Jeans—Here's 5 Wa...",
-      "score": 2,
-      "published": "2026-06-22T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c6973765b65b",
       "title": "I Know You're an Ahead-of-the-Curve Fashion Person If You're Wearing This Shoe Brand",
       "link": "https://www.whowhatwear.com/fashion/christen-shoe-brand",
@@ -145,6 +159,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
+      "published": "2026-06-22T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5df9d9dfccb4",
+      "title": "Every Stylish Woman I Know Owns a Pair of These Chic Jeans—Here's 5 Ways To Wear Them",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/cropped-jeans-outfits-2026",
+      "summary": "An essential for your collection.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Every Stylish Woman I Know Owns a Pair of These Chic Jeans—Here's 5 Wa...",
+      "score": 2,
       "published": "2026-06-22T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -236,7 +264,7 @@
       "id": "28763c327904",
       "title": "Alexander McQueen Will Return to London for Spring/Summer 2027",
       "link": "https://www.vogue.com/article/alexander-mcqueen-will-return-to-london-for-spring-summer-2027",
-      "summary": "The co-ed September 2026 show will be the brand’s first in London since 2022.",
+      "summary": "The co-ed September 2026 show will be the brand’s first in London since 2023.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
@@ -962,14 +990,14 @@
     },
     {
       "id": "51405d7dbae1",
-      "title": "Sorry Canvas Totes, I Just Know These 6 Designer It Bags Will Sell Out This Summer",
+      "title": "Sorry, Canvas Totes, I Just Know These 6 Designer It Bags Will Sell Out This Summer",
       "link": "https://www.whowhatwear.com/fashion/handbags/summer-it-bags-2026",
-      "summary": "Its in the bag.",
+      "summary": "It's in the bag.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Sorry Canvas Totes, I Just Know These 6 Designer It Bags Will Sell Out...",
+      "angle": "Fashion Intelligence: Sorry, Canvas Totes, I Just Know These 6 Designer It Bags Will Sell Ou...",
       "score": 1,
       "published": "2026-06-20T02:00:00+00:00",
       "discovered_via": "feed"
@@ -1292,20 +1320,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-06-19T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8ebeb570773b",
-      "title": "I Don't Take Leads from Men, But I *Will* Borrow These Pieces From Their Summer Wardrobes",
-      "link": "https://www.whowhatwear.com/fashion/summer/mens-summer-fashion-2026",
-      "summary": "Expect BDE (bold, dressy ensembles).",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Don't Take Leads from Men, But I *Will* Borrow These Pieces From The...",
       "score": 1,
       "published": "2026-06-19T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1896,20 +1910,6 @@
       "angle": "Fashion Intelligence: Rosalía’s Grungy Latex Tutu Dress Is the Peak of Her Lux Street Style...",
       "score": 3,
       "published": "2026-06-17T17:53:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9af84c87f610",
-      "title": "The Trendiest Hairstyle From the Year You Graduated School",
-      "link": "https://www.harpersbazaar.com/beauty/hair/g71616790/trendiest-hairstyle-from-the-year-you-were-born/",
-      "summary": "From ’80s crimps to Cher hair, these are the 60+ styles that defined decades",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-06-17T17:34:56+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2937,52 +2937,52 @@
   ],
   "trends": [
     {
-      "term": "pixar toy story 5",
+      "term": "karnataka",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kospi",
+      "term": "हिमाचल प्रदेश",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "budget west bengal 2026",
+      "term": "वंदे भारत एक्सप्रेस",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kospi index",
+      "term": "நீதிமன்றம்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಹಾರ್ದಿಕ್ ಪಾಂಡ್ಯ",
+      "term": "बीबीसी हिन्दी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ముఖ్యమంత్రి",
+      "term": "वेस्ट बंगाल",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "west bengal budget 2026",
+      "term": "बैंक अवकाश",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "itr filing",
+      "term": "राष्ट्रीय पात्रता व प्रवेश परीक्षा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ರಾಧಿಕಾ ಪಂಡಿತ್",
+      "term": "రాశి ఫలాలు 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "pf withdrawal",
+      "term": "રાશિ",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
