@@ -1,27 +1,13 @@
 {
-  "generated_at": "2026-06-23T06:01:37.445040+00:00",
+  "generated_at": "2026-06-23T08:31:54.968499+00:00",
   "owned_count": 10,
   "competitor_count": 16,
-  "industry_count": 183,
+  "industry_count": 180,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
-    {
-      "id": "8546c0160ff6",
-      "title": "Trust Me, I'm a Beauty Editor—These Are the Only Amazon Prime Day Beauty Deals Worth Shopping",
-      "link": "https://www.whowhatwear.com/beauty/skin/amazon-prime-day-beauty-deals-june-2026",
-      "summary": "Worth your attention.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Trust Me, I'm a Beauty Editor—These Are the Only Amazon Prime Day Beau...",
-      "score": 1,
-      "published": "2026-06-23T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
     {
       "id": "d7c1059403bb",
       "title": "Skall Studio Resort 2027",
@@ -33,7 +19,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Skall Studio Resort 2027...",
       "score": 0,
-      "published": "2026-06-23T05:57:40+00:00",
+      "published": "2026-06-23T08:30:09+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: CFCL Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-23T05:57:40+00:00",
+      "published": "2026-06-23T08:30:09+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +47,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Batsheva Resort 2027...",
       "score": 0,
-      "published": "2026-06-23T05:57:40+00:00",
+      "published": "2026-06-23T08:30:09+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,21 +61,161 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Giorgio Armani Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-23T05:57:40+00:00",
+      "published": "2026-06-23T08:30:09+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "608f22974200",
-      "title": "Eudon Choi Resort 2027",
-      "link": "https://www.vogue.com/fashion-shows/resort-2027/eudon-choi",
-      "summary": "",
+      "id": "9d02e85178c3",
+      "title": "How I’m Shopping Prime Day 2026 Deals as a Vogue Editor",
+      "link": "https://www.vogue.com/article/best-prime-day-deals-06-23-2026",
+      "summary": "Prime Day 2026 is on! Shop Vogue-approved finds for summer across fashion and beauty, hand-picked by a Vogue editor whose covered the sale for years.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Eudon Choi Resort 2027...",
-      "score": 0,
-      "published": "2026-06-23T05:57:40+00:00",
+      "angle": "Fashion Intelligence: How I’m Shopping Prime Day 2026 Deals as a Vogue Editor...",
+      "score": 2,
+      "published": "2026-06-23T08:03:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2412042a7162",
+      "title": "From Korean Sunscreens to French Pharmacy Serums—Every Cult Beauty Item Worth Buying on Prime Day",
+      "link": "https://www.whowhatwear.com/beauty/best-amazon-prime-day-2026-cult-beauty-deals",
+      "summary": "I've been secretly deal-hunting for weeks.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: From Korean Sunscreens to French Pharmacy Serums—Every Cult Beauty Ite...",
+      "score": 1,
+      "published": "2026-06-23T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "213ef72d408a",
+      "title": "What Vogue Editors Are Buying on Prime Day 2026",
+      "link": "https://www.vogue.com/article/editor-picks-prime-day-06-23-2026",
+      "summary": "Here’s what Vogue editors are actually shopping on Prime Day 2026—from beauty deals to fashion discounts and everything in between.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: What Vogue Editors Are Buying on Prime Day 2026...",
+      "score": 2,
+      "published": "2026-06-23T07:13:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e3fa816ef0d2",
+      "title": "The Summer 2026 Color Trend That Feels Even Cooler Than Butter Yellow, Ice Blue, and Royal Purple",
+      "link": "https://www.whowhatwear.com/fashion/summer/green-apple-color-trend",
+      "summary": "It’s giving brat summer all over again (in the best way).",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-06-23T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b1a9058a4c7c",
+      "title": "My Fashionable Aunt Asked Me to Shop Amazon for Her—44 Under-$200 Items I Suggested",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-amazon-prime-day-2026-editor-loved-deals",
+      "summary": "Amazon Prime Day starts today.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: My Fashionable Aunt Asked Me to Shop Amazon for Her—44 Under-$200 Item...",
+      "score": 1,
+      "published": "2026-06-23T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "08a953b524e2",
+      "title": "If Your Taste Is Luxury, But Your Budget Is Amazon—21 Prime Day Swimwear Finds Worth Shopping",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-amazon-prime-day-2026-swimsuit-deals",
+      "summary": "Starting at $24.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: If Your Taste Is Luxury, But Your Budget Is Amazon—21 Prime Day Swimwe...",
+      "score": 2,
+      "published": "2026-06-23T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e55340b3d584",
+      "title": "The Best Fashion Deals From the Amazon Prime Day Sale, Period",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-amazon-prime-day-2026-fashion-deals",
+      "summary": "Tees, tanks, jeans, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Fashion Deals From the Amazon Prime Day Sale, Period...",
+      "score": 1,
+      "published": "2026-06-23T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4f415aa2d847",
+      "title": "I'm a Shopping Director—Here Are the 21 Random (But Fantastic!) Things I'm Into This Amazon Prime Day",
+      "link": "https://www.whowhatwear.com/fashion/shopping/fashion-editor-amazon-prime-day-best-items-2026",
+      "summary": "Fashion! Beauty tools! Must-have home essentials!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm a Shopping Director—Here Are the 21 Random (But Fantastic!) Things...",
+      "score": 2,
+      "published": "2026-06-23T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "43521ad1c6c0",
+      "title": "\"I Can't Believe This Collection Isn't Designer\"—4 Elegant Looks From My Favourite High Street Summer Brand",
+      "link": "https://www.whowhatwear.com/fashion/summer/editor-summer-holiday-essentials-mango-2026",
+      "summary": "Certified heatwave-proof.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 3,
+      "published": "2026-06-23T06:39:11+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0c9d3a693d99",
+      "title": "Wardrobe.NYC Brings Its Minimalist Touch to H&M in New Capsule Collection",
+      "link": "https://www.vogue.com/article/wardrobe-nyc-hm-designer-collaboration",
+      "summary": "When H&amp;M first approached Wardrobe.NYC a little over a year ago, the goal was straightforward, and not too dissimilar from Wardrobe NYC’s own: to build the perfect capsule collection.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-06-23T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8546c0160ff6",
+      "title": "Trust Me, I'm a Beauty Editor—These Are the Only Amazon Prime Day Beauty Deals Worth Shopping",
+      "link": "https://www.whowhatwear.com/beauty/skin/amazon-prime-day-beauty-deals-june-2026",
+      "summary": "Worth your attention.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Trust Me, I'm a Beauty Editor—These Are the Only Amazon Prime Day Beau...",
+      "score": 1,
+      "published": "2026-06-23T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -639,6 +765,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "12e9d0781ba9",
+      "title": "10 Best Linen Pants Outfit Men’s Style Ideas | Summer 2026",
+      "link": "https://www.fashionbeans.com/article/best-linen-pants-outfit-mens-summer-style-ideas/",
+      "summary": "Good summer style relies on managing temperature without looking like you are dressed for the beach when you are actually in the city. Linen trousers provide the definitive solution, offering exceptional breathability and a crisp drape when tailored correctly. The classic practical problem men face is the fear of wrink",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 10 Best Linen Pants Outfit Men’s Style Ideas | Summer 2026...",
+      "score": 3,
+      "published": "2026-06-22T16:41:24+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "b2c4aaa583bd",
       "title": "Celine! Prada! Calvin! Harry Styles’s Tour Is a Who’s Who of Fashion",
       "link": "https://www.vogue.com/slideshow/harry-styles-tour-fashion",
@@ -751,20 +891,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "aa4bf1dd7f63",
-      "title": "25 Years Later, Look Back at the 2001 Premiere of ‘Legally Blonde’",
-      "link": "https://www.vogue.com/slideshow/2001-legally-blonde-premiere",
-      "summary": "Revisit the 2001 ‘Legally Blonde’ premiere, from Reese Witherspoon’s mermaid Marc Jacobs dress to Ali Larter’s boho-chic moment.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 25 Years Later, Look Back at the 2001 Premiere of ‘Legally Blonde’...",
-      "score": 1,
-      "published": "2026-06-22T15:23:03+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e10fea8e3c32",
       "title": "How to Grow Out a Bob, According to Experts",
       "link": "https://www.harpersbazaar.com/beauty/hair/a71627401/how-to-grow-out-your-bob-expert-tips/",
@@ -776,20 +902,6 @@
       "angle": "Fashion Intelligence: How to Grow Out a Bob, According to Experts...",
       "score": 1,
       "published": "2026-06-22T15:06:49+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e902dfe72cad",
-      "title": "Juliet Cap Veils Are the Romantic Bridal Trend Sweeping the Wedding Scene",
-      "link": "https://www.vogue.com/article/juliet-cap-veils-bridal-trend",
-      "summary": "Named after Shakespeare’s famous heroine, Kate Moss and Jackie Kennedy both wore Juliet cap veils. Now, Juliet cap veils are making a comeback in the bridal scene.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Juliet Cap Veils Are the Romantic Bridal Trend Sweeping the Wedding Scene — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-06-22T14:44:54+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1101,20 +1213,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9ff88094be87",
-      "title": "I'm a Beauty Editor With Short Nails—7 Chic Ways I'm Wearing Them Right Now",
-      "link": "https://www.whowhatwear.com/beauty/nails/short-summer-nail-trends-2026",
-      "summary": "Forget long lengths.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-06-21T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "135adbc6fd4f",
       "title": "I'm Adamant That Summer Outfits Look Best With Boots—6 Chic Looks That Prove Me Right",
       "link": "https://www.whowhatwear.com/summer-outfits-with-boots",
@@ -1125,6 +1223,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I'm Adamant That Summer Outfits Look Best With Boots—6 Chic Looks That...",
       "score": 1,
+      "published": "2026-06-21T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9ff88094be87",
+      "title": "I'm a Beauty Editor With Short Nails—7 Chic Ways I'm Wearing Them Right Now",
+      "link": "https://www.whowhatwear.com/beauty/nails/short-summer-nail-trends-2026",
+      "summary": "Forget long lengths.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
       "published": "2026-06-21T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1269,118 +1381,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b9079be64a24",
-      "title": "Every Cool-Girl Brand Is Putting Its Money Behind Freaky Sunglasses This Summer",
-      "link": "https://www.whowhatwear.com/fashion/runway/bug-eye-sunglasses-runway-trend-try-on",
-      "summary": "Buzz.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Every Cool-Girl Brand Is Putting Its Money Behind Freaky Sunglasses Th...",
-      "score": 1,
-      "published": "2026-06-20T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d20588425ff7",
-      "title": "Never Wear Your Sports Shorts With Trainers—They Look Coolest With These Shoe Trends Instead",
-      "link": "https://www.whowhatwear.com/fashion/shoes/shoes-to-wear-with-sports-shorts",
-      "summary": "Confirmed.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-06-20T08:39:55+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5e699165bedc",
-      "title": "Not Jelly Shoes—Suddenly, Everyone With Expensive Taste Is Wearing This Exact Pair of Elegant Flip-Flops",
-      "link": "https://www.whowhatwear.com/fashion/shoes/aemery-kinto-flip-flops-summer-2026",
-      "summary": "They're not The Row.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-06-20T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f995e76fe275",
-      "title": "I Didn't Own a Single Pair of Jeans (I Know), But My Fashionable Colleagues Convinced Me to Try This One Style",
-      "link": "https://www.whowhatwear.com/fashion/shopping/levis-501-90s-jeans",
-      "summary": "My first pair of jeans as an adult.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Didn't Own a Single Pair of Jeans (I Know), But My Fashionable Colle...",
-      "score": 2,
-      "published": "2026-06-20T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c9854e7a9846",
-      "title": "Not Black Capris, Not Blue Jeans—Chic Dressers Are All Wearing This Trouser Colour This Summer",
-      "link": "https://www.whowhatwear.com/fashion/pants-trousers/summer-outfits-with-white-trousers-2026",
-      "summary": "A little refresh.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-06-20T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6c7957c4d0e4",
-      "title": "According to Both Fashion Editors and It Girls, This Is How You're Supposed to Wear Adidas Sneakers in 2026",
-      "link": "https://www.whowhatwear.com/fashion/shopping/how-to-style-adidas-sneakers-summer-2026",
-      "summary": "OG Sambas, plus trendy ballet-flats silhouettes.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: According to Both Fashion Editors and It Girls, This Is How You're Sup...",
-      "score": 3,
-      "published": "2026-06-20T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "079b24484a65",
-      "title": "The Summer 2026 Trend That Makes Getting Ready Ridiculously Easy",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-matching-sets-for-summer",
-      "summary": "Maximum impact, minimal effort.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-06-20T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "566f6cf16297",
-      "title": "I Tried on H&M's Elegant, Rich-Looking Spring Collection—9 Pieces That Will Sell Out By Next Week",
-      "link": "https://www.whowhatwear.com/fashion/affordable/hm-try-on-summer-2026",
-      "summary": "No one will believe they're from the high street.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-06-20T05:40:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ed1cdedf794e",
       "title": "The Best Dutton Ranch Season 1 Fan Theories—From Yellowstone Connections to Biological Warfare",
       "link": "https://www.harpersbazaar.com/culture/film-tv/a71632109/dutton-ranch-season-1-theories/",
@@ -1392,34 +1392,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-06-20T04:20:47+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b7bbfd7e2fd2",
-      "title": "I'm a Beauty Editor—These 12 Amazon Beauty Products Have My Undivided Attention",
-      "link": "https://www.whowhatwear.com/beauty/early-amazon-prime-day-beauty-deals-2026",
-      "summary": "Some are even on sale right now.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I'm a Beauty Editor—These 12 Amazon Beauty Products Have My Undivided ...",
-      "score": 1,
-      "published": "2026-06-20T04:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "51405d7dbae1",
-      "title": "Sorry, Canvas Totes, I Just Know These 6 Designer It Bags Will Sell Out This Summer",
-      "link": "https://www.whowhatwear.com/fashion/handbags/summer-it-bags-2026",
-      "summary": "It's in the bag.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Sorry, Canvas Totes, I Just Know These 6 Designer It Bags Will Sell Ou...",
-      "score": 1,
-      "published": "2026-06-20T02:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2347,20 +2319,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "df6ffbcda5e6",
-      "title": "Rock Clothing: How Rock Stars Changed Fashion Forever",
-      "link": "https://www.fashionbeans.com/article/rock-clothing-guide/",
-      "summary": "It starts, like everything else, with Elvis Presley. Before the boy from Memphis first shimmied his way onstage, fashion and music were only connected in as much as artists had to wear something when they performed. After him, rock stars would be the biggest influence on what young people wore for the next half a &#823",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Rock Clothing: How Rock Stars Changed Fashion Forever...",
-      "score": 2,
-      "published": "2026-06-15T07:00:13+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "45cb2906a866",
       "title": "LAFAYETTE 148 Is Hiring An Account Executive, Sales In New York, NY",
       "link": "https://fashionista.com/2026/06/lafayette-148-is-hiring-an-account-executive-sales-in-new-york-ny",
@@ -2937,52 +2895,52 @@
   ],
   "trends": [
     {
-      "term": "గుండెనిండా గుడిగంటలు",
+      "term": "ವಿನೋದ್ ಪ್ರಭಾಕರ್",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "पंकज कपूर",
+      "term": "hockey pro league",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "portugal vs uzbekistan world cup 2026",
+      "term": "वोल्टास",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "congo world cup",
+      "term": "cuet",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "जॉर्ज कुरियन",
+      "term": "sanjeev kapoor",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "new india assurance",
+      "term": "weather forecasting",
+      "summary": "",
+      "aza_category": "Trend Alert"
+    },
+    {
+      "term": "mohan yadav",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "मोतीलाल ओसवाल",
+      "term": "ketan agarwal pune",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sakana ai fugu",
+      "term": "neet ug · 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ipo",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "vikram solar share price",
+      "term": "anna hazare",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
