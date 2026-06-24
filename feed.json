@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T08:22:30.544014+00:00",
+  "generated_at": "2026-06-24T13:23:32.242039+00:00",
   "owned_count": 10,
   "competitor_count": 16,
   "industry_count": 177,
@@ -8,6 +8,20 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "bc897f3d908e",
+      "title": "Rave Review Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/rave-review",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Rave Review Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-06-24T13:18:50+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "4024211be4b9",
       "title": "Our Legacy Spring 2027 Menswear",
@@ -19,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Our Legacy Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-24T08:21:30+00:00",
+      "published": "2026-06-24T13:18:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Our Legacy Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-06-24T08:21:30+00:00",
+      "published": "2026-06-24T13:18:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Dior Men Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-24T08:21:30+00:00",
+      "published": "2026-06-24T13:18:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +75,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Louis Vuitton Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-24T08:21:30+00:00",
+      "published": "2026-06-24T13:18:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,49 +89,287 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Maria McManus Resort 2027...",
       "score": 0,
-      "published": "2026-06-24T08:21:30+00:00",
+      "published": "2026-06-24T13:18:50+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "75366b54cd02",
-      "title": "Auralee Spring 2027 Menswear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-menswear/auralee",
-      "summary": "",
+      "id": "74b37916d0ab",
+      "title": "Exclusive: A First Look at Daisy Edgar-Jones and the Cast of ‘Sense and Sensibility’",
+      "link": "https://www.vogue.com/article/first-look-sense-and-sensibility-georgia-oakley-daisy-edgar-jones",
+      "summary": "Rounding out a year positively teeming with adaptations of classic fiction, English filmmaker Georgia Oakley’s “Sense and Sensibility” will arrive in theaters this October—and we have the first ravishing stills of her Dashwoods.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Auralee Spring 2027 Menswear...",
-      "score": 2,
-      "published": "2026-06-24T08:21:30+00:00",
+      "angle": "Fashion Intelligence: Exclusive: A First Look at Daisy Edgar-Jones and the Cast of ‘Sense an...",
+      "score": 0,
+      "published": "2026-06-24T13:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "a6c1b54baf5e",
-      "title": "Saint Laurent Spring 2027 Menswear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-menswear/saint-laurent",
-      "summary": "",
+      "id": "06d968b15ab9",
+      "title": "The Metrosexual Scoop Neck Is Back, Ladies",
+      "link": "https://www.vogue.com/article/return-of-the-metrosexual-scoop-neck",
+      "summary": "The low-cut tee was one of the most contested looks of the 2010s, and one which has once again resurfaced at the spring 2027 menswear shows. Ladies, brace yourself.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: The Metrosexual Scoop Neck Is Back, Ladies...",
+      "score": 3,
+      "published": "2026-06-24T12:56:49+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d21f199ddc66",
+      "title": "The Height Increasing Shoes That Actually Look Like Real Footwear",
+      "link": "https://www.fashionbeans.com/article/best-height-increasing-shoes-men-gova/",
+      "summary": "Most shoes that make you taller give the game away the second you put them on. Gova&#8217;s height boosting shoes are the exception, using premium leather and engineered lift to add up to 2.6 inches without anyone noticing. Type &#8220;shoes that make you taller&#8221; into Google and you will get a flood of identical ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Height Increasing Shoes That Actually Look Like Real Footwear...",
+      "score": 1,
+      "published": "2026-06-24T12:53:36+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e124547d0a12",
+      "title": "Jackie Asamoah's Shopping List Includes a New Schiaparelli Bag and Saint Laurent Heels",
+      "link": "https://fashionista.com/2026/06/jackie-asamoah-aina-fashion-beauty-interview",
+      "summary": "For “Payment Processing,” the content creator also reveals the eyeshadow she's bought in every color and why she swears by drugstore mascaras.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Jackie Asamoah's Shopping List Includes a New Schiaparelli Bag and Sai...",
+      "score": 1,
+      "published": "2026-06-24T12:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2f049bc90eb1",
+      "title": "Sienna's '90s \"Naked\" Slip Dress and Gold Shoe Combo Is So Carrie Bradshaw-Coded",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/sienna-miller-satin-slip-dress-gold-heels-serpentine-summer-party-2026",
+      "summary": "Here's how to do summer-in-the-city styling.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Sienna's '90s \"Naked\" Slip Dress and Gold Shoe Combo Is So Carrie Brad...",
+      "score": 1,
+      "published": "2026-06-24T12:19:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4e1eb0b9cf27",
+      "title": "How to Style the Minimalist Summer Dress",
+      "link": "https://www.vogue.com/article/how-to-style-the-minimalist-summer-dress",
+      "summary": "The minimalist summer dress is the perfect foundation for all of summer’s trendiest accessories—here’s how to style yours in five fresh ways.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How to Style the Minimalist Summer Dress...",
+      "score": 3,
+      "published": "2026-06-24T12:08:08+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ed27473cbaee",
+      "title": "The 50+ Best Amazon Prime Day Beauty Deals Worth Shopping",
+      "link": "https://www.harpersbazaar.com/beauty/skin-care/a71618898/amazon-prime-day-beauty-skincare-sales-deals-2026/",
+      "summary": "You can save up to 54 percent off on Medicube, Shark Beauty, and more",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The 50+ Best Amazon Prime Day Beauty Deals Worth Shopping...",
+      "score": 1,
+      "published": "2026-06-24T11:52:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2538cccb1e14",
+      "title": "Wedding in Maharashtra? You may have to put date of birth on invite soon",
+      "link": "https://www.indiatoday.in/india/story/maharashtra-child-marriage-birth-dates-mandatory-wedding-invitations-soon-2933315-2026-06-24?utm_source=rss",
+      "summary": "Wedding in Maharashtra? You may have to put date of birth on invite soon",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Wedding in Maharashtra? You may have to put date of birth on invite soon — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-06-24T11:51:06+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0e427a627daa",
+      "title": "I Was Gatekeeping Summer’s Prettiest Dress Trend, Until Every It Girl Started Wearing It",
+      "link": "https://www.whowhatwear.com/fashion/dresses/rosette-dress-trend-summer-2026",
+      "summary": "Effortlessly elegant.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-06-24T11:27:09+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5b0d46c813ff",
+      "title": "Matthew Williamson x Free People Deliver Boho Glam",
+      "link": "https://www.fashiongonerogue.com/story/matthew-williamson-free-people-collab/",
+      "summary": "Matthew Williamson&#8217;s Free People collection marks the British designer&#8217;s first return to fashion in seven years, and it arrives like ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Matthew Williamson x Free People Deliver Boho Glam...",
+      "score": 3,
+      "published": "2026-06-24T11:11:16+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "062980681f90",
+      "title": "Julien Dossena: The Best of His Rabanne in Vogue",
+      "link": "https://www.vogue.com/slideshow/the-best-of-julien-dossenas-rabanne-in-vogue",
+      "summary": "As the creative director makes his exit after 13 years at the house, a look back at how Julien Dossena’s work was featured in the magazine.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Saint Laurent Spring 2027 Menswear...",
-      "score": 2,
-      "published": "2026-06-24T08:21:30+00:00",
+      "angle": "Fashion Intelligence: Julien Dossena: The Best of His Rabanne in Vogue...",
+      "score": 0,
+      "published": "2026-06-24T11:08:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "131325b398db",
-      "title": "Études Studio Spring 2027 Menswear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-menswear/etudes",
-      "summary": "",
+      "id": "eeb1dfcdaaff",
+      "title": "Julien Dosenna’s Rabanne, as Seen on Celebrities",
+      "link": "https://www.vogue.com/slideshow/julien-dosennas-rabanne-as-seen-on-celebrities",
+      "summary": "Revisit Julien Dossena’s Rabanne, from Miley Cyrus’s homage to Hannah Montana to Sabrina Carpenter’s glittery Met Gala debut.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Julien Dosenna’s Rabanne, as Seen on Celebrities...",
+      "score": 0,
+      "published": "2026-06-24T11:03:21+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "60ad796bc4ad",
+      "title": "Tretinoin vs. Retinol: Which One Should You Be Using?",
+      "link": "https://www.vogue.com/article/tretinoin-vs-retinol",
+      "summary": "Of the many forms of retinoids, the two that get asked about the most are retinol and tretinoin. Here, the experts break down the differences between the two anti-aging ingredients and which is right for you.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Études Studio Spring 2027 Menswear...",
+      "angle": "Fashion Intelligence: Tretinoin vs. Retinol: Which One Should You Be Using?...",
+      "score": 0,
+      "published": "2026-06-24T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4b2e286ed04d",
+      "title": "After 13 Years, Julien Dossena and Rabanne Part Ways",
+      "link": "https://www.vogue.com/article/after-13-years-julien-dossena-and-rabanne-part-ways",
+      "summary": "During his tenure, the French designer modernized the house’s iconic chainmail with innovative techniques, brought a sense of French sophistication and versatility to the brand, and established it as a highlight of Paris Fashion Week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: After 13 Years, Julien Dossena and Rabanne Part Ways...",
+      "score": 3,
+      "published": "2026-06-24T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e5bfa8e27ff5",
+      "title": "Required Reading: Six Books That Inspired Julia Turshen’s ‘Down to Earth’",
+      "link": "https://www.vogue.com/article/6-books-that-inspired-julia-turshens-down-to-earth",
+      "summary": "“Down to Earth,” Turshen’s queer romance novel about a single mom who moves to upstate New York and falls for a vegetable farmer, is out today from 831 Stories.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Required Reading: Six Books That Inspired Julia Turshen’s ‘Down to Ear...",
+      "score": 0,
+      "published": "2026-06-24T10:44:02+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2bd2831a64ea",
+      "title": "Even in a Heatwave, the Serpentine Summer Party Brought Out London’s Art and Fashion Glitterati",
+      "link": "https://www.vogue.com/slideshow/serpentine-summer-party-2026",
+      "summary": "The annual fundraising event saw a star-studded lineup descend on Hyde Park, including Sienna Miller, Rosie Huntington-Whiteley, and Michael B. Jordan.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Even in a Heatwave, the Serpentine Summer Party Brought Out London’s A...",
+      "score": 1,
+      "published": "2026-06-24T10:39:28+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e555d832df3f",
+      "title": "Trust Alexa Chung to Make This \"Cheap\" Shoe Trend Look Incredibly Expensive",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/pvc-heels-trend-alexa-chung-2026",
+      "summary": "If anyone can, it's Alexa.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-06-24T10:34:56+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cd18cf1d305d",
+      "title": "The 10 Best Airbnbs for a Weekend Getaway from Los Angeles",
+      "link": "https://www.vogue.com/article/best-airbnbs-for-a-weekend-getaway-from-los-angeles",
+      "summary": "Craving time away from the city? We found the best Airbnbs for a weekend getaway from Los Angeles, from desert retreats to coastal cottages.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The 10 Best Airbnbs for a Weekend Getaway from Los Angeles...",
+      "score": 0,
+      "published": "2026-06-24T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "73738a15aa09",
+      "title": "9 Vogue Editor-Approved Summer Travel Outfits to Jet-Set in Style",
+      "link": "https://www.vogue.com/article/vogue-editors-travel-outfits",
+      "summary": "Planning your vacation? It starts with the right summer travel outfit—we polled our editors for their go-to airport formulas.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: 9 Vogue Editor-Approved Summer Travel Outfits to Jet-Set in Style...",
       "score": 2,
-      "published": "2026-06-24T08:21:30+00:00",
+      "published": "2026-06-24T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b4d331ab2ff2",
+      "title": "65 Thoughts I Had While Rewatching ‘Bend It Like Beckham’",
+      "link": "https://www.vogue.com/article/65-thoughts-i-had-while-rewatching-bend-it-like-beckham",
+      "summary": "Now that the World Cup is in full swing and England is facing off against Ghana tonight, it seems like high time to rewatch this iconic 'footy' film.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 65 Thoughts I Had While Rewatching ‘Bend It Like Beckham’...",
+      "score": 0,
+      "published": "2026-06-24T09:49:36+00:00",
       "discovered_via": "feed"
     },
     {
@@ -178,16 +430,58 @@
     },
     {
       "id": "a3e7e7bf695c",
-      "title": "The Best Prime Day Deals, According to a Vogue Fashion Editor",
+      "title": "60+ Best Prime Day Deals I'm Shopping Before They Sell Out (2026)",
       "link": "https://www.vogue.com/article/best-prime-day-deals-06-24-2026",
       "summary": "Not every Prime Day deal is worth your time—these are my top summer picks across fashion and beauty, as a Vogue editor whose covered the sale for years.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Best Prime Day Deals, According to a Vogue Fashion Editor...",
+      "angle": "Fashion Intelligence: 60+ Best Prime Day Deals I'm Shopping Before They Sell Out (2026)...",
       "score": 2,
       "published": "2026-06-24T07:03:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ce2a0f488d17",
+      "title": "I Shop for a Living—50 Fashion, Beauty, and Home Finds I Wouldn’t Dream of Missing Out on From the Amazon Prime Day Sale",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-amazon-prime-day-2026-fashion-beauty-home-deals",
+      "summary": "Up to 40% off.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Shop for a Living—50 Fashion, Beauty, and Home Finds I Wouldn’t Drea...",
+      "score": 2,
+      "published": "2026-06-24T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "25599ed9bb11",
+      "title": "I'm a Fussy Fashion Editor—This is the Skirt Style I'll Be Wearing On Repeat This Summer",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/linen-skirt-outfits-2026",
+      "summary": "It's a no-brainer.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-06-24T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "737264683c2d",
+      "title": "My Shopping Cart is Filled With Items Fashion People Wear—41 New Items From Nordstrom, Zara, J.Crew, and Revolve",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-summer-shopping-nordstrom-zara-j-crew-revolve-2026",
+      "summary": "Starting at just $30.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: My Shopping Cart is Filled With Items Fashion People Wear—41 New Items...",
+      "score": 2,
+      "published": "2026-06-24T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -214,48 +508,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Ballet Flats Are Everywhere—These Summer Outfits Will Make Them Look F...",
-      "score": 2,
-      "published": "2026-06-24T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "737264683c2d",
-      "title": "My Shopping Cart is Filled With Items Fashion People Wear—41 New Items From Nordstrom, Zara, J.Crew, and Revolve",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-summer-shopping-nordstrom-zara-j-crew-revolve-2026",
-      "summary": "Starting at just $30.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: My Shopping Cart is Filled With Items Fashion People Wear—41 New Items...",
-      "score": 2,
-      "published": "2026-06-24T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "25599ed9bb11",
-      "title": "I'm a Fussy Fashion Editor—This is the Skirt Style I'll Be Wearing On Repeat This Summer",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/linen-skirt-outfits-2026",
-      "summary": "It's a no-brainer.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-06-24T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ce2a0f488d17",
-      "title": "I Shop for a Living—50 Fashion, Beauty, and Home Finds I Wouldn’t Dream of Missing Out on From the Amazon Prime Day Sale",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-amazon-prime-day-2026-fashion-beauty-home-deals",
-      "summary": "Up to 40% off.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Shop for a Living—50 Fashion, Beauty, and Home Finds I Wouldn’t Drea...",
       "score": 2,
       "published": "2026-06-24T07:00:00+00:00",
       "discovered_via": "feed"
@@ -300,34 +552,6 @@
       "angle": "Fashion Intelligence: Nordstrom's Designer Markdowns Seem Almost Too Good To Be True—Shop Th...",
       "score": 1,
       "published": "2026-06-24T05:52:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "258387869170",
-      "title": "Suspected terror operative linked to Pakistan-based outfit arrested in Karnataka",
-      "link": "https://www.indiatoday.in/india/karnataka/story/up-man-linked-pakistan-based-terror-outfit-arrested-karnataka-davanagere-village-probe-underway-2933022-2026-06-24?utm_source=rss",
-      "summary": "Suspected terror operative linked to Pakistan-based outfit arrested in Karnataka",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Suspected terror operative linked to Pakistan-based outfit arrested in...",
-      "score": 1,
-      "published": "2026-06-24T05:22:18+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ff0e5eda029d",
-      "title": "Whipped, branded, guarded by pitbulls: 13 workers held captive at UP factory",
-      "link": "https://www.indiatoday.in/india/uttar-pradesh/story/muzaffarnagar-factory-raid-whipped-branded-guarded-by-pitbulls-13-workers-held-captive-2933006-2026-06-24?utm_source=rss",
-      "summary": "Whipped, branded, guarded by pitbulls: 13 workers held captive at UP factory",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Whipped, branded, guarded by pitbulls: 13 workers held captive at UP f...",
-      "score": 1,
-      "published": "2026-06-24T04:39:21+00:00",
       "discovered_via": "feed"
     },
     {
@@ -384,20 +608,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-06-24T04:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "143adf426470",
-      "title": "At BRICS summit, Ajit Doval warns allies of growing 'non-traditional' threats",
-      "link": "https://www.indiatoday.in/india/story/ajit-doval-brics-meet-global-security-tools-failing-cyber-threats-2932942-2026-06-24?utm_source=rss",
-      "summary": "At BRICS summit, Ajit Doval warns allies of growing 'non-traditional' threats",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: At BRICS summit, Ajit Doval warns allies of growing 'non-traditional' ...",
-      "score": 1,
-      "published": "2026-06-24T02:23:38+00:00",
       "discovered_via": "feed"
     },
     {
@@ -737,20 +947,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "cdbb335b4ef6",
-      "title": "All the Celebrity Sightings at Men’s Spring 2027 Fashion Week",
-      "link": "https://www.vogue.com/slideshow/all-the-celebrity-sightings-at-mens-spring-2027-fashion-week",
-      "summary": "The World Cup is well underway, but at men’s fashion week, another display of masculine bravura is taking shape, care of Connor Storrie, Louis Partridge, and Troye Sivan.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-06-23T18:52:29+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ba23f0756ec3",
       "title": "Saint Laurent United All the Stars for Its Summer 2027 Menswear Show in Paris",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71680944/all-the-stars-saint-laurent-summer-2027-menswear-show-paris-front-row-photos/",
@@ -765,20 +961,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c6764c6c9ad7",
-      "title": "Daisy Edgar-Jones Goes Auburn Copper for Summer",
-      "link": "https://www.vogue.com/article/daisy-edgar-jones-goes-auburn-copper-for-summer",
-      "summary": "The star chose the Saint Laurent Menswear show to debut her new look.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Daisy Edgar-Jones Goes Auburn Copper for Summer...",
-      "score": 3,
-      "published": "2026-06-23T18:45:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ff0d70d664c4",
       "title": "Rose Byrne and Bobby Cannavale's Complete Relationship Timeline",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71564684/rose-byrne-bobby-cannavale-relationship-timeline-details/",
@@ -790,20 +972,6 @@
       "angle": "Fashion Intelligence: Rose Byrne and Bobby Cannavale's Complete Relationship Timeline...",
       "score": 0,
       "published": "2026-06-23T18:29:19+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c033aefa1ce9",
-      "title": "“I Would Like That To Be My Funeral Shroud”—Olivia Cooke Had a Killer Time at the Thom Browne Show in Milan",
-      "link": "https://www.vogue.com/slideshow/olivia-cooke-thom-browne-spring-2027-mens-diary-milan",
-      "summary": "The ‘House of the Dragon’ star traded King’s Landing for Milan Fashion Week, where she beat the heat at Thom Browne’s spring 2027 menswear show.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: “I Would Like That To Be My Funeral Shroud”—Olivia Cooke Had a Killer ...",
-      "score": 4,
-      "published": "2026-06-23T18:27:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -863,20 +1031,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2e013a1b8fbb",
-      "title": "Zendaya and Tom Holland’s ‘Spider-Man’ Tour Is All About Couple Style",
-      "link": "https://www.vogue.com/slideshow/zendaya-tom-holland-spider-man-tour",
-      "summary": "The film’s press tour marks Zendaya and Tom Holland’s first official outings as husband and wife—and it’s a fashion force.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Zendaya and Tom Holland’s ‘Spider-Man’ Tour Is All About Couple Style...",
-      "score": 2,
-      "published": "2026-06-23T17:45:57+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c72ae9f30aa5",
       "title": "Zendaya Makes a Case for “Spider-Man Lashes”",
       "link": "https://www.harpersbazaar.com/beauty/makeup/a71679756/zendaya-spider-man-makeup-look-2026/",
@@ -905,20 +1059,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "af235bec4f28",
-      "title": "The Best Backstage Photos from the Spring 2027 Menswear Shows in Paris",
-      "link": "https://www.vogue.com/slideshow/the-best-backstage-photos-from-the-spring-2027-menswear-shows-in-paris",
-      "summary": "Paris is heating up on and off the runway. As brands and showgoers alike navigate the triple digit temperatures, Parisian staples Saint Laurent and Louis Vuitton as well as “defining menswear brand of the moment,” Auralee, as Ashley Ogawa Clarke put it, kicked the week off with a splashy start. Follow along as Acielle ",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The Best Backstage Photos from the Spring 2027 Menswear Shows in Paris...",
-      "score": 5,
-      "published": "2026-06-23T17:30:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "4de71fe466f3",
       "title": "Who Is Lionel Messi’s Wife, Antonela Roccuzzo?",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71565461/who-is-antonela-roccuzzo-lionel-messi-wife/",
@@ -930,48 +1070,6 @@
       "angle": "Fashion Intelligence: Who Is Lionel Messi’s Wife, Antonela Roccuzzo?...",
       "score": 0,
       "published": "2026-06-23T17:12:56+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a73ce2d044a4",
-      "title": "The Best Backstage Photos From Dolce & Gabbana, Thom Browne, and Giorgio Armani at the Spring 2027 Menswear Shows",
-      "link": "https://www.vogue.com/slideshow/the-best-backstage-photos-from-dolce-and-gabbana-thom-browne-and-giorgio-armani-at-the-spring-2027-menswear-shows",
-      "summary": "Acielle Tanbetova photographs the best behind-the-scenes moments from the spring 2027 menswear shows in Milan.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: The Best Backstage Photos From Dolce & Gabbana, Thom Browne, and Giorg...",
-      "score": 3,
-      "published": "2026-06-23T17:11:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bbeedc3b0d98",
-      "title": "Who Will Make Taylor Swift’s Wedding Dress? Let’s Break Down Some Contenders",
-      "link": "https://www.vogue.com/article/taylor-swift-wedding-dress-contenders",
-      "summary": "Here, we break down five contenders for Taylor Swift’s wedding dress designer, from her tried-and-trues to the dark horse picks.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Who Will Make Taylor Swift’s Wedding Dress? Let’s Break Down Some Contenders — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-06-23T17:01:25+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8ed5f8dea152",
-      "title": "29 Nostalgic Photos of the Royals at Wimbledon",
-      "link": "https://www.vogue.com/slideshow/royals-at-wimbledon",
-      "summary": "The royal family have long played an important part at Wimbledon. Here, British Vogue recounts the outfits and opportunities that brought the likes of the Queen, Princess Diana and Kate and Meghan into the Royal Box at Wimbledon.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 29 Nostalgic Photos of the Royals at Wimbledon...",
-      "score": 1,
-      "published": "2026-06-23T16:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1003,20 +1101,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7df6aebd03d7",
-      "title": "The Central Park Conservancy Celebrated Juneteenth by Honoring the Legacy of Seneca Village",
-      "link": "https://www.vogue.com/slideshow/central-park-conservancy-juneteenth-dinner-seneca-village",
-      "summary": "Intent on shining a spotlight on the legacy of Seneca Village while seeking to course-correct its erasure, the Central Park Conservancy hosted a commemorative dinner on Thursday evening timed to the celebration of Juneteenth.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Central Park Conservancy Celebrated Juneteenth by Honoring the Leg...",
-      "score": 0,
-      "published": "2026-06-23T15:49:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "8066a56db127",
       "title": "9 Summer Outfits Men Keep Returning to Every Year",
       "link": "https://www.fashionbeans.com/article/summer-outfits-men-keep-returning-to-every-year/",
@@ -1042,20 +1126,6 @@
       "angle": "Fashion Intelligence: No, Not Silk Pants—This Olsen-Backed Alt Will Make Loafers and a Butto...",
       "score": 1,
       "published": "2026-06-23T15:29:31+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a5102b808ce3",
-      "title": "Every Famous Bride Who Wore Chanel on Her Wedding Day",
-      "link": "https://www.vogue.com/article/chanel-brides-wedding-dresses",
-      "summary": "Dua Lipa is now part of an exclusive club of Chanel brides, including Keira Knightley and Sofia Richie Grainge.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Every Famous Bride Who Wore Chanel on Her Wedding Day — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-06-23T15:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1199,20 +1269,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ed27473cbaee",
-      "title": "The 50+ Best Amazon Prime Day Beauty Deals Worth Shopping",
-      "link": "https://www.harpersbazaar.com/beauty/skin-care/a71618898/amazon-prime-day-beauty-skincare-sales-deals-2026/",
-      "summary": "You can save up to 43 percent off on Medicube, Shark Beauty, and more",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The 50+ Best Amazon Prime Day Beauty Deals Worth Shopping...",
-      "score": 1,
-      "published": "2026-06-23T11:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "9b0a95805461",
       "title": "So Many of Our Favorite Sneakers Are on Sale on Amazon Prime Day",
       "link": "https://www.harpersbazaar.com/fashion/trends/a71663140/best-amazon-prime-day-sneaker-deals-2026/",
@@ -1283,6 +1339,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "08a953b524e2",
+      "title": "14 Prime Day Swimwear Finds Worth Shopping If Your Taste Is Luxury But Your Budget Is Amazon",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-amazon-prime-day-2026-swimsuit-deals",
+      "summary": "Starting at $16.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: 14 Prime Day Swimwear Finds Worth Shopping If Your Taste Is Luxury But...",
+      "score": 2,
+      "published": "2026-06-23T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "4f415aa2d847",
       "title": "I'm a Shopping Director—Here Are the 21 Random But Fantastic Things I'm Into This Amazon Prime Day",
       "link": "https://www.whowhatwear.com/fashion/shopping/fashion-editor-amazon-prime-day-best-items-2026",
@@ -1293,20 +1363,6 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I'm a Shopping Director—Here Are the 21 Random But Fantastic Things I'...",
       "score": 2,
-      "published": "2026-06-23T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e55340b3d584",
-      "title": "The Best Fashion Deals From the Amazon Prime Day Sale, Period",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-amazon-prime-day-2026-fashion-deals",
-      "summary": "Tees, tanks, jeans, and more.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Fashion Deals From the Amazon Prime Day Sale, Period...",
-      "score": 1,
       "published": "2026-06-23T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1325,29 +1381,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "08a953b524e2",
-      "title": "14 Prime Day Swimwear Finds Worth Shopping If Your Taste Is Luxury But Your Budget Is Amazon",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-amazon-prime-day-2026-swimsuit-deals",
-      "summary": "Starting at $16.",
+      "id": "e55340b3d584",
+      "title": "The Best Fashion Deals From the Amazon Prime Day Sale, Period",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-amazon-prime-day-2026-fashion-deals",
+      "summary": "Tees, tanks, jeans, and more.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: 14 Prime Day Swimwear Finds Worth Shopping If Your Taste Is Luxury But...",
-      "score": 2,
-      "published": "2026-06-23T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b1a9058a4c7c",
-      "title": "My Fashionable Aunt Asked Me to Shop Amazon for Her—49 Under-$150 Items I Suggested",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-amazon-prime-day-2026-editor-loved-deals",
-      "summary": "Amazon Prime Day starts today.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: My Fashionable Aunt Asked Me to Shop Amazon for Her—49 Under-$150 Item...",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Fashion Deals From the Amazon Prime Day Sale, Period...",
       "score": 1,
       "published": "2026-06-23T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1913,20 +1955,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "fe9735e60d14",
-      "title": "Massimo Dutti’s Azure Coast Is French Riviera Cool",
-      "link": "https://www.fashiongonerogue.com/story/massimo-dutti-azure-coast-editorial/",
-      "summary": "Massimo Dutti&#8217;s Azure Coast editorial reimagines summer resort dressing through a French Riviera lens. Bold color contrasts, satin textures, and ... Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Massimo Dutti’s Azure Coast Is French Riviera Cool...",
-      "score": 1,
-      "published": "2026-06-18T10:52:59+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "dba931420646",
       "title": "17 Best Luxury Wallets For Men: Top Designer Picks in 2026",
       "link": "https://www.fashionbeans.com/article/best-luxury-wallets-for-men/",
@@ -1952,20 +1980,6 @@
       "angle": "Fashion Intelligence: The Dad Look: How To Dress Like A DILF...",
       "score": 3,
       "published": "2026-06-18T09:15:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "dc8d5c97bfbc",
-      "title": "Leni Klum Enters Her Dramatic Era for GUESS Eyewear",
-      "link": "https://www.fashiongonerogue.com/story/leni-klum-forever-guess-campaign/",
-      "summary": "Leni Klum fronts the new Forever Guess eyewear campaign, stepping into the GUESS universe with a whole closet of characters. ... Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Leni Klum Enters Her Dramatic Era for GUESS Eyewear...",
-      "score": 1,
-      "published": "2026-06-18T05:12:26+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2473,20 +2487,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f8d7e88bb8de",
-      "title": "The Emerging Designer Whose Sculptural Looks Are Already All Over Red Carpets",
-      "link": "https://fashionista.com/2026/06/kuai-quine-li-designer-interview",
-      "summary": "Quine Li's Kuai Li was dressing Kylie Jenner within her first year of fashion school.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-06-10T12:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2f29e9ed097b",
       "title": "Why Your Saree Blouse Matters More Than the Saree Itself",
       "link": "https://blog.kalkifashion.com/unique-blouse-styles-for-different-occasions-with-the-same-saree/",
@@ -2711,6 +2711,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "57bdaab3983b",
+      "title": "Mermaidcore Sarees, Lehengas, and Co-Ord Sets We Love",
+      "link": "https://www.azafashions.com/blog/mermaidcore-sarees-lehengas-and-co-ord-sets/?utm_source=rss&utm_medium=rss&utm_campaign=mermaidcore-sarees-lehengas-and-co-ord-sets",
+      "summary": "The ocean has officially washed up on the shores of Indian fashion, and honestly? We're here for it. Mermaidcore fashion has gone from a niche aesthetic to a full-blown movement,&#8230; The post Mermaidcore Sarees, Lehengas, and Co-Ord Sets We Love appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Mermaidcore Sarees, Lehengas, and Co-Ord Sets We Love — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-06-23T22:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "6c887d45809c",
       "title": "Inside Anshula Kapoor and Rohan Thakkar’s Pre-Wedding Celebrations",
       "link": "https://www.azafashions.com/blog/anshula-kapoor-and-rohan-thakkars-pre-wedding/?utm_source=rss&utm_medium=rss&utm_campaign=anshula-kapoor-and-rohan-thakkars-pre-wedding",
@@ -2835,70 +2849,56 @@
       "score": 1,
       "published": "2026-06-19T11:57:42+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "9957294fe655",
-      "title": "How Komal Pandey Is Making Maximalist Bridal Fashion Feel Fresh Again",
-      "link": "https://www.azafashions.com/blog/komal-pandey-maximalist-bridal-fashion/?utm_source=rss&utm_medium=rss&utm_campaign=komal-pandey-maximalist-bridal-fashion",
-      "summary": "For the past few seasons, bridal fashion has whispered. Quiet luxury took over, with brides leaning into muted palettes, minimal embellishment, and the kind of understated elegance that practically apologizes&#8230; The post How Komal Pandey Is Making Maximalist Bridal Fashion Feel Fresh Again appeared first on Aza Edi",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: How Komal Pandey Is Making Maximalist Bridal Fashion Feel Fresh Again — A Complete Style Guide",
-      "score": 4,
-      "published": "2026-06-19T10:56:55+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "চীন",
+      "term": "2026 maruti brezza facelift launch",
+      "summary": "",
+      "aza_category": "Designer Spotlight"
+    },
+    {
+      "term": "శుభ్మన్ గిల్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अरविंद केजरीवाल",
+      "term": "shiv sena",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "pension",
+      "term": "muharram",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bombay high court",
+      "term": "salman bin abdulaziz al saud",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "dharman movie",
+      "term": "ಭಾರತೀಯ ಕ್ರಿಕೆಟ್ ತಂಡ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "neeru sharma bandra boy news",
+      "term": "gta 6 pre order",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ദയാവധം",
+      "term": "rockstar games",
+      "summary": "",
+      "aza_category": "Celebrity Style"
+    },
+    {
+      "term": "నరేంద్ర మోదీ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "singapore",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "csm technologies ipo gmp",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "মিউচুয়াল ফান্ড",
+      "term": "मुंबई",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
