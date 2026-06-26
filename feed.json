@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-26T06:02:36.065278+00:00",
+  "generated_at": "2026-06-26T08:30:50.745214+00:00",
   "owned_count": 10,
-  "competitor_count": 14,
-  "industry_count": 182,
+  "competitor_count": 16,
+  "industry_count": 181,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Edward Cuming Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-06-26T06:00:55+00:00",
+      "published": "2026-06-26T08:27:06+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Rolf Ekroth Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-26T06:00:55+00:00",
+      "published": "2026-06-26T08:27:06+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Theory Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-26T06:00:55+00:00",
+      "published": "2026-06-26T08:27:06+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Rick Owens Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-26T06:00:55+00:00",
+      "published": "2026-06-26T08:27:06+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +75,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: For Restless Sleepers Resort 2027...",
       "score": 0,
-      "published": "2026-06-26T06:00:55+00:00",
+      "published": "2026-06-26T08:27:06+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,7 +89,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Dries Van Noten Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-26T06:00:55+00:00",
+      "published": "2026-06-26T08:27:06+00:00",
       "discovered_via": "feed"
     },
     {
@@ -103,7 +103,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Yohji Yamamoto Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-26T06:00:55+00:00",
+      "published": "2026-06-26T08:27:06+00:00",
       "discovered_via": "feed"
     },
     {
@@ -117,7 +117,77 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Amiri Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-26T06:00:55+00:00",
+      "published": "2026-06-26T08:27:06+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b11a7cd7efd1",
+      "title": "Not Flip Flops, Not Heels: These Are the French Girl-Favourite Shoes To Wear With Dresses",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/satin-dress-ballet-flats-outfit-kate-moss-2026",
+      "summary": "Simple and chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Not Flip Flops, Not Heels: These Are the French Girl-Favourite Shoes T...",
+      "score": 2,
+      "published": "2026-06-26T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9f6f8abda5d5",
+      "title": "I'm Giving Myself a $500 Budget for Amazon Prime Day—These 13 Fashion and Beauty Items Are in My Cart",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-amazon-prime-day-2026-fashion-beauty-wellness-deals",
+      "summary": "Chic basics, dewy-skin heroes, workout staples, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm Giving Myself a $500 Budget for Amazon Prime Day—These 13 Fashion ...",
+      "score": 2,
+      "published": "2026-06-26T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f2ef8fbc9cdf",
+      "title": "The Prettiest Ruffled Socks, Satin Pajamas, and Floral Dresses on Sale for Amazon Prime Day",
+      "link": "https://www.whowhatwear.com/fashion/affordable/best-amazon-prime-day-2026-pretty-fashion-items-deals",
+      "summary": "Little luxuries.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Prettiest Ruffled Socks, Satin Pajamas, and Floral Dresses on Sale...",
+      "score": 1,
+      "published": "2026-06-26T07:05:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7a8495d19ff4",
+      "title": "I’ve Tried Hundreds of Fragrances—These Are the On-Sale Bottles I’d Wear From Amazon's Prime Day Sale",
+      "link": "https://www.whowhatwear.com/beauty/best-amazon-prime-day-2026-fragrance-deals",
+      "summary": "The sale ends today, June 26!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I’ve Tried Hundreds of Fragrances—These Are the On-Sale Bottles I’d We...",
+      "score": 1,
+      "published": "2026-06-26T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "702d8a09d0f8",
+      "title": "There’s More to a Chic Wimbledon Outfit Than Wearing All White—the 11 Best Celebrity Looks Of All Time",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/best-celebrity-wimbledon-outfits-all-time",
+      "summary": "Game, set, match.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-06-26T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -989,17 +1059,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f0409c174fb0",
-      "title": "It's the Hottest Day of the Year—21 Chic Throw-On Dresses That Make Heatwave Dressing Effortless",
-      "link": "https://www.whowhatwear.com/fashion/summer-heatwave-dresses-2026",
-      "summary": "Because staying cool whilst looking chic is possible.",
-      "source": "Who What Wear",
+      "id": "ae6d6cf62cae",
+      "title": "10 Best Brands like Lacoste for Preppy, Sporty Style in 2026",
+      "link": "https://www.fashionbeans.com/article/brands-like-lacoste/",
+      "summary": "If you&#8217;re faithful to the iconic preppy label but want to branch out, there are plenty of brands like Lacoste out there. In lieu of their 90th anniversary, it couldn’t be a better time to pay homage to the heritage brand while also checking out alternatives that may offer something slightly different at varying p",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: It's the Hottest Day of the Year—21 Chic Throw-On Dresses That Make He...",
-      "score": 1,
-      "published": "2026-06-25T08:00:00+00:00",
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: 10 Best Brands like Lacoste for Preppy, Sporty Style in 2026...",
+      "score": 3,
+      "published": "2026-06-25T08:13:07+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1012,20 +1082,6 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Our Editors Have Spoken—This Is the Cool Girl’s Guide to Summer Dressi...",
-      "score": 1,
-      "published": "2026-06-25T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6970847f6b38",
-      "title": "9 Expensive-Looking Amazon Prime Day Finds That Scream Quiet Luxury—And Won't Stay on Sale for Long",
-      "link": "https://www.whowhatwear.com/fashion/shopping/expensive-looking-amazon-prime-day-sale-june-2026",
-      "summary": "So good.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 9 Expensive-Looking Amazon Prime Day Finds That Scream Quiet Luxury—An...",
       "score": 1,
       "published": "2026-06-25T08:00:00+00:00",
       "discovered_via": "feed"
@@ -1045,30 +1101,44 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3fdcc4ba892c",
-      "title": "39 Pretty Summer Dresses and Sandals Under $250 Are Right This Way",
-      "link": "https://www.whowhatwear.com/fashion/shopping/affordable-summer-dresses-sandals-2026",
-      "summary": "Chic *and* affordable.",
+      "id": "f0409c174fb0",
+      "title": "It's the Hottest Day of the Year—21 Chic Throw-On Dresses That Make Heatwave Dressing Effortless",
+      "link": "https://www.whowhatwear.com/fashion/summer-heatwave-dresses-2026",
+      "summary": "Because staying cool whilst looking chic is possible.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 39 Pretty Summer Dresses and Sandals Under $250 Are Right This Way...",
+      "angle": "Fashion Intelligence: It's the Hottest Day of the Year—21 Chic Throw-On Dresses That Make He...",
       "score": 1,
-      "published": "2026-06-25T07:00:00+00:00",
+      "published": "2026-06-25T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "dfec814ce9d3",
-      "title": "Maybe It's TMI, But This $23 Amazon Prime Day Hack Is How I Prevent Potential Nip Slips",
-      "link": "https://www.whowhatwear.com/fashion/shopping/amazon-prime-day-2026-cakes-body-nipple-cover-deals",
-      "summary": "I swear by it.",
+      "id": "6970847f6b38",
+      "title": "9 Expensive-Looking Amazon Prime Day Finds That Scream Quiet Luxury—And Won't Stay on Sale for Long",
+      "link": "https://www.whowhatwear.com/fashion/shopping/expensive-looking-amazon-prime-day-sale-june-2026",
+      "summary": "So good.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Maybe It's TMI, But This $23 Amazon Prime Day Hack Is How I Prevent Po...",
+      "angle": "Fashion Intelligence: 9 Expensive-Looking Amazon Prime Day Finds That Scream Quiet Luxury—An...",
       "score": 1,
+      "published": "2026-06-25T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "01adddbd6506",
+      "title": "5 Summer Shorts Trends Fashion People Are Styling With Their Ballet Flats This Summer",
+      "link": "https://www.whowhatwear.com/fashion/trends/summer-shorts-trends-with-ballet-flats",
+      "summary": "From Bermuda shorts to denim cutoffs.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
       "published": "2026-06-25T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1087,15 +1157,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b703c19af01a",
-      "title": "I'm a Fashion Editor With a Very NYC Wardrobe—Every Chic and Useful Thing I'm Buying During Amazon Prime Day",
-      "link": "https://www.whowhatwear.com/fashion/affordable/new-yorker-shopping-list-amazon-prime-day-2026",
-      "summary": "Nineties denim! CBK-esque sunglasses! Viral white tees!",
+      "id": "dfec814ce9d3",
+      "title": "Maybe It's TMI, But This $23 Amazon Prime Day Hack Is How I Prevent Potential Nip Slips",
+      "link": "https://www.whowhatwear.com/fashion/shopping/amazon-prime-day-2026-cakes-body-nipple-cover-deals",
+      "summary": "I swear by it.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I'm a Fashion Editor With a Very NYC Wardrobe—Every Chic and Useful Th...",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Maybe It's TMI, But This $23 Amazon Prime Day Hack Is How I Prevent Po...",
       "score": 1,
       "published": "2026-06-25T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1115,16 +1185,30 @@
       "discovered_via": "feed"
     },
     {
-      "id": "01adddbd6506",
-      "title": "5 Summer Shorts Trends Fashion People Are Styling With Their Ballet Flats This Summer",
-      "link": "https://www.whowhatwear.com/fashion/trends/summer-shorts-trends-with-ballet-flats",
-      "summary": "From Bermuda shorts to denim cutoffs.",
+      "id": "3fdcc4ba892c",
+      "title": "39 Pretty Summer Dresses and Sandals Under $250 Are Right This Way",
+      "link": "https://www.whowhatwear.com/fashion/shopping/affordable-summer-dresses-sandals-2026",
+      "summary": "Chic *and* affordable.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 39 Pretty Summer Dresses and Sandals Under $250 Are Right This Way...",
+      "score": 1,
+      "published": "2026-06-25T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b703c19af01a",
+      "title": "I'm a Fashion Editor With a Very NYC Wardrobe—Every Chic and Useful Thing I'm Buying During Amazon Prime Day",
+      "link": "https://www.whowhatwear.com/fashion/affordable/new-yorker-shopping-list-amazon-prime-day-2026",
+      "summary": "Nineties denim! CBK-esque sunglasses! Viral white tees!",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
+      "angle": "Fashion Intelligence: I'm a Fashion Editor With a Very NYC Wardrobe—Every Chic and Useful Th...",
+      "score": 1,
       "published": "2026-06-25T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1213,34 +1297,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "aebb0c43b528",
-      "title": "I'm Nordstrom's Beauty Director—the 10 Essential Items I'd Pack for a Sun-Soaked Vacation",
-      "link": "https://www.whowhatwear.com/beauty/nordstrom-best-summer-beauty-items-2026",
-      "summary": "From an SPF sampler to a shimmering body oil and beyond.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm Nordstrom's Beauty Director—the 10 Essential Items I'd Pack for a ...",
-      "score": 1,
-      "published": "2026-06-25T04:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c841ab873abe",
-      "title": "I Finally Cleared My Beauty Wish List—Prime Day Saved Me Over $100",
-      "link": "https://www.whowhatwear.com/beauty/best-amazon-prime-day-2026-beauty-deals",
-      "summary": "You don't want to skip out on these deals.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Finally Cleared My Beauty Wish List—Prime Day Saved Me Over $100...",
-      "score": 1,
-      "published": "2026-06-25T03:59:58+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2ef744e3ca68",
       "title": "For Love & Lemons Upgrades Garden Style for the It Girl",
       "link": "https://www.fashiongonerogue.com/story/for-love-lemons-high-summer-2026/",
@@ -1269,34 +1325,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b46855664226",
-      "title": "Tankinis! Thin Straps! Boy Shorts! 8 Swimsuit Trends That Are Finally Back",
-      "link": "https://www.whowhatwear.com/fashion/swimwear/swimsuit-trends-making-a-comeback-summer-2026",
-      "summary": "Hello again.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-06-25T01:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "34b8fd5a764f",
-      "title": "Amazon Prime Day Fashion and Beauty Deals Have Arrived—These 33 Items Will Be the Stars of Your Summer Highlight Reel",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-amazon-prime-day-2026-clothing-shoes-accessories-beauty-2026",
-      "summary": "It's that time of year again.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Amazon Prime Day Fashion and Beauty Deals Have Arrived—These 33 Items ...",
-      "score": 2,
-      "published": "2026-06-25T00:13:35+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c78bc2b01d34",
       "title": "I Stood on a Vibration Plate Every Day for Two Weeks. I Have Thoughts.",
       "link": "https://www.harpersbazaar.com/beauty/health/a68883835/do-vibration-plates-work-review/",
@@ -1322,20 +1350,6 @@
       "angle": "Fashion Intelligence: Michelle Obama Gives the Coolest Nod to Her Husband in Custom Fear of ...",
       "score": 0,
       "published": "2026-06-24T20:38:41+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "41ca67a7b400",
-      "title": "Fashion People Know to Wear This Specific Sandal Trend With This Legging Color Trend for Summer 2026",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/leggings-with-jelly-flip-flops-outfit",
-      "summary": "It's easy to see why this chic pairing works.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-06-24T20:19:01+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1378,20 +1392,6 @@
       "angle": "Fashion Intelligence: Grape-Tomato Is the Unexpected Color Combination of the Summer...",
       "score": 1,
       "published": "2026-06-24T19:14:11+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "58b263d892e3",
-      "title": "Stop Stressing About What to Wear All the Time, and Just Put On This Always-Cool Casual Jeans Outfit",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/casual-jeans-summer-outfit-lori-harvey",
-      "summary": "Lori Harvey approved.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Stop Stressing About What to Wear All the Time, and Just Put On This A...",
-      "score": 2,
-      "published": "2026-06-24T19:13:40+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2417,20 +2417,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3b5698c191ba",
-      "title": "What Color Shoes To Wear With Your Suit: A Definitive Guide",
-      "link": "https://www.fashionbeans.com/article/what-colour-shoes-to-wear-with-a-suit/",
-      "summary": "Shoes are dangerous, financially speaking. Watches are expensive, sure, but it&#8217;s shoes that&#8217;ll do real damage to your wallet. Buy the wrong the pair, or the right pair in the wrong colour, and you can wave goodbye to hundreds if not thousands of pounds worth of tailoring. After all, not even the finest Savi",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: What Color Shoes To Wear With Your Suit: A Definitive Guide...",
-      "score": 1,
-      "published": "2026-06-16T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "aa5844bf8db5",
       "title": "Must Read: Jacquemus Reveals Spring 2027 Show Location, Khy Appoints CEO",
       "link": "https://fashionista.com/2026/06/jacquemus-spring-2027-show-location",
@@ -2613,6 +2599,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "daac22f17dda",
+      "title": "White Anarkali Dress Styling Guide: 9 Looks for Every Skin Tone and Occasion",
+      "link": "https://www.indianclothstore.com/blog/white-anarkali-dress-styling-guide-skin-tone-occasion",
+      "summary": "A white anarkali dress is one of the most versatile pieces in Indian ethnic wear — but most women either avoid it out of uncertainty or style it the same way every time. White works beautifully across skin tones when the fabric, embellishment, and accessories are chosen correctly. Indian Cloth Store has put together th",
+      "source": "Indian Cloth Store",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Trend Alert",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 6,
+      "published": "2026-06-22T06:49:04+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "e8edc74591ee",
       "title": "What Makes a Bridal Outfit Feel Like ‘The One’ Instantly",
       "link": "https://blog.kalkifashion.com/find-bridal-outfits-that-turn-heads-instantly/",
@@ -2694,6 +2694,20 @@
       "angle": "Fashion Intelligence: KALKI Fashion’s Biggest Sale Ever Flat 30%–50% Off Online & In Stores...",
       "score": 5,
       "published": "2026-06-17T06:16:05+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "af8f4f6185a1",
+      "title": "Frock Anarkali vs Classic Anarkali: Which Style Actually Suits Your Body Type?",
+      "link": "https://www.indianclothstore.com/blog/frock-anarkali-vs-classic-anarkali-suit",
+      "summary": "A frock anarkali suit and a classic anarkali suit look similar at first glance — both are floor-length, and both are stunning. But the silhouette, the cut, and the way each one sits on the body are completely different. Choosing the wrong one for your frame or your occasion is one of the most common mistakes Indian eth",
+      "source": "Indian Cloth Store",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Frock Anarkali vs Classic Anarkali: Which Style Actually Suits Your Bo...",
+      "score": 3,
+      "published": "2026-06-15T13:38:13+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2895,6 +2909,36 @@
   ],
   "trends": [
     {
+      "term": "lottery result",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "క్రెడిట్ కార్డు",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "uttarakhand border nihang sikhs clash",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "तुर्किये",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "வெள்ளி",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "eighth pay commission fitment factor",
+      "summary": "",
+      "aza_category": "Celebrity Style"
+    },
+    {
       "term": "ayodhya",
       "summary": "",
       "aza_category": "Fashion & Style"
@@ -2905,42 +2949,12 @@
       "aza_category": "Fashion & Style"
     },
     {
+      "term": "passport application",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
       "term": "இருபது20",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "हेमा मालिनी",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "today bank open",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "share market today",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "barış alper yılmaz",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "अक्षर पटेल",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "muharram 2026 india wishes meaning",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "ind vs irl",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
