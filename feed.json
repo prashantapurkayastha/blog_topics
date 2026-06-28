@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-06-28T06:09:11.627120+00:00",
+  "generated_at": "2026-06-28T08:22:11.753684+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 179,
+  "industry_count": 182,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "d88479d3ef0d",
+      "title": "Ssstein Spring 2027 Menswear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-menswear/stein",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Ssstein Spring 2027 Menswear...",
+      "score": 2,
+      "published": "2026-06-28T08:20:11+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "6f580f6df8db",
       "title": "Magliano Spring 2027 Menswear",
@@ -19,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Magliano Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-28T06:08:03+00:00",
+      "published": "2026-06-28T08:20:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Soshiotsuki Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-28T06:08:03+00:00",
+      "published": "2026-06-28T08:20:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Hed Mayner Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-28T06:08:03+00:00",
+      "published": "2026-06-28T08:20:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +75,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Y-3 Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-28T06:08:03+00:00",
+      "published": "2026-06-28T08:20:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +89,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Isabel Marant Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-28T06:08:03+00:00",
+      "published": "2026-06-28T08:20:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,7 +103,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Studio Nicholson Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-06-28T06:08:03+00:00",
+      "published": "2026-06-28T08:20:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -103,7 +117,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Kolor Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-28T06:08:03+00:00",
+      "published": "2026-06-28T08:20:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -117,7 +131,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Kiko Kostadinov Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-28T06:08:03+00:00",
+      "published": "2026-06-28T08:20:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -131,7 +145,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Comme des Garçons Shirt Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-28T06:08:03+00:00",
+      "published": "2026-06-28T08:20:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -145,7 +159,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Tove Resort 2027...",
       "score": 0,
-      "published": "2026-06-28T06:08:03+00:00",
+      "published": "2026-06-28T08:20:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -159,7 +173,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: ERL Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-06-28T06:08:03+00:00",
+      "published": "2026-06-28T08:20:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -173,7 +187,63 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Ernest W. Baker Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-28T06:08:03+00:00",
+      "published": "2026-06-28T08:20:11+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3450503b4f59",
+      "title": "This Cool Girl Dress and Shoe Pairing From the '90s Is So Back This Summer",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/slip-dress-flip-flops-90s-outfit-dakota-fanning-2026",
+      "summary": "The only thing I want to wear.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: This Cool Girl Dress and Shoe Pairing From the '90s Is So Back This Su...",
+      "score": 2,
+      "published": "2026-06-28T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2cc3f1cc0d0d",
+      "title": "30 Under-$150 Linen Dresses That Are Just as Good as the Pricey Ones",
+      "link": "https://www.whowhatwear.com/fashion/dresses/best-affordable-linen-dresses",
+      "summary": "Looking chic this summer just got easier.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 30 Under-$150 Linen Dresses That Are Just as Good as the Pricey Ones...",
+      "score": 1,
+      "published": "2026-06-28T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3197e2721fc4",
+      "title": "The Best 2026 Sunglasses Trends For Every Face Shape",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-sunglasses-trend-for-your-face-shape-2026",
+      "summary": "The experts have spoken.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-06-28T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "80baa1502542",
+      "title": "Not Quite a Flip-Flip, Not Exactly a Heel—The Hottest Shoe Trend This Summer Does Both",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/heeled-flip-flop-summer-outfits-2026",
+      "summary": "Here's precisely how to wear it.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-06-28T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -485,20 +555,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "944f4970028a",
-      "title": "Off Campus Season 2 Will Be Stephen Kalyn's Power Play",
-      "link": "https://www.whowhatwear.com/fashion/celebrity/stephen-kalyn-off-campus",
-      "summary": "Meet Hollywood's new hockey heartthrob.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-06-27T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "629dc9d71919",
       "title": "It’s Too Hot For Jeans–This Cool Girl Trouser Trend Is Comfortable Enough For a Heatwave",
       "link": "https://www.whowhatwear.com/fashion/pants-trousers/balloon-trouser-trend-2026",
@@ -513,57 +569,29 @@
       "discovered_via": "feed"
     },
     {
-      "id": "197208664a19",
-      "title": "IfYou Want to Look Cool (Not Cheesy) This 4th of July Weekend, Wear This, This, or This",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/cool-fourth-of-july-outfit-ideas",
-      "summary": "Outfit ideas ahead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: IfYou Want to Look Cool (Not Cheesy) This 4th of July Weekend, Wear Th...",
-      "score": 2,
-      "published": "2026-06-27T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7e20e207a0f4",
-      "title": "From Bug-Eye Sunglasses to Tube Tops: The Microtrends Dominating in L.A. This Summer",
-      "link": "https://www.whowhatwear.com/fashion/trends/microtrends-los-angeles-summer-2026",
-      "summary": "So much outfit inspiration.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-06-27T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "25df433680c6",
-      "title": "Kylie Jenner's Latest Summer Looks Confirm These 6 Trends Are Taking Off",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/kylie-jenner-summer-trends-2026",
-      "summary": "She's setting the tone.",
+      "id": "944f4970028a",
+      "title": "Off Campus Season 2 Will Be Stephen Kalyn's Power Play",
+      "link": "https://www.whowhatwear.com/fashion/celebrity/stephen-kalyn-off-campus",
+      "summary": "Meet Hollywood's new hockey heartthrob.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
-      "published": "2026-06-27T07:00:00+00:00",
+      "published": "2026-06-27T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "e01852618a27",
-      "title": "We Now Know What the 7 Biggest Dress Trends of Summer 2026 Are",
-      "link": "https://www.whowhatwear.com/fashion/dresses/summer-2026-dress-trends",
-      "summary": "Look chic at all times.",
+      "id": "4d4b8072d560",
+      "title": "Got Plans? Stop Stressing About What to Wear and Save These 6 Hot-Weather Evening Outfits",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/hot-weather-evening-outfits",
+      "summary": "Stay cool, look cooler.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "angle": "Fashion Intelligence: Got Plans? Stop Stressing About What to Wear and Save These 6 Hot-Weat...",
       "score": 2,
       "published": "2026-06-27T07:00:00+00:00",
       "discovered_via": "feed"
@@ -578,20 +606,6 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-06-27T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4d4b8072d560",
-      "title": "Got Plans? Stop Stressing About What to Wear and Save These 6 Hot-Weather Evening Outfits",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/hot-weather-evening-outfits",
-      "summary": "Stay cool, look cooler.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Got Plans? Stop Stressing About What to Wear and Save These 6 Hot-Weat...",
       "score": 2,
       "published": "2026-06-27T07:00:00+00:00",
       "discovered_via": "feed"
@@ -621,6 +635,62 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: 5 Elevated Summer Accessories Everyone Who Wants to Look Stylish Shoul...",
       "score": 1,
+      "published": "2026-06-27T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e01852618a27",
+      "title": "We Now Know What the 7 Biggest Dress Trends of Summer 2026 Are",
+      "link": "https://www.whowhatwear.com/fashion/dresses/summer-2026-dress-trends",
+      "summary": "Look chic at all times.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-06-27T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "25df433680c6",
+      "title": "Kylie Jenner's Latest Summer Looks Confirm These 6 Trends Are Taking Off",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/kylie-jenner-summer-trends-2026",
+      "summary": "She's setting the tone.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-06-27T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "197208664a19",
+      "title": "IfYou Want to Look Cool (Not Cheesy) This 4th of July Weekend, Wear This, This, or This",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/cool-fourth-of-july-outfit-ideas",
+      "summary": "Outfit ideas ahead.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: IfYou Want to Look Cool (Not Cheesy) This 4th of July Weekend, Wear Th...",
+      "score": 2,
+      "published": "2026-06-27T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7e20e207a0f4",
+      "title": "From Bug-Eye Sunglasses to Tube Tops: The Microtrends Dominating in L.A. This Summer",
+      "link": "https://www.whowhatwear.com/fashion/trends/microtrends-los-angeles-summer-2026",
+      "summary": "So much outfit inspiration.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
       "published": "2026-06-27T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -874,20 +944,6 @@
       "angle": "Fashion Intelligence: Paris When It Sizzles! 8 Street Style Looks to Recreate From Men’s SS2...",
       "score": 3,
       "published": "2026-06-26T20:00:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ec2df6d4ac47",
-      "title": "3 Styles at Work: How to Wear Pendant Necklaces This Summer",
-      "link": "https://www.vogue.com/article/three-styles-at-work",
-      "summary": "3 pendant necklaces. Three Vogue editors. Here's how to style the statement necklace of the summer in three entirely different ways.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 3 Styles at Work: How to Wear Pendant Necklaces This Summer...",
-      "score": 2,
-      "published": "2026-06-26T19:53:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1294,20 +1350,6 @@
       "angle": "Fashion Intelligence: What Shoes To Wear With Every Style Of Trousers...",
       "score": 2,
       "published": "2026-06-26T08:30:20+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9f6f8abda5d5",
-      "title": "I'm Giving Myself a $500 Budget for Amazon Prime Day—These 13 Fashion and Beauty Items Are in My Cart",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-amazon-prime-day-2026-fashion-beauty-wellness-deals",
-      "summary": "Chic basics, dewy-skin heroes, workout staples, and more.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm Giving Myself a $500 Budget for Amazon Prime Day—These 13 Fashion ...",
-      "score": 2,
-      "published": "2026-06-26T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2909,52 +2951,52 @@
   ],
   "trends": [
     {
-      "term": "israel iran war",
+      "term": "ಪ್ರದೀಪ್ ಈಶ್ವರ್",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ireland cricket team",
+      "term": "bangladesh national cricket team",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "today wordle hints",
+      "term": "el niño india monsoon deficit",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "didier deschamps",
+      "term": "শ্রমিক",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sarthak sidhant procurement portal launch",
-      "summary": "",
-      "aza_category": "Designer Spotlight"
-    },
-    {
-      "term": "algeria national football team vs austria national football team standings",
+      "term": "bangladesh vs zimbabwe",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "રાશિ",
+      "term": "iphone 18 pro max",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "tata sierra ev",
+      "term": "போக்குவரத்து",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "valentín barco",
+      "term": "raj thackeray",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mitchell owen",
+      "term": "washington freedom vs texas super kings standings",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "sir form",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
