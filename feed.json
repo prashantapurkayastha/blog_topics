@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T09:26:50.039757+00:00",
+  "generated_at": "2026-06-29T14:52:31.615342+00:00",
   "owned_count": 10,
   "competitor_count": 18,
   "industry_count": 182,
@@ -8,6 +8,34 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "7512770d70d4",
+      "title": "Engineered Garments Spring 2027 Menswear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-menswear/engineered-garments",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Engineered Garments Spring 2027 Menswear...",
+      "score": 2,
+      "published": "2026-06-29T14:51:53+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "17e98c56d411",
+      "title": "Jacquemus Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/jacquemus",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Jacquemus Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-06-29T14:51:53+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "41f0661109b4",
       "title": "Sacai Resort 2027",
@@ -19,7 +47,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Sacai Resort 2027...",
       "score": 0,
-      "published": "2026-06-29T09:24:33+00:00",
+      "published": "2026-06-29T14:51:53+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Hermès Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-29T09:24:33+00:00",
+      "published": "2026-06-29T14:51:53+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +75,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Christopher Esber Resort 2027...",
       "score": 0,
-      "published": "2026-06-29T09:24:33+00:00",
+      "published": "2026-06-29T14:51:53+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +89,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Bed j.w. Ford Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-29T09:24:33+00:00",
+      "published": "2026-06-29T14:51:53+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +103,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Doublet Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-29T09:24:33+00:00",
+      "published": "2026-06-29T14:51:53+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,7 +117,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Celine Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-29T09:24:33+00:00",
+      "published": "2026-06-29T14:51:53+00:00",
       "discovered_via": "feed"
     },
     {
@@ -103,63 +131,175 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Sacai Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-29T09:24:33+00:00",
+      "published": "2026-06-29T14:51:53+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "6797c1ad931c",
-      "title": "Wooyoungmi Spring 2027 Menswear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-menswear/wooyoungmi",
-      "summary": "",
+      "id": "42ab4d68d49e",
+      "title": "Princess Kate Embarks on the National Three Peaks Challenge for an Emotional Reason",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a71769860/kate-middleton-national-three-peaks-challenge-hike-details-personal-message/",
+      "summary": "“Cancer doesn’t just affect the body. It changes how you think and feel and profoundly affects every aspect of life. I know this personally, and that the journey through and beyond treatment requires more than medicine alone.”",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Princess Kate Embarks on the National Three Peaks Challenge for an Emo...",
+      "score": 0,
+      "published": "2026-06-29T14:12:59+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "539b03c27e6f",
+      "title": "This Summer, Craft a Home Full of Folklore",
+      "link": "https://www.vogue.com/article/folklore-interiors",
+      "summary": "The back-to-the-land aesthetic of peasant skirts, head scarves, and florals always seems to seep into fashion at this time of year—but a distinctly folk vibe is now taking over interiors too.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
+      "score": 2,
+      "published": "2026-06-29T14:07:25+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5461fb5e81dc",
+      "title": "Jennifer Lopez’s Tattoo Catsuit May Be Her Most Naked Look Yet",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a71769822/jennifer-lopez-naked-tattoo-catsuit-ttswtrs-obsessed-fest-2026-photos/",
+      "summary": "The superstar took the stage at Obsessed Fest to perform her dancy hits",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Jennifer Lopez’s Tattoo Catsuit May Be Her Most Naked Look Yet...",
+      "score": 0,
+      "published": "2026-06-29T13:57:17+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "654de68854ef",
+      "title": "Kate Middleton Reveals She Hiked the UK’s Toughest Mountains to “Explore Life Beyond Diagnosis”",
+      "link": "https://www.vogue.com/article/kate-middleton-hiking-uk-toughest-mountains-charity",
+      "summary": "Kate Middleton has completed the National Three Peaks Challenge—becoming the first royal to do so—in aid of The Royal Marsden Cancer Charity.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Wooyoungmi Spring 2027 Menswear...",
-      "score": 2,
-      "published": "2026-06-29T09:24:33+00:00",
+      "angle": "Fashion Intelligence: Kate Middleton Reveals She Hiked the UK’s Toughest Mountains to “Explo...",
+      "score": 0,
+      "published": "2026-06-29T13:13:54+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "d88479d3ef0d",
-      "title": "Ssstein Spring 2027 Menswear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-menswear/stein",
-      "summary": "",
+      "id": "21bdc2e63c42",
+      "title": "Trainee aircraft crashes in UP's Kasganj, woman pilot injured",
+      "link": "https://www.indiatoday.in/india/story/uttar-pradesh-kasganj-trainee-aircraft-crash-woman-pilot-injured-training-flight-2936783-2026-06-29?utm_source=rss",
+      "summary": "Trainee aircraft crashes in UP's Kasganj, woman pilot injured",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
+      "score": 1,
+      "published": "2026-06-29T13:05:36+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "63b18e5754f1",
+      "title": "Off Campus’s Ella Bright Sports This Summer’s Hottest Bob Upgrade",
+      "link": "https://www.vogue.com/article/off-campus-ella-bright-haircut-long-layered-clavicut",
+      "summary": "The long, layered clavi-cut is a flattering midlength style that’s perfect for the warmer months.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Ssstein Spring 2027 Menswear...",
-      "score": 2,
-      "published": "2026-06-29T09:24:33+00:00",
+      "angle": "Fashion Intelligence: Off Campus’s Ella Bright Sports This Summer’s Hottest Bob Upgrade...",
+      "score": 1,
+      "published": "2026-06-29T13:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "6f580f6df8db",
-      "title": "Magliano Spring 2027 Menswear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-menswear/magliano",
-      "summary": "",
+      "id": "3bfc2a53c92a",
+      "title": "Are Faux Flowers No Longer a Faux Pas?",
+      "link": "https://www.vogue.com/article/are-faux-flowers-no-longer-a-faux-pas",
+      "summary": "As high-quality faux florals grow ever more sophisticated, those of a younger generation are beginning to embrace their sustainable credentials.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "Fashion Intelligence: Are Faux Flowers No Longer a Faux Pas?...",
+      "score": 1,
+      "published": "2026-06-29T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "812385ab9055",
+      "title": "Oliver Peoples’ Summer Eyewear Is Pure LA Energy",
+      "link": "https://www.fashiongonerogue.com/story/oliver-peoples-summer-2026-campaign/",
+      "summary": "Eyewear brand Oliver Peoples lands its summer 2026 campaign, &#8220;Head West, Take Sunset&#8221;. The feeling hovers between an old Hollywood ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Oliver Peoples’ Summer Eyewear Is Pure LA Energy...",
+      "score": 2,
+      "published": "2026-06-29T11:46:58+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "91e00ea1852d",
+      "title": "What A Serve! The Very Best Celebrity Looks From Wimbledon 2026",
+      "link": "https://www.whowhatwear.com/fashion/live/best-dressed-celebrities-wimbledon-2026",
+      "summary": "Court-side style never looked so good.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-06-29T11:28:18+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b80d28c3be6f",
+      "title": "Not Sneakers: The Elegant Anti-Trend Flats Fashion People at the Airport Are Wearing With Drawstring Pants",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/suede-loafers-drawstring-pants-outfit-gigi-hadid-2026",
+      "summary": "You probably own them.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-06-29T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "df2687896058",
+      "title": "24 Shoes For Beach Wedding Guests, from Sleek Wedges to Fun Flats",
+      "link": "https://www.vogue.com/article/shoes-for-beach-wedding-guests",
+      "summary": "Here are the best shoes for beach wedding guests, from metallic sandals to sparkly ballet flats, from brands like Alaïa, Aeyde, and more.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: 24 Shoes For Beach Wedding Guests, from Sleek Wedges to Fun Flats — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-06-29T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bdaf6edfd1b1",
+      "title": "7 Airbnbs in New Mexico to Book This Summer, from Santa Fe and Beyond",
+      "link": "https://www.vogue.com/article/airbnbs-in-new-mexico",
+      "summary": "Staying domestic this summer? Book an Airbnb in New Mexico for a design-forward retreat in the desert.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Magliano Spring 2027 Menswear...",
-      "score": 2,
-      "published": "2026-06-29T09:24:33+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5d057193381d",
-      "title": "Soshiotsuki Spring 2027 Menswear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-menswear/soshiotsuki",
-      "summary": "",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Soshiotsuki Spring 2027 Menswear...",
-      "score": 2,
-      "published": "2026-06-29T09:24:33+00:00",
+      "angle": "Fashion Intelligence: 7 Airbnbs in New Mexico to Book This Summer, from Santa Fe and Beyond...",
+      "score": 0,
+      "published": "2026-06-29T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -191,15 +331,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6d5cdddb30b7",
-      "title": "They've Been Confirmed: The 6 Chicest Ways to Wear Your Bob Hairstyle This Summer",
-      "link": "https://www.whowhatwear.com/beauty/hair/summer-bob-trends",
-      "summary": "The experts said so.",
-      "source": "Who What Wear",
+      "id": "57bc713a5ce8",
+      "title": "This Ferragamo Family-Owned Estate Is the Ultimate Tuscan Village Getaway",
+      "link": "https://www.vogue.com/article/il-borro-hotel-tuscany",
+      "summary": "At the Ferragamos’ village of Il Borro near Arezzo, Tuscan farmhouse-style accommodations, hyperseasonal fine dining, and easy-breezy hospitality meet.",
+      "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: They've Been Confirmed: The 6 Chicest Ways to Wear Your Bob Hairstyle ...",
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: This Ferragamo Family-Owned Estate Is the Ultimate Tuscan Village Geta...",
       "score": 2,
       "published": "2026-06-29T06:00:00+00:00",
       "discovered_via": "feed"
@@ -214,6 +354,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-06-29T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6d5cdddb30b7",
+      "title": "They're Confirmed: The 6 Chicest Ways to Wear Your Bob Hairstyle This Summer",
+      "link": "https://www.whowhatwear.com/beauty/hair/summer-bob-trends",
+      "summary": "The experts said so.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: They're Confirmed: The 6 Chicest Ways to Wear Your Bob Hairstyle This ...",
       "score": 2,
       "published": "2026-06-29T06:00:00+00:00",
       "discovered_via": "feed"
@@ -247,20 +401,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "66a56b547057",
-      "title": "American Retailers on How to Save American Retail",
-      "link": "https://www.vogue.com/article/american-retailers-on-how-to-save-american-retail",
-      "summary": "Retail legends, designers, and founders weigh in on the state of the US industry and what it will take to revive energy at home.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: American Retailers on How to Save American Retail...",
-      "score": 1,
-      "published": "2026-06-29T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "df432c756899",
       "title": "The United States of Luxury",
       "link": "https://www.vogue.com/article/the-united-states-of-luxury",
@@ -270,6 +410,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: The United States of Luxury...",
+      "score": 1,
+      "published": "2026-06-29T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "66a56b547057",
+      "title": "American Retailers on How to Save American Retail",
+      "link": "https://www.vogue.com/article/american-retailers-on-how-to-save-american-retail",
+      "summary": "Retail legends, designers, and founders weigh in on the state of the US industry and what it will take to revive energy at home.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: American Retailers on How to Save American Retail...",
       "score": 1,
       "published": "2026-06-29T04:30:00+00:00",
       "discovered_via": "feed"
@@ -300,20 +454,6 @@
       "angle": "Fashion Intelligence: My First Job in Fashion: Tommy Hilfiger...",
       "score": 3,
       "published": "2026-06-29T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3c4167b8f149",
-      "title": "Bengal likely to table UCC Bill today; BJP, divided TMC brace for first showdown",
-      "link": "https://www.indiatoday.in/india/story/uniform-civil-code-bill-west-bengal-suvendu-adhikari-bjp-first-big-assembly-clash-2936308-2026-06-29?utm_source=rss",
-      "summary": "Bengal likely to table UCC Bill today; BJP, divided TMC brace for first showdown",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Bengal likely to table UCC Bill today; BJP, divided TMC brace for firs...",
-      "score": 1,
-      "published": "2026-06-29T03:19:20+00:00",
       "discovered_via": "feed"
     },
     {
@@ -499,20 +639,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "61ac37548c34",
-      "title": "My Husband and I Keep Our Finances Separate—and I Wouldn’t Have Things Any Other Way",
-      "link": "https://www.vogue.com/article/my-husband-and-i-keep-our-finances-separate-and-i-wouldnt-have-things-any-other-way",
-      "summary": "Until we are living in a very different world, no one will care about a woman’s financial stability as much as she does.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: My Husband and I Keep Our Finances Separate—and I Wouldn’t Have Things...",
-      "score": 0,
-      "published": "2026-06-28T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "469c2e84b76e",
       "title": "Revel in “The Glorious Tradition,” a 1995 Couture Feature With a Special Portfolio by Irving Penn",
       "link": "https://www.vogue.com/article/from-the-archives-the-glorious-tradition",
@@ -523,6 +649,20 @@
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: Revel in “The Glorious Tradition,” a 1995 Couture Feature With a Speci...",
       "score": 2,
+      "published": "2026-06-28T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "61ac37548c34",
+      "title": "My Husband and I Keep Our Finances Separate—and I Wouldn’t Have Things Any Other Way",
+      "link": "https://www.vogue.com/article/my-husband-and-i-keep-our-finances-separate-and-i-wouldnt-have-things-any-other-way",
+      "summary": "Until we are living in a very different world, no one will care about a woman’s financial stability as much as she does.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: My Husband and I Keep Our Finances Separate—and I Wouldn’t Have Things...",
+      "score": 0,
       "published": "2026-06-28T12:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -541,66 +681,10 @@
       "discovered_via": "feed"
     },
     {
-      "id": "593c643dc25e",
-      "title": "The Best Beauty Moments From the Spring 2027 Paris Men’s Shows",
-      "link": "https://www.vogue.com/slideshow/beauty-moments-spring-2027-paris-mens-fashion-week",
-      "summary": "Big hair! Bigger lashes! Glam teams worked overtime at Men’s Fashion Week in Paris to defy both the sweltering heat and stilted gender norms.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: The Best Beauty Moments From the Spring 2027 Paris Men’s Shows...",
-      "score": 3,
-      "published": "2026-06-28T10:19:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e7ce0c331963",
-      "title": "What Is Wabi-Sabi? Alex Eagle Explains How to Bring the Aesthetic Home",
-      "link": "https://www.vogue.com/article/eagle-eye-wabi-sabi",
-      "summary": "Designer and creative director Alex Eagle on why wabi-sabi feels so current—and how to bring the style home.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: What Is Wabi-Sabi? Alex Eagle Explains How to Bring the Aesthetic Home...",
-      "score": 2,
-      "published": "2026-06-28T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ec7ed450f662",
-      "title": "5 Ways to Wear Flip-Flops and Jeans This Summer",
-      "link": "https://www.vogue.com/article/jeans-and-flip-flop-outfit-combos",
-      "summary": "Flip-flops are a great way to keep failsafe denim in rotation during the summer—and these 5 flip-flops and jeans outfits are proof.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 5 Ways to Wear Flip-Flops and Jeans This Summer...",
-      "score": 2,
-      "published": "2026-06-28T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fac65e4944d7",
-      "title": "How Taylor Swift Made Her Fortune? By Owning Her Romantic History",
-      "link": "https://www.vogue.com/article/how-taylor-swift-made-her-fortune-by-owning-her-romantic-history",
-      "summary": "As a new British documentary “A Story of Love,” highlights, Taylor Swift’s real love story is the one she’s formulated by and for herself.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: How Taylor Swift Made Her Fortune? By Owning Her Romantic History...",
-      "score": 0,
-      "published": "2026-06-28T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "1e64057757bf",
-      "title": "Cropped Jeans are Trending—This French Summer Shoe Trend Makes Them Look Chicest",
+      "title": "Cropped Jeans Are Trending—This French Summer Shoe Trend Makes Them Look Chicest",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/cropped-jeans-strappy-sandals-trend-kate-moss-2026",
-      "summary": "Kate-confirmed.",
+      "summary": "Confirmed by Kate.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -612,30 +696,16 @@
     },
     {
       "id": "3450503b4f59",
-      "title": "This Cool Girl Dress and Shoe Pairing From the '90s Is So Back This Summer",
+      "title": "This Cool-Girl Dress-and-Shoe Pairing From the '90s Is So Back This Summer",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/slip-dress-flip-flops-90s-outfit-dakota-fanning-2026",
       "summary": "The only thing I want to wear.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: This Cool Girl Dress and Shoe Pairing From the '90s Is So Back This Su...",
+      "angle": "Fashion Intelligence: This Cool-Girl Dress-and-Shoe Pairing From the '90s Is So Back This Su...",
       "score": 2,
       "published": "2026-06-28T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3197e2721fc4",
-      "title": "The Best 2026 Sunglasses Trends For Every Face Shape",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-sunglasses-trend-for-your-face-shape-2026",
-      "summary": "The experts have spoken.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-06-28T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -649,6 +719,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
+      "published": "2026-06-28T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3197e2721fc4",
+      "title": "The Best 2026 Sunglasses Trends For Every Face Shape",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-sunglasses-trend-for-your-face-shape-2026",
+      "summary": "The experts have spoken.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
       "published": "2026-06-28T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -667,20 +751,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "15e8762158b7",
-      "title": "Calling All Minimalists—This Trending Trouser Colour Is the Chicest Thing You Can Wear This Summer",
-      "link": "https://www.whowhatwear.com/fashion/shopping/beige-trouser-outfits-2026",
-      "summary": "The most versatile of neutrals.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-06-28T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "53777ed02172",
       "title": "Every Chic Woman I Know Owns a DeMellier Bag—These 13 Summer Styles Won't Stay in Stock for Long",
       "link": "https://www.whowhatwear.com/fashion/handbags/best-demellier-summer-bags-2026",
@@ -695,17 +765,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a9b380d121d1",
-      "title": "H&M Just Perfected the 5 Colour Trends That Make Summer Outfits Look Expensive",
-      "link": "https://www.whowhatwear.com/fashion/trends/hm-summer-colour-trends-2026",
-      "summary": "Their versatility is unmatched.",
+      "id": "15e8762158b7",
+      "title": "Calling All Minimalists: This Trending Trouser Colour Is the Chicest Thing You Can Wear This Summer",
+      "link": "https://www.whowhatwear.com/fashion/shopping/beige-trouser-outfits-2026",
+      "summary": "The most versatile of neutrals.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
-      "published": "2026-06-28T05:00:00+00:00",
+      "published": "2026-06-28T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -718,6 +788,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Dôen! The Row! Loewe! All My Favourite Luxury Brands Are Now on Sale...",
+      "score": 2,
+      "published": "2026-06-28T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a9b380d121d1",
+      "title": "H&M Just Perfected the 5 Colour Trends That Make Summer Outfits Look Expensive",
+      "link": "https://www.whowhatwear.com/fashion/trends/hm-summer-colour-trends-2026",
+      "summary": "Their versatility is unmatched.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-06-28T05:00:00+00:00",
       "discovered_via": "feed"
@@ -748,20 +832,6 @@
       "angle": "Bridal Edit: Nordstrom Is Quietly Winning Wedding Season—The Dresses That Prove It — A Complete Style Guide",
       "score": 4,
       "published": "2026-06-28T01:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "25467103601f",
-      "title": "How a Declining Hudson Valley Mall Became an Art Space",
-      "link": "https://www.vogue.com/article/the-mall-upstate-art-weekend-2026",
-      "summary": "“The Mall,” a contemporary art exhibition, transforms the abandoned storefronts of the Hudson Valley Mall for the annual Upstate Art Weekend.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: How a Declining Hudson Valley Mall Became an Art Space...",
-      "score": 0,
-      "published": "2026-06-27T21:29:55+00:00",
       "discovered_via": "feed"
     },
     {
@@ -863,6 +933,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "629dc9d71919",
+      "title": "It’s Too Hot for Jeans–This Cool-Girl Trouser Trend Is Comfortable Enough for a Heatwave",
+      "link": "https://www.whowhatwear.com/fashion/pants-trousers/balloon-trouser-trend-2026",
+      "summary": "Nice and breezy.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-06-27T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "944f4970028a",
       "title": "Off Campus Season 2 Will Be Stephen Kalyn's Power Play",
       "link": "https://www.whowhatwear.com/fashion/celebrity/stephen-kalyn-off-campus",
@@ -877,17 +961,31 @@
       "discovered_via": "feed"
     },
     {
-      "id": "629dc9d71919",
-      "title": "It’s Too Hot For Jeans–This Cool Girl Trouser Trend Is Comfortable Enough For a Heatwave",
-      "link": "https://www.whowhatwear.com/fashion/pants-trousers/balloon-trouser-trend-2026",
-      "summary": "Stock up.",
+      "id": "7e20e207a0f4",
+      "title": "From Bug-Eye Sunglasses to Tube Tops: The Microtrends Dominating in L.A. This Summer",
+      "link": "https://www.whowhatwear.com/fashion/trends/microtrends-los-angeles-summer-2026",
+      "summary": "So much outfit inspiration.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-06-27T08:00:00+00:00",
+      "score": 2,
+      "published": "2026-06-27T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "197208664a19",
+      "title": "IfYou Want to Look Cool (Not Cheesy) This 4th of July Weekend, Wear This, This, or This",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/cool-fourth-of-july-outfit-ideas",
+      "summary": "Outfit ideas ahead.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: IfYou Want to Look Cool (Not Cheesy) This 4th of July Weekend, Wear Th...",
+      "score": 2,
+      "published": "2026-06-27T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -909,34 +1007,6 @@
       "title": "We Now Know What the 7 Biggest Dress Trends of Summer 2026 Are",
       "link": "https://www.whowhatwear.com/fashion/dresses/summer-2026-dress-trends",
       "summary": "Look chic at all times.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-06-27T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "799d2f54175c",
-      "title": "5 Elevated Summer Accessories Everyone Who Wants to Look Stylish Should Own",
-      "link": "https://www.whowhatwear.com/fashion/summer/elevated-summer-accessory-trends-2026",
-      "summary": "All the bases are covered with these five trends.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 5 Elevated Summer Accessories Everyone Who Wants to Look Stylish Shoul...",
-      "score": 1,
-      "published": "2026-06-27T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c343b33d9af5",
-      "title": "Turquoise Might Be Trending, But I Prefer These Classic Summer Colour Trends That Never Go Out of Style",
-      "link": "https://www.whowhatwear.com/fashion/trends/classic-summer-colour-trends",
-      "summary": "Timeless for a reason.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -975,10 +1045,24 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7e20e207a0f4",
-      "title": "From Bug-Eye Sunglasses to Tube Tops: The Microtrends Dominating in L.A. This Summer",
-      "link": "https://www.whowhatwear.com/fashion/trends/microtrends-los-angeles-summer-2026",
-      "summary": "So much outfit inspiration.",
+      "id": "799d2f54175c",
+      "title": "5 Elevated Summer Accessories Everyone Who Wants to Look Stylish Should Own",
+      "link": "https://www.whowhatwear.com/fashion/summer/elevated-summer-accessory-trends-2026",
+      "summary": "All the bases are covered with these five trends.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 5 Elevated Summer Accessories Everyone Who Wants to Look Stylish Shoul...",
+      "score": 1,
+      "published": "2026-06-27T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c343b33d9af5",
+      "title": "Turquoise Might Be Trending, But I Prefer These Classic Summer Colours That Never Go Out of Style",
+      "link": "https://www.whowhatwear.com/fashion/trends/classic-summer-colour-trends",
+      "summary": "Timeless for a reason.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -989,22 +1073,8 @@
       "discovered_via": "feed"
     },
     {
-      "id": "197208664a19",
-      "title": "IfYou Want to Look Cool (Not Cheesy) This 4th of July Weekend, Wear This, This, or This",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/cool-fourth-of-july-outfit-ideas",
-      "summary": "Outfit ideas ahead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: IfYou Want to Look Cool (Not Cheesy) This 4th of July Weekend, Wear Th...",
-      "score": 2,
-      "published": "2026-06-27T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3c5f8ce04732",
-      "title": "\"The Dogs Are Barking, But So Am I\"—An Editor On the Most Divisive Shoe Trends Emerging In Paris Right Now",
+      "title": "\"The Dogs Are Barking, But so Am I\"—An Editor on the Most Divisive Shoe Trends Emerging in Paris Right Now",
       "link": "https://www.whowhatwear.com/fashion/trends/divisive-shoes-mens-fashion-week-paris-ss27",
       "summary": "Who let the dogs out?",
       "source": "Who What Wear",
@@ -1182,34 +1252,6 @@
       "angle": "Fashion Intelligence: Jeremy Allen White and Molly Gordon’s Complete Relationship Timeline...",
       "score": 0,
       "published": "2026-06-26T18:53:48+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "56f20c9e26dc",
-      "title": "Wearing These Shoes With Long, Baggy Shorts Makes Them 10 Times More Flattering",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/long-baggy-shorts-kitten-heel-pumps-outfit-ella-hunt",
-      "summary": "Wear these to look put-together.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-06-26T18:41:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fc27408489fa",
-      "title": "Every Summer After Author Carley Fortune Loves a Book-Inspired Fashion Theme",
-      "link": "https://www.whowhatwear.com/fashion/carley-fortune-every-year-after-press-tour",
-      "summary": "Her latest: \"lake girl in the city.\"",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Every Summer After Author Carley Fortune Loves a Book-Inspired Fashion...",
-      "score": 1,
-      "published": "2026-06-26T18:25:12+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1885,34 +1927,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c78bc2b01d34",
-      "title": "I Stood on a Vibration Plate Every Day for Two Weeks. I Have Thoughts.",
-      "link": "https://www.harpersbazaar.com/beauty/health/a68883835/do-vibration-plates-work-review/",
-      "summary": "Why is everyone suddenly raving about this vibrating plate for lymphatic drainage, muscle recovery, and more?",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Stood on a Vibration Plate Every Day for Two Weeks. I Have Thoughts....",
-      "score": 0,
-      "published": "2026-06-24T21:03:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e003c3cc4469",
-      "title": "Michelle Obama Gives the Coolest Nod to Her Husband in Custom Fear of God",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a71707704/michelle-obama-custom-fear-of-god-shirt-44-wink-husband-barack-obama/",
-      "summary": "Does the number 44 ring a bell?",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Michelle Obama Gives the Coolest Nod to Her Husband in Custom Fear of ...",
-      "score": 0,
-      "published": "2026-06-24T20:38:41+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e864a5638a19",
       "title": "Must Read: The Guggenheim Displays Jordyn Woods' Clutch, Nike Names David Denton New CFO",
       "link": "https://fashionista.com/2026/06/jordyn-woods-clutch-guggenheim-display",
@@ -1994,20 +2008,6 @@
       "angle": "Fashion Intelligence: Matthew Williamson x Free People Deliver Boho Glam...",
       "score": 3,
       "published": "2026-06-24T11:11:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0c20df639346",
-      "title": "H&M x Wardrobe.NYC Take On the Cool Girl Uniform",
-      "link": "https://www.fashiongonerogue.com/story/hm-wardrobe-nyc-collab/",
-      "summary": "WARDROBE.NYC and H&#38;M have built a designer collaboration around one idea: the modern uniform that is sharpened for the city. ... Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: H&M x Wardrobe.NYC Take On the Cool Girl Uniform...",
-      "score": 1,
-      "published": "2026-06-24T02:12:36+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2951,52 +2951,52 @@
   ],
   "trends": [
     {
-      "term": "indian households selling old gold",
+      "term": "rajya sabha new member oath",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "persistent systems nagarro acquisition",
+      "term": "odisha",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "కూటమి",
+      "term": "microsoft share price",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "బంగారం",
+      "term": "jannik sinner",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "innocent kaia",
+      "term": "हैन्रिक मलन",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "germany temperature",
+      "term": "త్రివిక్రమ్ శ్రీనివాస్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "महाराष्ट्र विधानसभा",
+      "term": "पेरिस",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "iphone 17 price hike rumors",
+      "term": "పదో తరగతి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "શ્રેયસ અય્યર",
+      "term": "apollo micro systems",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nasrapur case update",
+      "term": "പി എസ് പ്രശാന്ത്",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
