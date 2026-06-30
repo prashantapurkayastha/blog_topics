@@ -1,13 +1,209 @@
 {
-  "generated_at": "2026-06-30T06:03:13.073602+00:00",
+  "generated_at": "2026-06-30T08:30:52.399028+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 179,
+  "industry_count": 180,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "8ae2a437a4ec",
+      "title": "Marc Jacobs Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/marc-jacobs",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Marc Jacobs Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-06-30T08:29:56+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c3f29bb5b5d5",
+      "title": "Nehera Spring 2027 Menswear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-menswear/nehera",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Nehera Spring 2027 Menswear...",
+      "score": 2,
+      "published": "2026-06-30T08:29:56+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d1c241683326",
+      "title": "Teurn Studios Resort 2027",
+      "link": "https://www.vogue.com/fashion-shows/resort-2027/teurn",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Teurn Studios Resort 2027...",
+      "score": 0,
+      "published": "2026-06-30T08:29:56+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7512770d70d4",
+      "title": "Engineered Garments Spring 2027 Menswear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-menswear/engineered-garments",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Engineered Garments Spring 2027 Menswear...",
+      "score": 2,
+      "published": "2026-06-30T08:29:56+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "17e98c56d411",
+      "title": "Jacquemus Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/jacquemus",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Jacquemus Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-06-30T08:29:56+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ce23550800bc",
+      "title": "Yogi Adityanath's big infra push in Rampur, launches projects worth Rs 690 crore",
+      "link": "https://www.indiatoday.in/india/story/uttar-pradesh-chief-minister-yogi-adityanath-102-projects-rs-690-crore-development-push-rampur-district-utrit-2937296-2026-06-30?utm_source=rss",
+      "summary": "Yogi Adityanath's big infra push in Rampur, launches projects worth Rs 690 crore",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-06-30T08:06:49+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c54b94b2f572",
+      "title": "I Had to Double-Take—These 9 Rich-Looking Zara and H&M Finds Look Like Pure Luxury",
+      "link": "https://www.whowhatwear.com/fashion/shopping/expensive-looking-zara-hm-summer-buys-2026",
+      "summary": "Chic!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Had to Double-Take—These 9 Rich-Looking Zara and H&M Finds Look Like...",
+      "score": 1,
+      "published": "2026-06-30T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ec5757a53221",
+      "title": "From Korean Toner Pads to Juicy Lip Plumpers—WWW Beauty Editors Told Me the Best Products They Tried in June",
+      "link": "https://www.whowhatwear.com/beauty/best-new-beauty-products-june-2026",
+      "summary": "Fifteen routine staples.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: From Korean Toner Pads to Juicy Lip Plumpers—WWW Beauty Editors Told M...",
+      "score": 1,
+      "published": "2026-06-30T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7b0b2232f704",
+      "title": "The Cool-Girl Shorts Trend Taking Over NYC and LA—These Shoes Will Make Them Look Chic This Summer",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/best-shoes-to-wear-with-sporty-shorts",
+      "summary": "See the pairings inside.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-06-30T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4e151a4c0513",
+      "title": "8 Fresh Color Trends I'm Spotting on Fashion People From London to L.A. This Summer",
+      "link": "https://www.whowhatwear.com/fashion/shopping/color-trends-summer-2026",
+      "summary": "Stand out from the crowd.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-06-30T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "721cf1225ceb",
+      "title": "Tolami Benson Is Topping the 2026 World Cup's Best Dressed List",
+      "link": "https://www.whowhatwear.com/fashion/tolami-benson-2026-world-cup-style-interview",
+      "summary": "Bukayo Saka’s fiancée tells us about her sideline style.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Tolami Benson Is Topping the 2026 World Cup's Best Dressed List...",
+      "score": 2,
+      "published": "2026-06-30T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d6ac82c9f853",
+      "title": "If You Own Linen Pants, These Are the Only Outfits You Need This Summer",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/what-to-wear-with-linen-pants",
+      "summary": "Finally, linen pants season has arrived.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: If You Own Linen Pants, These Are the Only Outfits You Need This Summe...",
+      "score": 2,
+      "published": "2026-06-30T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dcf3faada0d7",
+      "title": "A24’s AI Bet Is a Lesson in Creative Influence for Fashion",
+      "link": "https://www.vogue.com/article/a24s-ai-bet-is-a-lesson-in-creative-influence-for-fashion",
+      "summary": "Indie film studio A24 had already grown into a $3.5 billion cultural powerhouse, thanks to its savvy marketing muscle and distinct point of view. Now, it’s turning its hand to AI, and experts say fashion should take note.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: A24’s AI Bet Is a Lesson in Creative Influence for Fashion...",
+      "score": 1,
+      "published": "2026-06-30T06:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d03814f5833d",
+      "title": "I'm a Seasoned Guest at French Weddings—These Are the 5 Style Tips I’ve Learned Along the Way",
+      "link": "https://www.whowhatwear.com/living/wedding/what-to-wear-to-a-french-wedding",
+      "summary": "Take notes.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: I'm a Seasoned Guest at French Weddings—These Are the 5 Style Tips I’ve Learned Along the Way — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-06-30T06:05:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "ed0ad9324c95",
       "title": "I Know You're Cool If You're Wearing This Under-the-Radar, Editor-Approved Brand This Summer",
@@ -48,62 +244,6 @@
       "angle": "Fashion Intelligence: Hailey Bieber's Nail Artist Told Me *These* Are the Coolest OPI Nail C...",
       "score": 2,
       "published": "2026-06-30T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c3f29bb5b5d5",
-      "title": "Nehera Spring 2027 Menswear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-menswear/nehera",
-      "summary": "",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Nehera Spring 2027 Menswear...",
-      "score": 2,
-      "published": "2026-06-30T05:58:56+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d1c241683326",
-      "title": "Teurn Studios Resort 2027",
-      "link": "https://www.vogue.com/fashion-shows/resort-2027/teurn",
-      "summary": "",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Teurn Studios Resort 2027...",
-      "score": 0,
-      "published": "2026-06-30T05:58:56+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7512770d70d4",
-      "title": "Engineered Garments Spring 2027 Menswear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-menswear/engineered-garments",
-      "summary": "",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Engineered Garments Spring 2027 Menswear...",
-      "score": 2,
-      "published": "2026-06-30T05:58:56+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "17e98c56d411",
-      "title": "Jacquemus Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/jacquemus",
-      "summary": "",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Jacquemus Spring 2027 Ready-to-Wear...",
-      "score": 1,
-      "published": "2026-06-30T05:58:56+00:00",
       "discovered_via": "feed"
     },
     {
@@ -849,20 +989,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "df432c756899",
-      "title": "The United States of Luxury",
-      "link": "https://www.vogue.com/article/the-united-states-of-luxury",
-      "summary": "What to know about the cities luxury is — and should be — investing in across the United States in 2026.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The United States of Luxury...",
-      "score": 1,
-      "published": "2026-06-29T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "66a56b547057",
       "title": "American Retailers on How to Save American Retail",
       "link": "https://www.vogue.com/article/american-retailers-on-how-to-save-american-retail",
@@ -873,20 +999,6 @@
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: American Retailers on How to Save American Retail...",
       "score": 1,
-      "published": "2026-06-29T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "28b563f8e350",
-      "title": "My First Job in Fashion: Tommy Hilfiger",
-      "link": "https://www.vogue.com/article/my-first-job-in-fashion-tommy-hilfiger",
-      "summary": "The designer talks about his early beginnings on the shop floor, the early bankruptcy that shaped him, and the genesis of his iconic American brand.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: My First Job in Fashion: Tommy Hilfiger...",
-      "score": 3,
       "published": "2026-06-29T04:30:00+00:00",
       "discovered_via": "feed"
     },
@@ -1059,20 +1171,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "53777ed02172",
-      "title": "Every Chic Woman I Know Owns a DeMellier Bag—These 13 Summer Styles Won't Stay in Stock for Long",
-      "link": "https://www.whowhatwear.com/fashion/handbags/best-demellier-summer-bags-2026",
-      "summary": "So much goodness.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Every Chic Woman I Know Owns a DeMellier Bag—These 13 Summer Styles Wo...",
-      "score": 1,
-      "published": "2026-06-28T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "15e8762158b7",
       "title": "Calling All Minimalists: This Trending Trouser Colour Is the Chicest Thing You Can Wear This Summer",
       "link": "https://www.whowhatwear.com/fashion/shopping/beige-trouser-outfits-2026",
@@ -1083,6 +1181,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
+      "published": "2026-06-28T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "53777ed02172",
+      "title": "Every Chic Woman I Know Owns a DeMellier Bag—These 13 Summer Styles Won't Stay in Stock for Long",
+      "link": "https://www.whowhatwear.com/fashion/handbags/best-demellier-summer-bags-2026",
+      "summary": "So much goodness.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Every Chic Woman I Know Owns a DeMellier Bag—These 13 Summer Styles Wo...",
+      "score": 1,
       "published": "2026-06-28T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1266,104 +1378,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-06-27T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "25df433680c6",
-      "title": "Kylie Jenner's Latest Summer Looks Confirm These 6 Trends Are Taking Off",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/kylie-jenner-summer-trends-2026",
-      "summary": "She's setting the tone.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-06-27T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e01852618a27",
-      "title": "We Now Know What the 7 Biggest Dress Trends of Summer 2026 Are",
-      "link": "https://www.whowhatwear.com/fashion/dresses/summer-2026-dress-trends",
-      "summary": "Look chic at all times.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-06-27T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "799d2f54175c",
-      "title": "5 Elevated Summer Accessories Everyone Who Wants to Look Stylish Should Own",
-      "link": "https://www.whowhatwear.com/fashion/summer/elevated-summer-accessory-trends-2026",
-      "summary": "All the bases are covered with these five trends.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 5 Elevated Summer Accessories Everyone Who Wants to Look Stylish Shoul...",
-      "score": 1,
-      "published": "2026-06-27T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4d4b8072d560",
-      "title": "Got Plans? Stop Stressing About What to Wear and Save These 6 Hot-Weather Evening Outfits",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/hot-weather-evening-outfits",
-      "summary": "Stay cool, look cooler.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Got Plans? Stop Stressing About What to Wear and Save These 6 Hot-Weat...",
-      "score": 2,
-      "published": "2026-06-27T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6c0ba85e2515",
-      "title": "The Row's Cecily Bag Is the It Accessory of Summer 2026",
-      "link": "https://www.whowhatwear.com/fashion/the-row-cecily-bag",
-      "summary": "Shop the cult item.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Row's Cecily Bag Is the It Accessory of Summer 2026...",
-      "score": 1,
-      "published": "2026-06-27T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c343b33d9af5",
-      "title": "Turquoise Might Be Trending, But I Prefer These Classic Summer Colours That Never Go Out of Style",
-      "link": "https://www.whowhatwear.com/fashion/trends/classic-summer-colour-trends",
-      "summary": "Timeless for a reason.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-06-27T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7e20e207a0f4",
-      "title": "From Bug-Eye Sunglasses to Tube Tops: The Micro-Trends Dominating in L.A. This Summer",
-      "link": "https://www.whowhatwear.com/fashion/trends/microtrends-los-angeles-summer-2026",
-      "summary": "So much outfit inspiration.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-06-27T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2880,14 +2894,14 @@
     },
     {
       "id": "1590769f3b8c",
-      "title": "The Bloomcore Phenomenon: How Nature’s Botanical Art Inspires Fashion",
+      "title": "The Bloomcore Phenomenon: Nature’s Botanical Art Inspires Fashion",
       "link": "https://www.azafashions.com/blog/bloomcore-natures-art-inspires-fashion/?utm_source=rss&utm_medium=rss&utm_campaign=bloomcore-natures-art-inspires-fashion",
-      "summary": "There is a distinct difference between a trend that captures a moment and a muse that captures eras. While fashion constantly cycles through decades and subcultures, its relationship with the&#8230; The post The Bloomcore Phenomenon: How Nature’s Botanical Art Inspires Fashion appeared first on Aza Editorials .",
+      "summary": "There is a distinct difference between a trend that captures a moment and a muse that captures eras. While fashion constantly cycles through decades and subcultures, its relationship with the&#8230; The post The Bloomcore Phenomenon: Nature’s Botanical Art Inspires Fashion appeared first on Aza Editorials .",
       "source": "AZA Blog",
       "tier": "owned",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Bloomcore Phenomenon: How Nature’s Botanical Art Inspires Fashion...",
+      "angle": "Fashion Intelligence: The Bloomcore Phenomenon: Nature’s Botanical Art Inspires Fashion...",
       "score": 2,
       "published": "2026-06-25T13:18:37+00:00",
       "discovered_via": "feed"
@@ -2909,52 +2923,52 @@
   ],
   "trends": [
     {
+      "term": "ডিম",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "ડીઝલ",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "सैमसंग गैलेक्सी",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "mcd",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "മയക്കുമരുന്ന്",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "நயன்தாரா",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "राशियाँ",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "yousuf imran google resignation",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "ಸುದೀಪ್",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
       "term": "കേരള സര്ക്കാര്",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "ap eamcet results 2026",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "prasad corp monsoon colour news",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "icici bank",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "ind vs eng t20",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "awarapan 2 release date",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "rajnath singh resignation congress demand",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "sir form",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "today gold rate in chennai",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "extra time in football",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
