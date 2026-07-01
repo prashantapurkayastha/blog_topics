@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-01T06:17:50.390507+00:00",
+  "generated_at": "2026-07-01T08:50:42.134826+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 180,
+  "industry_count": 177,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Ranra Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-07-01T06:15:35+00:00",
+      "published": "2026-07-01T08:49:33+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,19 +33,75 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: John Alexander Skelton Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-07-01T06:15:35+00:00",
+      "published": "2026-07-01T08:49:33+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "30fbde7ef81c",
-      "title": "I Just Got Back From The Hamptons—This Is How Travelling Inspires My Style",
-      "link": "https://www.whowhatwear.com/fashion/blanca-miro-travel-style",
-      "summary": "Where next?",
+      "id": "6445e22e115c",
+      "title": "I'm a Shopping Director—My Forever Wedding Guest Dressing Rule and Pretty Nordstrom Styles for the Season",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-nordstrom-wedding-guest-dresses",
+      "summary": "What to wear (and what not to wear).",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Bridal Edit: I'm a Shopping Director—My Forever Wedding Guest Dressing Rule and Pretty Nordstrom Styles for the Season — A Complete Style Guide",
+      "score": 5,
+      "published": "2026-07-01T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7bb82540fd0a",
+      "title": "If I Were a Bride, These Are the Only Swimsuits I'd Pack for a Bachelorette or Honeymoon",
+      "link": "https://www.whowhatwear.com/living/wedding/best-bridal-swimsuits",
+      "summary": "Swimsuits you can wear way past your bridal era.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: If I Were a Bride, These Are the Only Swimsuits I'd Pack for a Bachelorette or Honeymoon — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-07-01T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "70e786f70379",
+      "title": "If You Want to Look Chic This Summer, Style These 7 Nordstrom Items With Ballet Flats",
+      "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-items-to-style-with-ballet-flats",
+      "summary": "Give your classic shoes a cool-girl touch.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Just Got Back From The Hamptons—This Is How Travelling Inspires My S...",
+      "angle": "Fashion Intelligence: If You Want to Look Chic This Summer, Style These 7 Nordstrom Items Wi...",
+      "score": 1,
+      "published": "2026-07-01T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "69499bc72808",
+      "title": "Sorry, Minimalists—Every Cool Girl is Wearing These 6 Maximalist Mini Trends This Summer",
+      "link": "https://www.whowhatwear.com/maximalist-summer-microtrends-2026",
+      "summary": "More is more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-01T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c73c08623165",
+      "title": "Elle Woods Is Back! 7 Iconic Outfits From Legally Blonde That Hold up 25 Years Later",
+      "link": "https://www.whowhatwear.com/fashion/trends/legally-blonde-trends-2026",
+      "summary": "What...like it's hard?",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Elle Woods Is Back! 7 Iconic Outfits From Legally Blonde That Hold up ...",
       "score": 1,
       "published": "2026-07-01T06:00:00+00:00",
       "discovered_via": "feed"
@@ -79,20 +135,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c73c08623165",
-      "title": "Elle Woods Is Back! 7 Iconic Outfits From Legally Blonde That Hold up 25 Years Later",
-      "link": "https://www.whowhatwear.com/fashion/trends/legally-blonde-trends-2026",
-      "summary": "What...like it's hard?",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Elle Woods Is Back! 7 Iconic Outfits From Legally Blonde That Hold up ...",
-      "score": 1,
-      "published": "2026-07-01T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "8741fe3f3130",
       "title": "Tassels! Draping! ‘90s Jeans! A Fashion Girl’s Guide to Dressing for Formula 1",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/stylish-formula-1-wags",
@@ -103,6 +145,20 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Tassels! Draping! ‘90s Jeans! A Fashion Girl’s Guide to Dressing for F...",
       "score": 2,
+      "published": "2026-07-01T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "30fbde7ef81c",
+      "title": "I Just Got Back From The Hamptons—This Is How Travelling Inspires My Style",
+      "link": "https://www.whowhatwear.com/fashion/blanca-miro-travel-style",
+      "summary": "Where next?",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Just Got Back From The Hamptons—This Is How Travelling Inspires My S...",
+      "score": 1,
       "published": "2026-07-01T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1003,34 +1059,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7b0b2232f704",
-      "title": "The Cool-Girl Shorts Trend Taking Over NYC and L.A.—These Shoes Will Make Them Look Chic This Summer",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/best-shoes-to-wear-with-sporty-shorts",
-      "summary": "See the pairings inside.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-06-30T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "721cf1225ceb",
-      "title": "Tolami Benson Is Topping the 2026 World Cup's Best Dressed List",
-      "link": "https://www.whowhatwear.com/fashion/tolami-benson-2026-world-cup-style-interview",
-      "summary": "Bukayo Saka’s fiancée tells us about her sideline style.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Tolami Benson Is Topping the 2026 World Cup's Best Dressed List...",
-      "score": 2,
-      "published": "2026-06-30T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "4e151a4c0513",
       "title": "8 Fresh Color Trends I'm Spotting on Fashion People From London to L.A. This Summer",
       "link": "https://www.whowhatwear.com/fashion/shopping/color-trends-summer-2026",
@@ -1045,6 +1073,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "7b0b2232f704",
+      "title": "The Cool-Girl Shorts Trend Taking Over NYC and L.A.—These Shoes Will Make Them Look Chic This Summer",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/best-shoes-to-wear-with-sporty-shorts",
+      "summary": "See the pairings inside.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-06-30T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "d6ac82c9f853",
       "title": "If You Own Linen Pants, These Are the Only Outfits You Need This Summer",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/what-to-wear-with-linen-pants",
@@ -1054,6 +1096,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: If You Own Linen Pants, These Are the Only Outfits You Need This Summe...",
+      "score": 2,
+      "published": "2026-06-30T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "721cf1225ceb",
+      "title": "Tolami Benson Is Topping the 2026 World Cup's Best Dressed List",
+      "link": "https://www.whowhatwear.com/fashion/tolami-benson-2026-world-cup-style-interview",
+      "summary": "Bukayo Saka’s fiancée tells us about her sideline style.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Tolami Benson Is Topping the 2026 World Cup's Best Dressed List...",
       "score": 2,
       "published": "2026-06-30T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1283,34 +1339,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6f236086d63a",
-      "title": "In NYC, Every Stylish Woman Is Wearing This Flat-Shoe Trend With Jeans Right Now",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/jeans-black-sandals-outfits-2026",
-      "summary": "New Yorkers know what's up.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-06-29T17:14:26+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "89750927416a",
-      "title": "This Dress Trend Plus Closed-Toe Flats in This Color Is *the* Outfit of Summer 2026",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/sleep-dress-with-blue-flat-shoe-trend-elsa-hosk",
-      "summary": "Elsa Hosk would know.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-06-29T17:12:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2ab33d006c2f",
       "title": "Bad Bunny’s Historic London Shows Were the Most Star-Studded",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71771106/all-celebrities-who-attended-bad-bunny-historic-london-concerts-details/",
@@ -1423,34 +1451,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "91e00ea1852d",
-      "title": "What a Serve! The Very Best Celebrity Looks From Wimbledon 2026",
-      "link": "https://www.whowhatwear.com/fashion/live/best-dressed-celebrities-wimbledon-2026",
-      "summary": "Court-side style never looked so good.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-06-29T11:28:18+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b80d28c3be6f",
-      "title": "Not Sneakers: The Elegant Anti-Trend Flats Fashion People at the Airport Are Wearing With Drawstring Pants",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/suede-loafers-drawstring-pants-outfit-gigi-hadid-2026",
-      "summary": "You probably own them.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-06-29T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7322c715f40c",
       "title": "10 Best White Sneakers for Men of Every Budget in 2026",
       "link": "https://www.fashionbeans.com/article/best-white-sneakers-for-men/",
@@ -1493,20 +1493,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0281d9344629",
-      "title": "Trust Me: Jeans, Skirts and Shorts Look More Expensive Styled With This Elegant Flip-Flop Colour",
-      "link": "https://www.whowhatwear.com/fashion/shoes/brown-flip-flop-trend-2026",
-      "summary": "Hint: it's not black, white or tan.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Trust Me: Jeans, Skirts and Shorts Look More Expensive Styled With Thi...",
-      "score": 1,
-      "published": "2026-06-29T08:01:23+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f8a80ed62216",
       "title": "The Best Sneaker Brands You’ve Never Heard Of",
       "link": "https://www.fashionbeans.com/article/best-sneaker-brands-youve-never-heard-of/",
@@ -1518,34 +1504,6 @@
       "angle": "Fashion Intelligence: The Best Sneaker Brands You’ve Never Heard Of...",
       "score": 2,
       "published": "2026-06-29T06:45:11+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f8bf331869a1",
-      "title": "Zoë Kravitz, Madonna and Lauren Conrad: These Are the Most Iconic Ponytails of All Time",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/best-celebrity-pony-tails-of-all-time",
-      "summary": "Show ponies.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Zoë Kravitz, Madonna and Lauren Conrad: These Are the Most Iconic Pony...",
-      "score": 1,
-      "published": "2026-06-29T06:25:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6d5cdddb30b7",
-      "title": "They're Confirmed: The 6 Chicest Ways to Wear Your Bob Hairstyle This Summer",
-      "link": "https://www.whowhatwear.com/beauty/hair/summer-bob-trends",
-      "summary": "The experts said so.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: They're Confirmed: The 6 Chicest Ways to Wear Your Bob Hairstyle This ...",
-      "score": 2,
-      "published": "2026-06-29T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2923,52 +2881,52 @@
   ],
   "trends": [
     {
-      "term": "reliance power share",
+      "term": "தங்கம்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "नागरिकता",
+      "term": "neet pg 2026 registration",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "vaibhav sooryavanshi india england t20",
+      "term": "ಬಾಕ್ಸ್ ಆಫೀಸ್",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "prasad corp partnership news",
+      "term": "samantha ruth prabhu baby bump",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "advit jewels share price",
+      "term": "तेज प्रताप यादव",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "knack packaging ipo",
+      "term": "rrb group d result",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "விலை",
+      "term": "hdfc credit card",
+      "summary": "",
+      "aza_category": "Trend Alert"
+    },
+    {
+      "term": "പി.എ. മുഹമ്മദ് റിയാസ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "amo sharks v band-e-amir dragons",
+      "term": "আনন্দবাজার পত্রিকা",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rites share price",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "tata elxsi share",
+      "term": "toxic",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
