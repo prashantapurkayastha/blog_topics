@@ -1,13 +1,111 @@
 {
-  "generated_at": "2026-07-04T05:38:34.194133+00:00",
+  "generated_at": "2026-07-04T07:46:44.968200+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 185,
+  "industry_count": 184,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "454a3c3bf588",
+      "title": "The Summer 2026 Trend Each Zodiac Sign Will Wear on Repeat",
+      "link": "https://www.whowhatwear.com/fashion/summer/summer-2026-trends-by-zodiac-sign",
+      "summary": "Whether you're a loyal Leo or a stylish Scorpio, we have a prediction for you.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-07-04T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "56204f45890c",
+      "title": "The Lower East Side Brand Stylish New Yorkers Are Wearing This Summer",
+      "link": "https://www.whowhatwear.com/fashion/shopping/alex-mill-summer-2026",
+      "summary": "From personalized tote bags to colorful ballet flats.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-04T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fcc6be787d5e",
+      "title": "Summer Style Is Getting Loud—Here's the Key Trend Every Confident Dresser Is Buying",
+      "link": "https://www.whowhatwear.com/printed-summer-fashion",
+      "summary": "A vacation essential.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-07-04T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "76137991adef",
+      "title": "29 Casual Summer Dresses I'm 100% Sure Will Sell Out This Month",
+      "link": "https://www.whowhatwear.com/fashion/dresses/casual-summer-dresses",
+      "summary": "The time to shop is now.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 29 Casual Summer Dresses I'm 100% Sure Will Sell Out This Month...",
+      "score": 1,
+      "published": "2026-07-04T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ad0597f68ad3",
+      "title": "I Can't Stop Wearing Blouses and Jeans This Summer—These are The Styles I Get the Most Compliments On",
+      "link": "https://www.whowhatwear.com/fashion/tops/best-free-people-blouses-2026",
+      "summary": "From timeless broderie anglaise to lace trimmed.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-04T06:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3042e4cd700b",
+      "title": "Celebs and Top Stylists Agree—These Are the Brunette Hair Trends to Bookmark for Summer",
+      "link": "https://www.whowhatwear.com/beauty/hair/summer-hair-trends-for-brunettes",
+      "summary": "So chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-07-04T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "79aa30299b9e",
+      "title": "Sorry Flip-Flops and Ballet Flats, I Think Summer Dresses Will Always Look Best With This Shoe",
+      "link": "https://www.whowhatwear.com/trainers-with-summer-dresses-2026",
+      "summary": "A fail-safe combination.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Sorry Flip-Flops and Ballet Flats, I Think Summer Dresses Will Always ...",
+      "score": 1,
+      "published": "2026-07-04T05:53:18+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "5149ce4eb768",
       "title": "From refinery to chip facility: PM to launch projects worth Rs 1 lakh crore today",
@@ -289,20 +387,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "39a3cd949d6f",
-      "title": "Candidates miss UPTET in Budaun as BJP leader's roadshow leaves them stranded",
-      "link": "https://www.indiatoday.in/india/story/uptet-budaun-traffic-jam-roadshow-delays-candidates-re-exam-demand-ptag-2939834-2026-07-03?utm_source=rss",
-      "summary": "Candidates miss UPTET in Budaun as BJP leader's roadshow leaves them stranded",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Candidates miss UPTET in Budaun as BJP leader's roadshow leaves them s...",
-      "score": 1,
-      "published": "2026-07-03T17:48:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "8506ddb918eb",
       "title": "The 50 Most Iconic American Style Heroes",
       "link": "https://www.harpersbazaar.com/fashion/a71350817/the-50-most-iconic-american-style-heroes/",
@@ -443,6 +527,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "7199020ba600",
+      "title": "Everything Is Nothing and Nothing Is Everything by Nico Perez",
+      "link": "https://www.vogue.com/article/everything-is-nothing-and-nothing-is-everything-by-nico-perez",
+      "summary": "Tokyo-based photographer Nico Perez explores photography as a means of tracing the invisible connections between people, places, and moments.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Everything Is Nothing and Nothing Is Everything by Nico Perez...",
+      "score": 0,
+      "published": "2026-07-03T13:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "37604463f89f",
       "title": "A Journey Through Mexico City in the Footsteps of Frida Kahlo, With the Help of Her Descendants",
       "link": "https://www.vogue.com/article/mexico-city-frida-kahlo-guide-courtesy-of-descendants",
@@ -467,20 +565,6 @@
       "aza_category": "Bridal & Wedding",
       "angle": "Bridal Edit: Dylan Jagger Lee and Paula Bruss-Lee’s Wedding Was Held in a Secret Saint-Tropez Wildflower Garden — A Complete Style Guide",
       "score": 2,
-      "published": "2026-07-03T13:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7199020ba600",
-      "title": "Everything Is Nothing and Nothing Is Everything by Nico Perez",
-      "link": "https://www.vogue.com/article/everything-is-nothing-and-nothing-is-everything-by-nico-perez",
-      "summary": "Tokyo-based photographer Nico Perez explores photography as a means of tracing the invisible connections between people, places, and moments.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Everything Is Nothing and Nothing Is Everything by Nico Perez...",
-      "score": 0,
       "published": "2026-07-03T13:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -513,20 +597,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "dc7f004faa51",
-      "title": "The Connection Between Longevity and Cardio",
-      "link": "https://www.vogue.com/article/cardio-vo2-max-benefits",
-      "summary": "The benefits of cardio go beyond getting sweaty. It brings a glow to your face, trains your heart and lungs, improves energy and mood, and even boosts longevity.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Connection Between Longevity and Cardio...",
-      "score": 0,
-      "published": "2026-07-03T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "174673ac1970",
       "title": "In New York, a Food Stylist Serves a Joyful Banquet Inspired by Vietnam’s Imperial City",
       "link": "https://www.vogue.com/article/an-co-vietnamese-hue-festival-dinner-party-new-york-city",
@@ -536,6 +606,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: In New York, a Food Stylist Serves a Joyful Banquet Inspired by Vietna...",
+      "score": 0,
+      "published": "2026-07-03T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dc7f004faa51",
+      "title": "The Connection Between Longevity and Cardio",
+      "link": "https://www.vogue.com/article/cardio-vo2-max-benefits",
+      "summary": "The benefits of cardio go beyond getting sweaty. It brings a glow to your face, trains your heart and lungs, improves energy and mood, and even boosts longevity.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Connection Between Longevity and Cardio...",
       "score": 0,
       "published": "2026-07-03T12:00:00+00:00",
       "discovered_via": "feed"
@@ -779,58 +863,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "008753086e2c",
-      "title": "Hold the Shoulder Bags—Fashion People Are Reaching For This Trend When They Want to Look Chicer",
-      "link": "https://www.whowhatwear.com/fashion/handbags/best-clutch-bags-for-summer",
-      "summary": "Better outfits await.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-07-03T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2ba814370fe6",
-      "title": "The Best Summer 2026 Trend to Wear, According to Your Zodiac Sign",
-      "link": "https://www.whowhatwear.com/fashion/trends/best-summer-2026-trend-to-wear-zodiac-sign",
-      "summary": "Dress like your highest self.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-07-03T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9c471633c0c0",
-      "title": "You're Probably Wearing the Wrong Shoes With Skirts—Let Me Set the Record Straight",
-      "link": "https://www.whowhatwear.com/fashion/skirts/best-shoes-to-wear-with-skirts",
-      "summary": "From pencil skirts to micro minis.",
+      "id": "4986dc36c324",
+      "title": "From Paris to London: The Summer Outfit Formulas Fashion People Are Loving Right Now",
+      "link": "https://www.whowhatwear.com/fashion/shopping/paris-london-summer-outfit-ideas-2026",
+      "summary": "Shop five looks.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-07-03T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bf9fa1cf39a2",
-      "title": "Melting Skincare Is About to Be Everywhere—This $20 K-Beauty Option Is My New Fixation",
-      "link": "https://www.whowhatwear.com/beauty/skin/anua-pdrn-collagen-melting-patch-review",
-      "summary": "Filing under \"soon to go viral.\"",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Melting Skincare Is About to Be Everywhere—This $20 K-Beauty Option Is...",
-      "score": 1,
+      "angle": "Fashion Intelligence: From Paris to London: The Summer Outfit Formulas Fashion People Are Lo...",
+      "score": 2,
       "published": "2026-07-03T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -849,16 +891,58 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4986dc36c324",
-      "title": "From Paris to London: The Summer Outfit Formulas Fashion People Are Loving Right Now",
-      "link": "https://www.whowhatwear.com/fashion/shopping/paris-london-summer-outfit-ideas-2026",
-      "summary": "Shop five looks.",
+      "id": "bf9fa1cf39a2",
+      "title": "Melting Skincare Is About to Be Everywhere—This $20 K-Beauty Option Is My New Fixation",
+      "link": "https://www.whowhatwear.com/beauty/skin/anua-pdrn-collagen-melting-patch-review",
+      "summary": "Filing under \"soon to go viral.\"",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: From Paris to London: The Summer Outfit Formulas Fashion People Are Lo...",
-      "score": 2,
+      "angle": "Fashion Intelligence: Melting Skincare Is About to Be Everywhere—This $20 K-Beauty Option Is...",
+      "score": 1,
+      "published": "2026-07-03T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9c471633c0c0",
+      "title": "You're Probably Wearing the Wrong Shoes With Skirts—Let Me Set the Record Straight",
+      "link": "https://www.whowhatwear.com/fashion/skirts/best-shoes-to-wear-with-skirts",
+      "summary": "From pencil skirts to micro minis.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-07-03T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2ba814370fe6",
+      "title": "The Best Summer 2026 Trend to Wear, According to Your Zodiac Sign",
+      "link": "https://www.whowhatwear.com/fashion/trends/best-summer-2026-trend-to-wear-zodiac-sign",
+      "summary": "Dress like your highest self.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-07-03T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "008753086e2c",
+      "title": "Hold the Shoulder Bags—Fashion People Are Reaching For This Trend When They Want to Look Chicer",
+      "link": "https://www.whowhatwear.com/fashion/handbags/best-clutch-bags-for-summer",
+      "summary": "Better outfits await.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
       "published": "2026-07-03T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1479,62 +1563,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "27a2103adea1",
-      "title": "Sorry, Sneakers—Gen Zers Swear They Can Walk 20K+ Steps in NYC With These Ballet Flats",
-      "link": "https://www.whowhatwear.com/fashion/shoes/most-comfortable-ballet-flats",
-      "summary": "Comfortable enough for 20,000 steps, chic enough to go with every outfit.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Sorry, Sneakers—Gen Zers Swear They Can Walk 20K+ Steps in NYC With Th...",
-      "score": 2,
-      "published": "2026-07-02T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "448e18d28461",
-      "title": "Wedding Season Is Here—5 Dress Trends I'll Be Wearing as a Guest This Year",
-      "link": "https://www.whowhatwear.com/fashion/dresses/summer-wedding-guest-dress-trends-bettina-looney-2026",
-      "summary": "See how chic they are IRL.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Bridal Edit: Wedding Season Is Here—5 Dress Trends I'll Be Wearing as a Guest This Year — A Complete Style Guide",
-      "score": 5,
-      "published": "2026-07-02T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "95b90a923434",
-      "title": "Beauty Editors (and the Internet) Back These 10 Instantly Satisfying Beauty Products",
-      "link": "https://www.whowhatwear.com/beauty/skin/beauty-products-that-give-instant-gratification",
-      "summary": "They're actually effective *and* work instantly? Say less.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Beauty Editors (and the Internet) Back These 10 Instantly Satisfying B...",
-      "score": 1,
-      "published": "2026-07-02T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6a9eaabe9d21",
-      "title": "Cool Fashion People Get It—These 5 Trends Will Make Any Outfit Read Fashionable in 2026",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/nordstrom-outfit-ideas-summer-2026",
-      "summary": "And they're all available at Nordstrom.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-07-02T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "81d7d65fd7bb",
       "title": "Who What Wear Editors Told Me Their 25 Best Fashion Finds This Month",
       "link": "https://www.whowhatwear.com/fashion/best-editor-fashion-items-july-2026",
@@ -1545,48 +1573,6 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Who What Wear Editors Told Me Their 25 Best Fashion Finds This Month...",
       "score": 2,
-      "published": "2026-07-02T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "49d51f4c499f",
-      "title": "If Your Vibe Is \"Summer in Spain,\" These 40 Nordstrom Dresses and Sandals Belong in Your Cart",
-      "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-best-vacation-dresses-sandals",
-      "summary": "No plane ticket needed.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: If Your Vibe Is \"Summer in Spain,\" These 40 Nordstrom Dresses and Sand...",
-      "score": 1,
-      "published": "2026-07-02T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3d5f482ad197",
-      "title": "Not Tankinis—French Women Only Care About These 6 Classic Swim Trends in 2026",
-      "link": "https://www.whowhatwear.com/fashion/swimwear/french-swimwear-trends-2026",
-      "summary": "Timeless > trendy.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-02T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3494f1c04383",
-      "title": "The Understated Summer Top Fashion People Are Wearing With Silk Pants and Maxi Skirts",
-      "link": "https://www.whowhatwear.com/fashion/summer/best-summer-sweaters",
-      "summary": "And Bermuda shorts.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
       "published": "2026-07-02T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -2993,6 +2979,36 @@
   ],
   "trends": [
     {
+      "term": "renault kwid",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "राबड़ी देवी",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "dmart",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "भारत के विदेशी मुद्रा भंडार",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "food",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "alpha movie 2026",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
       "term": "ന്യൂസ്",
       "summary": "",
       "aza_category": "Fashion & Style"
@@ -3003,42 +3019,12 @@
       "aza_category": "Fashion & Style"
     },
     {
+      "term": "అరుణాచలం",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
       "term": "அனைத்திந்திய அண்ணா திராவிட முன்னேற்றக் கழகம்",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "बारिश",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "ഫിഫ",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "जेम्स कोल्स",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "epfo member portal",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "annapurna",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "luis suárez",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "lakr vs tsk",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
