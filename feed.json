@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T10:10:31.338665+00:00",
+  "generated_at": "2026-07-04T12:07:47.409810+00:00",
   "owned_count": 10,
   "competitor_count": 18,
   "industry_count": 186,
@@ -8,6 +8,34 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "09b7bbe685eb",
+      "title": "I'm a Fashion Editor—These Are the Outfits I'd Wear If I Thought I Was About to Get Engaged",
+      "link": "https://www.whowhatwear.com/fashion/shopping/engagement-outfit-ideas-2026",
+      "summary": "They're also just chic looks for summer.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I'm a Fashion Editor—These Are the Outfits I'd Wear If I Thought I Was...",
+      "score": 3,
+      "published": "2026-07-04T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f44a47dbd5de",
+      "title": "Zoë! Gigi! Karlie! All the Celebrities Who Attended Taylor Swift and Travis Kelce’s Wedding",
+      "link": "https://www.vogue.com/slideshow/taylor-swift-travis-kelce-wedding-celebrity-arrivals",
+      "summary": "Dakota Johnson, Gigi Hadid, and Karlie Kloss were among the starry guests, close friends, and family joining Taylor Swift and Travis Kelce for their Madison Square Garden-set wedding day.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Zoë! Gigi! Karlie! All the Celebrities Who Attended Taylor Swift and Travis Kelce’s Wedding — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-07-04T11:15:31+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "be7c1b59c293",
       "title": "Street Style Flashback—What People Were Wearing at the Fall 2016 Couture Shows",
@@ -262,14 +290,14 @@
     },
     {
       "id": "56dbeedc82ab",
-      "title": "Adam Sandler Officiated, the Bride Wore Dior, and Everything Else We Know About Taylor Swift and Travis Kelce’s Wedding",
+      "title": "Adam Sandler Officiated, the Bride Wore Dior, and Everything Else About Taylor Swift and Travis Kelce’s Wedding",
       "link": "https://www.vogue.com/article/taylor-swift-and-travis-kelce-wedding-location-date-guests",
       "summary": "The couple officially married at Madison Square Garden on Friday, July 3. Here’s everything you need to know about the multi-day celebration.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Adam Sandler Officiated, the Bride Wore Dior, and Everything Else We Know About Taylor Swift and Travis Kelce’s Wedding — A Complete Style Guide",
+      "angle": "Bridal Edit: Adam Sandler Officiated, the Bride Wore Dior, and Everything Else About Taylor Swift and Travis Kelce’s Wedding — A Complete Style Guide",
       "score": 1,
       "published": "2026-07-04T01:00:00+00:00",
       "discovered_via": "feed"
@@ -342,20 +370,6 @@
       "angle": "Bridal Edit: All the Photos From Taylor Swift (and Travis Kelce’s) Grand NYC Wedding — A Complete Style Guide",
       "score": 1,
       "published": "2026-07-03T23:10:35+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f44a47dbd5de",
-      "title": "Taylor Swift and Travis Kelce Wedding Guests: Celebrity Attendees",
-      "link": "https://www.vogue.com/slideshow/taylor-swift-travis-kelce-wedding-celebrity-arrivals",
-      "summary": "Dakota Johnson, Gigi Hadid, and Karlie Kloss are among the starry guests, close friends, and family joining Taylor Swift and Travis Kelce for their Madison Square Garden-set wedding day.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Bridal Edit: Taylor Swift and Travis Kelce Wedding Guests — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-07-03T22:07:49+00:00",
       "discovered_via": "feed"
     },
     {
@@ -975,6 +989,62 @@
       "discovered_via": "feed"
     },
     {
+      "id": "944aff81f917",
+      "title": "Fashion People—These New Nordstrom Basics and Sneakers Will Make Your Outfits Even Cooler",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-nordstrom-basics-shoes-summer-2026",
+      "summary": "All the chic summer staples.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Fashion People—These New Nordstrom Basics and Sneakers Will Make Your ...",
+      "score": 2,
+      "published": "2026-07-03T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4986dc36c324",
+      "title": "From Paris to London: The Summer Outfit Formulas Fashion People Are Loving Right Now",
+      "link": "https://www.whowhatwear.com/fashion/shopping/paris-london-summer-outfit-ideas-2026",
+      "summary": "Shop five looks.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: From Paris to London: The Summer Outfit Formulas Fashion People Are Lo...",
+      "score": 2,
+      "published": "2026-07-03T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bf9fa1cf39a2",
+      "title": "Melting Skincare Is About to Be Everywhere—This $20 K-Beauty Option Is My New Fixation",
+      "link": "https://www.whowhatwear.com/beauty/skin/anua-pdrn-collagen-melting-patch-review",
+      "summary": "Filing under \"soon to go viral.\"",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Melting Skincare Is About to Be Everywhere—This $20 K-Beauty Option Is...",
+      "score": 1,
+      "published": "2026-07-03T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9c471633c0c0",
+      "title": "You're Probably Wearing the Wrong Shoes With Skirts—Let Me Set the Record Straight",
+      "link": "https://www.whowhatwear.com/fashion/skirts/best-shoes-to-wear-with-skirts",
+      "summary": "From pencil skirts to micro minis.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-07-03T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "008753086e2c",
       "title": "Hold the Shoulder Bags—Fashion People Are Reaching For This Trend When They Want to Look Chicer",
       "link": "https://www.whowhatwear.com/fashion/handbags/best-clutch-bags-for-summer",
@@ -999,62 +1069,6 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
-      "published": "2026-07-03T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "944aff81f917",
-      "title": "Fashion People—These New Nordstrom Basics and Sneakers Will Make Your Outfits Even Cooler",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-nordstrom-basics-shoes-summer-2026",
-      "summary": "All the chic summer staples.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Fashion People—These New Nordstrom Basics and Sneakers Will Make Your ...",
-      "score": 2,
-      "published": "2026-07-03T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9c471633c0c0",
-      "title": "You're Probably Wearing the Wrong Shoes With Skirts—Let Me Set the Record Straight",
-      "link": "https://www.whowhatwear.com/fashion/skirts/best-shoes-to-wear-with-skirts",
-      "summary": "From pencil skirts to micro minis.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-07-03T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bf9fa1cf39a2",
-      "title": "Melting Skincare Is About to Be Everywhere—This $20 K-Beauty Option Is My New Fixation",
-      "link": "https://www.whowhatwear.com/beauty/skin/anua-pdrn-collagen-melting-patch-review",
-      "summary": "Filing under \"soon to go viral.\"",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Melting Skincare Is About to Be Everywhere—This $20 K-Beauty Option Is...",
-      "score": 1,
-      "published": "2026-07-03T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4986dc36c324",
-      "title": "From Paris to London: The Summer Outfit Formulas Fashion People Are Loving Right Now",
-      "link": "https://www.whowhatwear.com/fashion/shopping/paris-london-summer-outfit-ideas-2026",
-      "summary": "Shop five looks.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: From Paris to London: The Summer Outfit Formulas Fashion People Are Lo...",
-      "score": 2,
       "published": "2026-07-03T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1364,20 +1378,6 @@
       "angle": "Fashion Intelligence: “I’m Just a Kid From…”...",
       "score": 1,
       "published": "2026-07-02T17:49:13+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bc98d190f813",
-      "title": "I Used This Sneaky Sale to Add 14 Niche Summer Beauty Products to My Shopping Cart",
-      "link": "https://www.whowhatwear.com/beauty/skin/blue-mercury-fourth-of-july-sale-2026",
-      "summary": "From bronzing SPF to body butter and beyond.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Used This Sneaky Sale to Add 14 Niche Summer Beauty Products to My S...",
-      "score": 1,
-      "published": "2026-07-02T17:28:43+00:00",
       "discovered_via": "feed"
     },
     {
@@ -3007,52 +3007,52 @@
   ],
   "trends": [
     {
-      "term": "whatsapp",
+      "term": "windy",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "गैस",
+      "term": "ஆசிரியர் தகுதித் தேர்வு",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "एकनाथ शिंदे",
+      "term": "mathrubhumi",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "स्कूटर",
+      "term": "সৌম্য চক্রবর্তী",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "അന്സിബ ഹസ്സന്",
+      "term": "f1 sprint",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "சிம்ரன்",
+      "term": "emma navarro",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "शिक्षा मंत्री",
+      "term": "ਪੰਜਾਬ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "odyssey",
+      "term": "ವಿಜಯ್",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "पेट्रोल",
+      "term": "indigo",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "रेखा",
+      "term": "দিলীপ ঘোষ",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
