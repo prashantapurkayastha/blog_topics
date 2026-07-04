@@ -1,13 +1,167 @@
 {
-  "generated_at": "2026-07-04T07:46:44.968200+00:00",
+  "generated_at": "2026-07-04T10:10:31.338665+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 184,
+  "industry_count": 186,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "be7c1b59c293",
+      "title": "Street Style Flashback—What People Were Wearing at the Fall 2016 Couture Shows",
+      "link": "https://www.vogue.com/article/street-style-flashback-what-people-were-wearing-at-the-fall-2016-couture-shows",
+      "summary": "What difference does a decade make in street style? In advance of the fall 2026 couture season, scroll below to see what people wore to the fall 2016 shows.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 5,
+      "published": "2026-07-04T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "05a0dec9b1e5",
+      "title": "What to Wear to Wimbledon? 5 Winning Outfit Ideas to Try",
+      "link": "https://www.vogue.com/article/wimbledon-outfits",
+      "summary": "Wimbledon’s in full swing! Whether you’re attending a live match or spectating from afar, here are 5 tennis-inspired looks to channel your courtside best.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: What to Wear to Wimbledon? 5 Winning Outfit Ideas to Try...",
+      "score": 2,
+      "published": "2026-07-04T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a2302e7c3acc",
+      "title": "UP's mangoes get branding push as CM Yogi Adityanath unveils 'Kakori' brand",
+      "link": "https://www.indiatoday.in/india/story/uttar-pradesh-mango-festival-2026-yogi-launches-kakori-brand-for-malihabadi-mangoes-utrit-2940502-2026-07-04?utm_source=rss",
+      "summary": "UP's mangoes get branding push as CM Yogi Adityanath unveils 'Kakori' brand",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: UP's mangoes get branding push as CM Yogi Adityanath unveils 'Kakori' ...",
+      "score": 1,
+      "published": "2026-07-04T09:26:57+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "50c397c3a04a",
+      "title": "Sofia Richie Just Wore the “Dated” Trainer Trend That’s Actually +209% In Sales Right Now",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/vans-trainer-trend-sofia-richie-grainge-2026",
+      "summary": "It's going to take off all over again.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-07-04T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0ca5abfcdb58",
+      "title": "Wedding jo hone nahi wali: Siya Goyal's Snapchat text to friend goes viral",
+      "link": "https://www.indiatoday.in/india/story/ketan-agarwal-pune-murder-siya-goyal-snapchat-texts-friend-viral-2940458-2026-07-04?utm_source=rss",
+      "summary": "Wedding jo hone nahi wali: Siya Goyal's Snapchat text to friend goes viral",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Wedding jo hone nahi wali — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-07-04T08:16:44+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "805f231299c8",
+      "title": "Video shows Bihar man 'influencing' police probe. He's arrested, 10 cops suspended",
+      "link": "https://www.indiatoday.in/india/story/bihar-saharsa-police-investigation-probe-interference-satish-kumar-arrested-10-officers-suspended-ptag-2940346-2026-07-04?utm_source=rss",
+      "summary": "Video shows Bihar man 'influencing' police probe. He's arrested, 10 cops suspended",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Video shows Bihar man 'influencing' police probe. He's arrested, 10 co...",
+      "score": 1,
+      "published": "2026-07-04T08:09:43+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "29bf819739a6",
+      "title": "Not Trainers: The Elegant Anti-Trend Flats Fashion People at the Airport Are Wearing With Drawstring Trousers",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/suede-loafers-drawstring-pants-outfit-gigi-hadid-2026-uk",
+      "summary": "You probably own them.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-07-04T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5b0bb8e7aa14",
+      "title": "From Athens to Sicily, Mediterranean Skincare Enthusiasts Swear by These Regional Skincare Products",
+      "link": "https://www.whowhatwear.com/beauty/skin/best-mediterranean-skincare-products",
+      "summary": "Simple ingredients, maximum efficiency.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: From Athens to Sicily, Mediterranean Skincare Enthusiasts Swear by The...",
+      "score": 1,
+      "published": "2026-07-04T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e140fb6a450f",
+      "title": "The Most Stylish Women In the World Agree—*These* Are Summer 2026's Chicest Quiet-Luxury Bags",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-quiet-luxury-summer-bags-2026",
+      "summary": "Timeless summer investments.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Most Stylish Women In the World Agree—*These* Are Summer 2026's Ch...",
+      "score": 1,
+      "published": "2026-07-04T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "03c7f0166080",
+      "title": "Anne Hathaway Just Wore the Closed-Toe Summer Shoe Trend I Keep Spotting on Fashion People In Europe",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/mesh-flat-shoe-trend-anne-hathaway-2026",
+      "summary": "Chic every time.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-04T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "feee90f1029f",
+      "title": "The French Way to Wear Capri Leggings In 2026 Includes Wearing This “Cheap” Shoe Colour Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/lily-collins-capri-leggings-white-ballet-flat-outfit-2026",
+      "summary": "Très chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-04T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "454a3c3bf588",
       "title": "The Summer 2026 Trend Each Zodiac Sign Will Wear on Repeat",
@@ -104,20 +258,6 @@
       "angle": "Fashion Intelligence: Sorry Flip-Flops and Ballet Flats, I Think Summer Dresses Will Always ...",
       "score": 1,
       "published": "2026-07-04T05:53:18+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5149ce4eb768",
-      "title": "From refinery to chip facility: PM to launch projects worth Rs 1 lakh crore today",
-      "link": "https://www.indiatoday.in/india/story/pm-modi-rajasthan-gujarat-visit-today-balotra-refinery-jodhpur-airport-jaipur-metro-sanand-semiconductor-projects-rs-1-lakh-crore-2940301-2026-07-04?utm_source=rss",
-      "summary": "From refinery to chip facility: PM to launch projects worth Rs 1 lakh crore today",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-07-04T02:08:32+00:00",
       "discovered_via": "feed"
     },
     {
@@ -597,20 +737,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "174673ac1970",
-      "title": "In New York, a Food Stylist Serves a Joyful Banquet Inspired by Vietnam’s Imperial City",
-      "link": "https://www.vogue.com/article/an-co-vietnamese-hue-festival-dinner-party-new-york-city",
-      "summary": "The dinner marked the eighth installment of Ăn Cỗ, a Vietnamese banquet series highlighting regional cuisines—and this latest edition, devoted to the former royal capital of Huế, was their most ambitious yet.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: In New York, a Food Stylist Serves a Joyful Banquet Inspired by Vietna...",
-      "score": 0,
-      "published": "2026-07-03T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "dc7f004faa51",
       "title": "The Connection Between Longevity and Cardio",
       "link": "https://www.vogue.com/article/cardio-vo2-max-benefits",
@@ -620,6 +746,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: The Connection Between Longevity and Cardio...",
+      "score": 0,
+      "published": "2026-07-03T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "174673ac1970",
+      "title": "In New York, a Food Stylist Serves a Joyful Banquet Inspired by Vietnam’s Imperial City",
+      "link": "https://www.vogue.com/article/an-co-vietnamese-hue-festival-dinner-party-new-york-city",
+      "summary": "The dinner marked the eighth installment of Ăn Cỗ, a Vietnamese banquet series highlighting regional cuisines—and this latest edition, devoted to the former royal capital of Huế, was their most ambitious yet.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: In New York, a Food Stylist Serves a Joyful Banquet Inspired by Vietna...",
       "score": 0,
       "published": "2026-07-03T12:00:00+00:00",
       "discovered_via": "feed"
@@ -835,86 +975,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1a74cdefcd32",
-      "title": "Who Is on Taylor Swift’s Wedding Guest List? Here’s What We Know",
-      "link": "https://www.vogue.com/article/taylor-swift-travis-kelce-wedding-guest-list",
-      "summary": "The internet’s favorite pastime has been guessing who is on the guest list for Taylor Swift and Travis Kelce’s upcoming wedding. Here’s what we know so far.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Who Is on Taylor Swift’s Wedding Guest List? Here’s What We Know — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-07-03T08:42:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8f256a784a7b",
-      "title": "Gigi Hadid’s Heart-Shaped Layers Are a Hot Hack for Big, Bouncy Hair",
-      "link": "https://www.vogue.com/article/gigi-hadid-heart-shaped-layers-haircut",
-      "summary": "The heart-shaped layers create a versatile, volumizing cut that’s made for lovers of high-drama hair just like Gigi Hadid.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Gigi Hadid’s Heart-Shaped Layers Are a Hot Hack for Big, Bouncy Hair...",
-      "score": 0,
-      "published": "2026-07-03T08:12:35+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4986dc36c324",
-      "title": "From Paris to London: The Summer Outfit Formulas Fashion People Are Loving Right Now",
-      "link": "https://www.whowhatwear.com/fashion/shopping/paris-london-summer-outfit-ideas-2026",
-      "summary": "Shop five looks.",
+      "id": "008753086e2c",
+      "title": "Hold the Shoulder Bags—Fashion People Are Reaching For This Trend When They Want to Look Chicer",
+      "link": "https://www.whowhatwear.com/fashion/handbags/best-clutch-bags-for-summer",
+      "summary": "Better outfits await.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: From Paris to London: The Summer Outfit Formulas Fashion People Are Lo...",
-      "score": 2,
-      "published": "2026-07-03T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "944aff81f917",
-      "title": "Fashion People—These New Nordstrom Basics and Sneakers Will Make Your Outfits Even Cooler",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-nordstrom-basics-shoes-summer-2026",
-      "summary": "All the chic summer staples.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Fashion People—These New Nordstrom Basics and Sneakers Will Make Your ...",
-      "score": 2,
-      "published": "2026-07-03T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bf9fa1cf39a2",
-      "title": "Melting Skincare Is About to Be Everywhere—This $20 K-Beauty Option Is My New Fixation",
-      "link": "https://www.whowhatwear.com/beauty/skin/anua-pdrn-collagen-melting-patch-review",
-      "summary": "Filing under \"soon to go viral.\"",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Melting Skincare Is About to Be Everywhere—This $20 K-Beauty Option Is...",
-      "score": 1,
-      "published": "2026-07-03T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9c471633c0c0",
-      "title": "You're Probably Wearing the Wrong Shoes With Skirts—Let Me Set the Record Straight",
-      "link": "https://www.whowhatwear.com/fashion/skirts/best-shoes-to-wear-with-skirts",
-      "summary": "From pencil skirts to micro minis.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
       "published": "2026-07-03T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -933,16 +1003,58 @@
       "discovered_via": "feed"
     },
     {
-      "id": "008753086e2c",
-      "title": "Hold the Shoulder Bags—Fashion People Are Reaching For This Trend When They Want to Look Chicer",
-      "link": "https://www.whowhatwear.com/fashion/handbags/best-clutch-bags-for-summer",
-      "summary": "Better outfits await.",
+      "id": "944aff81f917",
+      "title": "Fashion People—These New Nordstrom Basics and Sneakers Will Make Your Outfits Even Cooler",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-nordstrom-basics-shoes-summer-2026",
+      "summary": "All the chic summer staples.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Fashion People—These New Nordstrom Basics and Sneakers Will Make Your ...",
+      "score": 2,
+      "published": "2026-07-03T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9c471633c0c0",
+      "title": "You're Probably Wearing the Wrong Shoes With Skirts—Let Me Set the Record Straight",
+      "link": "https://www.whowhatwear.com/fashion/skirts/best-shoes-to-wear-with-skirts",
+      "summary": "From pencil skirts to micro minis.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-07-03T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bf9fa1cf39a2",
+      "title": "Melting Skincare Is About to Be Everywhere—This $20 K-Beauty Option Is My New Fixation",
+      "link": "https://www.whowhatwear.com/beauty/skin/anua-pdrn-collagen-melting-patch-review",
+      "summary": "Filing under \"soon to go viral.\"",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Melting Skincare Is About to Be Everywhere—This $20 K-Beauty Option Is...",
+      "score": 1,
+      "published": "2026-07-03T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4986dc36c324",
+      "title": "From Paris to London: The Summer Outfit Formulas Fashion People Are Loving Right Now",
+      "link": "https://www.whowhatwear.com/fashion/shopping/paris-london-summer-outfit-ideas-2026",
+      "summary": "Shop five looks.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: From Paris to London: The Summer Outfit Formulas Fashion People Are Lo...",
+      "score": 2,
       "published": "2026-07-03T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1423,20 +1535,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c20ef87fd32c",
-      "title": "All-White Outfits Look Instantly Elevated With This Unexpected Shoe Colour Trend",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/zendaya-gold-heels-white-skirt-outfit-2026",
-      "summary": "Trust Zendaya.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-07-02T13:48:53+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "55e52e554462",
       "title": "Anne Hathaway’s Maternity Style Is All About the Bright Primary Colors",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71797827/anne-hathaway-maternity-style-outfits-2026/",
@@ -1465,20 +1563,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0ef32240904f",
-      "title": "My 63-Year-Old Mom Knows What's Cool Before I Do—51 Items She's Predicting Everyone Will Wear in July",
-      "link": "https://www.whowhatwear.com/fashion/shopping/ageless-summer-shopping-july-2026",
-      "summary": "She has a really good eye.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: My 63-Year-Old Mom Knows What's Cool Before I Do—51 Items She's Predic...",
-      "score": 1,
-      "published": "2026-07-02T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3fe2d202b4b2",
       "title": "Burberry Escapes to the Countryside in Full Heritage Style",
       "link": "https://www.fashiongonerogue.com/story/burberry-countryside-escape-2026/",
@@ -1490,20 +1574,6 @@
       "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
       "score": 2,
       "published": "2026-07-02T11:19:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1e7579c17c8c",
-      "title": "Hold the Sandals—This Is the Petite-Girl-Approved Shoe Trend to Wear With Dresses Now",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/minidress-pointed-toe-heels-petite-outfit-trend-nicola-coughlan-2026",
-      "summary": "Such a great look.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-07-02T11:12:57+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1521,34 +1591,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "065ea2c7f0d5",
-      "title": "Not Capris, Not Bloomers—French Girls Are All Ditching Trousers for This Chic Summer Shorts Trend",
-      "link": "https://www.whowhatwear.com/fashion/pants-trousers/balloon-shorts-trend-summer-2026",
-      "summary": "Ditch your denim.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-02T10:49:20+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3a45a48d618e",
-      "title": "The Coolest French Girls Are Carrying These 6 Summer Handbag Trends Through the Paris Heatwave",
-      "link": "https://www.whowhatwear.com/fashion/trends/french-girl-summer-handbag-trends-2026",
-      "summary": "Find your new sac à main.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-02T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "41a032448bad",
       "title": "The Elwood Summer Drop Is the Most Wearable Workwear Release of 2026",
       "link": "https://www.fashionbeans.com/article/elwood-summer-drop-2026-best-pieces/",
@@ -1560,20 +1602,6 @@
       "angle": "Fashion Intelligence: The Elwood Summer Drop Is the Most Wearable Workwear Release of 2026...",
       "score": 2,
       "published": "2026-07-02T07:47:17+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "81d7d65fd7bb",
-      "title": "Who What Wear Editors Told Me Their 25 Best Fashion Finds This Month",
-      "link": "https://www.whowhatwear.com/fashion/best-editor-fashion-items-july-2026",
-      "summary": "Shop the edit.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Who What Wear Editors Told Me Their 25 Best Fashion Finds This Month...",
-      "score": 2,
-      "published": "2026-07-02T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2979,52 +3007,52 @@
   ],
   "trends": [
     {
-      "term": "renault kwid",
+      "term": "whatsapp",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "राबड़ी देवी",
+      "term": "गैस",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "dmart",
+      "term": "एकनाथ शिंदे",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "भारत के विदेशी मुद्रा भंडार",
+      "term": "स्कूटर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "food",
+      "term": "അന്സിബ ഹസ്സന്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "alpha movie 2026",
+      "term": "சிம்ரன்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ന്യൂസ്",
+      "term": "शिक्षा मंत्री",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಆಲಿಯಾ ಭಟ್",
+      "term": "odyssey",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "అరుణాచలం",
+      "term": "पेट्रोल",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "அனைத்திந்திய அண்ணா திராவிட முன்னேற்றக் கழகம்",
+      "term": "रेखा",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
