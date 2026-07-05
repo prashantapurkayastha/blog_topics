@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T10:14:34.550985+00:00",
+  "generated_at": "2026-07-05T12:16:30.293399+00:00",
   "owned_count": 10,
   "competitor_count": 18,
   "industry_count": 184,
@@ -9,17 +9,45 @@
   },
   "articles": [
     {
-      "id": "48fa563a2d2f",
-      "title": "These 16 True-Crime Documentaries Will Send Shivers Down Your Spine",
-      "link": "https://www.vogue.com/article/best-true-crime-documentaries",
-      "summary": "Looking for something to make your pulse race and your hair stand on end? The best true-crime documentaries and docu-series crawl with dark secrets and shocking twists, whether their subject is a missing child, a dead roommate, or a criminal cover-up.",
+      "id": "45c7115671e8",
+      "title": "From the Archives: A Visit to Madonna’s English Country Estate",
+      "link": "https://www.vogue.com/article/from-the-archives-like-a-duchess",
+      "summary": "In her 40s—author, songstress, actress, filmmaker—Madonna has influence and reach that may be global, but her base for family and friends is focused on an English country estate. Hamish Bowles talks to this ever-evolving force about her new film and book, and the pleasures of commitment.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: These 16 True-Crime Documentaries Will Send Shivers Down Your Spine...",
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: From the Archives: A Visit to Madonna’s English Country Estate...",
       "score": 0,
-      "published": "2026-07-05T10:00:00+00:00",
+      "published": "2026-07-05T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e40ec991631c",
+      "title": "Try the Romantic Wet Lash Look This Summer",
+      "link": "https://www.vogue.com/article/wet-lash-trend-how-to",
+      "summary": "A makeup artist on how to get the easy, high-impact look.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Try the Romantic Wet Lash Look This Summer...",
+      "score": 0,
+      "published": "2026-07-05T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "98b27a031497",
+      "title": "My Friend Asked Me Which Prints Are Trending This Summer, These 5 Are the Hottest Right Now",
+      "link": "https://www.whowhatwear.com/fashion/trends/print-trends-summer-2026",
+      "summary": "Prints Charming awaits...",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-07-05T10:22:30+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,6 +61,20 @@
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: 8 Summer Styling Tricks Worth Recreating From the Men’s Shows...",
       "score": 1,
+      "published": "2026-07-05T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "48fa563a2d2f",
+      "title": "These 16 True-Crime Documentaries Will Send Shivers Down Your Spine",
+      "link": "https://www.vogue.com/article/best-true-crime-documentaries",
+      "summary": "Looking for something to make your pulse race and your hair stand on end? The best true-crime documentaries and docu-series crawl with dark secrets and shocking twists, whether their subject is a missing child, a dead roommate, or a criminal cover-up.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: These 16 True-Crime Documentaries Will Send Shivers Down Your Spine...",
+      "score": 0,
       "published": "2026-07-05T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -138,7 +180,7 @@
       "id": "f44a47dbd5de",
       "title": "Zoë! Gigi! Karlie! All the Celebrities Who Attended Taylor Swift and Travis Kelce’s Wedding",
       "link": "https://www.vogue.com/slideshow/taylor-swift-travis-kelce-wedding-celebrity-arrivals",
-      "summary": "Dakota Johnson, Gigi Hadid, and Karlie Kloss were among the starry guests, close friends, and family joining Taylor Swift and Travis Kelce for their Madison Square Garden-set wedding day.",
+      "summary": "Gracie Abrams, Gigi Hadid, and Karlie Kloss were among the starry guests, close friends, and family joining Taylor Swift and Travis Kelce for their Madison Square Garden-set wedding day.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
@@ -146,20 +188,6 @@
       "angle": "Bridal Edit: Zoë! Gigi! Karlie! All the Celebrities Who Attended Taylor Swift and Travis Kelce’s Wedding — A Complete Style Guide",
       "score": 1,
       "published": "2026-07-05T06:24:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a00e33ceee98",
-      "title": "If You Want to Look French, Wear Your Summer Dress Like This, This or This",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/french-girl-summer-dress-outfits-2026",
-      "summary": "Chic, chic, chic!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: If You Want to Look French, Wear Your Summer Dress Like This, This or ...",
-      "score": 2,
-      "published": "2026-07-05T06:20:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -177,17 +205,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "182bdb1dec8f",
-      "title": "Ombré Nails Are Summer’s Most Joyful Manicure Trend—Here Are 12 Designs to Copy",
-      "link": "https://www.whowhatwear.com/beauty/nails/summer-ombre-nails",
-      "summary": "Fade away.",
+      "id": "a00e33ceee98",
+      "title": "If You Want to Look French, Wear Your Summer Dress Like This, This or This",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/french-girl-summer-dress-outfits-2026",
+      "summary": "Chic, chic, chic!",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-05T06:00:00+00:00",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: If You Want to Look French, Wear Your Summer Dress Like This, This or ...",
+      "score": 2,
+      "published": "2026-07-05T06:20:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -201,6 +229,20 @@
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
+      "published": "2026-07-05T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "182bdb1dec8f",
+      "title": "Ombré Nails Are Summer’s Most Joyful Manicure Trend—Here Are 12 Designs to Copy",
+      "link": "https://www.whowhatwear.com/beauty/nails/summer-ombre-nails",
+      "summary": "Fade away.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
       "published": "2026-07-05T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -513,6 +555,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "29bf819739a6",
+      "title": "Not Trainers: The Elegant Anti-Trend Flats Fashion People at the Airport Are Wearing With Drawstring Trousers",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/suede-loafers-drawstring-pants-outfit-gigi-hadid-2026-uk",
+      "summary": "You probably own them.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-07-04T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "e140fb6a450f",
       "title": "The Most Stylish Women In the World Agree—*These* Are Summer 2026's Chicest Quiet-Luxury Bags",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-quiet-luxury-summer-bags-2026",
@@ -537,20 +593,6 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: From Athens to Sicily, Mediterranean Skincare Enthusiasts Swear by The...",
       "score": 1,
-      "published": "2026-07-04T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "29bf819739a6",
-      "title": "Not Trainers: The Elegant Anti-Trend Flats Fashion People at the Airport Are Wearing With Drawstring Trousers",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/suede-loafers-drawstring-pants-outfit-gigi-hadid-2026-uk",
-      "summary": "You probably own them.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
       "published": "2026-07-04T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1115,20 +1157,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "174673ac1970",
-      "title": "In New York, a Food Stylist Serves a Joyful Banquet Inspired by Vietnam’s Imperial City",
-      "link": "https://www.vogue.com/article/an-co-vietnamese-hue-festival-dinner-party-new-york-city",
-      "summary": "The dinner marked the eighth installment of Ăn Cỗ, a Vietnamese banquet series highlighting regional cuisines—and this latest edition, devoted to the former royal capital of Huế, was their most ambitious yet.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: In New York, a Food Stylist Serves a Joyful Banquet Inspired by Vietna...",
-      "score": 0,
-      "published": "2026-07-03T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e569abd170a8",
       "title": "ICYMI: The NYFW Spring 2027 Preliminary Schedule, Small Beauty Brands Are Struggling to Scale & Fashionista's June Editors' Picks",
       "link": "https://fashionista.com/2026/07/fashion-news-you-need-to-know-july-3-2",
@@ -1185,20 +1213,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c84275f81013",
-      "title": "Shop Our Favorite Celebrity Looks of the Week | Vogue",
-      "link": "https://www.vogue.com/article/best-celebrity-outfits",
-      "summary": "Shop the best celebrity street style looks of the week, perfect for the season ahead—just a few simple clicks away.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-07-03T10:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "68d537eace40",
       "title": "Not Butter Yellow—In 2026, the Chicest Dressers Are Wearing This Elegant Colour Combination Instead",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/blue-brown-colour-combination-trend-kate-middleton-2026",
@@ -1238,20 +1252,6 @@
       "angle": "Fashion Intelligence: 7 Christmas Party Outfit Fails Every Guy Makes (And the Exact Fixes)...",
       "score": 3,
       "published": "2026-07-03T08:58:08+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "944aff81f917",
-      "title": "Fashion People—These New Nordstrom Basics and Sneakers Will Make Your Outfits Even Cooler",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-nordstrom-basics-shoes-summer-2026",
-      "summary": "All the chic summer staples.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Fashion People—These New Nordstrom Basics and Sneakers Will Make Your ...",
-      "score": 2,
-      "published": "2026-07-03T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2979,22 +2979,37 @@
   ],
   "trends": [
     {
+      "term": "prithvi shaw",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "आमिर खान",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "അവധി",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "અમદાવાદ",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "gauri spratt aamir khan marriage",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "செய்தி",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
       "term": "চন্দ্রচূড় সিং",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "முதலீடு",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "इंग्लंड क्रिकेट संघ",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "portugal national football team vs spain national football team",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
@@ -3004,27 +3019,12 @@
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "भारतीय पुलिस सेवा",
+      "term": "इंग्लंड क्रिकेट संघ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sumona chakravarti",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "वर्षा",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "ഇന്ത്യ",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "सफलता",
+      "term": "முதலீடு",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
