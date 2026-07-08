@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-08T05:00:02.030337+00:00",
+  "generated_at": "2026-07-08T07:29:51.682411+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 181,
+  "industry_count": 182,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: Ashi Studio Fall 2026 Couture...",
       "score": 1,
-      "published": "2026-07-08T04:57:35+00:00",
+      "published": "2026-07-08T07:28:14+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: N.Hoolywood Test Product Exchange Service Fall 2026 Menswear...",
       "score": 2,
-      "published": "2026-07-08T04:57:35+00:00",
+      "published": "2026-07-08T07:28:14+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Giuseppe Di Morabito Resort 2027...",
       "score": 0,
-      "published": "2026-07-08T04:57:35+00:00",
+      "published": "2026-07-08T07:28:14+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +61,7 @@
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: Armani Privé Fall 2026 Couture...",
       "score": 1,
-      "published": "2026-07-08T04:57:35+00:00",
+      "published": "2026-07-08T07:28:14+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +75,7 @@
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: Germanier Fall 2026 Couture...",
       "score": 1,
-      "published": "2026-07-08T04:57:35+00:00",
+      "published": "2026-07-08T07:28:14+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,7 +89,147 @@
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: Ronald van der Kemp Fall 2026 Couture...",
       "score": 1,
-      "published": "2026-07-08T04:57:35+00:00",
+      "published": "2026-07-08T07:28:14+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "776d0f4c7dbb",
+      "title": "I'm a Former Nordstrom Buyer—Sorry, I Tossed These 8 Popular Items From My Closet and Added These Trends Instead",
+      "link": "https://www.whowhatwear.com/fashion/shopping/outdated-popular-fashion-items",
+      "summary": "In and out.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-07-08T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "16578b4bcfea",
+      "title": "French Women Are Swapping Basic Tanks for These Chic Summer Tops",
+      "link": "https://www.whowhatwear.com/fashion/tops/heat-wave-tops",
+      "summary": "Wear these when it's very, very hot.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: French Women Are Swapping Basic Tanks for These Chic Summer Tops...",
+      "score": 1,
+      "published": "2026-07-08T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "390056a5b623",
+      "title": "I Just Found Summer's Most Popular Pant Trends at Nordstrom—Here's What's Worth Buying",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-pant-trends-nordstrom-summer-2026",
+      "summary": "From cute capris to cotton poplin styles.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-07-08T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "135a7927083f",
+      "title": "I'm a Denim Snob—This Is My Favorite Brand to Wear With Flats, Sneakers, and Heels",
+      "link": "https://www.whowhatwear.com/fashion/denim/best-calvin-klein-jeans",
+      "summary": "Versatile and chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm a Denim Snob—This Is My Favorite Brand to Wear With Flats, Sneaker...",
+      "score": 2,
+      "published": "2026-07-08T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d327f5fd6aff",
+      "title": "They're Here: The 8 It-Girl Brands Defining Summer 2026",
+      "link": "https://www.whowhatwear.com/fashion/summer/best-fashion-brands-summer-2026",
+      "summary": "According to Hailey Bieber and fashion insiders.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: They're Here: The 8 It-Girl Brands Defining Summer 2026...",
+      "score": 2,
+      "published": "2026-07-08T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "039fd7962a0a",
+      "title": "ICYMI, Summer Has Hit London—7 Outfits the Capital's Best-Dressed Can't Live Without",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/what-london-girls-are-wearing-summer-2026",
+      "summary": "Straight from the FYP.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: ICYMI, Summer Has Hit London—7 Outfits the Capital's Best-Dressed Can'...",
+      "score": 2,
+      "published": "2026-07-08T06:40:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9b0af959872d",
+      "title": "Tamil Nadu launches Anywhere Registration for property deals from August 17",
+      "link": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-anywhere-registration-mandatory-property-transactions-august-17-2026-ptag-2943034-2026-07-08?utm_source=rss",
+      "summary": "Tamil Nadu launches Anywhere Registration for property deals from August 17",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-07-08T06:35:47+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4bf2b68fd8d7",
+      "title": "From Margot Robbie to Zoë Kravitz, These Are the Nail Polish Shades Celebs Actually Wear",
+      "link": "https://www.whowhatwear.com/beauty/nails/celebrity-nail-colours",
+      "summary": "OPI! Essie! Chanel!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: From Margot Robbie to Zoë Kravitz, These Are the Nail Polish Shades Ce...",
+      "score": 1,
+      "published": "2026-07-08T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8771a5f7f34d",
+      "title": "Both Gen Z and Millennials Agree: If You're Going to Wear Leggings This Summer, Wear Them Like This, This and This",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/gen-z-vs-millennial-leggings-summer-2026",
+      "summary": "Here's how they're styling them.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Both Gen Z and Millennials Agree: If You're Going to Wear Leggings Thi...",
+      "score": 1,
+      "published": "2026-07-08T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ef2c19a2cea1",
+      "title": "Jewelled Sandals, Anklets and Shoe Charms—5 Elegant Trends That Put Your Best Foot Forward",
+      "link": "https://www.whowhatwear.com/fashion/trends/best-foot-forward-shoe-jewellery-trend-summer-2026",
+      "summary": "Get the dogs out.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-07-08T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -286,20 +426,6 @@
       "angle": "Fashion Intelligence: All the Stars Sitting Front Row at the Paris Haute Couture Shows...",
       "score": 2,
       "published": "2026-07-07T20:17:23+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1004ce6dbcc4",
-      "title": "Air India, Air India Express planes face off on Mumbai airport runway",
-      "link": "https://www.indiatoday.in/india/story/air-india-mumbai-runway-incident-aborts-take-off-as-air-india-express-stays-on-runway-2942952-2026-07-08?utm_source=rss",
-      "summary": "Air India, Air India Express planes face off on Mumbai airport runway",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-07-07T20:11:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1577,34 +1703,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "483c23b3821a",
-      "title": "The Best-Dressed Celebs at Silverstone, From Alexandra Leclerc to Hannah Dodd",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/best-celebrity-outfits-silverstone-2026",
-      "summary": "All so chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best-Dressed Celebs at Silverstone, From Alexandra Leclerc to Hann...",
-      "score": 1,
-      "published": "2026-07-06T11:07:13+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c79a47545ba2",
-      "title": "Hold the Black Flip-Flops—Wearing This Shoe Color With Dark-Wash Jeans Will Get You More Compliments",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/leopard-print-flip-flops-dark-wash-jeans-outfit-lori-harvey-2026",
-      "summary": "It's arguably just as classic as black.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-07-06T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "81f21ce16854",
       "title": "23 Best Affordable Watch Brands: Cheap Budget Options 2026",
       "link": "https://www.fashionbeans.com/best-cheap-watches-men/",
@@ -1616,20 +1714,6 @@
       "angle": "Fashion Intelligence: 23 Best Affordable Watch Brands: Cheap Budget Options 2026...",
       "score": 1,
       "published": "2026-07-06T09:30:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3243eaafac76",
-      "title": "Everyone With Taste in the Fashion Industry Wears a Uniform, Not Trends—This Is Mine",
-      "link": "https://www.whowhatwear.com/fashion/uniform-dressing-summer-2026",
-      "summary": "Outfit repeater, and proud.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 4,
-      "published": "2026-07-06T09:16:25+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1672,76 +1756,6 @@
       "angle": "Fashion Intelligence: 10 Best Driving Shoes For Men To Wear On The Road in 2026...",
       "score": 2,
       "published": "2026-07-06T07:23:59+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "80aaf8f8f6e5",
-      "title": "The Best Summer Dresses From Nordstrom, Period",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-summer-dresses-nordstrom",
-      "summary": "There's something for every budget.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Summer Dresses From Nordstrom, Period...",
-      "score": 1,
-      "published": "2026-07-06T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "df9f7174bb57",
-      "title": "Get Ready for the Heatwave! 5 Easy Summer Outfits That Are Low Effort, High Impact",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/basic-summer-outfits-2026",
-      "summary": "Making basics look stylish.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Get Ready for the Heatwave! 5 Easy Summer Outfits That Are Low Effort,...",
-      "score": 1,
-      "published": "2026-07-06T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2fa674bf3c3c",
-      "title": "Believe It or Not, French Women Wear These Sunglasses on Repeat Every Summer",
-      "link": "https://www.whowhatwear.com/fashion/shopping/oval-sunglasses-trend",
-      "summary": "I have three pairs in my cart RN.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Believe It or Not, French Women Wear These Sunglasses on Repeat Every ...",
-      "score": 1,
-      "published": "2026-07-06T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "59555f431d36",
-      "title": "Sorry, Denim Cut-Offs—This Shorts Trend Is a Much Cooler and Chicer Summer Style",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/satin-shorts-outfits-2026",
-      "summary": "The cool-girl alternative.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-07-06T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "09aa8c900bde",
-      "title": "My Chicest Colleagues Agree: This Sell-Out High-Street Dress Is the Cult Buy of Summer 2026",
-      "link": "https://www.whowhatwear.com/fashion/dresses/abercrombie-and-fitch-dylan-bra-free-dress",
-      "summary": "How to stay chic in the heat.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: My Chicest Colleagues Agree: This Sell-Out High-Street Dress Is the Cu...",
-      "score": 1,
-      "published": "2026-07-06T05:55:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2937,52 +2951,52 @@
   ],
   "trends": [
     {
+      "term": "sourav ganguly",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "अर्जेंटीना",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "kospi moneycontrol",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "शिवराज सिंह चौहान",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "వెస్టిండీస్ క్రికెట్ జట్టు",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "ஊரக வளர்ச்சி",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "taiwan index",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "chief minister vijay legal challenge",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "పార్వతి",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
       "term": "kusumgar ipo",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "knack packaging share price",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "vedanta power share price",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "jio finance share price",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "cupid share price",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "shpageeza cricket league",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "vedanta oil and gas share price",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "apollo micro systems share price",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "mcx share price",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "titan share price",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
