@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-07-08T10:18:25.037729+00:00",
+  "generated_at": "2026-07-08T12:23:23.173784+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 180,
+  "industry_count": 176,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "08100c7475a0",
+      "title": "Antonio Grimaldi Fall 2026 Couture",
+      "link": "https://www.vogue.com/fashion-shows/fall-2026-couture/antonio-grimaldi",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Antonio Grimaldi Fall 2026 Couture...",
+      "score": 1,
+      "published": "2026-07-08T12:20:22+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "04a62e1d8b84",
       "title": "Max Mara Atelier Fall 2026 Ready-to-Wear",
@@ -19,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Max Mara Atelier Fall 2026 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-07-08T10:13:57+00:00",
+      "published": "2026-07-08T12:20:22+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +47,7 @@
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: Balenciaga Fall 2026 Couture...",
       "score": 1,
-      "published": "2026-07-08T10:13:57+00:00",
+      "published": "2026-07-08T12:20:22+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +61,7 @@
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: Ashi Studio Fall 2026 Couture...",
       "score": 1,
-      "published": "2026-07-08T10:13:57+00:00",
+      "published": "2026-07-08T12:20:22+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +75,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: N.Hoolywood Test Product Exchange Service Fall 2026 Menswear...",
       "score": 2,
-      "published": "2026-07-08T10:13:57+00:00",
+      "published": "2026-07-08T12:20:22+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +89,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Giuseppe Di Morabito Resort 2027...",
       "score": 0,
-      "published": "2026-07-08T10:13:57+00:00",
+      "published": "2026-07-08T12:20:22+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,21 +103,77 @@
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: Armani Privé Fall 2026 Couture...",
       "score": 1,
-      "published": "2026-07-08T10:13:57+00:00",
+      "published": "2026-07-08T12:20:22+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "475455145775",
-      "title": "Germanier Fall 2026 Couture",
-      "link": "https://www.vogue.com/fashion-shows/fall-2026-couture/germanier",
-      "summary": "",
+      "id": "68c1aa53f595",
+      "title": "Why We're All Dressing Like It's (the Y2K Version of) the Medieval Ages Again",
+      "link": "https://fashionista.com/2026/07/y2k-medieval-revival-fashion-trend",
+      "summary": "Hear ye, hear ye: Velvet, chainmail and dramatic sleeves are the new armor of choice this season.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Why We're All Dressing Like It's (the Y2K Version of) the Medieval Age...",
+      "score": 2,
+      "published": "2026-07-08T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5689ff91753e",
+      "title": "Coming-of-Age Movies Are Better During the Summer",
+      "link": "https://www.harpersbazaar.com/culture/film-tv/a71785494/coming-of-age-summer-movies/",
+      "summary": "The best sun-faded films to watch when the heatstroke makes you nostalgic",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Coming-of-Age Movies Are Better During the Summer...",
+      "score": 0,
+      "published": "2026-07-08T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b455084a8ed2",
+      "title": "The Tennis Walk-On Look Is Sports’s Hot New Style Moment",
+      "link": "https://www.vogue.com/article/the-tennis-walk-on-look-is-sportss-hot-new-style-moment",
+      "summary": "From Naomi Osaka’s avant-garde get-ups to Taylor Fritz head-to-toe in Boss, tennis players are making the most of their moments on the court ahead of matches. Brands should buy in.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Germanier Fall 2026 Couture...",
-      "score": 1,
-      "published": "2026-07-08T10:13:57+00:00",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Tennis Walk-On Look Is Sports’s Hot New Style Moment...",
+      "score": 2,
+      "published": "2026-07-08T11:38:22+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d90274d1b6d7",
+      "title": "Fashion’s Favorite Accessory? A Portable Fan",
+      "link": "https://www.vogue.com/article/portable-fans",
+      "summary": "As sweltering temperatures persist from the US to Europe, fashion has embraced a more functional accessory: the portable fan—including handheld rechargeables and traditional foldables.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Fashion’s Favorite Accessory? A Portable Fan...",
+      "score": 3,
+      "published": "2026-07-08T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "12305b109b36",
+      "title": "Not Black Heels! This \"Cheap\" Shoe-Colour Trend Looks Chicest With Black Dresses",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/white-heels-black-dress-paris-outfit-alexa-chung-2026",
+      "summary": "Told you.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-07-08T10:21:43+00:00",
       "discovered_via": "feed"
     },
     {
@@ -261,34 +331,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d327f5fd6aff",
-      "title": "They're Here: The 8 It-Girl Brands Defining Summer 2026",
-      "link": "https://www.whowhatwear.com/fashion/summer/best-fashion-brands-summer-2026",
-      "summary": "According to Hailey Bieber and fashion insiders.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: They're Here: The 8 It-Girl Brands Defining Summer 2026...",
-      "score": 2,
-      "published": "2026-07-08T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "135a7927083f",
-      "title": "I'm a Denim Snob—This Is My Favorite Brand to Wear With Flats, Sneakers, and Heels",
-      "link": "https://www.whowhatwear.com/fashion/denim/best-calvin-klein-jeans",
-      "summary": "Versatile and chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm a Denim Snob—This Is My Favorite Brand to Wear With Flats, Sneaker...",
-      "score": 2,
-      "published": "2026-07-08T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "390056a5b623",
       "title": "I Just Found Summer's Most Popular Pant Trends at Nordstrom—Here's What's Worth Buying",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-pant-trends-nordstrom-summer-2026",
@@ -298,6 +340,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-07-08T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d327f5fd6aff",
+      "title": "They're Here: The 8 It-Girl Brands Defining Summer 2026",
+      "link": "https://www.whowhatwear.com/fashion/summer/best-fashion-brands-summer-2026",
+      "summary": "According to Hailey Bieber and fashion insiders.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: They're Here: The 8 It-Girl Brands Defining Summer 2026...",
       "score": 2,
       "published": "2026-07-08T07:00:00+00:00",
       "discovered_via": "feed"
@@ -331,6 +387,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "135a7927083f",
+      "title": "I'm a Denim Snob—This Is My Favorite Brand to Wear With Flats, Sneakers, and Heels",
+      "link": "https://www.whowhatwear.com/fashion/denim/best-calvin-klein-jeans",
+      "summary": "Versatile and chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm a Denim Snob—This Is My Favorite Brand to Wear With Flats, Sneaker...",
+      "score": 2,
+      "published": "2026-07-08T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "039fd7962a0a",
       "title": "ICYMI, Summer Has Hit London—7 Outfits the Capital's Best-Dressed Can't Live Without",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/what-london-girls-are-wearing-summer-2026",
@@ -359,20 +429,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4bf2b68fd8d7",
-      "title": "From Margot Robbie to Zoë Kravitz, These Are the Nail Polish Shades Celebs Actually Wear",
-      "link": "https://www.whowhatwear.com/beauty/nails/celebrity-nail-colours",
-      "summary": "OPI! Essie! Chanel!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: From Margot Robbie to Zoë Kravitz, These Are the Nail Polish Shades Ce...",
-      "score": 1,
-      "published": "2026-07-08T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ef2c19a2cea1",
       "title": "Jewelled Sandals, Anklets and Shoe Charms—5 Elegant Trends That Put Your Best Foot Forward",
       "link": "https://www.whowhatwear.com/fashion/trends/best-foot-forward-shoe-jewellery-trend-summer-2026",
@@ -382,6 +438,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-07-08T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4bf2b68fd8d7",
+      "title": "From Margot Robbie to Zoë Kravitz, These Are the Nail Polish Shades Celebs Actually Wear",
+      "link": "https://www.whowhatwear.com/beauty/nails/celebrity-nail-colours",
+      "summary": "The exact shades.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: From Margot Robbie to Zoë Kravitz, These Are the Nail Polish Shades Ce...",
       "score": 1,
       "published": "2026-07-08T06:00:00+00:00",
       "discovered_via": "feed"
@@ -863,34 +933,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2463b38c8d4d",
-      "title": "Rihanna Comes Down With a Case of the Stripes",
-      "link": "https://www.vogue.com/article/rihanna-case-of-the-stripes",
-      "summary": "Rihanna, in her crocheted track jacket and clashing striped skirt, reminds us that even the fashion girls can meet the sporty moment.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Rihanna Comes Down With a Case of the Stripes...",
-      "score": 1,
-      "published": "2026-07-07T15:00:29+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ac6100b0185a",
-      "title": "An Eclectic Crowd of Fashion Heavy Hitters Gathered at Chanel’s Fall 2026 Couture Show",
-      "link": "https://www.vogue.com/slideshow/all-the-stars-chanel-fall-2026-couture-show",
-      "summary": "From Pedro Pascal and Teyana Taylor to Cole Escola, Mathieu Blazy’s latest show attracted an A-list crowd in Paris.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: An Eclectic Crowd of Fashion Heavy Hitters Gathered at Chanel’s Fall 2...",
-      "score": 3,
-      "published": "2026-07-07T14:56:11+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "905715c85599",
       "title": "Jennifer Lopez Brings the Drama in Two Looks As She Touches Down in Paris for Couture Week",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71850870/jennifer-lopez-plunging-black-maxi-dress-fur-paris-style/",
@@ -1115,6 +1157,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "3dfd33e6f524",
+      "title": "26 Best Sneaker Brands For Men In 2026",
+      "link": "https://www.fashionbeans.com/article/best-sneaker-brands/",
+      "summary": "There was a time not so very long ago when attending a special event in a pair of sneakers was a surefire way to flag yourself to your shiny-shoed peers as a sartorial pariah. However, sneakers are now en vogue, with the best sneaker brands constantly innovating new and stylish footwear. Attitudes have shifted in &#823",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 26 Best Sneaker Brands For Men In 2026...",
+      "score": 2,
+      "published": "2026-07-07T09:12:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "e3a32f6b1b49",
       "title": "9 Best Breathable Underwear for Men: Comfort, Health in 2026",
       "link": "https://www.fashionbeans.com/article/best-breathable-underwear-for-men/",
@@ -1143,15 +1199,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0123a5a30862",
-      "title": "Low-Cut Dresses Expired in 2025—Everyone With Taste Is Wearing This 2026 Alt Now",
-      "link": "https://www.whowhatwear.com/fashion/trends/best-backless-dresses-summer-2026",
-      "summary": "Beyond chic.",
+      "id": "7df6da15ac57",
+      "title": "It's a Fact: Fashion People Are Choosing This Sandal Color Trend Over Black, White, and Brown",
+      "link": "https://www.whowhatwear.com/fashion/shoes/red-sandal-trend",
+      "summary": "The new It-girl shoe has arrived.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-07-07T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1171,16 +1227,30 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ff7cb9cfc0fe",
-      "title": "Not a Linen Shirt—This Is Summer 2026's Coolest Item to Wear With a Bikini",
-      "link": "https://www.whowhatwear.com/fashion/summer/front-tie-top-bikini-outfits",
-      "summary": "Pack it on your next vacation.",
+      "id": "0123a5a30862",
+      "title": "Low-Cut Dresses Expired in 2025—Everyone With Taste Is Wearing This 2026 Alt Now",
+      "link": "https://www.whowhatwear.com/fashion/trends/best-backless-dresses-summer-2026",
+      "summary": "Beyond chic.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Not a Linen Shirt—This Is Summer 2026's Coolest Item to Wear With a Bi...",
-      "score": 1,
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-07T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bf0e4b259f1e",
+      "title": "It's Here: The Denim Trend Every Fashion Person Is Wearing This Summer",
+      "link": "https://www.whowhatwear.com/fashion/white-jeans-outfits",
+      "summary": "A classic staple.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
       "published": "2026-07-07T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1199,30 +1269,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7df6da15ac57",
-      "title": "It's a Fact: Fashion People Are Choosing This Sandal Color Trend Over Black, White, and Brown",
-      "link": "https://www.whowhatwear.com/fashion/shoes/red-sandal-trend",
-      "summary": "The new It-girl shoe has arrived.",
+      "id": "ff7cb9cfc0fe",
+      "title": "Not a Linen Shirt—This Is Summer 2026's Coolest Item to Wear With a Bikini",
+      "link": "https://www.whowhatwear.com/fashion/summer/front-tie-top-bikini-outfits",
+      "summary": "Pack it on your next vacation.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-07-07T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bf0e4b259f1e",
-      "title": "It's Here: The Denim Trend Every Fashion Person Is Wearing This Summer",
-      "link": "https://www.whowhatwear.com/fashion/white-jeans-outfits",
-      "summary": "A classic staple.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Not a Linen Shirt—This Is Summer 2026's Coolest Item to Wear With a Bi...",
+      "score": 1,
       "published": "2026-07-07T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1325,20 +1381,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d6ff00b17650",
-      "title": "Every Summer Wardrobe Needs a Basket Bag—This ‘IYKYK’ Brand Is Delivering the Chicest Styles Yet",
-      "link": "https://www.whowhatwear.com/fashion/handbags/muun-basket-bags",
-      "summary": "Reimagining a summer icon.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Every Summer Wardrobe Needs a Basket Bag—This ‘IYKYK’ Brand Is Deliver...",
-      "score": 2,
-      "published": "2026-07-07T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "05e432a92a8d",
       "title": "25 Best Luxury Watches For Men: Show Up In Style 2026",
       "link": "https://www.fashionbeans.com/article/luxury-watches-brands/",
@@ -1381,20 +1423,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1fc03b495063",
-      "title": "The 2026 Way to Wear a Tube Top (If You Want to Look as Elegant as Possible)",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/tube-top-outfit-poppy-delevingne",
-      "summary": "A chic summer look awaits.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The 2026 Way to Wear a Tube Top (If You Want to Look as Elegant as Pos...",
-      "score": 1,
-      "published": "2026-07-06T21:07:47+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "aa067a2af17f",
       "title": "Confessions II Is the Madonna Memoir We’ve Been Waiting For",
       "link": "https://www.harpersbazaar.com/culture/art-books-music/a71839100/madonna-confessions-ii-lyrics-explained/",
@@ -1420,20 +1448,6 @@
       "angle": "Fashion Intelligence: Nordstrom’s Anniversary Sale 2026 Is Almost Here—Shop 15 Early Beauty ...",
       "score": 1,
       "published": "2026-07-06T21:02:28+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8b17798193af",
-      "title": "This Founder Believes You Don't Have to Sacrifice Style for Comfort, and She Is Right",
-      "link": "https://www.whowhatwear.com/living/career/second-life-podcast-beatriz-de-los-mozos",
-      "summary": "Hear her story here.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: This Founder Believes You Don't Have to Sacrifice Style for Comfort, a...",
-      "score": 1,
-      "published": "2026-07-06T20:50:39+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1885,20 +1899,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "09ccfa811823",
-      "title": "Zoë Kravitz Makes an Unconventional Statement With Her Wedding-Guest Minidress",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a71823064/zoe-kravitz-minidress-saint-laurent-the-row-taylor-swift-wedding-photos/",
-      "summary": "She attends Taylor Swift and Travis Kelce’s big day in a little sheer long sleeve",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Zoë Kravitz Makes an Unconventional Statement With Her Wedding-Guest Minidress — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-07-04T19:28:35+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e569abd170a8",
       "title": "ICYMI: The NYFW Spring 2027 Preliminary Schedule, Small Beauty Brands Are Struggling to Scale & Fashionista's June Editors' Picks",
       "link": "https://fashionista.com/2026/07/fashion-news-you-need-to-know-july-3-2",
@@ -2151,34 +2151,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4ecbefad30ce",
-      "title": "Emily Ratajkowski Takes the Spotlight in Tory Burch Eyewear",
-      "link": "https://www.fashiongonerogue.com/story/emily-ratajkowski-tory-burch-eyewear-2026/",
-      "summary": "Tory Burch&#8217;s spring-summer 2026 eyewear campaign puts Emily Ratajkowski front and center. The images pair sharp frames with warm light ... Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Emily Ratajkowski Takes the Spotlight in Tory Burch Eyewear...",
-      "score": 1,
-      "published": "2026-07-01T11:33:15+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "675702edb73c",
-      "title": "Massimo Dutti Studio Masters Desert Dressing for Summer",
-      "link": "https://www.fashiongonerogue.com/story/massimo-dutti-summer-2026/",
-      "summary": "Massimo Dutti Studio&#8217;s spring-summer 2026 collection trades the studio for the open road. In drop II of the season, the ... Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Massimo Dutti Studio Masters Desert Dressing for Summer...",
-      "score": 3,
-      "published": "2026-07-01T02:07:24+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "cdfe8d54d19a",
       "title": "Must Read: Marc Jacobs Stages Spring 2027 Runway Show, France Passes Ultra-Fast Fashion Law",
       "link": "https://fashionista.com/2026/06/marc-jacobs-spring-2027-runway-show",
@@ -2260,20 +2232,6 @@
       "angle": "Fashion Intelligence: Inside Maison Louis Marie's Dreamy New Los Angeles Flagship...",
       "score": 1,
       "published": "2026-06-29T17:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "485da0c7b3bc",
-      "title": "Dress Code: ElwoodCore",
-      "link": "https://www.fashionbeans.com/article/elwoodcore/",
-      "summary": "",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Dress Code: ElwoodCore...",
-      "score": 1,
-      "published": "2026-06-29T17:05:06+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2512,20 +2470,6 @@
       "angle": "Fashion Intelligence: Why Mid-Priced Beauty Brands Are Feeling the Squeeze...",
       "score": 2,
       "published": "2026-06-23T12:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f1b3a02ceeed",
-      "title": "Sonia Kashuk Is Back in Beauty With a New Hair-Care Brand",
-      "link": "https://fashionista.com/2026/06/funner-sonia-kashuk-new-hair-care-brand",
-      "summary": "Funner was co-founded by Kashuk, her husband Daniel Kaner (president and co-founder of Oribe) and their son, Jonah Kaner, who is running day-to-day operations.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Sonia Kashuk Is Back in Beauty With a New Hair-Care Brand...",
-      "score": 2,
-      "published": "2026-06-23T12:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2781,6 +2725,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "d23f13fc3979",
+      "title": "The Biggest Luxury Sale Has Arrived at Select Aza Stores with Up to 70% Off",
+      "link": "https://www.azafashions.com/blog/the-biggest-luxury-sale-at-select-aza-stores/?utm_source=rss&utm_medium=rss&utm_campaign=the-biggest-luxury-sale-at-select-aza-stores",
+      "summary": "There are moments in fashion when desire and opportunity align perfectly, and this is one of them. Aza Fashions is hosting its Big Luxury Sale at select stores across in&#8230; The post The Biggest Luxury Sale Has Arrived at Select Aza Stores with Up to 70% Off appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Biggest Luxury Sale Has Arrived at Select Aza Stores with Up to 70...",
+      "score": 2,
+      "published": "2026-07-07T12:19:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "50c9879e81ec",
       "title": "Sonam Kapoor’s Punjabi Lacha Look Is the Wedding Trend to Watch",
       "link": "https://www.azafashions.com/blog/sonam-kapoor-punjabi-lacha-wedding-look/?utm_source=rss&utm_medium=rss&utm_campaign=sonam-kapoor-punjabi-lacha-wedding-look",
@@ -2905,70 +2863,56 @@
       "score": 5,
       "published": "2026-07-01T13:00:05+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "dbe8f5d25bca",
-      "title": "Styling Secrets Every Petite Bride Should Know",
-      "link": "https://www.azafashions.com/blog/styling-secrets-petite-bride-should-know/?utm_source=rss&utm_medium=rss&utm_campaign=styling-secrets-petite-bride-should-know",
-      "summary": "There is a particular kind of magic that happens when a bridal outfit is perfectly calibrated to the woman wearing it. Not just the embroidery, not just the color —&#8230; The post Styling Secrets Every Petite Bride Should Know appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Styling Secrets Every Petite Bride Should Know — A Complete Style Guide",
-      "score": 4,
-      "published": "2026-07-01T09:07:07+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "sri lanka vs west indies",
+      "term": "aamir khan gauri spratt ring",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अभिषेक शर्मा",
+      "term": "గుంటూరు",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "മഴ",
+      "term": "इज़राइल",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "અમદાવાદ",
+      "term": "स्टॉक",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "कप्तान",
+      "term": "mumbai el nino rainfall data",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಸಾಲ ಮನ್ನಾ",
+      "term": "state election commission",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "தாய் கிழவி",
+      "term": "mother",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "তারাতলা",
+      "term": "पुष्य",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "trump latest news",
+      "term": "लॉरेंस बिश्नोई",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "brent crude price",
+      "term": "८ जुलाई",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
