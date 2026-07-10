@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-10T05:56:05.185200+00:00",
+  "generated_at": "2026-07-10T08:23:46.801372+00:00",
   "owned_count": 10,
-  "competitor_count": 16,
-  "industry_count": 174,
+  "competitor_count": 18,
+  "industry_count": 173,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: Fendi Fall 2026 Couture...",
       "score": 1,
-      "published": "2026-07-10T05:51:49+00:00",
+      "published": "2026-07-10T08:19:52+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: Francesco Scognamiglio Fall 2026 Couture...",
       "score": 1,
-      "published": "2026-07-10T05:51:49+00:00",
+      "published": "2026-07-10T08:19:52+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,7 @@
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: Didit Hediprasetyo Fall 2026 Couture...",
       "score": 1,
-      "published": "2026-07-10T05:51:49+00:00",
+      "published": "2026-07-10T08:19:52+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +61,133 @@
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: Rami Al Ali Fall 2026 Couture...",
       "score": 1,
-      "published": "2026-07-10T05:51:49+00:00",
+      "published": "2026-07-10T08:19:52+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c3cce500b131",
+      "title": "Burdened with loans, man dies by suicide hours before daughter's wedding",
+      "link": "https://www.indiatoday.in/india/uttar-pradesh/story/raebareli-carpenter-suicide-father-dies-hours-before-daughters-wedding-2944792-2026-07-10?utm_source=rss",
+      "summary": "Burdened with loans, man dies by suicide hours before daughter's wedding",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Burdened with loans, man dies by suicide hours before daughter's wedding — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-07-10T07:51:38+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e597edf6df2e",
+      "title": "The \"Boring\" Summer Basic Every Fashion Person Owns",
+      "link": "https://www.whowhatwear.com/fashion/pants-trousers/white-shorts-outfits-uk",
+      "summary": "The coolest ways to wear it in 2026.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The \"Boring\" Summer Basic Every Fashion Person Owns...",
+      "score": 2,
+      "published": "2026-07-10T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2a3ea5f76a0f",
+      "title": "Barbour! Dyson! Tory Burch! Here's What's Worth Seeing From Nordstrom's Anniversary Sale Preview",
+      "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-anniversary-sale-preview-2026",
+      "summary": "Shop the best beauty and fashion deals.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Barbour! Dyson! Tory Burch! Here's What's Worth Seeing From Nordstrom'...",
+      "score": 2,
+      "published": "2026-07-10T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e8e4d4723b96",
+      "title": "Fashion People Are Retiring These Summer Basics—Here's What They're Wearing Into Early Fall Instead",
+      "link": "https://www.whowhatwear.com/fashion/trends/outdated-summer-basics-2026",
+      "summary": "See the list inside.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-10T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "50a975b3e393",
+      "title": "Taffeta Pants, Satin Bags, Jeweled Sandals: 5 Highly Specific Items Cool It Girls Are Wearing RN",
+      "link": "https://www.whowhatwear.com/fashion/trendy-summer-fashion-2026",
+      "summary": "Shop the edit.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-07-10T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4055e57246d7",
+      "title": "It's Here: The 2026 It-Girl Way to Style Summer Denim",
+      "link": "https://www.whowhatwear.com/fashion/denim/calvin-klein-denim-outfits",
+      "summary": "Do you own a pair of jeans? You'll want to style them like this.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: It's Here: The 2026 It-Girl Way to Style Summer Denim...",
+      "score": 1,
+      "published": "2026-07-10T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7f63c1bdb06f",
+      "title": "Hold the Ballet Flats! 5 Boho Shoe Trends That Pair Best With Dresses, Shorts and Skirts This Summer",
+      "link": "https://www.whowhatwear.com/fashion/trends/boho-shoe-trends-summer-2026",
+      "summary": "Boho is back.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-07-10T06:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "26e17005f551",
+      "title": "I Found It: The Quiet Luxury, Highly Minimal Dress Chic Women All Over Europe Can't Stop Wearing",
+      "link": "https://www.whowhatwear.com/fashion/dresses/matteau-shirred-cotton-midi-dress",
+      "summary": "A heatwave hero.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-07-10T06:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6e1dc31350b3",
+      "title": "Yachts! Beach Clubs! Sunsets! These Perfumes Practically Scream \"Euro Summer\"",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/euro-summer-perfumes",
+      "summary": "The scents of the season.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Yachts! Beach Clubs! Sunsets! These Perfumes Practically Scream \"Euro ...",
+      "score": 1,
+      "published": "2026-07-10T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -933,6 +1059,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "f70270212bac",
+      "title": "Not Anything You'd Expect: This Is the J.Lo-Approved Way to Style Bermuda Shorts in Paris",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/bermuda-shorts-peep-toe-heels-outfit-jennifer-lopez-2026",
+      "summary": "It's not with her go-to PVC heels.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Not Anything You'd Expect: This Is the J.Lo-Approved Way to Style Berm...",
+      "score": 1,
+      "published": "2026-07-09T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "e6ce07129786",
       "title": "The Beauty of Lupita Nyong'o",
       "link": "https://www.whowhatwear.com/fashion/cover-features/lupita-nyongo-the-odyssey-interview-2026",
@@ -947,17 +1087,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f70270212bac",
-      "title": "Not Anything You'd Expect: This Is the J.Lo-Approved Way to Style Bermuda Shorts in Paris",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/bermuda-shorts-peep-toe-heels-outfit-jennifer-lopez-2026",
-      "summary": "It's not with her go-to PVC heels.",
-      "source": "Who What Wear",
+      "id": "0cebf5833fec",
+      "title": "6 Best Silk Shirts for Men: Ease into Summer Suavely in 2026",
+      "link": "https://www.fashionbeans.com/article/best-silk-shirts-for-men/",
+      "summary": "Silk has been among the most luxurious fabrics throughout most of human history. So much so that its production method was once the object of intense secrecy and medieval James Bond-esque espionage. At this precise moment of fashion history, however, silk occupies a strange place. Although the material feels just as so",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Not Anything You'd Expect: This Is the J.Lo-Approved Way to Style Berm...",
-      "score": 1,
-      "published": "2026-07-09T10:00:00+00:00",
+      "angle": "Fashion Intelligence: 6 Best Silk Shirts for Men: Ease into Summer Suavely in 2026...",
+      "score": 2,
+      "published": "2026-07-09T08:26:21+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1451,34 +1591,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bcdc15aa3ad2",
-      "title": "This Is the Summer Wardrobe I’ll Be Wearing All Season Long",
-      "link": "https://www.whowhatwear.com/fashion/shopping/www-curates-karen-millen-summer-colletion-2026",
-      "summary": "Chic and effortless.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-08T15:20:04+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fff0445a03b5",
-      "title": "IG's Favorite Celeb Makeup Artist Just Launched an End-All Brush Collection—It Will 100% Upgrade Your Routine",
-      "link": "https://www.whowhatwear.com/beauty/makeup/kelli-anne-sewell-real-techniques-launch",
-      "summary": "Read our exclusive interview with Kelli Anne Sewell.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 2,
-      "published": "2026-07-08T14:59:44+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "26699bd4ec7c",
       "title": "8 Best Linen Pants for Men: Breathe Easy & Smart in 2026",
       "link": "https://www.fashionbeans.com/article/best-linen-pants-for-men/",
@@ -1521,20 +1633,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "097b77942bb0",
-      "title": "Women in their 20s and 50s Agree—This is the Most Elegant Shorts Trend You Can Wear Right Now",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/satin-shorts-trend-charlize-theron-2026",
-      "summary": "Charlize-approved.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-07-08T12:24:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "68c1aa53f595",
       "title": "Why We're All Dressing Like It's (the Y2K Version of) the Medieval Ages Again",
       "link": "https://fashionista.com/2026/07/y2k-medieval-revival-fashion-trend",
@@ -1546,20 +1644,6 @@
       "angle": "Fashion Intelligence: Why We're All Dressing Like It's (the Y2K Version of) the Medieval Age...",
       "score": 2,
       "published": "2026-07-08T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "12305b109b36",
-      "title": "Not Black Heels! This \"Cheap\" Shoe-Colour Trend Looks Chicest With Black Dresses",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/white-heels-black-dress-paris-outfit-alexa-chung-2026",
-      "summary": "Told you.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-07-08T10:21:43+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1577,34 +1661,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "32c7f6e01fa9",
-      "title": "You Could Wear Black Heels, But J.Lo Is Proof That This Shoe Color Looks Better With Ivory Dresses",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/pvc-brown-heels-ivory-dress-jennifer-lopez",
-      "summary": "Spotted in Paris.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: You Could Wear Black Heels, But J.Lo Is Proof That This Shoe Color Loo...",
-      "score": 2,
-      "published": "2026-07-08T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a1770c5a975f",
-      "title": "Suddenly, The Chicest Women in London All Seem to Own This Elegant High-Street Dress—But It’s Selling Fast",
-      "link": "https://www.whowhatwear.com/fashion/dresses/aligne-jennie-cap-sleeve-linen-dress",
-      "summary": "It's already in my basket.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Suddenly, The Chicest Women in London All Seem to Own This Elegant Hig...",
-      "score": 1,
-      "published": "2026-07-08T09:01:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "987969ed2c51",
       "title": "How To Wear Brown: Men’s Style And Outfits Guide 2026",
       "link": "https://www.fashionbeans.com/article/how-to-wear-brown/",
@@ -1619,20 +1675,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c2517f553327",
-      "title": "I Know You've Got Good Taste if Any of These 11 Brands Are in Your Summer Wardrobe",
-      "link": "https://www.whowhatwear.com/fashion/summer/contemporary-fashion-brands-summer-2026",
-      "summary": "Easy, elegant, effortless.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Know You've Got Good Taste if Any of These 11 Brands Are in Your Sum...",
-      "score": 1,
-      "published": "2026-07-08T08:40:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "49a0c99e72da",
       "title": "Dress Code: Campus",
       "link": "https://www.fashionbeans.com/article/campus/",
@@ -1644,48 +1686,6 @@
       "angle": "Fashion Intelligence: Dress Code: Campus...",
       "score": 1,
       "published": "2026-07-08T08:33:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bee19ca5b42d",
-      "title": "Chanel! Dior! Schiaparelli! Here’s Everything You Need to See from Paris Couture Week",
-      "link": "https://www.whowhatwear.com/fashion/runway/paris-couture-week-july-2026-runway-trends",
-      "summary": "Fashion's most exclusive week is underway.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Chanel! Dior! Schiaparelli! Here’s Everything You Need to See from Par...",
-      "score": 2,
-      "published": "2026-07-08T08:08:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2a2f382ab6d9",
-      "title": "My Friend Asked Me for Chic Summer Beauty Recs—19 Nordstrom Finds I Added to Her Cart",
-      "link": "https://www.whowhatwear.com/beauty/best-nordstrom-summer-beauty-products-2026",
-      "summary": "I wager they won't stay in stock for long.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: My Friend Asked Me for Chic Summer Beauty Recs—19 Nordstrom Finds I Ad...",
-      "score": 1,
-      "published": "2026-07-08T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7e2a0803c425",
-      "title": "Reviewed: Salt & Stone's Most Haul-Worthy Products, According to Picky Beauty Editors",
-      "link": "https://www.whowhatwear.com/beauty/skin/salt-and-stone-product-reviews",
-      "summary": "Reasonably priced upgrades to elevate your routine.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Reviewed: Salt & Stone's Most Haul-Worthy Products, According to Picky...",
-      "score": 1,
-      "published": "2026-07-08T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2050,20 +2050,6 @@
       "angle": "Fashion Intelligence: Rosie Huntington-Whiteley Goes Glam in ViX Paula Hermanny...",
       "score": 3,
       "published": "2026-07-06T11:44:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "81f21ce16854",
-      "title": "23 Best Affordable Watch Brands: Cheap Budget Options 2026",
-      "link": "https://www.fashionbeans.com/best-cheap-watches-men/",
-      "summary": "Stauer Watch Reviews: Are They Any Good? It used to be a case of “you get what you pay for” when it came to affordable watch brands, both in terms of quality and kudos. Dropping a few thousand not only meant you&#8217;d get decent mechanics but also boardroom brownie points for sporting a reputable name &#8230; Continu",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 23 Best Affordable Watch Brands: Cheap Budget Options 2026...",
-      "score": 1,
-      "published": "2026-07-06T09:30:32+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2599,6 +2585,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "daac22f17dda",
+      "title": "White Anarkali Dress Styling Guide: 9 Looks for Every Skin Tone and Occasion",
+      "link": "https://www.indianclothstore.com/blog/white-anarkali-dress-styling-guide-skin-tone-occasion",
+      "summary": "A white anarkali dress is one of the most versatile pieces in Indian ethnic wear — but most women either avoid it out of uncertainty or style it the same way every time. White works beautifully across skin tones when the fabric, embellishment, and accessories are chosen correctly. Indian Cloth Store has put together th",
+      "source": "Indian Cloth Store",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Trend Alert",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 6,
+      "published": "2026-06-22T06:49:04+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "e8edc74591ee",
       "title": "What Makes a Bridal Outfit Feel Like ‘The One’ Instantly",
       "link": "https://blog.kalkifashion.com/find-bridal-outfits-that-turn-heads-instantly/",
@@ -2610,6 +2610,20 @@
       "angle": "Bridal Edit: What Makes a Bridal Outfit Feel Like ‘The One’ Instantly — A Complete Style Guide",
       "score": 4,
       "published": "2026-06-22T04:01:29+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "af8f4f6185a1",
+      "title": "Frock Anarkali vs Classic Anarkali: Which Style Actually Suits Your Body Type?",
+      "link": "https://www.indianclothstore.com/blog/frock-anarkali-vs-classic-anarkali-suit",
+      "summary": "A frock anarkali suit and a classic anarkali suit look similar at first glance — both are floor-length, and both are stunning. But the silhouette, the cut, and the way each one sits on the body are completely different. Choosing the wrong one for your frame or your occasion is one of the most common mistakes Indian eth",
+      "source": "Indian Cloth Store",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Frock Anarkali vs Classic Anarkali: Which Style Actually Suits Your Bo...",
+      "score": 3,
+      "published": "2026-06-15T13:38:13+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2811,52 +2825,52 @@
   ],
   "trends": [
     {
-      "term": "jorge jesus portugal",
+      "term": "राँची",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "isha ambani",
+      "term": "ब्याज",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "சுற்றுலா",
+      "term": "प्रधानमंत्री किसान सम्मान निधि",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "horoscope today",
+      "term": "दिल्ली - मुंबई एक्सप्रेसवे",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cancer",
+      "term": "অঙ্গনওয়াড়ি",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "पंजाब",
+      "term": "भारतीय रेल",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "மாநில அரசுப் பள்ளி",
+      "term": "ikka movie",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "adani power share price",
+      "term": "iu",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bel share price",
+      "term": "முதலமைச்சர்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "పంట",
+      "term": "kospi moneycontrol",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
