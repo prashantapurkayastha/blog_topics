@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-11T09:30:03.667128+00:00",
+  "generated_at": "2026-07-11T11:53:47.514997+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 174,
+  "industry_count": 177,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Ambush Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-07-11T09:28:21+00:00",
+      "published": "2026-07-11T11:52:08+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Isabel Marant Resort 2027...",
       "score": 0,
-      "published": "2026-07-11T09:28:21+00:00",
+      "published": "2026-07-11T11:52:08+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,105 @@
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: Chochengco Fall 2026 Couture...",
       "score": 1,
-      "published": "2026-07-11T09:28:21+00:00",
+      "published": "2026-07-11T11:52:08+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f0b31a78c548",
+      "title": "Carolyn Bessette Kennedy vs Carrie Bradshaw: Which Iconic New Yorker Is More Your Summer Style?",
+      "link": "https://www.whowhatwear.com/fashion/trends/carolyn-bessette-kennedy-carrie-bradshaw-summer-style",
+      "summary": "I couldn't help but wonder, am I a Carrie girl?",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Carolyn Bessette Kennedy vs Carrie Bradshaw: Which Iconic New Yorker I...",
+      "score": 1,
+      "published": "2026-07-11T11:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "41e5de92ddbf",
+      "title": "Photos show Uddhav Sena MPs met Om Birla days before switch to Shinde camp",
+      "link": "https://www.indiatoday.in/india/story/shiv-sena-ubt-mps-om-birla-meeting-photos-emerge-before-shinde-switch-2945630-2026-07-11?utm_source=rss",
+      "summary": "Photos show Uddhav Sena MPs met Om Birla days before switch to Shinde camp",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Photos show Uddhav Sena MPs met Om Birla days before switch to Shinde ...",
+      "score": 1,
+      "published": "2026-07-11T11:19:16+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "20ed8822b2c0",
+      "title": "The Barely-There Hiking Sandal Is the Official Shoe of the Summer",
+      "link": "https://www.vogue.com/article/minimalist-hiker-sandal-trend",
+      "summary": "Skimpy sandals with thin soles and just a little string are the new hot footwear choice of the summer.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Barely-There Hiking Sandal Is the Official Shoe of the Summer...",
+      "score": 1,
+      "published": "2026-07-11T11:17:50+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0b32b2ca01e2",
+      "title": "Bye-Bye Baby Tee: It’s a Schlubby Shirt Summer",
+      "link": "https://www.vogue.com/article/big-shirt-summer-trend",
+      "summary": "Zendaya’s vintage tee-as-dress moment on the “Spider-Man” red carpet certainly felt like a moment—but there’s been a bolder move toward bigger, breezy shirts this summer that might signal something else.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Bye-Bye Baby Tee: It’s a Schlubby Shirt Summer...",
+      "score": 1,
+      "published": "2026-07-11T11:01:15+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "472696c3f751",
+      "title": "Video: Where's mutton? Upset over chicken menu, wedding turns into huge brawl",
+      "link": "https://www.indiatoday.in/india/story/video-brawl-at-wedding-in-bihar-saharsa-after-chicken-served-instead-of-mutton-2945588-2026-07-11?utm_source=rss",
+      "summary": "Video: Where's mutton? Upset over chicken menu, wedding turns into huge brawl",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Video — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-07-11T10:05:44+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5211373ee922",
+      "title": "The Hip New Thing in Street Style? It’s Hanging from Your Waist",
+      "link": "https://www.vogue.com/article/street-style-trend-belt-charms",
+      "summary": "Hip hip hooray! Belt charms abound on the fashion week streets, particularly at the spring 2027 menswear shows.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: The Hip New Thing in Street Style? It’s Hanging from Your Waist...",
+      "score": 5,
+      "published": "2026-07-11T10:05:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9c9ca3c2dbeb",
+      "title": "5 Couture Street Style Looks That Capture Parisian Ease",
+      "link": "https://www.vogue.com/article/couture-street-style-outfits-fw26",
+      "summary": "Fashion goers came prepared for another sweltering week in the City of Light. Recreate our favorite street style looks, now.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: 5 Couture Street Style Looks That Capture Parisian Ease...",
+      "score": 3,
+      "published": "2026-07-11T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -583,6 +681,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "cef19b5c00eb",
+      "title": "How To Find Comfortable Dress Shoes For Men",
+      "link": "https://www.fashionbeans.com/article/comfortable-dress-shoes-men/",
+      "summary": "Some days &#8211; for work, a function or just because you feel like it &#8211; you need to dress up. But there’s always that hesitation in having to don dress shoes &#8211; so often stiff, uncompromising and hard on your tootsies. At least, that was the case. More relaxed dress codes, as well as the &#8230; Continue r",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How To Find Comfortable Dress Shoes For Men...",
+      "score": 1,
+      "published": "2026-07-10T16:06:28+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "50ac67382d1b",
       "title": "These Levi's® Shorts Are Perfect for Summer Through Fall",
       "link": "https://www.whowhatwear.com/fashion/summer-to-fall-transition-shopping-levis",
@@ -947,6 +1059,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "2ab5c35d6efb",
+      "title": "This or That? A Fall 2026 Couture Street Style Trend Face-Off",
+      "link": "https://www.vogue.com/article/this-or-that-presenting-a-couture-street-style-face-off-fall-2026-edition",
+      "summary": "Zebra or cheetah? Sequin or classic tweed? Play a game of this or that with street style from the fall 2026 couture shows in Paris.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
+      "published": "2026-07-10T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "94b50292715d",
       "title": "Aperitivo Hour: A Post-Heatwave Parisian Apéro With Rebekah Peppler",
       "link": "https://www.vogue.com/article/aperitivo-hour-rebekah-peppler",
@@ -961,17 +1087,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2ab5c35d6efb",
-      "title": "This or That? A Fall 2026 Couture Street Style Trend Face-Off",
-      "link": "https://www.vogue.com/article/this-or-that-presenting-a-couture-street-style-face-off-fall-2026-edition",
-      "summary": "Zebra or cheetah? Sequin or classic tweed? Play a game of this or that with street style from the fall 2026 couture shows in Paris.",
-      "source": "Vogue US",
+      "id": "dee4562b96cf",
+      "title": "5 Best Coach Colognes for Collecting Compliments in 2026",
+      "link": "https://www.fashionbeans.com/article/best-coach-colognes/",
+      "summary": "It’s hard to walk down the street or any crowded place without encountering Coach. Whether it’s emblazoned on a stylish, well-priced handbag or slung around the hips in belt form, Coach is synonymous with affordable American luxury. And, if you happen to take a discerning whiff of the air in these same spaces, your nos",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 4,
-      "published": "2026-07-10T10:00:00+00:00",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 5 Best Coach Colognes for Collecting Compliments in 2026...",
+      "score": 1,
+      "published": "2026-07-10T09:49:41+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1045,31 +1171,59 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a3aa5bc7145d",
-      "title": "Corsets, Weightlessness, and Creature Comforts at the Fall 2026 Haute Couture",
-      "link": "https://www.vogue.com/article/fall-2026-couture-trends",
-      "summary": "Explore the trends of this especially dramatic season.",
-      "source": "Vogue US",
+      "id": "984da283e7d0",
+      "title": "21 Best Chelsea Boots For Men That Go With Everything 2026",
+      "link": "https://www.fashionbeans.com/article/best-chelsea-boots-men/",
+      "summary": "Few things in the male wardrobe are likely to link reigning monarchs and rockstars. Nonetheless, the best Chelsea boots for men have managed to attract wearers as diverse as this, a most notable achievement. Of course, it’s not as simple as just slipping on any old pair. You need to look out for the hallmarks &#8230; C",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Corsets, Weightlessness, and Creature Comforts at the Fall 2026 Haute ...",
-      "score": 3,
-      "published": "2026-07-10T08:30:00+00:00",
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: 21 Best Chelsea Boots For Men That Go With Everything 2026...",
+      "score": 1,
+      "published": "2026-07-10T09:00:10+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "2a3ea5f76a0f",
-      "title": "Barbour! Dyson! Tom Ford! Here's What's Worth Seeing From Nordstrom's Anniversary Sale Preview",
-      "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-anniversary-sale-preview-2026",
-      "summary": "Shop the best beauty and fashion deals.",
-      "source": "Who What Wear",
+      "id": "f17311d93d2e",
+      "title": "10 Best 7-Inch Inseam Shorts For Men in 2026",
+      "link": "https://www.fashionbeans.com/article/best-7-inch-inseam-shorts/",
+      "summary": "The best 7-inch inseam shorts expose just the right amount of leg to cool your crotch but cover enough to keep your modesty intact. They fall between the knee scraping 9-inch inseams and the thigh riding 5-inch inseams. The best 7-inch inseam shorts prove you’re confident enough to show off your legs, and what&#8217;s ",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Barbour! Dyson! Tom Ford! Here's What's Worth Seeing From Nordstrom's ...",
-      "score": 2,
-      "published": "2026-07-10T07:00:00+00:00",
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: 10 Best 7-Inch Inseam Shorts For Men in 2026...",
+      "score": 1,
+      "published": "2026-07-10T07:42:38+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "df9206208633",
+      "title": "The Masters 2026: The Men’s Fashion Guide Inspired by Augusta’s Greatest Style Moments",
+      "link": "https://www.fashionbeans.com/article/masters-2026-mens-fashion-golf-style-guide/",
+      "summary": "The 90th Masters Tournament tees off today at Augusta National — and if you think the only thing worth watching is who takes home the green jacket, you&#8217;re missing half the show. There is no sporting event on earth with a dress code as quietly powerful as The Masters. Since 1934, Augusta National has imposed &#823",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: The Masters 2026: The Men’s Fashion Guide Inspired by Augusta’s Greate...",
+      "score": 4,
+      "published": "2026-07-10T07:04:14+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ab41366e873b",
+      "title": "What To Wear To A Summer Wedding",
+      "link": "https://www.fashionbeans.com/article/summer-wedding-what-to-wear/",
+      "summary": "There comes a time in every man’s life when summers become a seemingly endless succession of other people’s nuptials. If you haven’t reached that point yet, then rest assured: summer wedding season is coming. As is the constant deliberation over wedding attire. Sometimes, in the case of stricter dress codes, there’s a ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Bridal Edit: What To Wear To A Summer Wedding — A Complete Style Guide",
+      "score": 4,
+      "published": "2026-07-10T07:00:47+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1087,15 +1241,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e597edf6df2e",
-      "title": "The \"Boring\" Summer Basic Every Fashion Person Owns",
-      "link": "https://www.whowhatwear.com/fashion/pants-trousers/white-shorts-outfits-uk",
-      "summary": "The coolest ways to wear it in 2026.",
+      "id": "2a3ea5f76a0f",
+      "title": "Barbour! Dyson! Tom Ford! Here's What's Worth Seeing From Nordstrom's Anniversary Sale Preview",
+      "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-anniversary-sale-preview-2026",
+      "summary": "Shop the best beauty and fashion deals.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The \"Boring\" Summer Basic Every Fashion Person Owns...",
+      "angle": "Fashion Intelligence: Barbour! Dyson! Tom Ford! Here's What's Worth Seeing From Nordstrom's ...",
       "score": 2,
       "published": "2026-07-10T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1125,6 +1279,20 @@
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
+      "published": "2026-07-10T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e597edf6df2e",
+      "title": "The \"Boring\" Summer Basic Every Fashion Person Owns",
+      "link": "https://www.whowhatwear.com/fashion/pants-trousers/white-shorts-outfits-uk",
+      "summary": "The coolest ways to wear it in 2026.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The \"Boring\" Summer Basic Every Fashion Person Owns...",
+      "score": 2,
       "published": "2026-07-10T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1185,48 +1353,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "77b1441c90a9",
-      "title": "The Scoop with Daydream’s Lisa Yamner: On the App’s First Birthday and Funniest Customer Searches",
-      "link": "https://www.vogue.com/article/the-scoop-with-daydreams-lisa-yamner-on-the-apps-first-birthday-and-funniest-customer-searches",
-      "summary": "This week’s guest is Lisa Yamner, co-founder and chief brands officer of Daydream, which is basically ChatGPT for when you are binging Summer House (post scandal) and want to find one of the matching sets Paige DeSorbo wore in a previous season.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The Scoop with Daydream’s Lisa Yamner: On the App’s First Birthday and...",
-      "score": 2,
-      "published": "2026-07-10T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cb4564616092",
-      "title": "The Latex Look Is All Over the Runways. Will It Sell?",
-      "link": "https://www.vogue.com/article/the-latex-look-is-all-over-the-runways-will-it-sell",
-      "summary": "Once relegated to subcultures, latex designs dominated at couture. Will this translate to ready-to-wear — and sales?",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: The Latex Look Is All Over the Runways. Will It Sell?...",
-      "score": 3,
-      "published": "2026-07-10T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3852aeb203c3",
-      "title": "Key Takeaways From Paris Couture Week",
-      "link": "https://www.vogue.com/article/key-takeaways-from-paris-couture-week",
-      "summary": "With two couture debuts in Paris from Pierpaolo Piccioli at Balenciaga and Duran Lantink at Jean Paul Gaultier, as well as three sophomore couture shows, this Paris couture season proved just how ‘hot’ the week can be.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Key Takeaways From Paris Couture Week...",
-      "score": 3,
-      "published": "2026-07-10T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ffe70e151483",
       "title": "Kylie Jenner Makes Frankies Bikinis x KHY Feel Like a Dream",
       "link": "https://www.fashiongonerogue.com/story/kylie-jenner-khy-frankies-bikinis/",
@@ -1238,20 +1364,6 @@
       "angle": "Fashion Intelligence: Kylie Jenner Makes Frankies Bikinis x KHY Feel Like a Dream...",
       "score": 1,
       "published": "2026-07-10T01:49:38+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3bbc7049ca50",
-      "title": "These Are *the* Pretty Summer Shoes Every Fashion Person Is Scrambling to Get Their Hands On",
-      "link": "https://www.whowhatwear.com/fashion/flower-heels-summer-2026-shoe-trend",
-      "summary": "Actually groundbreaking.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: These Are *the* Pretty Summer Shoes Every Fashion Person Is Scrambling...",
-      "score": 1,
-      "published": "2026-07-09T22:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1843,62 +1955,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1c8d43f79ad7",
-      "title": "The Best Italian Menswear Brands",
-      "link": "https://www.fashionbeans.com/article/best-italian-menswear-brands/",
-      "summary": "“Italians see fashion as a search for beauty,” says Matteo Persivale, one of Milan’s best-dressed men and a senior writer at Corriere della Serra, the country&#8217;s leading daily newspaper. Perhaps that’s why those in less tropical climes are still so drawn to the Italianate style — it breaks free of the workaday pra",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Italian Menswear Brands...",
-      "score": 7,
-      "published": "2026-07-09T09:00:15+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0cebf5833fec",
-      "title": "6 Best Silk Shirts for Men: Ease into Summer Suavely in 2026",
-      "link": "https://www.fashionbeans.com/article/best-silk-shirts-for-men/",
-      "summary": "Silk has been among the most luxurious fabrics throughout most of human history. So much so that its production method was once the object of intense secrecy and medieval James Bond-esque espionage. At this precise moment of fashion history, however, silk occupies a strange place. Although the material feels just as so",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 6 Best Silk Shirts for Men: Ease into Summer Suavely in 2026...",
-      "score": 2,
-      "published": "2026-07-09T08:26:21+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f4f2e9817ff5",
-      "title": "10 Best Man Purse For Everyday Practical Travel in 2026",
-      "link": "https://www.fashionbeans.com/article/best-man-purses/",
-      "summary": "Indiana Jones had one. Joey Tribbiani (Friends) fell madly in love with his. But that didn&#8217;t stop Bradley Cooper (aka Phil from The Hangover) making fun of Alan for rocking his own version of the &#8220;best man purse.&#8221; Since then, trendsetters such as Cristiano Ronaldo, Asap Rocky, and Jacob Elordi have tu",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 10 Best Man Purse For Everyday Practical Travel in 2026...",
-      "score": 1,
-      "published": "2026-07-09T06:05:41+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4443d700394f",
-      "title": "16 Best Digital Watches for Men 2026",
-      "link": "https://www.fashionbeans.com/article/best-digital-watches-for-men/",
-      "summary": "Before smartwatches took the spotlight, there was another type of techie timepiece wrapped proudly around the wrist of the world’s fashion-forward men. Featuring stylish silhouettes and technical dials, digital watches were the modern alternative to the analog designs next-gen wearers were growing tired of. However, wh",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 16 Best Digital Watches for Men 2026...",
-      "score": 2,
-      "published": "2026-07-09T01:16:04+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "10e61e7e8b0c",
       "title": "The 10 Best Perfumes for Cancer Signs, According to Horoscope Experts",
       "link": "https://www.harpersbazaar.com/beauty/health/a71855221/perfumes-for-cancer-zodiac-sign/",
@@ -1910,20 +1966,6 @@
       "angle": "Fashion Intelligence: The 10 Best Perfumes for Cancer Signs, According to Horoscope Experts...",
       "score": 0,
       "published": "2026-07-08T22:41:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d636ecc3eba7",
-      "title": "The Salomon Sneakers Taking Over Streets, Cafés and Fashion Week",
-      "link": "https://www.fashionbeans.com/article/salomon-sneakers-fashion-week-2026/",
-      "summary": "Salomon Stopped Trying To Be Fashion And that’s exactly why fashion won’t stop wearing it. During Paris Men’s Fashion Week, new creative director Heikki Salonen said something disarmingly simple about Salomon: “Salomon is not a fashion house.” So the brand is doubling down on what it does best. Serious mountain footwea",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Salomon Sneakers Taking Over Streets, Cafés and Fashion Week...",
-      "score": 3,
-      "published": "2026-07-08T21:46:37+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2697,6 +2739,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "5085096ecaf1",
+      "title": "Raksha Bandhan Outfit Ideas: Trending Choices You’ll Love",
+      "link": "https://www.azafashions.com/blog/raksha-bandhan-outfit-ideas-sisters/?utm_source=rss&utm_medium=rss&utm_campaign=raksha-bandhan-outfit-ideas-sisters",
+      "summary": "Raksha Bandhan is one of the most loved festivals, celebrating the special bond between brothers and sisters. It is an occasion that calls for celebratory attire, where the best outfits&#8230; The post Raksha Bandhan Outfit Ideas: Trending Choices You&#8217;ll Love appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-07-11T10:16:41+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "a43e4fdb71e4",
       "title": "Sharvari Has Officially Entered Her Power Dressing Era",
       "link": "https://www.azafashions.com/blog/sharvari-power-dressing-era/?utm_source=rss&utm_medium=rss&utm_campaign=sharvari-power-dressing-era",
@@ -2736,6 +2792,20 @@
       "angle": "Fashion Intelligence: Monsoon Workwear That Survives Rain, Humidity and Long Commutes...",
       "score": 2,
       "published": "2026-07-10T11:22:34+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "156c47c9ce0b",
+      "title": "Powerhouse Huma Qureshi Fronts the Latest Issue of Aza Magazine",
+      "link": "https://www.azafashions.com/blog/huma-qureshi-for-aza-magazine/?utm_source=rss&utm_medium=rss&utm_campaign=huma-qureshi-for-aza-magazine",
+      "summary": "Some women don't simply wear fashion, they give it meaning. Huma Qureshi has long been one of them. Confident, fearless, and unapologetically authentic, she fronts the latest issue of Aza&#8230; The post Powerhouse Huma Qureshi Fronts the Latest Issue of Aza Magazine appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Powerhouse Huma Qureshi Fronts the Latest Issue of Aza Magazine...",
+      "score": 2,
+      "published": "2026-07-10T09:09:07+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2807,86 +2877,58 @@
       "score": 2,
       "published": "2026-07-08T04:20:00+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "d23f13fc3979",
-      "title": "The Biggest Luxury Sale Has Arrived at Select Aza Stores with Up to 70% Off",
-      "link": "https://www.azafashions.com/blog/the-biggest-luxury-sale-at-select-aza-stores/?utm_source=rss&utm_medium=rss&utm_campaign=the-biggest-luxury-sale-at-select-aza-stores",
-      "summary": "There are moments in fashion when desire and opportunity align perfectly, and this is one of them. Aza Fashions is hosting its Big Luxury Sale at select stores across in&#8230; The post The Biggest Luxury Sale Has Arrived at Select Aza Stores with Up to 70% Off appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Biggest Luxury Sale Has Arrived at Select Aza Stores with Up to 70...",
-      "score": 2,
-      "published": "2026-07-07T12:19:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "53715a99fe5d",
-      "title": "Paris Haute Couture Week 2026: Everything You Missed From Fashion’s Most Magical Week",
-      "link": "https://www.azafashions.com/blog/paris-haute-couture-week-2026/?utm_source=rss&utm_medium=rss&utm_campaign=paris-haute-couture-week-2026",
-      "summary": "Paris just spent a week proving that clothes can be built from lightning, temple stone, deep-sea&#160;plasma&#160;and grief for the ephemeral,&#160;and somehow, all of it still had to fit like a&#8230; The post Paris Haute Couture Week 2026: Everything You Missed From Fashion&#8217;s Most Magical Week appeared first on",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Paris Haute Couture Week 2026: Everything You Missed From Fashion’s Mo...",
-      "score": 2,
-      "published": "2026-07-07T04:06:00+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "बोरवेल",
+      "term": "ಈಶ್ವರ ಖಂಡ್ರೆ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "தென்காசி",
+      "term": "salman khan news",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "major league cricket",
+      "term": "ಭಾರತೀಯ ಕ್ರಿಕೆಟ್ ತಂಡ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "gautam gambhir",
+      "term": "வருவாய் ஆய்வாளர்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "wdmma",
+      "term": "robot",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "new zealand",
+      "term": "वियतनाम",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "el nino india",
+      "term": "वैभव सूर्यवंशी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "lottery sambad today",
+      "term": "vietnam boat accident",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "भारत मौसम विज्ञान विभाग",
+      "term": "सचिन तेंडुलकर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rohit chandel",
+      "term": "tata sierra jubilee edition",
       "summary": "",
-      "aza_category": "Fashion & Style"
+      "aza_category": "Trend Alert"
     }
   ],
   "tracked_keywords": [
