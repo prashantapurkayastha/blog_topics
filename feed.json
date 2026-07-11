@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-11T04:55:04.948191+00:00",
+  "generated_at": "2026-07-11T07:12:09.972271+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 179,
+  "industry_count": 175,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Ambush Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-07-11T04:54:32+00:00",
+      "published": "2026-07-11T07:08:24+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Isabel Marant Resort 2027...",
       "score": 0,
-      "published": "2026-07-11T04:54:32+00:00",
+      "published": "2026-07-11T07:08:24+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,105 @@
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: Chochengco Fall 2026 Couture...",
       "score": 1,
-      "published": "2026-07-11T04:54:32+00:00",
+      "published": "2026-07-11T07:08:24+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1731312903d2",
+      "title": "Baby Tees Can Be Chic, Too—7 Outfits That Prove My Point",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/baby-tee-summer-outfits",
+      "summary": "Shop each look here.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Baby Tees Can Be Chic, Too—7 Outfits That Prove My Point...",
+      "score": 1,
+      "published": "2026-07-11T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0406b80237ee",
+      "title": "If You Only Buy One Dress This Summer, Make It This Simple '90s Silhouette",
+      "link": "https://www.whowhatwear.com/fashion/shopping/black-silk-slip-dress",
+      "summary": "As seen on CBK and Kate Moss.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: If You Only Buy One Dress This Summer, Make It This Simple '90s Silhou...",
+      "score": 1,
+      "published": "2026-07-11T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e10abc39b9da",
+      "title": "White is Boring—6 Chic Summer Colour Trends French Women Are Wearing Through the Heatwave Instead",
+      "link": "https://www.whowhatwear.com/fashion/trends/french-girl-summer-colour-trends-2026",
+      "summary": "So many good combos.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-11T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d6fb1164576c",
+      "title": "Ever Since It Girls Confirmed the '90s Are Back, I've Been Shopping This Chic Throwback Brand",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-eileen-fisher-fashion-finds-2026",
+      "summary": "Timeless minimalism.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Ever Since It Girls Confirmed the '90s Are Back, I've Been Shopping Th...",
+      "score": 1,
+      "published": "2026-07-11T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "460e482d2cee",
+      "title": "Yep, *The* Outfit of Summer 2026 Is Here",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/tank-drawstring-pants-flip-flops-outfit-trend-summer-2026",
+      "summary": "It's just three easy pieces away.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Yep, *The* Outfit of Summer 2026 Is Here...",
+      "score": 1,
+      "published": "2026-07-11T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d5fb144241be",
+      "title": "I Didn't Think I Could Wear Jeans at the Airport, But These Outfits Have Proved Me Wrong",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/airport-outfits-with-jeans-2026",
+      "summary": "Yes, denim is travel friendly!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-11T06:50:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9f7b83221e82",
+      "title": "I've Been Planning a Trip to Greece—These Are the 5 Outfits I'll Be Packing",
+      "link": "https://www.whowhatwear.com/fashion/vacation/what-to-wear-in-greece",
+      "summary": "Santorini! Hydra! Athens!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I've Been Planning a Trip to Greece—These Are the 5 Outfits I'll Be Pa...",
+      "score": 1,
+      "published": "2026-07-11T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -821,30 +919,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4055e57246d7",
-      "title": "It's Here: The 2026 It-Girl Way to Style Summer Denim",
-      "link": "https://www.whowhatwear.com/fashion/denim/calvin-klein-denim-outfits",
-      "summary": "Do you own a pair of jeans? You'll want to style them like this.",
+      "id": "50a975b3e393",
+      "title": "Taffeta Pants, Satin Bags, Jeweled Sandals: 5 Highly Specific Items Cool It Girls Are Wearing RN",
+      "link": "https://www.whowhatwear.com/fashion/trendy-summer-fashion-2026",
+      "summary": "Shop the edit.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: It's Here: The 2026 It-Girl Way to Style Summer Denim...",
-      "score": 1,
-      "published": "2026-07-10T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e8e4d4723b96",
-      "title": "Fashion People Are Retiring These Summer Basics—Here's What They're Wearing Into Early Fall Instead",
-      "link": "https://www.whowhatwear.com/fashion/trends/outdated-summer-basics-2026",
-      "summary": "See the list inside.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
+      "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
+      "score": 1,
       "published": "2026-07-10T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -863,15 +947,29 @@
       "discovered_via": "feed"
     },
     {
-      "id": "50a975b3e393",
-      "title": "Taffeta Pants, Satin Bags, Jeweled Sandals: 5 Highly Specific Items Cool It Girls Are Wearing RN",
-      "link": "https://www.whowhatwear.com/fashion/trendy-summer-fashion-2026",
-      "summary": "Shop the edit.",
+      "id": "e8e4d4723b96",
+      "title": "Fashion People Are Retiring These Summer Basics—Here's What They're Wearing Into Early Fall Instead",
+      "link": "https://www.whowhatwear.com/fashion/trends/outdated-summer-basics-2026",
+      "summary": "See the list inside.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
+      "aza_category": "Fashion & Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-10T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4055e57246d7",
+      "title": "It's Here: The 2026 It-Girl Way to Style Summer Denim",
+      "link": "https://www.whowhatwear.com/fashion/denim/calvin-klein-denim-outfits",
+      "summary": "Do you own a pair of jeans? You'll want to style them like this.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: It's Here: The 2026 It-Girl Way to Style Summer Denim...",
       "score": 1,
       "published": "2026-07-10T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1437,20 +1535,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c15679effae3",
-      "title": "I've Been Street Style Spotting in Paris—5 Chic Summer Trends Taking Off Right Now",
-      "link": "https://www.whowhatwear.com/fashion/street-style/paris-couture-week-july-2026-street-style-trends",
-      "summary": "Bookmark this.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-07-09T13:18:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7549cb1b5bf1",
       "title": "Duran Lantink Is Couture’s New Enfant Terrible",
       "link": "https://www.harpersbazaar.com/fashion/a71881955/jean-paul-gaultier-couture-fall-2026-duran-lantink/",
@@ -1535,48 +1619,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9a166cd25071",
-      "title": "If You Want Your White Denim Shorts to Look French, Wear Them With This Chic Sandal",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/white-denim-shorts-t-bar-sandals-outfit-jennifer-lawrence",
-      "summary": "Très chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: If You Want Your White Denim Shorts to Look French, Wear Them With Thi...",
-      "score": 1,
-      "published": "2026-07-09T10:30:38+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f70270212bac",
-      "title": "Not Anything You'd Expect: This Is the J.Lo-Approved Way to Style Bermuda Shorts in Paris",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/bermuda-shorts-peep-toe-heels-outfit-jennifer-lopez-2026",
-      "summary": "It's not with her go-to PVC heels.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Not Anything You'd Expect: This Is the J.Lo-Approved Way to Style Berm...",
-      "score": 1,
-      "published": "2026-07-09T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e6ce07129786",
-      "title": "The Beauty of Lupita Nyong'o",
-      "link": "https://www.whowhatwear.com/fashion/cover-features/lupita-nyongo-the-odyssey-interview-2026",
-      "summary": "For our July cover, The Odyssey actress talks the film of the summer, letting her work speak for itself, and taking her health into her own hands.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The Beauty of Lupita Nyong'o...",
-      "score": 1,
-      "published": "2026-07-09T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "45a530ff34f2",
       "title": "Dress Code: Pinnacle",
       "link": "https://www.fashionbeans.com/article/pinnacle/",
@@ -1633,6 +1675,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "ec351137bfdc",
+      "title": "8 Best YSL Colognes For Men In 2026",
+      "link": "https://www.fashionbeans.com/article/best-ysl-cologne/",
+      "summary": "Following in the footsteps of Chanel, Yves Saint Laurent launched his first fragrance for women, Y, in 1964 by creating, in his own words, &#8220;a lush, heavy, and languid perfume.&#8221; Just seven years later, the designer shocked the world of haute couture, posing naked to launch Pour Homme, the first and best YSL ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: 8 Best YSL Colognes For Men In 2026...",
+      "score": 3,
+      "published": "2026-07-09T09:38:27+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "c121a9610f5c",
       "title": "7 Best 5 Pocket Pants For Men – Comfortable Fits For 2026",
       "link": "https://www.fashionbeans.com/article/best-5-pocket-pants/",
@@ -1647,6 +1703,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "68c8c2b3466f",
+      "title": "The Best Men’s Puffer Vests To Buy In 2026",
+      "link": "https://www.fashionbeans.com/article/best-gilets-men/",
+      "summary": "When in need of a new layer to keep you warm, a lack of sleeves may feel like a dealbreaker. After all, you wouldn’t buy a car without brakes or a house without a roof, would you? It’s just a fundamental part of the package. But to strike a men&#8217;s puffer vest from your outerwear &#8230; Continue reading The Best M",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Men’s Puffer Vests To Buy In 2026...",
+      "score": 1,
+      "published": "2026-07-09T09:00:55+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "a3ea33ff5eb1",
       "title": "10 Men’s Accessories That Will Never Go Out Of Style",
       "link": "https://www.fashionbeans.com/article/classic-mens-accessories/",
@@ -1658,6 +1728,20 @@
       "angle": "Fashion Intelligence: 10 Men’s Accessories That Will Never Go Out Of Style...",
       "score": 2,
       "published": "2026-07-09T09:00:51+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "51d6b3ba8e0b",
+      "title": "The Best Brogues For Men 2026",
+      "link": "https://www.fashionbeans.com/article/best-brogues-men/",
+      "summary": "Even for men who live in trainers, there’s a certain excitement that comes with stepping into &#8216;proper&#8217; shoes. Particularly when they’re as storied as the brogue. The style’s distinctive perforations were designed initially as an escape valve for bog water, favored by Irish farmers who spent half their worki",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Brogues For Men 2026...",
+      "score": 1,
+      "published": "2026-07-09T09:00:48+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1703,87 +1787,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1afbbb7a9df5",
-      "title": "Zara, H&M and COS Just Perfected Summer’s Chicest Shorts Trend—9 Elegant Pairs Worth Seeing",
-      "link": "https://www.whowhatwear.com/fashion/shopping/zara-hm-cos-bermuda-shorts-2026",
-      "summary": "So cool-girl coded.",
-      "source": "Who What Wear",
+      "id": "f4f2e9817ff5",
+      "title": "10 Best Man Purse For Everyday Practical Travel in 2026",
+      "link": "https://www.fashionbeans.com/article/best-man-purses/",
+      "summary": "Indiana Jones had one. Joey Tribbiani (Friends) fell madly in love with his. But that didn&#8217;t stop Bradley Cooper (aka Phil from The Hangover) making fun of Alan for rocking his own version of the &#8220;best man purse.&#8221; Since then, trendsetters such as Cristiano Ronaldo, Asap Rocky, and Jacob Elordi have tu",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "angle": "Fashion Intelligence: 10 Best Man Purse For Everyday Practical Travel in 2026...",
       "score": 1,
-      "published": "2026-07-09T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6d08957ea6f5",
-      "title": "Going on Holiday Is My Favourite Hobby—8 Swimsuit Brands I Always Pack",
-      "link": "https://www.whowhatwear.com/best-swimwear-brands-2026",
-      "summary": "The one piece you'll wear again and again.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 2,
-      "published": "2026-07-09T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7a4b49c25d4e",
-      "title": "\"A Celebration of Versatility\": The Gorgeous Beauty Details Behind Lupita Nyong'o's July Cover Shoot",
-      "link": "https://www.whowhatwear.com/beauty/lupita-nyongo-beauty-cover",
-      "summary": "Straight from her hairstylist and makeup artist.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: \"A Celebration of Versatility\": The Gorgeous Beauty Details Behind Lup...",
-      "score": 1,
-      "published": "2026-07-09T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1bd7badc909d",
-      "title": "I'm a Fashion Editor—Here's Everything I'd Buy From Reformation for Summer",
-      "link": "https://www.whowhatwear.com/fashion/reformation-summer-2026-shopping",
-      "summary": "Shop the edit.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I'm a Fashion Editor—Here's Everything I'd Buy From Reformation for Su...",
-      "score": 1,
-      "published": "2026-07-09T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "28456f06096c",
-      "title": "Who Likes Short-Shorts? 5 Trends Petite Women Should Have on Their Radar This Summer",
-      "link": "https://www.whowhatwear.com/fashion/trends/petite-shorts-trends-2026",
-      "summary": "It's legs-out season.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-07-09T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4c49c8f9e526",
-      "title": "French Women Are Skipping Dainty Florals for This Bold Summer Print Trend",
-      "link": "https://www.whowhatwear.com/fashion/summer/french-girl-flower-trend-summer-2026-eugenie-trochu",
-      "summary": "Seventies-inspired patterns, vibrant colors, and an unmistakable Italian holiday spirit…",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-09T07:00:00+00:00",
+      "published": "2026-07-09T06:05:41+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1997,20 +2011,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b5953c3c215b",
-      "title": "Why Billy Reid’s New Spring Collection Is Your Best Move Right Now",
-      "link": "https://www.fashionbeans.com/article/billy-reid-spring-collection/",
-      "summary": "Spring tends to announce itself in small but welcome ways. The evenings linger a little longer, while the waft of freshly cut grass begins to fill the air. Suddenly leaving the house feels like a good idea again. It’s also around this time when you are told, by people like me, that a refresh is &#8230; Continue reading",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-07-07T14:17:25+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "db2f3f5faeb9",
       "title": "After Fleeing War, This Ukrainian Designer Found Freedom in Knitwear",
       "link": "https://fashionista.com/2026/07/ely-ely-elizaveta-yurusheva-designer-interview",
@@ -2039,34 +2039,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1b5ad6ce26e8",
-      "title": "9 Best Linen Shirts for Men: Breeze Through Summer in 2026",
-      "link": "https://www.fashionbeans.com/article/best-linen-shirts-for-men/",
-      "summary": "There’s no more iconic summer staple than the best linen shirts for men. They’re versatile, stylish, and give off an air of “my boat is docked just over there.” Even if you’re not wearing them to the yacht club, linen shirts will carry you through any warm weather situation with ease. From the summer weddings &#8230; C",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Fashion Intelligence: 9 Best Linen Shirts for Men: Breeze Through Summer in 2026...",
-      "score": 2,
-      "published": "2026-07-07T12:16:28+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "362e38a12459",
-      "title": "5 Best Dove Body Washes For Men: All about the Scent in 2026",
-      "link": "https://www.fashionbeans.com/article/best-dove-body-washes-for-men/",
-      "summary": "When it comes to quality men’s skincare and hygiene products, Dove is a brand that’s up there with the best of them. Not only does Dove care about the planet and the kind of ingredients it uses in its products—but its signature scents are also out of this world. As with its deodorants, its ever-expanding &#8230; Contin",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 5 Best Dove Body Washes For Men: All about the Scent in 2026...",
-      "score": 1,
-      "published": "2026-07-07T11:52:27+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "04a2ad830d36",
       "title": "Ermanno Scervino Fall 2026 Serves Italian Drama",
       "link": "https://www.fashiongonerogue.com/story/ermanno-scervino-fall-2026-campaign/",
@@ -2092,34 +2064,6 @@
       "angle": "Fashion Intelligence: The Chicest Watch Colors to Wear Right Now...",
       "score": 3,
       "published": "2026-07-07T11:25:21+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3de73d5d466c",
-      "title": "Football Casuals: How To Wear Terrace Fashion",
-      "link": "https://www.fashionbeans.com/article/terrace-fashion-guide/",
-      "summary": "Ordinarily, getting kitted out head to toe in your most expensive clothing might be something you’d reserve for a date, a wedding or a black-tie event. However, if you were a devotee of terrace fashion, a matchday trip to the pub would be the only excuse you’d need to get yourself suited and booted. Of course, &#8230; ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Fashion Intelligence: Football Casuals: How To Wear Terrace Fashion...",
-      "score": 3,
-      "published": "2026-07-07T10:32:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f5873491c026",
-      "title": "7 Best Summer Loafers For Men: Slip into Comfort in 2026",
-      "link": "https://www.fashionbeans.com/article/best-summer-loafers-for-men/",
-      "summary": "Loafers have a reputation for being dressy, and they are often associated with formal or school wear. Rarely do people know that they are great summer staples, especially if you want to elevate your casual outfits. They are easier to wear than sneakers because of their slip-on nature, and they also come in breathable c",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 7 Best Summer Loafers For Men: Slip into Comfort in 2026...",
-      "score": 3,
-      "published": "2026-07-07T10:16:01+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2909,52 +2853,52 @@
   ],
   "trends": [
     {
-      "term": "मैच",
+      "term": "zim vs ban",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "गौरी ख़ान",
+      "term": "eci",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "andrey santos chelsea",
+      "term": "satluj movie film",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "రామ్ గోపాల్ వర్మ",
+      "term": "राशियाँ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "imdb",
+      "term": "isha ambani manish malhotra paris",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "2027 honda jazz facelift japan",
+      "term": "অভিযোগ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "el niño weather",
+      "term": "motorola edge 70 max",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ali khan",
+      "term": "san francisco unicorns vs la knight riders",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "lhuan-dre pretorius",
+      "term": "సాక్షి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "lords mark industries share price",
+      "term": "విద్యార్థి",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
