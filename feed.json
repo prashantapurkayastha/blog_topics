@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T09:52:03.480084+00:00",
+  "generated_at": "2026-07-12T12:00:27.850006+00:00",
   "owned_count": 10,
   "competitor_count": 18,
   "industry_count": 177,
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Ambush Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-07-12T09:50:38+00:00",
+      "published": "2026-07-12T11:55:29+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,21 +33,77 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Isabel Marant Resort 2027...",
       "score": 0,
-      "published": "2026-07-12T09:50:38+00:00",
+      "published": "2026-07-12T11:55:29+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "ae946b153339",
-      "title": "Chochengco Fall 2026 Couture",
-      "link": "https://www.vogue.com/fashion-shows/fall-2026-couture/chocheng",
-      "summary": "",
+      "id": "3d5ae2266ddc",
+      "title": "Kim Kardashian’s Spray-Tan Expert Shares Her Tips For Faking a Natural Glow",
+      "link": "https://www.vogue.com/article/self-tanner-tips",
+      "summary": "Isabel Alysa is Hollywood’s most in-demand self tanning expert. Here, she shares her best spray tan tips for a faux summer glow without streaks or spots.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Chochengco Fall 2026 Couture...",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Kim Kardashian’s Spray-Tan Expert Shares Her Tips For Faking a Natural...",
+      "score": 0,
+      "published": "2026-07-12T10:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fb9711688697",
+      "title": "Not a Knee-Length—I've Spotted So Many Londoners Wear This Timeless Skirt Trend Instead",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/denim-miniskirt-trend-alexa-chung-2026",
+      "summary": "It's classic for a reason.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-12T10:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f28622315c58",
+      "title": "The Best Dressed Stars of the Week Embraced Airy Opulence",
+      "link": "https://www.vogue.com/slideshow/10-best-dressed-stars-zendaya-cardi-b-anne-hathaway",
+      "summary": "From Sarah Pidgeon’s full-skirted Chanel to Zendaya’s lacy Louis Vuitton: these summery looks were ethereal and light—but still turned heads on the red carpet.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The Best Dressed Stars of the Week Embraced Airy Opulence...",
       "score": 1,
-      "published": "2026-07-12T09:50:38+00:00",
+      "published": "2026-07-12T10:18:42+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "41ff0719593a",
+      "title": "Ask Earl With Laurel Pantin: How to Style Shorts",
+      "link": "https://www.vogue.com/article/ask-earl-with-laurel-pantin",
+      "summary": "In her monthly column, Ask Earl, writer, editor, mom, and entrepreneur, Laurel Pantin answers your latest style questions.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Ask Earl With Laurel Pantin: How to Style Shorts...",
+      "score": 1,
+      "published": "2026-07-12T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cd9fa1a24824",
+      "title": "Sabrina Carpenter’s Take on French Girl Fashion Recognizes No Paris Heatwave",
+      "link": "https://www.vogue.com/article/sabrina-carpenter-french-girl-fashion-paris-heatwave",
+      "summary": "Out and about in the French capital, Sabrina Carpenter opted for an easy, breezy bottom to alleviate her more wintry, furry headpiece.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Sabrina Carpenter’s Take on French Girl Fashion Recognizes No Paris He...",
+      "score": 1,
+      "published": "2026-07-12T09:52:45+00:00",
       "discovered_via": "feed"
     },
     {
@@ -149,20 +205,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6c96368dc80e",
-      "title": "Spiral Jewellery! Graphic Tees! Neon Colours! 7 Fashion Trends Making a Comeback for Summer 2026",
-      "link": "https://www.whowhatwear.com/fashion/summer/summer-fashion-trends-making-a-comeback-2026",
-      "summary": "Trust me, they're here to stay.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-07-12T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f522a5f25823",
       "title": "H&M Just Perfected the 5 Shoe Trends That Will Make Any Summer Outfit Look More Expensive",
       "link": "https://www.whowhatwear.com/fashion/affordable/hm-summer-shoe-trends-2026",
@@ -177,17 +219,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b761ad950307",
-      "title": "Spotted in London and New York: Here's How the Most Fashionable Women Dress for Summer in the City",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/summer-in-the-city-capsule-wardrobe-2026",
-      "summary": "Your global fashion dispatch.",
+      "id": "6c96368dc80e",
+      "title": "Spiral Jewellery! Graphic Tees! Neon Colours! 7 Fashion Trends Making a Comeback for Summer 2026",
+      "link": "https://www.whowhatwear.com/fashion/summer/summer-fashion-trends-making-a-comeback-2026",
+      "summary": "Trust me, they're here to stay.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-12T04:00:00+00:00",
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-07-12T05:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -201,6 +243,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
+      "published": "2026-07-12T04:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b761ad950307",
+      "title": "Spotted in London and New York: Here's How the Most Fashionable Women Dress for Summer in the City",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/summer-in-the-city-capsule-wardrobe-2026",
+      "summary": "Your global fashion dispatch.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
       "published": "2026-07-12T04:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -583,20 +639,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "460e482d2cee",
-      "title": "Yep, *The* Outfit of Summer 2026 Is Here",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/tank-drawstring-pants-flip-flops-outfit-trend-summer-2026",
-      "summary": "It's just three easy pieces away.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Yep, *The* Outfit of Summer 2026 Is Here...",
-      "score": 1,
-      "published": "2026-07-11T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0406b80237ee",
       "title": "If You Only Buy One Dress This Summer, Make It This Simple '90s Silhouette",
       "link": "https://www.whowhatwear.com/fashion/shopping/black-silk-slip-dress",
@@ -606,6 +648,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: If You Only Buy One Dress This Summer, Make It This Simple '90s Silhou...",
+      "score": 1,
+      "published": "2026-07-11T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "460e482d2cee",
+      "title": "Yep, *The* Outfit of Summer 2026 Is Here",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/tank-drawstring-pants-flip-flops-outfit-trend-summer-2026",
+      "summary": "It's just three easy pieces away.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Yep, *The* Outfit of Summer 2026 Is Here...",
       "score": 1,
       "published": "2026-07-11T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1115,34 +1171,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "622094f5530d",
-      "title": "Victoria Beckham Turned Up the Heat in Miami with a Dinner Party to Fete her Pop-up Boutique",
-      "link": "https://www.vogue.com/slideshow/victoria-beckham-bal-harbour-store-dinner-celebration",
-      "summary": "Miami has long been home-away-from home for the quintessentially English Beckhams—who trade their Cotswolds chickens for the Magic City sunshine any chance they can get. So when Victoria Beckham set her eyes on her inaugural Stateside retail presence, a pop-up at Bal Harbour Shops seemed like the perfect opportunity to",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Victoria Beckham Turned Up the Heat in Miami with a Dinner Party to Fe...",
-      "score": 0,
-      "published": "2026-07-10T14:32:50+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "faef3fad4886",
-      "title": "23 Vintage Photos of Elizabeth Taylor in the Summer",
-      "link": "https://www.vogue.com/slideshow/23-vintage-photos-of-elizabeth-taylor-in-the-summer",
-      "summary": "From iconic images on film sets to snapshots of her travels around the world, see the best of Elizabeth Taylor’s summer style.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 23 Vintage Photos of Elizabeth Taylor in the Summer...",
-      "score": 1,
-      "published": "2026-07-10T14:02:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7eabf9fb3262",
       "title": "Aware Hair: A 'Scalp-First' Hair-Care Brand Founded by a Mother-Daughter Duo",
       "link": "https://fashionista.com/2026/07/aware-hair-hair-care-brand",
@@ -1227,20 +1255,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7df4dd37112d",
-      "title": "Kelela on Boundaries, Collaboration, and Her Latest Album, ‘New Avatar‘",
-      "link": "https://www.vogue.com/article/kelela-new-avatar-interview",
-      "summary": "The artist on why now felt like the right time to embrace her indie-rock roots, collaborating with Fousheé and PinkPantheress, and how her evolving sound is shaping the way she thinks about fashion.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Kelela on Boundaries, Collaboration, and Her Latest Album, ‘New Avatar...",
-      "score": 1,
-      "published": "2026-07-10T12:59:28+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c379c7889b53",
       "title": "Dresses Get Fun This Season",
       "link": "https://www.harpersbazaar.com/fashion/trends/a71871150/summer-dress-trends-2026/",
@@ -1322,20 +1336,6 @@
       "angle": "Fashion Intelligence: Why Levi’s 511 Slim Fit Fits So Differently Than You Think...",
       "score": 1,
       "published": "2026-07-10T10:18:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2db10e523ab6",
-      "title": "Hold the Ballet Flats—This Basic Sandals Trend Looks Even Better With Jeans",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/jeans-flip-flops-outfit-trend-dua-lipa-2026",
-      "summary": "Dua gets it.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-10T10:02:18+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2881,52 +2881,52 @@
   ],
   "trends": [
     {
-      "term": "ireland vs west indies",
+      "term": "csas portal ug 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ग्रेटर नोएडा",
+      "term": "கோயம்பேடு",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "షేక్ హసీనా",
+      "term": "ജോഷി",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ओमान",
+      "term": "shekhar suman",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "jackpot result",
+      "term": "धर्मेंद्र प्रधान",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "फीफा",
+      "term": "ഹമദ് ബിന് ഖലീഫ അല്താനി",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sonam wangchuk",
+      "term": "പാലക്കാട്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "irew vs wi-w",
+      "term": "தினமலர்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "धमाल 4",
+      "term": "oman",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಮಲೆನಾಡು",
+      "term": "haryana",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
