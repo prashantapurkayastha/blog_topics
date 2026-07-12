@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-12T05:17:53.692369+00:00",
+  "generated_at": "2026-07-12T07:29:46.990407+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 176,
+  "industry_count": 177,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Ambush Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-07-12T05:16:42+00:00",
+      "published": "2026-07-12T07:29:26+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Isabel Marant Resort 2027...",
       "score": 0,
-      "published": "2026-07-12T05:16:42+00:00",
+      "published": "2026-07-12T07:29:26+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,77 @@
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: Chochengco Fall 2026 Couture...",
       "score": 1,
-      "published": "2026-07-12T05:16:42+00:00",
+      "published": "2026-07-12T07:29:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0f4c7b09f4b1",
+      "title": "Wedding Guest Dressing Without the Meltdown—How to Shop Mid and Plus-Size, According to an Expert",
+      "link": "https://www.whowhatwear.com/fashion/dresses/plus-size-wedding-guest-dresses",
+      "summary": "Elegance for every body.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Wedding Guest Dressing Without the Meltdown—How to Shop Mid and Plus-Size, According to an Expert — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-07-12T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "480242f5b9cb",
+      "title": "I Write a Weekly Fashion Newsletter—These Are the Summer Hats Chic Women Are Wearing",
+      "link": "https://www.whowhatwear.com/fashion/summer/best-summer-hats",
+      "summary": "Bucket, raffia, and statement hats stylish women are wearing now.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-12T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "98582bd9390c",
+      "title": "The Viral $90 Gap Pants Every Chic Dresser Is Wearing Instead of Jeans",
+      "link": "https://www.whowhatwear.com/fashion/shopping/gap-easy-pants",
+      "summary": "Perfect for summer.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-12T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c9d528c9d139",
+      "title": "5 Need-to-Know Tips On Buying Vintage Chanel, From the Fashion People Who Buy It",
+      "link": "https://www.whowhatwear.com/fashion/shopping/vintage-chanel-guide-2026",
+      "summary": "The intel you need.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 5 Need-to-Know Tips On Buying Vintage Chanel, From the Fashion People ...",
+      "score": 1,
+      "published": "2026-07-12T06:15:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fd79686ea489",
+      "title": "Don't Be Swayed by Trending Braids—7 *Actually* Protective Styles That Won't Damage Natural Hair",
+      "link": "https://www.whowhatwear.com/beauty/hair/summer-2026-protective-braid-styles",
+      "summary": "Not all styles are created equally.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-07-12T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -79,20 +149,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b761ad950307",
-      "title": "Spotted in London and New York: Here's How the Most Fashionable Women Dress for Summer in the City",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/summer-in-the-city-capsule-wardrobe-2026",
-      "summary": "Your global fashion dispatch.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-12T04:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e3e57a0d2e08",
       "title": "From Paris to London, Here's How Chic European Women Are Wearing a Blouse and Jeans This Summer",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/european-blouse-jean-outfits-summer-2026",
@@ -103,6 +159,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
+      "published": "2026-07-12T04:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b761ad950307",
+      "title": "Spotted in London and New York: Here's How the Most Fashionable Women Dress for Summer in the City",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/summer-in-the-city-capsule-wardrobe-2026",
+      "summary": "Your global fashion dispatch.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
       "published": "2026-07-12T04:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -471,6 +541,48 @@
       "discovered_via": "feed"
     },
     {
+      "id": "1731312903d2",
+      "title": "Baby Tees Can Be Chic, Too—7 Outfits That Prove My Point",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/baby-tee-summer-outfits",
+      "summary": "Shop each look here.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Baby Tees Can Be Chic, Too—7 Outfits That Prove My Point...",
+      "score": 1,
+      "published": "2026-07-11T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e10abc39b9da",
+      "title": "White is Boring—6 Chic Summer Colour Trends French Women Are Wearing Through the Heatwave Instead",
+      "link": "https://www.whowhatwear.com/fashion/trends/french-girl-summer-colour-trends-2026",
+      "summary": "So many good combos.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-11T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d6fb1164576c",
+      "title": "Ever Since It Girls Confirmed the '90s Are Back, I've Been Shopping This Chic Throwback Brand",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-eileen-fisher-fashion-finds-2026",
+      "summary": "Timeless minimalism.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Ever Since It Girls Confirmed the '90s Are Back, I've Been Shopping Th...",
+      "score": 1,
+      "published": "2026-07-11T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "460e482d2cee",
       "title": "Yep, *The* Outfit of Summer 2026 Is Here",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/tank-drawstring-pants-flip-flops-outfit-trend-summer-2026",
@@ -494,48 +606,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: If You Only Buy One Dress This Summer, Make It This Simple '90s Silhou...",
-      "score": 1,
-      "published": "2026-07-11T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d6fb1164576c",
-      "title": "Ever Since It Girls Confirmed the '90s Are Back, I've Been Shopping This Chic Throwback Brand",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-eileen-fisher-fashion-finds-2026",
-      "summary": "Timeless minimalism.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Ever Since It Girls Confirmed the '90s Are Back, I've Been Shopping Th...",
-      "score": 1,
-      "published": "2026-07-11T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e10abc39b9da",
-      "title": "White is Boring—6 Chic Summer Colour Trends French Women Are Wearing Through the Heatwave Instead",
-      "link": "https://www.whowhatwear.com/fashion/trends/french-girl-summer-colour-trends-2026",
-      "summary": "So many good combos.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-11T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1731312903d2",
-      "title": "Baby Tees Can Be Chic, Too—7 Outfits That Prove My Point",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/baby-tee-summer-outfits",
-      "summary": "Shop each look here.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Baby Tees Can Be Chic, Too—7 Outfits That Prove My Point...",
       "score": 1,
       "published": "2026-07-11T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1353,34 +1423,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "50a975b3e393",
-      "title": "Taffeta Pants, Satin Bags, Jeweled Sandals: 5 Highly Specific Items Cool It Girls Are Wearing RN",
-      "link": "https://www.whowhatwear.com/fashion/trendy-summer-fashion-2026",
-      "summary": "Shop the edit.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-07-10T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4055e57246d7",
-      "title": "It's Here: The 2026 It-Girl Way to Style Summer Denim",
-      "link": "https://www.whowhatwear.com/fashion/denim/calvin-klein-denim-outfits",
-      "summary": "Do you own a pair of jeans? You'll want to style them like this.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: It's Here: The 2026 It-Girl Way to Style Summer Denim...",
-      "score": 1,
-      "published": "2026-07-10T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e597edf6df2e",
       "title": "The \"Boring\" Summer Basic Every Fashion Person Owns",
       "link": "https://www.whowhatwear.com/fashion/pants-trousers/white-shorts-outfits-uk",
@@ -1390,34 +1432,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: The \"Boring\" Summer Basic Every Fashion Person Owns...",
-      "score": 2,
-      "published": "2026-07-10T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e8e4d4723b96",
-      "title": "Fashion People Are Retiring These Summer Basics—Here's What They're Wearing Into Early Fall Instead",
-      "link": "https://www.whowhatwear.com/fashion/trends/outdated-summer-basics-2026",
-      "summary": "See the list inside.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-10T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2a3ea5f76a0f",
-      "title": "Barbour! Dyson! Tom Ford! Here's What's Worth Seeing From Nordstrom's Anniversary Sale Preview",
-      "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-anniversary-sale-preview-2026",
-      "summary": "Shop the best beauty and fashion deals.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Barbour! Dyson! Tom Ford! Here's What's Worth Seeing From Nordstrom's ...",
       "score": 2,
       "published": "2026-07-10T07:00:00+00:00",
       "discovered_via": "feed"
@@ -2867,6 +2881,36 @@
   ],
   "trends": [
     {
+      "term": "செங்கோட்டை",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "கிரிக்கெட்",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "lindsey graham",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "lenovo fifa",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "विश्व कप",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "విశాఖపట్నం",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
       "term": "divya deshmukh",
       "summary": "",
       "aza_category": "Fashion & Style"
@@ -2882,37 +2926,7 @@
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "arg vs eng",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "fifa world cup final",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "pixel 11 pro",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "thiago almada",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "almada",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "ndoye",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "kobel",
+      "term": "finn allen",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
