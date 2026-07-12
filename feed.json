@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T07:29:46.990407+00:00",
+  "generated_at": "2026-07-12T09:52:03.480084+00:00",
   "owned_count": 10,
   "competitor_count": 18,
   "industry_count": 177,
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Ambush Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-07-12T07:29:26+00:00",
+      "published": "2026-07-12T09:50:38+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Isabel Marant Resort 2027...",
       "score": 0,
-      "published": "2026-07-12T07:29:26+00:00",
+      "published": "2026-07-12T09:50:38+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,35 @@
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: Chochengco Fall 2026 Couture...",
       "score": 1,
-      "published": "2026-07-12T07:29:26+00:00",
+      "published": "2026-07-12T09:50:38+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "08c4df347733",
+      "title": "Instead of Jeans, Fashion People in L.A. are Wearing Sandals With This Chic Leggings Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/flared-leggings-sandals-outfit-hailey-bieber-2026",
+      "summary": "I'll follow their lead.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-07-12T09:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cfd07986f4cd",
+      "title": "Rihanna Has a Crisis of Pants in Paris and New York",
+      "link": "https://www.vogue.com/article/rihanna-has-a-crisis-of-pants-in-paris-and-new-york",
+      "summary": "Wherever she is, you can trust that Rihanna won’t let a spike in Fahrenheit mess with her fashions.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Rihanna Has a Crisis of Pants in Paris and New York...",
+      "score": 1,
+      "published": "2026-07-12T09:36:16+00:00",
       "discovered_via": "feed"
     },
     {
@@ -121,20 +149,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f522a5f25823",
-      "title": "H&M Just Perfected the 5 Shoe Trends That Will Make Any Summer Outfit Look More Expensive",
-      "link": "https://www.whowhatwear.com/fashion/affordable/hm-summer-shoe-trends-2026",
-      "summary": "Take note of these.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-07-12T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6c96368dc80e",
       "title": "Spiral Jewellery! Graphic Tees! Neon Colours! 7 Fashion Trends Making a Comeback for Summer 2026",
       "link": "https://www.whowhatwear.com/fashion/summer/summer-fashion-trends-making-a-comeback-2026",
@@ -149,17 +163,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e3e57a0d2e08",
-      "title": "From Paris to London, Here's How Chic European Women Are Wearing a Blouse and Jeans This Summer",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/european-blouse-jean-outfits-summer-2026",
-      "summary": "An iconic pairing.",
+      "id": "f522a5f25823",
+      "title": "H&M Just Perfected the 5 Shoe Trends That Will Make Any Summer Outfit Look More Expensive",
+      "link": "https://www.whowhatwear.com/fashion/affordable/hm-summer-shoe-trends-2026",
+      "summary": "Take note of these.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-07-12T04:00:00+00:00",
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-07-12T05:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -173,6 +187,20 @@
       "aza_category": "Celebrity Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
+      "published": "2026-07-12T04:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e3e57a0d2e08",
+      "title": "From Paris to London, Here's How Chic European Women Are Wearing a Blouse and Jeans This Summer",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/european-blouse-jean-outfits-summer-2026",
+      "summary": "An iconic pairing.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
       "published": "2026-07-12T04:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -541,34 +569,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1731312903d2",
-      "title": "Baby Tees Can Be Chic, Too—7 Outfits That Prove My Point",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/baby-tee-summer-outfits",
-      "summary": "Shop each look here.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Baby Tees Can Be Chic, Too—7 Outfits That Prove My Point...",
-      "score": 1,
-      "published": "2026-07-11T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e10abc39b9da",
-      "title": "White is Boring—6 Chic Summer Colour Trends French Women Are Wearing Through the Heatwave Instead",
-      "link": "https://www.whowhatwear.com/fashion/trends/french-girl-summer-colour-trends-2026",
-      "summary": "So many good combos.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-11T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d6fb1164576c",
       "title": "Ever Since It Girls Confirmed the '90s Are Back, I've Been Shopping This Chic Throwback Brand",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-eileen-fisher-fashion-finds-2026",
@@ -606,6 +606,34 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: If You Only Buy One Dress This Summer, Make It This Simple '90s Silhou...",
+      "score": 1,
+      "published": "2026-07-11T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e10abc39b9da",
+      "title": "White is Boring—6 Chic Summer Colour Trends French Women Are Wearing Through the Heatwave Instead",
+      "link": "https://www.whowhatwear.com/fashion/trends/french-girl-summer-colour-trends-2026",
+      "summary": "So many good combos.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-11T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1731312903d2",
+      "title": "Baby Tees Can Be Chic, Too—7 Outfits That Prove My Point",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/baby-tee-summer-outfits",
+      "summary": "Shop each look here.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Baby Tees Can Be Chic, Too—7 Outfits That Prove My Point...",
       "score": 1,
       "published": "2026-07-11T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1255,20 +1283,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a24e686eff34",
-      "title": "Banana Republic’s New Arrivals Are Full of Elevated Summer Staples",
-      "link": "https://www.vogue.com/article/best-banana-republic-finds",
-      "summary": "Between its summer essentials, relaxed workwear, and wanderlust-inducing styles, the retailer’s latest drops feel primed for the season.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Banana Republic’s New Arrivals Are Full of Elevated Summer Staples...",
-      "score": 3,
-      "published": "2026-07-10T11:51:44+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "52e98b42dddd",
       "title": "Elegant Dressers in Their 20s and 50s Agree—This is the Chicest Shorts Trend You Can Wear Right Now",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/bermuda-shorts-trend-demi-moore-2026",
@@ -1420,20 +1434,6 @@
       "angle": "Bridal Edit: What To Wear To A Summer Wedding — A Complete Style Guide",
       "score": 4,
       "published": "2026-07-10T07:00:47+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e597edf6df2e",
-      "title": "The \"Boring\" Summer Basic Every Fashion Person Owns",
-      "link": "https://www.whowhatwear.com/fashion/pants-trousers/white-shorts-outfits-uk",
-      "summary": "The coolest ways to wear it in 2026.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The \"Boring\" Summer Basic Every Fashion Person Owns...",
-      "score": 2,
-      "published": "2026-07-10T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2881,52 +2881,52 @@
   ],
   "trends": [
     {
-      "term": "செங்கோட்டை",
+      "term": "ireland vs west indies",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "கிரிக்கெட்",
+      "term": "ग्रेटर नोएडा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "lindsey graham",
+      "term": "షేక్ హసీనా",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "lenovo fifa",
+      "term": "ओमान",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "विश्व कप",
+      "term": "jackpot result",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "విశాఖపట్నం",
+      "term": "फीफा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "divya deshmukh",
+      "term": "sonam wangchuk",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "shpageeza cricket league",
+      "term": "irew vs wi-w",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hassan khan",
+      "term": "धमाल 4",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "finn allen",
+      "term": "ಮಲೆನಾಡು",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
