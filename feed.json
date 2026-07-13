@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T05:27:11.680014+00:00",
+  "generated_at": "2026-07-13T08:18:18.676305+00:00",
   "owned_count": 10,
   "competitor_count": 18,
   "industry_count": 179,
@@ -19,7 +19,63 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Ambush Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-07-13T05:25:03+00:00",
+      "published": "2026-07-13T08:15:52+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "09e191d10980",
+      "title": "Dakota Johnson and Alexander Skårsgard on Their “Fiery” New Partnership",
+      "link": "https://www.vogue.com/article/dakota-johnson-and-alexander-skarsgard-interview-valentino",
+      "summary": "The actors had never collaborated—until Alessandro Michele brought the two together for Valentino Vendetta.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Dakota Johnson and Alexander Skårsgard on Their “Fiery” New Partnershi...",
+      "score": 0,
+      "published": "2026-07-13T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2cb2daa57477",
+      "title": "Preppy Is Back, But Not How You Know It—How Fashion’s Chicest Is Wearing It This Summer",
+      "link": "https://www.whowhatwear.com/fashion/luxury/urban-preppy-fashion-trend-2026",
+      "summary": "Enter the era of urban prep.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-13T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "40ea07f1cfaa",
+      "title": "From a £5 Hair Mask to a £200 Serum—6 Products I've Emptied Recently as a Beauty Director",
+      "link": "https://www.whowhatwear.com/beauty/skin/shannon-lawlor-beauty-empties-june-2026",
+      "summary": "I'm all about high-low beauty.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: From a £5 Hair Mask to a £200 Serum—6 Products I've Emptied Recently a...",
+      "score": 1,
+      "published": "2026-07-13T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a81fd9892ddf",
+      "title": "Save Them Down—These Are the Summer Lip Combos Beauty Editors Are Wearing on Repeat",
+      "link": "https://www.whowhatwear.com/beauty/makeup/summer-lip-liner-lipstick-combinations-2026",
+      "summary": "Perfect pairings.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-13T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -34,20 +90,6 @@
       "angle": "Fashion Intelligence: Local vs Global: How to Price an African Fashion Brand...",
       "score": 3,
       "published": "2026-07-13T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d3d9aa932504",
-      "title": "From momos to handicrafts: How govt schemes are turning Meerut into a startup hub",
-      "link": "https://www.indiatoday.in/india/story/from-momos-to-handicrafts-how-government-schemes-are-turning-meerut-into-a-startup-hub-utrith-2946445-2026-07-13?utm_source=rss",
-      "summary": "From momos to handicrafts: How govt schemes are turning Meerut into a startup hub",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
-      "score": 1,
-      "published": "2026-07-12T22:26:54+00:00",
       "discovered_via": "feed"
     },
     {
@@ -345,20 +387,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0f4c7b09f4b1",
-      "title": "Wedding Guest Dressing Without the Meltdown—How to Shop Mid and Plus-Size, According to an Expert",
-      "link": "https://www.whowhatwear.com/fashion/dresses/plus-size-wedding-guest-dresses",
-      "summary": "Elegance for every body.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Wedding Guest Dressing Without the Meltdown—How to Shop Mid and Plus-Size, According to an Expert — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-07-12T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "480242f5b9cb",
       "title": "I Write a Weekly Fashion Newsletter—These Are the Summer Hats Chic Women Are Wearing",
       "link": "https://www.whowhatwear.com/fashion/summer/best-summer-hats",
@@ -382,6 +410,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-12T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0f4c7b09f4b1",
+      "title": "Wedding Guest Dressing Without the Meltdown—How to Shop Mid and Plus-Size, According to an Expert",
+      "link": "https://www.whowhatwear.com/fashion/dresses/plus-size-wedding-guest-dresses",
+      "summary": "Elegance for every body.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Wedding Guest Dressing Without the Meltdown—How to Shop Mid and Plus-Size, According to an Expert — A Complete Style Guide",
       "score": 2,
       "published": "2026-07-12T07:00:00+00:00",
       "discovered_via": "feed"
@@ -415,16 +457,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6313816afe3e",
-      "title": "Ralph Lauren Kicks Off the Summer of Sport With Its Latest Wimbledon Collection",
-      "link": "https://www.whowhatwear.com/fashion/ralph-lauren-wimbledon-2026-collection",
-      "summary": "Inside the tennis capsule.",
+      "id": "f522a5f25823",
+      "title": "H&M Just Perfected the 5 Shoe Trends That Will Make Any Summer Outfit Look More Expensive",
+      "link": "https://www.whowhatwear.com/fashion/affordable/hm-summer-shoe-trends-2026",
+      "summary": "Take note of these.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
       "published": "2026-07-12T05:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -443,16 +485,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f522a5f25823",
-      "title": "H&M Just Perfected the 5 Shoe Trends That Will Make Any Summer Outfit Look More Expensive",
-      "link": "https://www.whowhatwear.com/fashion/affordable/hm-summer-shoe-trends-2026",
-      "summary": "Take note of these.",
+      "id": "6313816afe3e",
+      "title": "Ralph Lauren Kicks Off the Summer of Sport With Its Latest Wimbledon Collection",
+      "link": "https://www.whowhatwear.com/fashion/ralph-lauren-wimbledon-2026-collection",
+      "summary": "Inside the tennis capsule.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
       "published": "2026-07-12T05:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -793,16 +835,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "df087e82a5e3",
-      "title": "Fashion People Have Officially Crowned the ‘It’ Sandals of Summer—and They’re So The Row-Coded",
-      "link": "https://www.whowhatwear.com/fashion/shopping/ancient-greek-sandals-saionara-red-jelly-flip-flops",
-      "summary": "The fashion set has spoken.",
+      "id": "3d648cae6359",
+      "title": "French Women and Fashion People Agree—This Summer Jeans Trend Looks Best With Heels",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/wide-leg-jeans-heels-outfit-charlize-theron-2026",
+      "summary": "Très chic.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Fashion People Have Officially Crowned the ‘It’ Sandals of Summer—and ...",
-      "score": 1,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
       "published": "2026-07-11T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -821,59 +863,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3d648cae6359",
-      "title": "French Women and Fashion People Agree—This Summer Jeans Trend Looks Best With Heels",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/wide-leg-jeans-heels-outfit-charlize-theron-2026",
-      "summary": "Très chic.",
+      "id": "df087e82a5e3",
+      "title": "Fashion People Have Officially Crowned the ‘It’ Sandals of Summer—and They’re So The Row-Coded",
+      "link": "https://www.whowhatwear.com/fashion/shopping/ancient-greek-sandals-saionara-red-jelly-flip-flops",
+      "summary": "The fashion set has spoken.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Fashion People Have Officially Crowned the ‘It’ Sandals of Summer—and ...",
+      "score": 1,
       "published": "2026-07-11T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0406b80237ee",
-      "title": "If You Only Buy One Dress This Summer, Make It This Simple '90s Silhouette",
-      "link": "https://www.whowhatwear.com/fashion/shopping/black-silk-slip-dress",
-      "summary": "As seen on CBK and Kate Moss.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: If You Only Buy One Dress This Summer, Make It This Simple '90s Silhou...",
-      "score": 1,
-      "published": "2026-07-11T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "460e482d2cee",
-      "title": "Yep, *The* Outfit of Summer 2026 Is Here",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/tank-drawstring-pants-flip-flops-outfit-trend-summer-2026",
-      "summary": "It's just three easy pieces away.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Yep, *The* Outfit of Summer 2026 Is Here...",
-      "score": 1,
-      "published": "2026-07-11T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e10abc39b9da",
-      "title": "White is Boring—6 Chic Summer Colour Trends French Women Are Wearing Through the Heatwave Instead",
-      "link": "https://www.whowhatwear.com/fashion/trends/french-girl-summer-colour-trends-2026",
-      "summary": "So many good combos.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-11T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -901,6 +901,48 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Ever Since It Girls Confirmed the '90s Are Back, I've Been Shopping Th...",
       "score": 1,
+      "published": "2026-07-11T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "460e482d2cee",
+      "title": "Yep, *The* Outfit of Summer 2026 Is Here",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/tank-drawstring-pants-flip-flops-outfit-trend-summer-2026",
+      "summary": "It's just three easy pieces away.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Yep, *The* Outfit of Summer 2026 Is Here...",
+      "score": 1,
+      "published": "2026-07-11T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0406b80237ee",
+      "title": "If You Only Buy One Dress This Summer, Make It This Simple '90s Silhouette",
+      "link": "https://www.whowhatwear.com/fashion/shopping/black-silk-slip-dress",
+      "summary": "As seen on CBK and Kate Moss.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: If You Only Buy One Dress This Summer, Make It This Simple '90s Silhou...",
+      "score": 1,
+      "published": "2026-07-11T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e10abc39b9da",
+      "title": "White is Boring—6 Chic Summer Colour Trends French Women Are Wearing Through the Heatwave Instead",
+      "link": "https://www.whowhatwear.com/fashion/trends/french-girl-summer-colour-trends-2026",
+      "summary": "So many good combos.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
       "published": "2026-07-11T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1098,20 +1140,6 @@
       "angle": "Fashion Intelligence: Charli’s Angels, Assemble! Inside Charli XCX’s Fully Offline Listening...",
       "score": 1,
       "published": "2026-07-10T18:55:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8f6ae49dc293",
-      "title": "21 Nostalgic Photos of Grace Kelly, Princess of Monaco, in the Summer",
-      "link": "https://www.vogue.com/slideshow/nostalgic-photos-of-grace-kelly-summertime",
-      "summary": "The Hollywood star and real-life princess remains a beacon of elegance and beauty.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: 21 Nostalgic Photos of Grace Kelly, Princess of Monaco, in the Summer...",
-      "score": 1,
-      "published": "2026-07-10T18:15:26+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1325,20 +1353,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b45f159ff111",
-      "title": "Celine's Gorgeous New Campaign Solidifies the Fact That We All Need This Accessory",
-      "link": "https://www.whowhatwear.com/fashion/celine-scarf-campaign",
-      "summary": "Introducing: the Celine Infinite Possibilities Silk campaign.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Celine's Gorgeous New Campaign Solidifies the Fact That We All Need Th...",
-      "score": 2,
-      "published": "2026-07-10T13:33:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "938e5d0a3d07",
       "title": "17 Best Microbrand Watches in 2026",
       "link": "https://www.fashionbeans.com/article/best-microbrand-watches/",
@@ -1364,20 +1378,6 @@
       "angle": "Fashion Intelligence: 8 Best Sandals For Men: Fabulous Low-key Footwear in 2026...",
       "score": 3,
       "published": "2026-07-10T13:09:50+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0c7e742e7c4f",
-      "title": "Chanel Just Predicted 2027's Top Shoe Color Trend, and It's Not One You'd Expect",
-      "link": "https://www.whowhatwear.com/fashion/shopping/shoes/metallic-shoe-trend",
-      "summary": "Welcome back, old friend.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-10T13:07:08+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2909,52 +2909,52 @@
   ],
   "trends": [
     {
-      "term": "mdsu",
+      "term": "मोटोरोला",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "election commission of india",
+      "term": "south china sea",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "e",
+      "term": "al jazeera iran war",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "incometax",
+      "term": "gold silver prices",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sir form delhi",
+      "term": "ఓటరు",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "gold rate today chennai",
+      "term": "ચોમાસું",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "vrl logistics",
+      "term": "धुरंधर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "anandabazar patrika",
+      "term": "kpsc",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "xe",
+      "term": "பாடகர்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "justdial",
+      "term": "మహేశ్ బాబు",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
