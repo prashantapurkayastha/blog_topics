@@ -1,25 +1,53 @@
 {
-  "generated_at": "2026-07-13T08:18:18.676305+00:00",
+  "generated_at": "2026-07-13T13:23:53.499884+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 179,
+  "industry_count": 178,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
     {
-      "id": "436b042bd170",
-      "title": "Ambush Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/ambush",
-      "summary": "",
+      "id": "8cdcafe467d3",
+      "title": "Sarabande Foundation Opens Its New Home in Tottenham",
+      "link": "https://www.vogue.com/article/sarabande-foundation-opens-its-new-home-in-tottenham",
+      "summary": "Founded by the late Lee Alexander McQueen, the Sarabande Foundation opened its new London home with La Bendición, a commissioned performance by PhotoVogue artist Victoria Ruiz.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Ambush Spring 2027 Ready-to-Wear...",
+      "angle": "Fashion Intelligence: Sarabande Foundation Opens Its New Home in Tottenham...",
+      "score": 0,
+      "published": "2026-07-13T13:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d0f241a35277",
+      "title": "The Fall 2026 Fashion Trends to Know and Shop Now",
+      "link": "https://www.vogue.com/article/fall-winter-2026-fashion-trends",
+      "summary": "The top 3 trends of the fall 2026 season—which range from modern suiting codes to 1920s Art Deco eveningwear are designed for work and play. Shop the now.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
+      "published": "2026-07-13T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "24d83327dc9d",
+      "title": "Unpacking the Eternal Appeal of the Jane Austen Adaptation",
+      "link": "https://www.vogue.com/article/the-eternal-appeal-of-the-jane-austen-adaptation",
+      "summary": "From the new ‘Sense and Sensibility’ to Netflix’s upcoming ‘Pride and Prejudice’, our appetite for Jane Austen adaptations shows no signs of waning. Here’s why.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Unpacking the Eternal Appeal of the Jane Austen Adaptation...",
       "score": 1,
-      "published": "2026-07-13T08:15:52+00:00",
+      "published": "2026-07-13T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -38,7 +66,7 @@
     },
     {
       "id": "2cb2daa57477",
-      "title": "Preppy Is Back, But Not How You Know It—How Fashion’s Chicest Is Wearing It This Summer",
+      "title": "Preppy Is Back, But Not How You Know It—How Fashion’s Chicest Are Wearing It This Summer",
       "link": "https://www.whowhatwear.com/fashion/luxury/urban-preppy-fashion-trend-2026",
       "summary": "Enter the era of urban prep.",
       "source": "Who What Wear",
@@ -52,14 +80,14 @@
     },
     {
       "id": "40ea07f1cfaa",
-      "title": "From a £5 Hair Mask to a £200 Serum—6 Products I've Emptied Recently as a Beauty Director",
+      "title": "From a £5 Hair Mask to a £200 Serum: 6 Products I've Emptied Recently as a Beauty Director",
       "link": "https://www.whowhatwear.com/beauty/skin/shannon-lawlor-beauty-empties-june-2026",
       "summary": "I'm all about high-low beauty.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: From a £5 Hair Mask to a £200 Serum—6 Products I've Emptied Recently a...",
+      "angle": "Fashion Intelligence: From a £5 Hair Mask to a £200 Serum: 6 Products I've Emptied Recently ...",
       "score": 1,
       "published": "2026-07-13T06:00:00+00:00",
       "discovered_via": "feed"
@@ -387,20 +415,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "480242f5b9cb",
-      "title": "I Write a Weekly Fashion Newsletter—These Are the Summer Hats Chic Women Are Wearing",
-      "link": "https://www.whowhatwear.com/fashion/summer/best-summer-hats",
-      "summary": "Bucket, raffia, and statement hats stylish women are wearing now.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-12T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "98582bd9390c",
       "title": "The Viral $90 Gap Pants Every Chic Dresser Is Wearing Instead of Jeans",
       "link": "https://www.whowhatwear.com/fashion/shopping/gap-easy-pants",
@@ -424,6 +438,20 @@
       "is_competitor": false,
       "aza_category": "Bridal & Wedding",
       "angle": "Bridal Edit: Wedding Guest Dressing Without the Meltdown—How to Shop Mid and Plus-Size, According to an Expert — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-07-12T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "480242f5b9cb",
+      "title": "I Write a Weekly Fashion Newsletter—These Are the Summer Hats Chic Women Are Wearing",
+      "link": "https://www.whowhatwear.com/fashion/summer/best-summer-hats",
+      "summary": "Bucket, raffia, and statement hats stylish women are wearing now.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-07-12T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1115,34 +1143,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8e449e11aaee",
-      "title": "I Want What They Have, World Cup Friendship Edition: Jude Bellingham and Erling Haaland",
-      "link": "https://www.vogue.com/article/i-want-what-they-have-world-cup-jude-bellingham-and-erling-haaland",
-      "summary": "The fanfic files are overflowing with Bellingham/Haaland content, presumably because of the platonic chemistry the two athletes have both onscreen and on the field.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I Want What They Have, World Cup Friendship Edition: Jude Bellingham a...",
-      "score": 0,
-      "published": "2026-07-10T18:56:46+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b605261ce7a6",
-      "title": "Charli’s Angels, Assemble! Inside Charli XCX’s Fully Offline Listening Party in New York City",
-      "link": "https://www.vogue.com/slideshow/charli-xcx-music-fashion-film-new-york-listening-party",
-      "summary": "“I’m really nervous,” Charli XCX laughed shyly, addressing a room of 150 die-hard fans (otherwise known as her Angels) at Metrograph in Manhattan on Thursday evening. Every seat of the indie cinema’s theater 1 was occupied—and all eyes were transfixed on the star.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Charli’s Angels, Assemble! Inside Charli XCX’s Fully Offline Listening...",
-      "score": 1,
-      "published": "2026-07-10T18:55:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c8427894c8bd",
       "title": "The 25 Best Anti-Frizz Products, According to Celebrity Hairstylists",
       "link": "https://www.harpersbazaar.com/beauty/hair/g71897294/best-anti-frizz-hair-products-guide/",
@@ -1252,20 +1252,6 @@
       "angle": "Fashion Intelligence: How To Find Comfortable Dress Shoes For Men...",
       "score": 1,
       "published": "2026-07-10T16:06:28+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "50ac67382d1b",
-      "title": "These Levi's® Shorts Are Perfect for Summer Through Fall",
-      "link": "https://www.whowhatwear.com/fashion/summer-to-fall-transition-shopping-levis",
-      "summary": "Editors swear by them.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: These Levi's® Shorts Are Perfect for Summer Through Fall...",
-      "score": 1,
-      "published": "2026-07-10T16:01:20+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2909,52 +2895,52 @@
   ],
   "trends": [
     {
-      "term": "मोटोरोला",
+      "term": "వార్త",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "south china sea",
+      "term": "ಜಲಾಶಯ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "al jazeera iran war",
+      "term": "വൈദ്യുതി",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "gold silver prices",
+      "term": "राँची",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ఓటరు",
+      "term": "suryakumar yadav",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ચોમાસું",
+      "term": "বিশ্বকাপ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "धुरंधर",
+      "term": "el nino india monsoon impact",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kpsc",
+      "term": "इंग्लैंड महिला राष्ट्रीय क्रिकेट टीम",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "பாடகர்",
+      "term": "claude ai india",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "మహేశ్ బాబు",
+      "term": "csk coach stephen fleming",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
