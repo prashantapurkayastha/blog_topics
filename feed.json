@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-12T12:00:27.850006+00:00",
+  "generated_at": "2026-07-13T05:27:11.680014+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 177,
+  "industry_count": 179,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,21 +19,231 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Ambush Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-07-12T11:55:29+00:00",
+      "published": "2026-07-13T05:25:03+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "9ad3c83115d6",
-      "title": "Isabel Marant Resort 2027",
-      "link": "https://www.vogue.com/fashion-shows/resort-2027/isabel-marant",
-      "summary": "",
+      "id": "112796c3fae8",
+      "title": "Local vs Global: How to Price an African Fashion Brand",
+      "link": "https://www.vogue.com/article/local-vs-global-how-to-price-an-african-fashion-brand",
+      "summary": "From streetwear to ready-to-wear, African fashion brands are rethinking their pricing strategy in order to win over consumers in the local and international market. Here’s how they’re attempting to get it right.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Isabel Marant Resort 2027...",
+      "angle": "Fashion Intelligence: Local vs Global: How to Price an African Fashion Brand...",
+      "score": 3,
+      "published": "2026-07-13T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d3d9aa932504",
+      "title": "From momos to handicrafts: How govt schemes are turning Meerut into a startup hub",
+      "link": "https://www.indiatoday.in/india/story/from-momos-to-handicrafts-how-government-schemes-are-turning-meerut-into-a-startup-hub-utrith-2946445-2026-07-13?utm_source=rss",
+      "summary": "From momos to handicrafts: How govt schemes are turning Meerut into a startup hub",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
+      "score": 1,
+      "published": "2026-07-12T22:26:54+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d2dc04e99c0e",
+      "title": "Kate Middleton, the Princess of Wales’s Best Fashion Moments at Wimbledon",
+      "link": "https://www.vogue.com/slideshow/kate-middleton-wimbledon-outfits",
+      "summary": "From grass court greens to polka-dots and tennis whites: Vogue looks back at all of Kate Middleton, the Princess of Wales’s best fashion moments at Wimbledon.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Kate Middleton, the Princess of Wales’s Best Fashion Moments at Wimble...",
+      "score": 1,
+      "published": "2026-07-12T22:02:57+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "189b1f5b0098",
+      "title": "Beyoncé Brings the Business Capri Suit to the Stage With Jay-Z",
+      "link": "https://www.vogue.com/article/beyonce-business-capri-suit-jay-z-reasonable-doubt-show",
+      "summary": "It was a family affair at the first of three anniversary shows for Jay-Z, bringing out both Beyoncé and Blue Ivy Carter.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Beyoncé Brings the Business Capri Suit to the Stage With Jay-Z...",
+      "score": 1,
+      "published": "2026-07-12T21:31:35+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "333a3a55c4bb",
+      "title": "All the Best Celebrity Fashion at Wimbledon 2026",
+      "link": "https://www.vogue.com/slideshow/best-celebrity-fashions-wimbledon-2026",
+      "summary": "The tennis tournament is nearing its end, but Wimbledon 2026 has been a veritable feast of celebrity style. Here, see the best and boldest looks.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-07-12T21:27:31+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "db5a1f26e787",
+      "title": "Daisy Edgar-Jones Brings Her Best Chanel to Wimbledon",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a71910409/daisy-edgar-jones-attends-wimbledon-chanel-resort-2027-look-photos/",
+      "summary": "She attended the finals in a Resort 2027 look",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Daisy Edgar-Jones Brings Her Best Chanel to Wimbledon...",
       "score": 0,
-      "published": "2026-07-12T11:55:29+00:00",
+      "published": "2026-07-12T21:17:32+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "342ca084bcc2",
+      "title": "Back-to-Back! Jannik Sinner Keeps Hold of His Wimbledon Crown",
+      "link": "https://www.vogue.com/article/jannik-sinner-wins-second-wimbledon-mens-singles-final-2026",
+      "summary": "Italian tennis star Jannik Sinner retained his Wimbledon men’s singles title with his victory over French Open champion Alexander Zverev.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Back-to-Back! Jannik Sinner Keeps Hold of His Wimbledon Crown...",
+      "score": 0,
+      "published": "2026-07-12T19:46:52+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4ee0915668b8",
+      "title": "The Stands at Wimbledon 2026 Are Packed With Stars",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a71781741/all-the-celebrities-at-wimbledon-tennis-championships-2026-photos/",
+      "summary": "Everyone—from Bad Bunny to Princess Kate and Joe Jonas—is watching tennis in London this summer",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The Stands at Wimbledon 2026 Are Packed With Stars...",
+      "score": 0,
+      "published": "2026-07-12T19:32:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "675f6fbfa276",
+      "title": "Princess Kate Returns to Wimbledon With (Almost) the Whole Family",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a71909918/prince-william-kate-middleton-bring-prince-george-princess-charlotte-to-wimbledon-2026-photos/",
+      "summary": "The royal was joined by Prince William, Prince George, and Princess Charlotte",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Princess Kate Returns to Wimbledon With (Almost) the Whole Family...",
+      "score": 0,
+      "published": "2026-07-12T18:01:40+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "babb98a9ca94",
+      "title": "Jennifer Lopez’s Corded Zimmermann Blouse Has the Most Romantic Blouson Sleeves",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a71909567/jennifer-lopez-sheer-leggy-paris-look-zimmermann-rebellion-blouse-photos/",
+      "summary": "She stepped out in Paris in a sheer leggy look",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Jennifer Lopez’s Corded Zimmermann Blouse Has the Most Romantic Blouso...",
+      "score": 0,
+      "published": "2026-07-12T16:57:48+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "89737c4943e9",
+      "title": "Kate Middleton Sees Out Wimbledon 2026 in Grassy Green",
+      "link": "https://www.vogue.com/article/kate-middleton-wimbledon-2026-grassy-green-dress",
+      "summary": "Accompanied by her children and husband Prince William to the men’s singles final, Princess Catherine opted to wrap up her Wimbledon return in a game day-appropriate shade.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Kate Middleton Sees Out Wimbledon 2026 in Grassy Green...",
+      "score": 0,
+      "published": "2026-07-12T15:31:34+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5bab0ff3f14b",
+      "title": "Sabrina Carpenter Pairs Her Little Pink Slip With the Perfect Parisian Heels",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a71909335/sabrina-carpenter-paris-dinner-look-pink-slip-bucket-hat-john-galliano-dior-heels-photos/",
+      "summary": "John Galliano’s Dior sandals sent a sweet nod to the city of love",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Sabrina Carpenter Pairs Her Little Pink Slip With the Perfect Parisian...",
+      "score": 0,
+      "published": "2026-07-12T15:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a51903b8d307",
+      "title": "20 Years On, Victoria Beckham Refines Her WAG Style",
+      "link": "https://www.vogue.com/article/victoria-beckham-refines-her-wag-style-world-cup-2026",
+      "summary": "In 2006, WAG supreme Victoria Beckham ruled the World Cup stands in micro shorts, tiny tank tops, and an XXL Birkin. Last night, with family in tow, she embraced the modern V.B. look.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 20 Years On, Victoria Beckham Refines Her WAG Style...",
+      "score": 1,
+      "published": "2026-07-12T14:45:10+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "151fea095279",
+      "title": "Beyoncé Makes a Surprise Appearance at Jay-Z’s Yankee Stadium Show in Custom Giuseppe di Morabito",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a71909141/beyonce-surprise-appearance-jay-z-show-custom-giuseppe-di-morabito-photos/",
+      "summary": "With Blue Ivy also taking the stage, it was a full family affair",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Beyoncé Makes a Surprise Appearance at Jay-Z’s Yankee Stadium Show in ...",
+      "score": 1,
+      "published": "2026-07-12T14:04:57+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1cef715b7f63",
+      "title": "Don't Like Flip-Flops? Women in Their 30s and 40s Wear This Elegant Flat Sandal Instead",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/toe-loop-sandals-trend-jennifer-lawrence-2026",
+      "summary": "From Jennifer Lawrence to Meghan Markle.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Don't Like Flip-Flops? Women in Their 30s and 40s Wear This Elegant Fl...",
+      "score": 1,
+      "published": "2026-07-12T14:01:13+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e6c69601e454",
+      "title": "From the Archives: In the Early Aughts, Lynn Yaeger Took on the Luxury Bikini",
+      "link": "https://www.vogue.com/article/from-the-archives-swim-at-your-own-risk",
+      "summary": "As heat waves and celebrity beach vacations put swimwear back in the spotlight, revisit Lynn Yaeger’s delightfully witty 2002 dispatch on the rise of the designer bikini.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: From the Archives: In the Early Aughts, Lynn Yaeger Took on the Luxury...",
+      "score": 4,
+      "published": "2026-07-12T12:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -205,16 +415,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f522a5f25823",
-      "title": "H&M Just Perfected the 5 Shoe Trends That Will Make Any Summer Outfit Look More Expensive",
-      "link": "https://www.whowhatwear.com/fashion/affordable/hm-summer-shoe-trends-2026",
-      "summary": "Take note of these.",
+      "id": "6313816afe3e",
+      "title": "Ralph Lauren Kicks Off the Summer of Sport With Its Latest Wimbledon Collection",
+      "link": "https://www.whowhatwear.com/fashion/ralph-lauren-wimbledon-2026-collection",
+      "summary": "Inside the tennis capsule.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
       "published": "2026-07-12T05:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -229,6 +439,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
+      "published": "2026-07-12T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f522a5f25823",
+      "title": "H&M Just Perfected the 5 Shoe Trends That Will Make Any Summer Outfit Look More Expensive",
+      "link": "https://www.whowhatwear.com/fashion/affordable/hm-summer-shoe-trends-2026",
+      "summary": "Take note of these.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
       "published": "2026-07-12T05:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -300,20 +524,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
       "published": "2026-07-11T21:08:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "333a3a55c4bb",
-      "title": "All the Best Celebrity Fashion at Wimbledon 2026",
-      "link": "https://www.vogue.com/slideshow/best-celebrity-fashions-wimbledon-2026",
-      "summary": "The tennis tournament is nearing its end, but Wimbledon 2026 has been a veritable feast of celebrity style. Here, see the best and boldest looks.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-07-11T20:44:57+00:00",
       "discovered_via": "feed"
     },
     {
@@ -401,20 +611,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d2dc04e99c0e",
-      "title": "Kate Middleton, the Princess of Wales, Is a Lady in Red at Wimbledon on Finals Weekend",
-      "link": "https://www.vogue.com/slideshow/kate-middleton-wimbledon-outfits",
-      "summary": "See all of Kate Middleton, the Princess of Wales’s best fashion moments at Wimbledon.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Kate Middleton, the Princess of Wales, Is a Lady in Red at Wimbledon o...",
-      "score": 1,
-      "published": "2026-07-11T16:19:40+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "611261b80b51",
       "title": "All the Photos of Prince William and Princess Kate at the Royal Charity Polo Cup",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71905846/prince-william-kate-middleton-royal-charity-polo-cup-sweetest-photos/",
@@ -454,6 +650,20 @@
       "angle": "Bridal Edit: Taylor Swift’s First Newlywed Look Is a Dreamy, Romantic Floral Brocade Wedding-Guest Dress — A Complete Style Guide",
       "score": 2,
       "published": "2026-07-11T14:13:39+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e489b05741b7",
+      "title": "Vogue Beauty’s Fall 2026 Haute Couture Trend Report",
+      "link": "https://www.vogue.com/article/fall-2026-haute-couture-beauty-trend-report",
+      "summary": "Fairytale beauty, glittering eyes, and childlike bows swept Paris’s Fall 2026 Haute Couture presentations.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-07-11T14:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -625,20 +835,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d6fb1164576c",
-      "title": "Ever Since It Girls Confirmed the '90s Are Back, I've Been Shopping This Chic Throwback Brand",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-eileen-fisher-fashion-finds-2026",
-      "summary": "Timeless minimalism.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Ever Since It Girls Confirmed the '90s Are Back, I've Been Shopping Th...",
-      "score": 1,
-      "published": "2026-07-11T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0406b80237ee",
       "title": "If You Only Buy One Dress This Summer, Make It This Simple '90s Silhouette",
       "link": "https://www.whowhatwear.com/fashion/shopping/black-silk-slip-dress",
@@ -690,6 +886,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Baby Tees Can Be Chic, Too—7 Outfits That Prove My Point...",
+      "score": 1,
+      "published": "2026-07-11T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d6fb1164576c",
+      "title": "Ever Since It Girls Confirmed the '90s Are Back, I've Been Shopping This Chic Throwback Brand",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-eileen-fisher-fashion-finds-2026",
+      "summary": "Timeless minimalism.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Ever Since It Girls Confirmed the '90s Are Back, I've Been Shopping Th...",
       "score": 1,
       "published": "2026-07-11T07:00:00+00:00",
       "discovered_via": "feed"
@@ -905,20 +1115,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "72b5aab0193d",
-      "title": "The New Moon in Cancer Promises a Major Shift—Here’s What It Means for Every Star Sign",
-      "link": "https://www.vogue.com/article/new-moon-in-cancer-july-2026-horoscopes-astrology",
-      "summary": "This new moon gives off an intense energy that catalyzes growth—here’s how it might affect you, according to astrology.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The New Moon in Cancer Promises a Major Shift—Here’s What It Means for...",
-      "score": 0,
-      "published": "2026-07-10T18:13:03+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c8427894c8bd",
       "title": "The 25 Best Anti-Frizz Products, According to Celebrity Hairstylists",
       "link": "https://www.harpersbazaar.com/beauty/hair/g71897294/best-anti-frizz-hair-products-guide/",
@@ -944,34 +1140,6 @@
       "angle": "Fashion Intelligence: Anya Taylor-Joy Offers Up the Most Elegant Form of Lingerie Dressing i...",
       "score": 2,
       "published": "2026-07-10T18:08:04+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "240cc12ff936",
-      "title": "Kate Middleton’s Favorite New Accessory? A Bracelet Handmade by Princess Charlotte",
-      "link": "https://www.vogue.com/article/kate-middletons-favorite-accessory-handmade-bracelet-princess-charlotte",
-      "summary": "On Friday, the Princess of Wales stepped out to support Prince William at his charity polo match wearing a sentimental accessory.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Kate Middleton’s Favorite New Accessory? A Bracelet Handmade by Prince...",
-      "score": 2,
-      "published": "2026-07-10T18:03:40+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "06ebe8da61d9",
-      "title": "Czech Mates and a Jannik Sinner Showdown: Who Will Win This Weekend’s Wimbledon Finals?",
-      "link": "https://www.vogue.com/article/2026-wimbledon-finals-preview",
-      "summary": "While the women’s final features two Czech players, Alexander Zverev will try to beat Jannik Sinner for his second straight Grand Slam.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Czech Mates and a Jannik Sinner Showdown: Who Will Win This Weekend’s ...",
-      "score": 1,
-      "published": "2026-07-10T17:47:52+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1028,34 +1196,6 @@
       "angle": "Fashion Intelligence: Who Is Couture for Today?...",
       "score": 3,
       "published": "2026-07-10T16:57:49+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "496f675c6887",
-      "title": "I Reach for These Bronzing Drops to Fake a Sun-Kissed Glow",
-      "link": "https://www.vogue.com/article/bronzing-drops",
-      "summary": "The best bronzing drops deliver a warm, luminous sheen that mimics how sun naturally hits your face. By Summer Fridays, Westman Atelier, and more, shop our favorite formulas.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Reach for These Bronzing Drops to Fake a Sun-Kissed Glow...",
-      "score": 0,
-      "published": "2026-07-10T16:23:46+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5d57edcbd486",
-      "title": "Paris Jackson on the Saffron Scent That Reminds Her of Her Father",
-      "link": "https://www.vogue.com/article/beauty-secrets-paris-jackson",
-      "summary": "The singer invites 'Vogue' into her bathroom for Beauty Secrets.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Paris Jackson on the Saffron Scent That Reminds Her of Her Father...",
-      "score": 1,
-      "published": "2026-07-10T16:20:51+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1126,20 +1266,6 @@
       "angle": "Fashion Intelligence: Princess Kate Is the Picture of Summer in a Black-and-White Gingham Dr...",
       "score": 1,
       "published": "2026-07-10T15:26:26+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c84275f81013",
-      "title": "Shop Our Favorite Celebrity Looks of the Week | Vogue",
-      "link": "https://www.vogue.com/article/best-celebrity-outfits",
-      "summary": "Shop the best celebrity street style looks of the week, perfect for the season ahead—just a few simple clicks away.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-07-10T14:41:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1294,20 +1420,6 @@
       "angle": "Fashion Intelligence: Zoey Deutch on Being Cut from Spider-Man, Her First (and Only) Prius, ...",
       "score": 1,
       "published": "2026-07-10T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "52e98b42dddd",
-      "title": "Elegant Dressers in Their 20s and 50s Agree—This is the Chicest Shorts Trend You Can Wear Right Now",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/bermuda-shorts-trend-demi-moore-2026",
-      "summary": "Summer styling just got easy.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-07-10T11:32:10+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1675,62 +1787,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5f5fcba64a45",
-      "title": "Lindsay Lohan Celebrates Her 40th Birthday in the Perfect Little Floral Fringe Dress",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a71884328/lindsay-lohan-40th-birthday-party-silver-fringe-floral-dress-oscar-de-la-renta/",
-      "summary": "New decade of life, same unrivaled fashion sense",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Lindsay Lohan Celebrates Her 40th Birthday in the Perfect Little Flora...",
-      "score": 2,
-      "published": "2026-07-09T16:40:31+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "770a799fe242",
-      "title": "Demi Moore’s “Ballerina Off-Duty Bun” Is Summer’s Easiest Hairstyle",
-      "link": "https://www.harpersbazaar.com/beauty/hair/a71883328/demi-moore-ballerina-off-duty-bun-hairstyle/",
-      "summary": "The star debuted an effortless updo at Balenciaga’s Fall/Winter 2026 Couture show",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Demi Moore’s “Ballerina Off-Duty Bun” Is Summer’s Easiest Hairstyle...",
-      "score": 3,
-      "published": "2026-07-09T16:33:37+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f49f04dee753",
-      "title": "The New Couture Mandate? Fantastical Footwear",
-      "link": "https://www.harpersbazaar.com/fashion/a71883383/couture-fall-2026-wacky-footwear-chanel-dior/",
-      "summary": "The most wonderfully weird shoes from this week’s couture collections",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: The New Couture Mandate? Fantastical Footwear...",
-      "score": 3,
-      "published": "2026-07-09T16:19:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "64259eaf0c11",
-      "title": "Lauren Sánchez Bezos Attends the Annual “Billionaires’ Summer Camp” in a Pink Tie Top and Low-Rise Skirt",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a71882782/lauren-sanchez-bezos-billionaires-summer-camp-idaho-outfit-photos-tie-top-low-rise-skirt/",
-      "summary": "Alongside Ivanka Trump, Wendi Murdoch, and Gayle King",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Lauren Sánchez Bezos Attends the Annual “Billionaires’ Summer Camp” in...",
-      "score": 0,
-      "published": "2026-07-09T16:11:43+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b941815f36ac",
       "title": "Must Read: Marine Serre Enters Receivership, Seeks Investor, J.Crew Names New President",
       "link": "https://fashionista.com/2026/07/marine-serre-enters-receivership-seeks-investor",
@@ -1742,34 +1798,6 @@
       "angle": "Fashion Intelligence: Must Read: Marine Serre Enters Receivership, Seeks Investor, J.Crew Na...",
       "score": 1,
       "published": "2026-07-09T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f69233d44cdd",
-      "title": "The Hair Tool Guide for Women Over 50",
-      "link": "https://www.harpersbazaar.com/beauty/hair/a71867814/best-hair-tools-women-over-50/",
-      "summary": "Experts reveal the 12 essential tools you need to prioritize hair health",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Hair Tool Guide for Women Over 50...",
-      "score": 0,
-      "published": "2026-07-09T15:35:19+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "57002abd9a01",
-      "title": "Zoë Kravitz Is Fully Committed to the Rolled-Up Soccer Shorts Look",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a71882830/zoe-kravitz-rolled-up-soccer-shorts-street-style-outfit-harry-styles/",
-      "summary": "It is a sporty summer, after all",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Zoë Kravitz Is Fully Committed to the Rolled-Up Soccer Shorts Look...",
-      "score": 0,
-      "published": "2026-07-09T14:51:58+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2881,52 +2909,52 @@
   ],
   "trends": [
     {
-      "term": "csas portal ug 2026",
+      "term": "mdsu",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "கோயம்பேடு",
+      "term": "election commission of india",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ജോഷി",
+      "term": "e",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "shekhar suman",
+      "term": "incometax",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "धर्मेंद्र प्रधान",
+      "term": "sir form delhi",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ഹമദ് ബിന് ഖലീഫ അല്താനി",
+      "term": "gold rate today chennai",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "പാലക്കാട്",
+      "term": "vrl logistics",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "தினமலர்",
+      "term": "anandabazar patrika",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "oman",
+      "term": "xe",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "haryana",
+      "term": "justdial",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
