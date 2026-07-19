@@ -1,13 +1,41 @@
 {
-  "generated_at": "2026-07-19T07:27:34.823639+00:00",
+  "generated_at": "2026-07-19T09:52:10.320681+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 180,
+  "industry_count": 179,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "ddf1358c5121",
+      "title": "5 Elevated Summer Accessories Everyone Who Wants to Look Stylish Should Own",
+      "link": "https://www.whowhatwear.com/fashion/summer/elevated-accessory-trends-summer-2026",
+      "summary": "All the bases are covered with these five trends.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 5 Elevated Summer Accessories Everyone Who Wants to Look Stylish Shoul...",
+      "score": 1,
+      "published": "2026-07-19T07:43:49+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e4549806ae69",
+      "title": "Charli XCX and George Daniel Prove Wedding Guest Dressing Doesn’t Have To Compromise Personal Style",
+      "link": "https://www.vogue.com/article/charli-xcx-george-daniel-matty-healy-gabbriette-wedding",
+      "summary": "Married earlier this year, Charli XCX and George Daniel attended the wedding of Matty Healy and Gabbriette in coordinating all-black looks.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Charli XCX and George Daniel Prove Wedding Guest Dressing Doesn’t Have To Compromise Personal Style — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-07-19T07:25:21+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "0c946157c519",
       "title": "Move Over, Bermudas! Here Are 5 Ways to Wear The Shorts Trend Fashion People Are in Love With This Summer",
@@ -146,20 +174,6 @@
       "angle": "Fashion Intelligence: Daisy Edgar-Jones Gears up for Sense and Sensibility With a Brown-and-...",
       "score": 2,
       "published": "2026-07-18T21:15:34+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6824a7f52ae4",
-      "title": "Delhi Mango Festival showcases BrahMos variety inspired by Operation Sindoor",
-      "link": "https://www.indiatoday.in/india/story/brahmos-mango-unveiled-at-delhi-festival-attended-by-cds-anil-chauhan-2951062-2026-07-19?utm_source=rss",
-      "summary": "Delhi Mango Festival showcases BrahMos variety inspired by Operation Sindoor",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Delhi Mango Festival showcases BrahMos variety inspired by Operation S...",
-      "score": 1,
-      "published": "2026-07-18T20:05:04+00:00",
       "discovered_via": "feed"
     },
     {
@@ -513,16 +527,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "84c22869d24a",
-      "title": "I Just Got Back From Greece—These Are the Fashion Trends I Wore Everywhere",
-      "link": "https://www.whowhatwear.com/fashion/vacation/greece-fashion-insider-shopping-2026",
-      "summary": "If you don't know what to pack for your next vacation, read this.",
+      "id": "6b580aa91e8f",
+      "title": "Paris in July Is Sweltering—Here's What Chic French Girls Wear to Look Cool in 100-Degree Heat",
+      "link": "https://www.whowhatwear.com/fashion/french-girl-heatwave-outfit-ideas",
+      "summary": "Effortlessly cool, no pun intended.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Paris in July Is Sweltering—Here's What Chic French Girls Wear to Look...",
+      "score": 1,
       "published": "2026-07-18T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -541,16 +555,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e7f330fb8b56",
-      "title": "Parisian It Girls Agree: These Are the Micro-Trends That Matter This Summer",
-      "link": "https://www.whowhatwear.com/fashion/trends/french-girl-microtrends-summer-2026",
-      "summary": "Apologies to your wallet.",
+      "id": "bfdfc38b54a0",
+      "title": "Rich Looking and Lavish—6 Nordstrom Outfit Ideas I Styled for Under $400",
+      "link": "https://www.whowhatwear.com/fashion/shopping/rich-looking-outfit-ideas-nordstrom-anniversary-sale-2026",
+      "summary": "Yes to it all.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Rich Looking and Lavish—6 Nordstrom Outfit Ideas I Styled for Under $4...",
+      "score": 2,
       "published": "2026-07-18T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -569,30 +583,30 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bfdfc38b54a0",
-      "title": "Rich Looking and Lavish—6 Nordstrom Outfit Ideas I Styled for Under $400",
-      "link": "https://www.whowhatwear.com/fashion/shopping/rich-looking-outfit-ideas-nordstrom-anniversary-sale-2026",
-      "summary": "Yes to it all.",
+      "id": "e7f330fb8b56",
+      "title": "Parisian It Girls Agree: These Are the Micro-Trends That Matter This Summer",
+      "link": "https://www.whowhatwear.com/fashion/trends/french-girl-microtrends-summer-2026",
+      "summary": "Apologies to your wallet.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Rich Looking and Lavish—6 Nordstrom Outfit Ideas I Styled for Under $4...",
-      "score": 2,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
       "published": "2026-07-18T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "6b580aa91e8f",
-      "title": "Paris in July Is Sweltering—Here's What Chic French Girls Wear to Look Cool in 100-Degree Heat",
-      "link": "https://www.whowhatwear.com/fashion/french-girl-heatwave-outfit-ideas",
-      "summary": "Effortlessly cool, no pun intended.",
+      "id": "84c22869d24a",
+      "title": "I Just Got Back From Greece—These Are the Fashion Trends I Wore Everywhere",
+      "link": "https://www.whowhatwear.com/fashion/vacation/greece-fashion-insider-shopping-2026",
+      "summary": "If you don't know what to pack for your next vacation, read this.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Paris in July Is Sweltering—Here's What Chic French Girls Wear to Look...",
-      "score": 1,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
       "published": "2026-07-18T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1409,20 +1423,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c84275f81013",
-      "title": "Shop Our Favorite Celebrity Looks of the Week | Vogue",
-      "link": "https://www.vogue.com/article/best-celebrity-outfits",
-      "summary": "Shop the best celebrity street style looks of the week, perfect for the season ahead—just a few simple clicks away.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-07-17T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a3add2f5f45f",
       "title": "The Best Taper Haircuts – Tapered Hairstyle Guide 2026",
       "link": "https://www.fashionbeans.com/article/best-mens-taper-haircuts/",
@@ -1532,20 +1532,6 @@
       "angle": "Fashion Intelligence: 20 Best Hats for Men – Must Have’s For Any Taste in 2026...",
       "score": 1,
       "published": "2026-07-17T08:00:31+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c43d13ace318",
-      "title": "Every Summer, the World's Best-Dressed Women Return to This One Elegant Bag—And It's Still In Sock",
-      "link": "https://www.whowhatwear.com/fashion/shopping/saint-laurent-raffia-bags",
-      "summary": "It-girl approved.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Every Summer, the World's Best-Dressed Women Return to This One Elegan...",
-      "score": 1,
-      "published": "2026-07-17T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2923,52 +2909,52 @@
   ],
   "trends": [
     {
-      "term": "এমিলিয়ানো মার্তিনেস",
+      "term": "చైనా",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "is tomorrow a holiday in kerala",
-      "summary": "",
-      "aza_category": "Occasion Dressing"
-    },
-    {
-      "term": "கல்லூரி",
+      "term": "গ্রেফতার",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "skyroot vikram 1 rocket launch",
-      "summary": "",
-      "aza_category": "Designer Spotlight"
-    },
-    {
-      "term": "meteorite",
+      "term": "சூர்யா",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "voter search",
+      "term": "mahaprabhu jagannath movie",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "क्राइम थ्रिलर",
+      "term": "સમાચાર",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "lenovo fifa",
+      "term": "new black hole mechanics theory",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "income tax e filing",
+      "term": "स्टील एक्सप्रेस",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "gasoline",
+      "term": "பாடலாசிரியர்",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "క్రైమ్ థ్రిల్లర్",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "मेष राशि",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
