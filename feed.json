@@ -1,13 +1,69 @@
 {
-  "generated_at": "2026-07-27T05:40:58.054221+00:00",
+  "generated_at": "2026-07-27T08:30:45.372199+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 176,
+  "industry_count": 175,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "8907a6204f9c",
+      "title": "Sorry, Sandals—French It Girls Are Wearing These Classic Shoe Trends Instead This Summer",
+      "link": "https://www.whowhatwear.com/fashion/summer/french-girl-sandal-alternatives-summer-2026",
+      "summary": "Cancel the pedicure.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-27T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "343d65baee7f",
+      "title": "Boho Dresses Are Back On the Agenda—Here’s 5 Chic Ways to Wear Them This Summer",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/boho-dress-outfits-2026",
+      "summary": "Back with a modern update.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Boho Dresses Are Back On the Agenda—Here’s 5 Chic Ways to Wear Them Th...",
+      "score": 2,
+      "published": "2026-07-27T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7080abc35100",
+      "title": "Here's Some Good Fashion: 30 Fantastic Items I Found at J.Crew, Zara, and Reformation",
+      "link": "https://www.whowhatwear.com/fashion/shopping/fashionable-clothing-shoes-j-crew-zara-reformation-summer-2026",
+      "summary": "Starting at just $56.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Here's Some Good Fashion: 30 Fantastic Items I Found at J.Crew, Zara, ...",
+      "score": 1,
+      "published": "2026-07-27T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a67fa1ebb4a0",
+      "title": "The 6 Australian Swimwear Brands Every Fashion Person Is Wearing",
+      "link": "https://www.whowhatwear.com/fashion/swimwear/best-australian-swimwear-brands",
+      "summary": "Cool girls love wearing these labels.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
+      "published": "2026-07-27T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "98a28cc81821",
       "title": "Pane Is Making the Best Retro Trainers You Have Not Heard Of Yet",
@@ -415,48 +471,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9539ffae96de",
-      "title": "I Thought Trainers Were \"Boring\"—These 5 Celebrity Outfits Proved Me Very Wrong",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/celebrity-summer-trainer-outfits-2026",
-      "summary": "They make them look so good.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-26T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e6c379279b05",
-      "title": "I Couldn't Believe It When I Found These 11 Designer Items on Sale at Nordstrom",
-      "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-anniversary-sale-2026-designer",
-      "summary": "Tom Ford, Prada, Isabel Marant, and more.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: I Couldn't Believe It When I Found These 11 Designer Items on Sale at ...",
-      "score": 1,
-      "published": "2026-07-26T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6fb35b14cc76",
-      "title": "Stop Searching—Every Cool Fashion Item You Could Want for Summer Is Under $200 at Nordstrom",
-      "link": "https://www.whowhatwear.com/summer-fashion-under-200-nordstrom",
-      "summary": "Done and done.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Stop Searching—Every Cool Fashion Item You Could Want for Summer Is Un...",
-      "score": 1,
-      "published": "2026-07-26T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "eb9b5fa12c65",
       "title": "I Have High Standards for Black-Tie Weddings—These Summer Dresses Passed Every Test",
       "link": "https://www.whowhatwear.com/living/wedding/best-summer-black-tie-wedding-guest-dresses",
@@ -485,17 +499,45 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ba95d5f6e2c1",
-      "title": "This 800-Year-Old Fragrance Brand Is My Best-Kept Secret for Winning Perfume Compliments",
-      "link": "https://www.whowhatwear.com/beauty/fragrance/best-santa-maria-novella-perfumes",
-      "summary": "They're breathtaking.",
+      "id": "9539ffae96de",
+      "title": "I Thought Trainers Were \"Boring\"—These 5 Celebrity Outfits Proved Me Very Wrong",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/celebrity-summer-trainer-outfits-2026",
+      "summary": "They make them look so good.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-26T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6fb35b14cc76",
+      "title": "Stop Searching—Every Cool Fashion Item You Could Want for Summer Is Under $200 at Nordstrom",
+      "link": "https://www.whowhatwear.com/summer-fashion-under-200-nordstrom",
+      "summary": "Done and done.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: This 800-Year-Old Fragrance Brand Is My Best-Kept Secret for Winning P...",
+      "angle": "Fashion Intelligence: Stop Searching—Every Cool Fashion Item You Could Want for Summer Is Un...",
       "score": 1,
-      "published": "2026-07-26T06:00:00+00:00",
+      "published": "2026-07-26T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e6c379279b05",
+      "title": "I Couldn't Believe It When I Found These 11 Designer Items on Sale at Nordstrom",
+      "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-anniversary-sale-2026-designer",
+      "summary": "Tom Ford, Prada, Isabel Marant, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: I Couldn't Believe It When I Found These 11 Designer Items on Sale at ...",
+      "score": 1,
+      "published": "2026-07-26T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -523,6 +565,20 @@
       "aza_category": "Celebrity Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
+      "published": "2026-07-26T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ba95d5f6e2c1",
+      "title": "This 800-Year-Old Fragrance Brand Is My Best-Kept Secret for Winning Perfume Compliments",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/best-santa-maria-novella-perfumes",
+      "summary": "They're breathtaking.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: This 800-Year-Old Fragrance Brand Is My Best-Kept Secret for Winning P...",
+      "score": 1,
       "published": "2026-07-26T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -793,16 +849,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5117ff29c9b8",
-      "title": "It's \"Hot Girl Walk\" Season—17 Beauty Products Keeping Editors' Skin, Hair, and Smell in Check",
-      "link": "https://www.whowhatwear.com/beauty/post-gym-beauty-products",
-      "summary": "Essentials for our busiest and sweatiest season.",
+      "id": "8e14d7ae1db2",
+      "title": "Fashion’s Chicest Like Their Art Wearable—This Skirt Trend Does The Trick",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/face-skirt-trend-summer-2026",
+      "summary": "Picture perfect.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
+      "score": 3,
       "published": "2026-07-25T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -821,16 +877,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8e14d7ae1db2",
-      "title": "Fashion’s Chicest Like Their Art Wearable—This Skirt Trend Does The Trick",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/face-skirt-trend-summer-2026",
-      "summary": "Picture perfect.",
+      "id": "5117ff29c9b8",
+      "title": "It's \"Hot Girl Walk\" Season—17 Beauty Products Keeping Editors' Skin, Hair, and Smell in Check",
+      "link": "https://www.whowhatwear.com/beauty/post-gym-beauty-products",
+      "summary": "Essentials for our busiest and sweatiest season.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
+      "score": 2,
       "published": "2026-07-25T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1311,20 +1367,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bcc6639bfd24",
-      "title": "If You Want to Look Stylish and Surprising, Wear This Controversial Pant-and-Shoe Color Pairing",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/green-pants-with-red-shoes-tracee-ellis-ross",
-      "summary": "Don't even bother trying to guess what it is.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: If You Want to Look Stylish and Surprising, Wear This Controversial Pa...",
-      "score": 1,
-      "published": "2026-07-24T15:32:53+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "78406a02c0e5",
       "title": "Summer Denim Is the Best Denim",
       "link": "https://www.harpersbazaar.com/fashion/trends/a73221544/how-to-style-denim-summer/",
@@ -1423,34 +1465,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "22a627fdce47",
-      "title": "Hats! Bags! Sandals! Everything Is Raffia RN—42 Editor-Approved Styles to Shop",
-      "link": "https://www.whowhatwear.com/fashion/summer/raffia-shopping-guide-2026",
-      "summary": "This highly specific texture is dominating summer fashion.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Hats! Bags! Sandals! Everything Is Raffia RN—42 Editor-Approved Styles...",
-      "score": 2,
-      "published": "2026-07-24T13:51:23+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7d07141ef61b",
-      "title": "Suddenly, Fashion People in London, NYC and Paris Are Elevating Their Outfits With This Sought-After Accessory",
-      "link": "https://www.whowhatwear.com/fashion/trends/medallion-belt-trend-summer-2026",
-      "summary": "Heavy metal.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Suddenly, Fashion People in London, NYC and Paris Are Elevating Their ...",
-      "score": 3,
-      "published": "2026-07-24T13:33:15+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6f7276bb8b1d",
       "title": "Charli XCX’s New Album Made Me Cry About My Friends",
       "link": "https://www.harpersbazaar.com/culture/art-books-music/a71935093/charli-xcxs-music-fashion-film-album-review/",
@@ -1476,20 +1490,6 @@
       "angle": "Fashion Intelligence: Weekly Drop Watch: Vettese x Skims, Aritzia x Juilliard, Higher Dose a...",
       "score": 3,
       "published": "2026-07-24T12:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7666b1dcd8d6",
-      "title": "Suddenly, the Chicest Dressers In London, Madrid and Capri Have Swapped Pearls For This Much Cooler Jewellery Trend",
-      "link": "https://www.whowhatwear.com/fashion/jewelry/fish-jewellery-trend-summer-2026",
-      "summary": "So simple, so chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-07-24T12:15:25+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2193,20 +2193,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f8a80ed62216",
-      "title": "The Best Sneaker Brands You’ve Never Heard Of",
-      "link": "https://www.fashionbeans.com/article/best-sneaker-brands-youve-never-heard-of/",
-      "summary": "Wherever you are right now, take a quick look around at people’s footwear. What brands are they wearing? Chances are, the results of your visual sneaker survey will look a little something like this: Adidas, Nike, Converse, New Balance, Nike, maybe a bit of Reebok if you’re lucky, Adidas, Nike, Nike. No matter how clas",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Sneaker Brands You’ve Never Heard Of...",
-      "score": 2,
-      "published": "2026-07-20T06:45:11+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "1f70b2753f7a",
       "title": "ICYMI: Olivier Rousteing Heads to Rabanne, Slate Swim Acquired by Independent Buyer & Mia Calabrese's Beauty Hacks",
       "link": "https://fashionista.com/2026/07/fashion-news-you-need-to-know-july-18",
@@ -2853,52 +2839,52 @@
   ],
   "trends": [
     {
-      "term": "எடப்பாடி கே. பழனிசாமி",
+      "term": "nam vs nep",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "lok sabha",
+      "term": "जनता पार्टी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "suman pahuja net worth news",
+      "term": "ಲೀಲಾವತಿ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "manoramaonline",
+      "term": "vivo s2",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "പ്രധാനമന്ത്രി",
+      "term": "पंजाब के शिक्षा मंत्री",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bhaskar",
+      "term": "rrb group d exam city intimation slip",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "অর্জুন সিং",
+      "term": "ప్రభుత్వం",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "today gold rate in chennai",
+      "term": "final merit list mht cet 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nbt",
+      "term": "ஹர்திக் பாண்டியா",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "upcoming ipo",
+      "term": "தலைமைக் காவலர்",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
