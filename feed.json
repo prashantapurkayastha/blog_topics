@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T09:58:49.464906+00:00",
+  "generated_at": "2026-08-01T12:03:27.325571+00:00",
   "owned_count": 10,
   "competitor_count": 17,
   "industry_count": 179,
@@ -19,7 +19,77 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Mary Katrantzou Resort 2027...",
       "score": 0,
-      "published": "2026-08-01T09:57:37+00:00",
+      "published": "2026-08-01T12:02:57+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8222788a57ee",
+      "title": "ICYMI: Guizio's First L.A. Store, Megan Thee Stallion's Most Romantic Scent & Fashionista's July Editors' Picks",
+      "link": "https://fashionista.com/2026/08/fashion-news-you-need-to-know-august-1",
+      "summary": "A must-read roundup of our most popular stories of the week.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: ICYMI: Guizio's First L.A. Store, Megan Thee Stallion's Most Romantic ...",
+      "score": 1,
+      "published": "2026-08-01T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a2836c52ecac",
+      "title": "Spotted on Every It Girl This Summer: The Pretty Color Trend That Knocked Butter Yellow to 2nd Place",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/pool-blue-color-trend-zoe-saldana-karlie-kloss-summer-2026",
+      "summary": "It doesn't take much to see why.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-08-01T10:15:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bc7269115f8a",
+      "title": "Street Style Trends, the Scandi Way, from 2016 to Today",
+      "link": "https://www.vogue.com/article/copenhagen-fashion-week-street-style-trends",
+      "summary": "10 years of the hottest trends, spotted outside the shows of Copenhagen Fashion Week",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
+      "published": "2026-08-01T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8657bdde5933",
+      "title": "Discover the Best Dresses for Every August Occasion",
+      "link": "https://www.vogue.com/article/dresses",
+      "summary": "Explore the best dresses of the month, from silk maxidresses to practical striped shirtdresses. Shop a wide selection of handpicked Vogue dresses.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 3,
+      "published": "2026-08-01T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0b5d728e634b",
+      "title": "Cape Fear , Ending Explained: A Sinister Culture of Misinformation",
+      "link": "https://www.harpersbazaar.com/culture/film-tv/a73258071/cape-fear-ending-explained/",
+      "summary": "Apple TV’s Cape Fear revived one of the most villainous characters of all time, Max Cady, but the series indicted much more about our society",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Cape Fear , Ending Explained: A Sinister Culture of Misinformation...",
+      "score": 0,
+      "published": "2026-08-01T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -37,20 +107,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e3c61cb3b03a",
-      "title": "It's Official: Tastemakers in Milan and London Can't Stop Wearing These 6 Nail Trends This Summer",
-      "link": "https://www.whowhatwear.com/beauty/nails/europe-summer-nail-trends-2026",
-      "summary": "Spotted on Dua Lipa, Iris Law, Olivia Dean, and more.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-08-01T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "55c497a571e8",
       "title": "I'm a Fashion Editor—Here's What I Predict It Girls Will Be Wearing (and Buying) in August",
       "link": "https://www.whowhatwear.com/fashion/shopping/shopping-predictions-august-2026",
@@ -61,6 +117,20 @@
       "aza_category": "Designer Spotlight",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
+      "published": "2026-08-01T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e3c61cb3b03a",
+      "title": "It's Official: Tastemakers in Milan and London Can't Stop Wearing These 6 Nail Trends This Summer",
+      "link": "https://www.whowhatwear.com/beauty/nails/europe-summer-nail-trends-2026",
+      "summary": "Spotted on Dua Lipa, Iris Law, Olivia Dean, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
       "published": "2026-08-01T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -107,20 +177,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "694ec4f2481a",
-      "title": "Here You Go—A Tight Edit of the Coolest New Arrivals From J.Crew, Zara, and Nordstrom",
-      "link": "https://www.whowhatwear.com/fashion/shopping/jcrew-zara-nordstrom-new-arrivals",
-      "summary": "Styles that will take you from summer to fall in style.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Here You Go—A Tight Edit of the Coolest New Arrivals From J.Crew, Zara...",
-      "score": 1,
-      "published": "2026-08-01T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d61f54bdc89a",
       "title": "Experienced Shoppers Know That This Elegant Item Is the MVP of a Transition-Weather Wardrobe",
       "link": "https://www.whowhatwear.com/fashion/outerwear/best-lightweight-cardigans",
@@ -131,6 +187,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Experienced Shoppers Know That This Elegant Item Is the MVP of a Trans...",
       "score": 2,
+      "published": "2026-08-01T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "694ec4f2481a",
+      "title": "Here You Go—A Tight Edit of the Coolest New Arrivals From J.Crew, Zara, and Nordstrom",
+      "link": "https://www.whowhatwear.com/fashion/shopping/jcrew-zara-nordstrom-new-arrivals",
+      "summary": "Styles that will take you from summer to fall in style.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Here You Go—A Tight Edit of the Coolest New Arrivals From J.Crew, Zara...",
+      "score": 1,
       "published": "2026-08-01T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -975,20 +1045,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f7dc19e95c1b",
-      "title": "Zara Just Perfected the 5 Colour Trends That Make Outfits Look Instantly Expensive",
-      "link": "https://www.whowhatwear.com/fashion/shopping/zara-colour-trends-2026",
-      "summary": "Sorry, black.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-07-31T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "17f5654a54aa",
       "title": "With Its \"Dense\" New Scent, Dior Just Cemented This Year's Biggest Perfume Trend",
       "link": "https://www.whowhatwear.com/beauty/fragrance/dior-sauvage-extrait",
@@ -999,6 +1055,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
+      "published": "2026-07-31T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f7dc19e95c1b",
+      "title": "Zara Just Perfected the 5 Colour Trends That Make Outfits Look Instantly Expensive",
+      "link": "https://www.whowhatwear.com/fashion/shopping/zara-colour-trends-2026",
+      "summary": "Sorry, black.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
       "published": "2026-07-31T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1087,20 +1157,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6dd0403f96ad",
-      "title": "23 Thoughts I Had Listening to Ariana Grande’s New Album ‘Petal’",
-      "link": "https://www.vogue.com/article/23-thoughts-i-had-listening-to-ariana-grande-petal",
-      "summary": "Grande sings, “All of my favorite stories end in some kind of catastrophe.” Honestly, same.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 23 Thoughts I Had Listening to Ariana Grande’s New Album ‘Petal’...",
-      "score": 0,
-      "published": "2026-07-31T04:01:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e217406240e1",
       "title": "Ferragamo’s Fall 2026 Campaign Focuses on Footwear",
       "link": "https://www.fashiongonerogue.com/story/ferragamo-fall-2026-campaign/",
@@ -1126,20 +1182,6 @@
       "angle": "Fashion Intelligence: A Date Night Outfit Guide for Different Moods...",
       "score": 2,
       "published": "2026-07-31T02:18:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f4e390305805",
-      "title": "I’m Trading My Hair Mask for Ouai’s Bond Repair Balm",
-      "link": "https://www.vogue.com/article/ouai-bond-repair-balm-review",
-      "summary": "To use the Ouai Bond Repair Balm, apply one pump from mid-lengths to ends, let sit for three minutes, then rinse. This simple process is all it takes to repair heat damage, breakage, and split ends.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I’m Trading My Hair Mask for Ouai’s Bond Repair Balm...",
-      "score": 0,
-      "published": "2026-07-31T01:46:37+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1605,20 +1647,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6b1d9f18f69e",
-      "title": "Not Trainers—The Coolest Women In Their 60s and 40s Are Wearing Straight-Leg Jeans With These Shoes Instead",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/straight-leg-jeans-thong-sandals-cindy-crawford-claire-foy-2026",
-      "summary": "The chicest combination.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-07-30T11:34:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "62a2a75ae3e7",
       "title": "The Biggest Sneaker Trends Of 2026",
       "link": "https://www.fashionbeans.com/article/mens-sneaker-trends/",
@@ -1798,20 +1826,6 @@
       "angle": "Fashion Intelligence: Anne Hathaway Continues Her Maternity Streak in a Mesh Stella McCartne...",
       "score": 1,
       "published": "2026-07-29T16:58:27+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "06693fdc2922",
-      "title": "Zendaya Is the New Face of Prada Paradoxe",
-      "link": "https://www.harpersbazaar.com/beauty/health/a73294986/zendaya-favorite-perfume/",
-      "summary": "The actress joins the Prada Beauty family after being the face of Lancôme",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Zendaya Is the New Face of Prada Paradoxe...",
-      "score": 1,
-      "published": "2026-07-29T16:11:14+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2501,20 +2515,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "48c9d2cc5956",
-      "title": "Must Read: Dior to Stage Pre-Fall 2027 Show in Dublin, NAD Flags Vacation's Sunscreen Marketing Claim",
-      "link": "https://fashionista.com/2026/07/dior-pre-fall-2027-show-location-dublin",
-      "summary": "Plus, Mulberry reports a 23% sales increase.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Must Read: Dior to Stage Pre-Fall 2027 Show in Dublin, NAD Flags Vacat...",
-      "score": 1,
-      "published": "2026-07-22T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "024ce1881421",
       "title": "10 Unique Anarkali Suit Options For Raksha Bandhan",
       "link": "https://blog.kalkifashion.com/10-trending-anarkali-suit-for-rakshan-bandhan/",
@@ -2895,52 +2895,52 @@
   ],
   "trends": [
     {
-      "term": "ரவி மோகன்",
+      "term": "ജോണ് ബ്രിട്ടാസ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "chelsea",
+      "term": "dassault rafale",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "രാഹുല് ഗാന്ധി",
+      "term": "gyanesh kumar",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "इस्तीफा",
+      "term": "பயிற்சியாளர்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "नेपाल",
+      "term": "सेंट्रल डिपॉजिटरी सर्विसेज",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "অন্নপূর্ণা যোজনা",
+      "term": "சம்பளம்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mumbai",
+      "term": "ಡಿ ಕೆ ಶಿವಕುಮಾರ್",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "कर्मचारी भविष्य निर्वाह निधी",
+      "term": "man city",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "आय पर लगने वाले टैक्स का रिटर्न भरना",
+      "term": "टैक्स रिफंड",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "v. senthil balaji",
+      "term": "jadumani singh",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
