@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T09:57:19.172601+00:00",
+  "generated_at": "2026-08-02T12:02:55.183733+00:00",
   "owned_count": 10,
   "competitor_count": 17,
   "industry_count": 180,
@@ -19,7 +19,63 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Mary Katrantzou Resort 2027...",
       "score": 0,
-      "published": "2026-08-02T09:55:31+00:00",
+      "published": "2026-08-02T12:01:35+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ef21e364cba2",
+      "title": "From the Archives: Before The Talented Mr. Ripley, There Was This Vogue Editorial",
+      "link": "https://www.vogue.com/article/from-the-archives-postcard-from-portofino",
+      "summary": "The December 1992 fashion spread we return to every summer.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: From the Archives: Before The Talented Mr. Ripley, There Was This Vogu...",
+      "score": 1,
+      "published": "2026-08-02T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7bd92267ec36",
+      "title": "How to Look More 2026 in Jeans and Ballet Flats This Fall: Wear This Shirt Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/retro-striped-polo-shirt-trend-julia-roberts",
+      "summary": "Julia Roberts blended right in with NYC's cool dressers.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-08-02T10:15:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6c5f78d4b531",
+      "title": "The Hot List: 20 Must-Have Pieces, According to Instagram’s Favorite Fashion Sourcer",
+      "link": "https://www.vogue.com/article/the-hot-list-with-gab-waller",
+      "summary": "Gab Waller’s monthly cheat sheet of things to shop now before the most dreaded three words in online shopping appear (“out of stock”).",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Hot List: 20 Must-Have Pieces, According to Instagram’s Favorite F...",
+      "score": 1,
+      "published": "2026-08-02T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bbe24f9abb3a",
+      "title": "32 Items Vogue Editors Happily Shopped, From Raffia Bags to Vibrant Swimsuits",
+      "link": "https://www.vogue.com/article/what-vogue-editors-purchased",
+      "summary": "Curious what Vogue editors actually spend their money on? These are the items that you’ll actually find in our closets this summer.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 32 Items Vogue Editors Happily Shopped, From Raffia Bags to Vibrant Sw...",
+      "score": 0,
+      "published": "2026-08-02T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -415,20 +471,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d61f54bdc89a",
-      "title": "Experienced Shoppers Know That This Elegant Item Is the MVP of a Transition-Weather Wardrobe",
-      "link": "https://www.whowhatwear.com/fashion/outerwear/best-lightweight-cardigans",
-      "summary": "The chicest dressers wear them.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Experienced Shoppers Know That This Elegant Item Is the MVP of a Trans...",
-      "score": 2,
-      "published": "2026-08-01T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "37a29b2a6ec0",
       "title": "I'm a Former Nordstrom Buyer—These Are the 8 Best Last-Chance Items to Buy From the Anniversary Sale Before It's Over",
       "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-buyer-anniversary-sale-last-chance-2026",
@@ -453,6 +495,20 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Here You Go—A Tight Edit of the Coolest New Arrivals From J.Crew, Zara...",
       "score": 1,
+      "published": "2026-08-01T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d61f54bdc89a",
+      "title": "Experienced Shoppers Know That This Elegant Item Is the MVP of a Transition-Weather Wardrobe",
+      "link": "https://www.whowhatwear.com/fashion/outerwear/best-lightweight-cardigans",
+      "summary": "The chicest dressers wear them.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Experienced Shoppers Know That This Elegant Item Is the MVP of a Trans...",
+      "score": 2,
       "published": "2026-08-01T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1171,20 +1227,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1f7e6bc99bf4",
-      "title": "Meghan Markle Is Already Wearing Fall’s Most Stylish (and Practical) Shoe",
-      "link": "https://www.vogue.com/article/meghan-markle-fall-practical-shoe",
-      "summary": "Meghan attended a premiere in California wearing city shorts, a light knit and autumn-ready tasselled loafers. A smart addition to city shorts in July, these particular flats will also work hard for your wardrobe once September ushers in that back-to-school mood.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-07-31T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "9ac8e529d74b",
       "title": "Not Black, Not Red—Flip-Flops Look Chicest With Summer Dresses In This Elevated Neutral",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/gold-flip-flop-trend-jennifer-lopez-2026",
@@ -1196,34 +1238,6 @@
       "angle": "Fashion Intelligence: Not Black, Not Red—Flip-Flops Look Chicest With Summer Dresses In This...",
       "score": 2,
       "published": "2026-07-31T10:46:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fdc4611c90a3",
-      "title": "The Best Zara New Arrivals to Shop for Summer 2026",
-      "link": "https://www.vogue.com/article/best-zara-finds",
-      "summary": "Summer essentials and off-duty staples are a few of the best Zara new arrival finds we’re eyeing this week.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Zara New Arrivals to Shop for Summer 2026...",
-      "score": 0,
-      "published": "2026-07-31T10:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6b5f9ef1a4c6",
-      "title": "The 7 Best Airbnbs in Biarritz for a Sun-Soaked Basque Escape",
-      "link": "https://www.vogue.com/article/airbnbs-in-biarritz",
-      "summary": "Heading to France's Basque coast? Stay in one of the best Airbnbs in Biarritz, and situate yourself right in with the locals.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The 7 Best Airbnbs in Biarritz for a Sun-Soaked Basque Escape...",
-      "score": 0,
-      "published": "2026-07-31T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1294,20 +1308,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-07-31T07:35:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ef53917520b7",
-      "title": "The Stylish Women I Saw in Paris Inspired Every Outfit I Wore on My Trip",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/paris-inspired-outfit-ideas",
-      "summary": "Your daily dose of Parisian fashion inspiration.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-31T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2909,52 +2909,52 @@
   ],
   "trends": [
     {
-      "term": "kangana ranaut news",
+      "term": "protest",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ind vs pak",
+      "term": "అభిషేక్ శర్మ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ஆர். எஸ். பாரதி",
+      "term": "ಪಡಿತರ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "மும்பை இந்தியன்ஸ்",
+      "term": "donald trump iran war",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಯಶ್",
+      "term": "सोना",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "పొగాకు",
+      "term": "अभिषेक शर्मा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mht cet cap round seat allotment",
+      "term": "കപ്പല്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "అనిల్ అంబానీ",
+      "term": "എല് നിനോ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "dominos",
+      "term": "कुंभ राशि",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "કેનેડા",
+      "term": "abhishek sharma 25 sixes innings",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
