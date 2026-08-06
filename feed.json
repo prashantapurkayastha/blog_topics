@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-06T10:38:11.327847+00:00",
+  "generated_at": "2026-08-06T12:56:08.219458+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 172,
+  "industry_count": 173,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Mfpen Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-06T10:34:18+00:00",
+      "published": "2026-08-06T12:53:57+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,21 +33,105 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Baum und Pferdgarten Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-06T10:34:18+00:00",
+      "published": "2026-08-06T12:53:57+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "d7fd695ae685",
-      "title": "Henrik Vibskov Copenhagen Spring 2027",
-      "link": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/henrik-vibskov",
-      "summary": "",
+      "id": "4f6a1e70698b",
+      "title": "Havianas Unveils a Late Summer Contender for Freaky Shoe of the Season",
+      "link": "https://www.vogue.com/article/havaianas-studio-constance-kitten-heel",
+      "summary": "Brazilian flip-flop brand Havaianas has made bank getting the toe-exposing shoe back mainstream—a new collab with Danish brand Studio Constance finds sensuality in concealing the dominant digit.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-06T12:33:19+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9f61824c1e37",
+      "title": "Where to Find Job Security in Fashion",
+      "link": "https://fashionista.com/2026/08/fashion-industry-job-security-layoffs-ai-2026",
+      "summary": "Our 2026 Inside the Fashion Workplace survey found that layoffs are becoming more common and fewer people feel confident in their job security, but all hope is not lost.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Where to Find Job Security in Fashion...",
+      "score": 1,
+      "published": "2026-08-06T12:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "61b1af25acf1",
+      "title": "Why Couldn't I Stop Telling People About My Divorce",
+      "link": "https://www.vogue.com/article/some-personal-news-divorce-essay",
+      "summary": "Divorce may be almost as common as childhood, and marks another massive change. But it’s less clear what you’re supposed to say about it.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Henrik Vibskov Copenhagen Spring 2027...",
+      "angle": "Fashion Intelligence: Why Couldn't I Stop Telling People About My Divorce...",
       "score": 0,
-      "published": "2026-08-06T10:34:18+00:00",
+      "published": "2026-08-06T12:06:56+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "30bde73e7da2",
+      "title": "A Visit to a Strip Club Made Me Think Differently About Motherhood",
+      "link": "https://www.vogue.com/article/strip-club-motherhood",
+      "summary": "“My nights all bled into one milk-drunk routine. Each night I mustered the energy to do the same dance.”",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: A Visit to a Strip Club Made Me Think Differently About Motherhood...",
+      "score": 0,
+      "published": "2026-08-06T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ebe450f817f9",
+      "title": "This Brand Builder Landed Jobs at Deciem and Quince Without Ever Applying",
+      "link": "https://fashionista.com/2026/08/dakota-kate-isaacs-quince-deciem-interview",
+      "summary": "Dakota Kate Isaacs, now Quince's head of brand strategy & narrative, shared wide-ranging insights on The Fashionista Network.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: This Brand Builder Landed Jobs at Deciem and Quince Without Ever Apply...",
+      "score": 2,
+      "published": "2026-08-06T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "26a42d45ac1b",
+      "title": "Laura Harrier and the Wardrobe.NYC Founders Agree: Wear *These* H&M Track Pants on Your Next Flight",
+      "link": "https://www.whowhatwear.com/fashion/shopping/hm-wardrobe-nyc-collaboration-launch",
+      "summary": "Teyana Taylor already owns them.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Laura Harrier and the Wardrobe.NYC Founders Agree: Wear *These* H&M Tr...",
+      "score": 1,
+      "published": "2026-08-06T11:32:39+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6fdae8b985c7",
+      "title": "Not Quite a Ballet Flat, Not Quite a Trainer—This \"Controversial\" Shoe Is All I Want to Wear This Autumn",
+      "link": "https://www.whowhatwear.com/fashion/shoes/onitsuka-tiger-gymnarina-trainer",
+      "summary": "They'll make jeans and skirts look way cooler.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Not Quite a Ballet Flat, Not Quite a Trainer—This \"Controversial\" Shoe...",
+      "score": 1,
+      "published": "2026-08-06T10:51:04+00:00",
       "discovered_via": "feed"
     },
     {
@@ -135,20 +219,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "68d6b98c2aff",
-      "title": "Nothing in Budget: Wearing black, Udhayanidhi slams Vijay over farmers' issues, Cauvery",
-      "link": "https://www.indiatoday.in/india/tamil-nadu/story/cauvery-farm-loan-waiver-udhayanidhi-attacks-vijay-government-budget-2964931-2026-08-06?utm_source=rss",
-      "summary": "Nothing in Budget: Wearing black, Udhayanidhi slams Vijay over farmers' issues, Cauvery",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-08-06T08:01:15+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "dfea34221e29",
       "title": "With Dresses and Jeans, Alexa Keeps Coming Back to This French-Girl Shoe Trend",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/soft-ballet-flats-french-outfit-trend-alexa-chung-2026",
@@ -160,34 +230,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-08-06T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d001c9e0e1d9",
-      "title": "7 Chic Transitional Outfits That Are Perfect For the Weird In-Between Weather",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/pre-fall-outfit-ideas-2026",
-      "summary": "Look elegant and rich in this climate.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 7 Chic Transitional Outfits That Are Perfect For the Weird In-Between ...",
-      "score": 1,
-      "published": "2026-08-06T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "34d3160afeef",
-      "title": "ICYMI, This \"Controversial\" Jewellery Trend Is Back—Heres How To Wear It in 2026",
-      "link": "https://www.whowhatwear.com/fashion/jewelry/toe-ring-fashion-trend-2026",
-      "summary": "Podophobes, avert your eyes.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-08-06T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -228,6 +270,34 @@
       "is_competitor": false,
       "aza_category": "Celebrity Style",
       "angle": "Fashion Intelligence: Fashion People—These Early Fall Zara Items Will Become Stars in Your W...",
+      "score": 1,
+      "published": "2026-08-06T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "34d3160afeef",
+      "title": "ICYMI, This \"Controversial\" Jewellery Trend Is Back—Heres How To Wear It in 2026",
+      "link": "https://www.whowhatwear.com/fashion/jewelry/toe-ring-fashion-trend-2026",
+      "summary": "Podophobes, avert your eyes.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-08-06T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d001c9e0e1d9",
+      "title": "7 Chic Transitional Outfits That Are Perfect For the Weird In-Between Weather",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/pre-fall-outfit-ideas-2026",
+      "summary": "Look elegant and rich in this climate.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 7 Chic Transitional Outfits That Are Perfect For the Weird In-Between ...",
       "score": 1,
       "published": "2026-08-06T07:00:00+00:00",
       "discovered_via": "feed"
@@ -877,20 +947,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "849f0d7f7efa",
-      "title": "Meet K18 FutureIQ Hair Longevity Serum: My Holy Grail for Halting Hair Shedding",
-      "link": "https://www.vogue.com/article/k18-futureiq-biomimetic-hair-longevity-serum-review",
-      "summary": "One Vogue writer credits K18’s latest innovative launch for helping slow down her hair shedding—and it’s all thanks to a blend of bionemetic peptides and antioxidants.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Meet K18 FutureIQ Hair Longevity Serum: My Holy Grail for Halting Hair...",
-      "score": 1,
-      "published": "2026-08-05T14:01:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2a62725f7570",
       "title": "The Dawn of Good: A Skin-Care Brand Elevating Men's Self-Care Routines",
       "link": "https://fashionista.com/2026/08/the-dawn-of-good-skin-care-brand",
@@ -933,17 +989,31 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d70ed436814a",
-      "title": "The Vogue Business Funding Tracker",
-      "link": "https://www.vogue.com/article/the-vogue-business-funding-tracker",
-      "summary": "Bringing you the latest fashion and beauty financing news, including investments and acquisitions.",
-      "source": "Vogue US",
+      "id": "5f0ef0924871",
+      "title": "7 Best Hairsprays for Men: Get Excellent Hold & Look in 2026",
+      "link": "https://www.fashionbeans.com/article/best-hair-sprays-for-men/",
+      "summary": "When pomade and hair gel aren’t enough, you need to bring out the big guns to get that quiff to stay put. In wind, humidity, and even light rain, you need the best hairspray for men to hold down the hairstyle you’ve worked hard to achieve. What sets hairspray apart from various styling products is &#8230; Continue read",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Vogue Business Funding Tracker...",
-      "score": 2,
-      "published": "2026-08-05T12:57:26+00:00",
+      "angle": "Fashion Intelligence: 7 Best Hairsprays for Men: Get Excellent Hold & Look in 2026...",
+      "score": 1,
+      "published": "2026-08-05T12:53:05+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "63424400b886",
+      "title": "10 Best Untucked Shirts For Men – All Styles For 2026",
+      "link": "https://www.fashionbeans.com/article/best-untucked-shirts/",
+      "summary": "Spoiler alert: shirts can be left untucked. Some are designed to hang free, while others just look better that way. Your dad may not have received the memo, but since when did you start listening to anything he said? If you’re the kind of guy that likes a little fabric around his tooshie, then the &#8230; Continue read",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: 10 Best Untucked Shirts For Men – All Styles For 2026...",
+      "score": 1,
+      "published": "2026-08-05T12:27:05+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1045,6 +1115,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "a72e30125e79",
+      "title": "6 Key Men’s Swimwear Trends For Spring/Summer 2026",
+      "link": "https://www.fashionbeans.com/article/mens-swimwear-trends/",
+      "summary": "Mastering fashion trends in everyday clothes can be difficult enough, but when you consider that it’s just one square foot of fabric covering your modesty, swimwear has to say more about you per inch than any other garment. To make matters worse, upgrading your trunks from duty-free afterthought to a first-class fit is",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-08-05T09:00:35+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "e543e667f306",
       "title": "The Coolest Dressers Know It's All in the Details—This Specific Shoe Trend Makes White Dresses Look Chicest",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/white-dress-tabi-ballet-flats-outfit-zendaya-2026",
@@ -1084,6 +1168,20 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-08-05T07:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "08da8019ecd0",
+      "title": "10 Best Driving Shoes For Men To Wear On The Road in 2026",
+      "link": "https://www.fashionbeans.com/article/best-driving-shoes/",
+      "summary": "What’s the difference between the best driving shoes and the best driving shoes? That is an insightful question, I’m glad you asked. Let’s start with the definitions of this footwear style. A “driving shoe” generally is a shoe that’s well adapted to the driving experience (by design or not). So this could be a well-ada",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: 10 Best Driving Shoes For Men To Wear On The Road in 2026...",
+      "score": 2,
+      "published": "2026-08-05T07:23:59+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1210,6 +1308,20 @@
       "angle": "Fashion Intelligence: 25 Best Luxury Watches For Men: Show Up In Style 2026...",
       "score": 3,
       "published": "2026-08-05T04:00:20+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "33295c83efa4",
+      "title": "Best Golf Attire for Men: Hit the Course In Timeless Style",
+      "link": "https://www.fashionbeans.com/article/best-golf-attire-for-men/",
+      "summary": "It’s true that golf doesn’t have the most stylish of reputations. Argyle jumpers paired with shapeless slacks may cut a fine silhouette at the local British Legion, but these do little to represent modern menswear. Style ambassadors such as John Daly and Trainspotting’s Francis Begbie have done little to aid the cause.",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Best Golf Attire for Men: Hit the Course In Timeless Style...",
+      "score": 3,
+      "published": "2026-08-05T01:36:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1507,20 +1619,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "94001dc3850c",
-      "title": "Not Denim, Not Satin—Fashion People Are Wearing These Trending Shorts Styles Instead",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/board-shorts-bermuda-shorts-trend-elsa-hosk-2026",
-      "summary": "They're taking off.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 4,
-      "published": "2026-08-04T14:37:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f908c238144d",
       "title": "Duchess Meghan Prepares a Raspberry Sundae in a Chic All-White Set",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73343946/meghan-markle-raspberry-sundae-video-white-linen-halter-top-pencil-skirt-shop/",
@@ -1742,62 +1840,6 @@
       "angle": "Fashion Intelligence: The Best Shoes To Wear With Jeans: Casual & Formal...",
       "score": 1,
       "published": "2026-08-04T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1bebff978575",
-      "title": "10 Best Bootcut Jeans for Men And How To Style Them in 2026",
-      "link": "https://www.fashionbeans.com/article/best-bootcut-jeans-for-men/",
-      "summary": "I was going to start off by announcing that bootcut jeans are back. However, I’m not sure they ever really went away. Sure, they’ve been temporarily kicked off the podium by skinnier, flashier counterparts, but the flared-out favorite has always found its way back to the closets of sharply-dressed guys. A reliable ward",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: 10 Best Bootcut Jeans for Men And How To Style Them in 2026...",
-      "score": 2,
-      "published": "2026-08-04T08:21:06+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ae6d6cf62cae",
-      "title": "10 Best Brands like Lacoste for Preppy, Sporty Style in 2026",
-      "link": "https://www.fashionbeans.com/article/brands-like-lacoste/",
-      "summary": "If you&#8217;re faithful to the iconic preppy label but want to branch out, there are plenty of brands like Lacoste out there. In lieu of their 90th anniversary, it couldn’t be a better time to pay homage to the heritage brand while also checking out alternatives that may offer something slightly different at varying p",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: 10 Best Brands like Lacoste for Preppy, Sporty Style in 2026...",
-      "score": 3,
-      "published": "2026-08-04T08:13:07+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "12148797844d",
-      "title": "Paco Rabanne 1 Million Review: Going for Gold in 2026",
-      "link": "https://www.fashionbeans.com/article/paco-rabanne-1-million-review/",
-      "summary": "No serious Paco Rabanne 1 Million review would be complete without first understanding the man behind the brand. The late Paco Rabanne rose to fashion world fame in the swinging sixties thanks to the use of plastic and metal in his avant-garde, space-age clothing. &#8220;I defy anyone to design a hat, coat, or dress th",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Paco Rabanne 1 Million Review: Going for Gold in 2026...",
-      "score": 3,
-      "published": "2026-08-04T07:17:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9cea432fe226",
-      "title": "21 Best Men’s Cross-Body Bags: Styles For All Budgets 2026",
-      "link": "https://www.fashionbeans.com/article/cross-body-bags/",
-      "summary": "Picture this: a baseball cap sits above an oversized graphic tee, which has been tucked messily into the waistband of a pair of loose-fitting, stonewash jeans. Below these are a pair of tightly-laced, bulky trainers; the sort your secondary school gym teacher used to wear morning, noon and night. And, to top it all off",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 21 Best Men’s Cross-Body Bags: Styles For All Budgets 2026...",
-      "score": 2,
-      "published": "2026-08-04T06:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2389,34 +2431,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ec57f6c3454b",
-      "title": "ICYMI: Kate Spade's New Creative Director, Vittoria Ceretti's Fashion and Beauty Favorites & Cosmoprof 2026's Biggest Beauty Trends",
-      "link": "https://fashionista.com/2026/07/fashion-news-you-need-to-know-july-25",
-      "summary": "A must-read roundup of our most popular stories of the week.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-07-25T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "690b7de743b0",
-      "title": "See All the Spring 2027 Fashion Month Schedules",
-      "link": "https://fashionista.com/2026/07/spring-2027-fashion-week-september-2026-schedule-calendar",
-      "summary": "The \"Big 4\" – New York, London, Milan and Paris — have all released their fashion week calendars for September 2026.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: See All the Spring 2027 Fashion Month Schedules...",
-      "score": 1,
-      "published": "2026-07-24T16:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "65f6a0854c19",
       "title": "Before You Buy Your Independence Day Outfit, Read This",
       "link": "https://blog.kalkifashion.com/before-you-buy-your-independence-day-outfit-read-this/",
@@ -2797,52 +2811,52 @@
   ],
   "trends": [
     {
-      "term": "दिल्ली",
+      "term": "शेख हसीना",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ceo karnataka",
+      "term": "ms dhoni",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಕೊಲೆ",
+      "term": "पुलिस",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "সরকার",
+      "term": "एबीपी माझा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "జోస్ బట్లర్",
+      "term": "paradise teaser",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "തീരുവ",
+      "term": "ക്രിക്കറ്റ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अतीक अहमद",
+      "term": "जल स्तर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "न्यायिक अधिकारी",
+      "term": "రాజమహేంద్రవరం",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "അച്ഛന്",
+      "term": "टाटा नेक्सन",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "விடுமுறை",
+      "term": "मनोज जरांगे",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
