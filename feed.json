@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-08-10T06:10:50.186904+00:00",
+  "generated_at": "2026-08-10T09:20:05.954961+00:00",
   "owned_count": 10,
-  "competitor_count": 12,
+  "competitor_count": 17,
   "industry_count": 174,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "1bbb670bea73",
+      "title": "I Live in Paris—5 Things I Do and Don't Wear in the City",
+      "link": "https://www.whowhatwear.com/fashion/trends/what-not-to-wear-in-paris",
+      "summary": "Including one shoe trend that's past its prime and one I'm loving now.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I Live in Paris—5 Things I Do and Don't Wear in the City...",
+      "score": 2,
+      "published": "2026-08-10T09:18:46+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "c1950479a4da",
       "title": "Iamisigo Copenhagen Spring 2027",
@@ -19,7 +33,35 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Iamisigo Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-10T06:10:24+00:00",
+      "published": "2026-08-10T09:17:56+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3c0a277e76c8",
+      "title": "Zara's Sister Brand Just Launched The Chicest Pre-Autumn Collection—18 Elegant Buys Already Moving Fast",
+      "link": "https://www.whowhatwear.com/fashion/affordable/massimo-dutti-new-in-august-2026",
+      "summary": "Capsule wardrobe heroes ahead.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 3,
+      "published": "2026-08-10T08:54:44+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ba2ecf1ecf65",
+      "title": "I'm Already in the Mood for Autumn—5 Expensive-Looking Outfits to Take Me Into the New Season",
+      "link": "https://www.whowhatwear.com/transitional-outfits-autumn-2026",
+      "summary": "The summer-to-autumn layering begins.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 2,
+      "published": "2026-08-10T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -107,6 +149,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "816932fb9b54",
+      "title": "Dress Code: Thursday",
+      "link": "https://www.fashionbeans.com/article/thursday/",
+      "summary": "",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Dress Code: Thursday...",
+      "score": 1,
+      "published": "2026-08-09T17:46:52+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "0f7fb47b0744",
       "title": "The Best Dressed Stars of the Week Found Beauty in Restraint",
       "link": "https://www.vogue.com/slideshow/10-best-dressed-stars-meghan-markle-monica-barbaro-elle-fanning",
@@ -118,6 +174,20 @@
       "angle": "Fashion Intelligence: The Best Dressed Stars of the Week Found Beauty in Restraint...",
       "score": 2,
       "published": "2026-08-09T16:58:03+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "53f6846d5818",
+      "title": "Sneaker Hall Of Fame: Common Projects Achilles Low",
+      "link": "https://www.fashionbeans.com/article/common-projects-achilles-low/",
+      "summary": "The Sneaker Hall Of Fame is FashionBeans&#8217; compendium of the most iconic trainer designs of all time. From the Common Projects Achilles to the Nike Air Force One, these are the kicks that have changed the course of footwear history. The plain white sneaker is more than just a shoe rack staple, it’s a bona &#8230; ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Sneaker Hall Of Fame: Common Projects Achilles Low...",
+      "score": 2,
+      "published": "2026-08-09T16:00:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -373,6 +443,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "bb9e5a7981de",
+      "title": "6 Best Vegan Sneakers for Men: Cruelty-free Styling in 2026",
+      "link": "https://www.fashionbeans.com/article/best-vegan-sneakers/",
+      "summary": "I get it. You want to wear beautiful, premium, and trendy shoes but can’t stomach the idea that they might be made from animal hide and other non-sustainable materials. The practices in sourcing full-grain leather aren’t always cruelty-free, and, sadly, such methods are still mainstream. Luckily for you, the future is ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "Fashion Intelligence: 6 Best Vegan Sneakers for Men: Cruelty-free Styling in 2026...",
+      "score": 3,
+      "published": "2026-08-09T08:42:36+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "9cf887472ca9",
       "title": "How To Style A Fleece Jacket – Ways To Wear in 2026",
       "link": "https://www.fashionbeans.com/article/how-to-wear-the-fleece-trend/",
@@ -510,6 +594,34 @@
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 1,
       "published": "2026-08-09T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9bea8acb6ac4",
+      "title": "10 Best Summer Cologne For Men – Fresh Scents For 2026",
+      "link": "https://www.fashionbeans.com/article/best-summer-colognes/",
+      "summary": "From smoking barbecues to freshly cut grass, the sweet smells of summer are a scent to behold. So who are you to be letting the team down? To ensure you’re in tune with the heavenly aromas sweeping the nation, you’ll need to make sure you’re wearing your very best summer cologne. You want something light, &#8230; Conti",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 10 Best Summer Cologne For Men – Fresh Scents For 2026...",
+      "score": 1,
+      "published": "2026-08-09T03:00:45+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "762888d61a56",
+      "title": "10 Best Athletic-Fit Dress Shirts for Men 2026",
+      "link": "https://www.fashionbeans.com/article/best-athletic-fit-dress-shirts/",
+      "summary": "Fancy yourself a V-shaped fella? … Yikes. Super awkward way to kick things off. Let’s try that again, shall we? If you’re an athletic guy with a slim waist and larger-than-average chest and arm muscles, you owe it to yourself to research the best athletic-fit dress shirts. Or, at the very least, let me do &#8230; Conti",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 10 Best Athletic-Fit Dress Shirts for Men 2026...",
+      "score": 1,
+      "published": "2026-08-09T01:57:25+00:00",
       "discovered_via": "feed"
     },
     {
@@ -793,20 +905,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c90509f1839f",
-      "title": "If You Love Timeless Clothing, This Is the Brand to Shop at Nordstrom",
-      "link": "https://www.whowhatwear.com/fashion/shopping/almina-concept",
-      "summary": "Seen on Hailey Bieber and Kendall Jenner.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: If You Love Timeless Clothing, This Is the Brand to Shop at Nordstrom...",
-      "score": 1,
-      "published": "2026-08-08T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e3f1d30596b8",
       "title": "How the Kemo Sabe Hat Became Fashion's Ultimate Cult Piece",
       "link": "https://www.whowhatwear.com/fashion/kemo-sabe",
@@ -817,6 +915,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: How the Kemo Sabe Hat Became Fashion's Ultimate Cult Piece...",
       "score": 2,
+      "published": "2026-08-08T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c90509f1839f",
+      "title": "If You Love Timeless Clothing, This Is the Brand to Shop at Nordstrom",
+      "link": "https://www.whowhatwear.com/fashion/shopping/almina-concept",
+      "summary": "Seen on Hailey Bieber and Kendall Jenner.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: If You Love Timeless Clothing, This Is the Brand to Shop at Nordstrom...",
+      "score": 1,
       "published": "2026-08-08T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1255,20 +1367,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "fbe360684997",
-      "title": "8 Best Cartier Colognes – Luxury Fragrances for Men in 2026",
-      "link": "https://www.fashionbeans.com/article/best-cartier-colognes/",
-      "summary": "If you want to find the best Cartier cologne, I’m here to help. I’ve always been a Cartier fanatic and decided to work my way through their robust collection of men’s colognes to find the best Cartier cologne available, and I did. After testing, I rounded up the eight best scents and reviewed them for &#8230; Continue ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: 8 Best Cartier Colognes – Luxury Fragrances for Men in 2026...",
-      "score": 2,
-      "published": "2026-08-07T16:08:11+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "534aaf5d9dc6",
       "title": "Katseye Whip Up Carbo Buldak—Plus Drinks and Dessert—and Talk Long Nights, Therapy, and “Animal”",
       "link": "https://www.vogue.com/article/now-serving-katseye",
@@ -1280,20 +1378,6 @@
       "angle": "Fashion Intelligence: Katseye Whip Up Carbo Buldak—Plus Drinks and Dessert—and Talk Long Nig...",
       "score": 0,
       "published": "2026-08-07T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1b637939a90d",
-      "title": "5 Best Low-Rise Jeans for Men: It’s All on the Hips in 2026",
-      "link": "https://www.fashionbeans.com/article/best-low-rise-jeans-for-men/",
-      "summary": "It’s no secret that the low-rise revival has been happening for some time in women’s fashion, but people don’t talk nearly as much about low-rise jeans in the context of men’s fashion. I think that there are many reasons for this lack of attention, but—as you’ll see throughout the rest of this article—I think that &#82",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 5 Best Low-Rise Jeans for Men: It’s All on the Hips in 2026...",
-      "score": 1,
-      "published": "2026-08-07T15:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1479,20 +1563,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4defe18984db",
-      "title": "8 Best Bucket Hats For Men To Turn Heads All 2026 Long",
-      "link": "https://www.fashionbeans.com/article/best-bucket-hats-for-men/",
-      "summary": "Forget what your dad has told you about bucket hats. Unless he’s told you that they’re awesome. In that case, he’s totally right. A must-have for every warm-weather collection, the best bucket hats for men are the coolest way to shade yourself from the sun. Better yet, the summer-ready style comes in all sorts of &#823",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: 8 Best Bucket Hats For Men To Turn Heads All 2026 Long...",
-      "score": 2,
-      "published": "2026-08-07T12:40:54+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7177aaef7613",
       "title": "This Fashion Nonprofit Prepares Aspiring Female Designers for Economic Success",
       "link": "https://fashionista.com/2026/08/custom-collaborative-training-institute-designer-showcase",
@@ -1574,20 +1644,6 @@
       "angle": "Fashion Intelligence: The 16 Best Airbnbs in the Hamptons for a Last-Minute Summer Vacation...",
       "score": 0,
       "published": "2026-08-07T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "508e90717e11",
-      "title": "9 Best Men’s Polo Shirts You Can Comfortably Rock in 2026",
-      "link": "https://www.fashionbeans.com/article/best-mens-polo-shirt/",
-      "summary": "We all know the best men’s polo shirts are a good compromise between classy dress shirts and cozy tees. They’re often made with the same fabric as athletic wear and come in solid colors, vibrant hues, and bold patterns. They can be worn for a wide range of occasions, whether it’s in the office, at &#8230; Continue read",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: 9 Best Men’s Polo Shirts You Can Comfortably Rock in 2026...",
-      "score": 3,
-      "published": "2026-08-07T09:49:38+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1675,20 +1731,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f11de06d3bc8",
-      "title": "If You Can't Get a Wicker Husband, Try a Wicker Bag",
-      "link": "https://www.whowhatwear.com/fashion/handbags/best-wicker-bags",
-      "summary": "Seven ways to style the trend for fall.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: If You Can't Get a Wicker Husband, Try a Wicker Bag...",
-      "score": 2,
-      "published": "2026-08-07T02:11:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2688e5a9332d",
       "title": "How Jane Schoenbrun Found Terror and Ecstasy at Camp Miasma",
       "link": "https://www.harpersbazaar.com/culture/film-tv/a73296179/teenage-sex-and-death-at-camp-miasma-jane-schoenbrun-interview/",
@@ -1728,20 +1770,6 @@
       "angle": "Fashion Intelligence: Brooklyn PR Is Hiring A Freelance Publicist In Los Angeles...",
       "score": 1,
       "published": "2026-08-06T20:20:11+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1bcaafa1e04f",
-      "title": "Inside My Stay at the #1 Resort in France, Where Celebs and ITK Fashion People Go to Unplug",
-      "link": "https://www.whowhatwear.com/living/travel/crillon-le-brave-hotel-review",
-      "summary": "The quiet South of France escape is set in a 17th-century stone village in Provence.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Inside My Stay at the #1 Resort in France, Where Celebs and ITK Fashio...",
-      "score": 1,
-      "published": "2026-08-06T20:07:08+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1896,34 +1924,6 @@
       "angle": "Fashion Intelligence: Billie Eilish Is Completely Transformed in First Set Photos From The B...",
       "score": 0,
       "published": "2026-08-06T17:15:17+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0e91494760b5",
-      "title": "More Than Half of My Wardrobe Is Free People—The 15 Tops, Bottoms, and Dresses That Earn Me the Most Compliments",
-      "link": "https://www.whowhatwear.com/fashion/most-complimented-free-people-tops-bottoms-and-dresses",
-      "summary": "I might have snuck a few fall wish list items in here too.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: More Than Half of My Wardrobe Is Free People—The 15 Tops, Bottoms, and...",
-      "score": 1,
-      "published": "2026-08-06T17:12:26+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "eeadafe1e102",
-      "title": "7 Bestselling Skincare Products to Check Out If You're New to KBeauty",
-      "link": "https://www.whowhatwear.com/beauty/iherb-kbeauty-august-2026-sale",
-      "summary": "From a beloved eye serum to an intriguing peel-off mask.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 7 Bestselling Skincare Products to Check Out If You're New to KBeauty...",
-      "score": 1,
-      "published": "2026-08-06T16:27:04+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2515,6 +2515,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "9103f94dc229",
+      "title": "Punjabi Suit Design Guide: Neck Styles and Cuts to Know Before You Buy",
+      "link": "https://www.indianclothstore.com/blog/punjabi-suit-design-guide-neck-styles-and-cuts",
+      "summary": "The right punjabi suit design starts with the neckline, since it decides both comfort and how the outfit sits on the shoulders. Round necks, boat necks, and keyhole cuts are the three most requested styles at Indian Cloth Store, each suited to a different body type and occasion. Knowing which cut works before placing a",
+      "source": "Indian Cloth Store",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Punjabi Suit Design Guide: Neck Styles and Cuts to Know Before You Buy...",
+      "score": 3,
+      "published": "2026-07-28T05:32:48+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "106ac738dc6b",
       "title": "10 Unique Anarkali Suit Options For Raksha Bandhan",
       "link": "https://blog.kalkifashion.com/10-trending-anarkali-suits-for-raksha-bandhan/",
@@ -2540,6 +2554,34 @@
       "angle": "Bridal Edit: Skipping Red Bridal Lehengas? These Colors Are Winning Hearts This Wedding Season — A Complete Style Guide",
       "score": 5,
       "published": "2026-07-20T04:48:17+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "19b64ad7353c",
+      "title": "Jacket Style Lehenga Choli: What It Is and When to Wear One",
+      "link": "https://www.indianclothstore.com/blog/jacket-style-lehenga-choli-what-it-is-when-to-wear",
+      "summary": "A jacket style lehenga choli replaces the standard fitted blouse with a long, open-front jacket worn over a fitted inner blouse and a flared skirt. It works for sangeets, receptions, and festive parties where a buyer wants coverage on the arms with a modern silhouette. Indian Cloth Store stitches every jacket-style leh",
+      "source": "Indian Cloth Store",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Occasion Dressing",
+      "angle": "Bridal Edit: Jacket Style Lehenga Choli — A Complete Style Guide",
+      "score": 4,
+      "published": "2026-07-19T11:18:12+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dd2c7cfcf426",
+      "title": "Indo-Western Lehenga Choli vs Traditional Lehenga Choli: What’s the Difference",
+      "link": "https://www.indianclothstore.com/blog/indo-western-lehenga-choli-vs-traditional-lehenga-choli-whats-the-difference",
+      "summary": "An indo western lehenga choli combines Western styles such as crop tops, dresses or draped skirts with traditional lehenga features. A traditional lehenga choli sticks to the original three-piece structure of skirt, blouse, and dupatta. The difference sits mainly in the cut, the choli style, and the amount of drape use",
+      "source": "Indian Cloth Store",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Indo-Western Lehenga Choli vs Traditional Lehenga Choli — A Complete Style Guide",
+      "score": 5,
+      "published": "2026-07-15T14:57:59+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2610,6 +2652,34 @@
       "angle": "Bridal Edit: Designer Sherwani for Groom Designed for Timeless Wedding Celebrations — A Complete Style Guide",
       "score": 3,
       "published": "2026-06-27T05:13:39+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "daac22f17dda",
+      "title": "White Anarkali Dress Styling Guide: 9 Looks for Every Skin Tone and Occasion",
+      "link": "https://www.indianclothstore.com/blog/white-anarkali-dress-styling-guide-skin-tone-occasion",
+      "summary": "A white anarkali dress is one of the most versatile pieces in Indian ethnic wear — but most women either avoid it out of uncertainty or style it the same way every time. White works beautifully across skin tones when the fabric, embellishment, and accessories are chosen correctly. Indian Cloth Store has put together th",
+      "source": "Indian Cloth Store",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Trend Alert",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 6,
+      "published": "2026-06-22T06:49:04+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "af8f4f6185a1",
+      "title": "Frock Anarkali vs Classic Anarkali: Which Style Actually Suits Your Body Type?",
+      "link": "https://www.indianclothstore.com/blog/frock-anarkali-vs-classic-anarkali-suit",
+      "summary": "A frock anarkali suit and a classic anarkali suit look similar at first glance — both are floor-length, and both are stunning. But the silhouette, the cut, and the way each one sits on the body are completely different. Choosing the wrong one for your frame or your occasion is one of the most common mistakes Indian eth",
+      "source": "Indian Cloth Store",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Frock Anarkali vs Classic Anarkali: Which Style Actually Suits Your Bo...",
+      "score": 3,
+      "published": "2026-06-15T13:38:13+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2755,52 +2825,52 @@
   ],
   "trends": [
     {
-      "term": "supreme court",
+      "term": "ire vs afg",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "వార్త",
+      "term": "എ. ആര്. അമീന്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "मुख्यमंत्री लाड़ली बहना योजना",
+      "term": "कांवड़ यात्रा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "independence day 2026",
+      "term": "अधिवक्ता",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "content rewards",
+      "term": "విద్యుత్తు",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "manoramaonline",
+      "term": "షేర్-ఇ-పంజాబ్ టీ20 కప్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hpcl share price",
+      "term": "nta",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "tata motors share",
+      "term": "థ్రిల్లర్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "beml share price",
+      "term": "पप्पू यादव",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "jsw steel share price",
+      "term": "monsoon session lok sabha bills",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
