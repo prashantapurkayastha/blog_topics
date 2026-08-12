@@ -1,13 +1,97 @@
 {
-  "generated_at": "2026-08-12T06:13:53.951579+00:00",
-  "owned_count": 0,
+  "generated_at": "2026-08-12T09:10:45.573346+00:00",
+  "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 175,
+  "industry_count": 177,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "64233d57c043",
+      "title": "Jennifer Lopez Wears This French Riviera-Worthy Manicure—and Little Else",
+      "link": "https://www.vogue.com/article/jennifer-lopez-french-riviera-manicure",
+      "summary": "Fresh, clean, and somewhere between Jane Birkin’s effortless chic and Brigitte Bardot’s glam: Jennifer Lopez has mastered the summer nude.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Jennifer Lopez Wears This French Riviera-Worthy Manicure—and Little El...",
+      "score": 1,
+      "published": "2026-08-12T08:41:30+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4b8321f485e0",
+      "title": "Dashcam video shows moment of Atiq Ahmed's son's fatal crash, SUV flung into air",
+      "link": "https://www.indiatoday.in/india/story/atiq-ahmed-son-abaan-ahmed-crash-video-jhansi-police-verify-fatal-suv-accident-uttar-pradesh-2969324-2026-08-12?utm_source=rss",
+      "summary": "Dashcam video shows moment of Atiq Ahmed's son's fatal crash, SUV flung into air",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Dashcam video shows moment of Atiq Ahmed's son's fatal crash, SUV flun...",
+      "score": 1,
+      "published": "2026-08-12T08:04:27+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "530b7ad96d0b",
+      "title": "Not Black and White—The Coolest Dressers Are Opting For Bold Colour Combos This Season",
+      "link": "https://www.whowhatwear.com/fashion/trends/trending-colour-combinations-2026",
+      "summary": "Rainbows all round.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-12T07:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "57b74cf99958",
+      "title": "Aap badal gaye ho: When Kharge, Gandhi siblings met PM Modi at wedding event",
+      "link": "https://www.indiatoday.in/india/story/pm-modi-rahul-priyanka-gandhi-kharge-banter-wedding-event-viral-video-2969306-2026-08-12?utm_source=rss",
+      "summary": "Aap badal gaye ho: When Kharge, Gandhi siblings met PM Modi at wedding event",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Aap badal gaye ho — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-08-12T07:35:57+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "965b531d97f4",
+      "title": "Hold the Jeans—I Think Flip-Flops and Ballet Flats Look Chicest When Paired With This Summer Trend",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/long-short-outfits-summer-2026",
+      "summary": "A short cut.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-12T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "63dc6058b5ec",
+      "title": "I Live in NYC and Only Wear Walkable Shoe Trends That Go With Everything—7 That Have My Approval",
+      "link": "https://www.whowhatwear.com/fashion/shoes/walkable-nyc-shoe-trends-2026",
+      "summary": "Trust me—I get my steps in.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-12T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "ca47bbd85f4b",
       "title": "Not Chrome, Not Glitter—Aqua Glazed Nails Is the Trend to Try This August",
@@ -611,20 +695,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7e0baf34c2b0",
-      "title": "From the Archives: Cindy Crawford and Richard Gere’s November 1992 Cover Story",
-      "link": "https://www.vogue.com/article/from-the-archives-the-model-and-the-movie-star-november-1992",
-      "summary": "She’s a top cover girl and a TV personality on the rise. He’s a passionate actor and activist. Together Cindy Crawford and Richard Gere are Hollywood’s hottest couple. Julia Reed catches up with them at work and at home.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: From the Archives: Cindy Crawford and Richard Gere’s November 1992 Cov...",
-      "score": 0,
-      "published": "2026-08-11T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0bf3a3034b92",
       "title": "Kaia Gerber’s Best Red Carpet Looks, From Stylish Teen to Supermodel",
       "link": "https://www.vogue.com/slideshow/kaia-gerber-best-red-carpet-looks",
@@ -635,6 +705,20 @@
       "aza_category": "Celebrity Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
+      "published": "2026-08-11T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7e0baf34c2b0",
+      "title": "From the Archives: Cindy Crawford and Richard Gere’s November 1992 Cover Story",
+      "link": "https://www.vogue.com/article/from-the-archives-the-model-and-the-movie-star-november-1992",
+      "summary": "She’s a top cover girl and a TV personality on the rise. He’s a passionate actor and activist. Together Cindy Crawford and Richard Gere are Hollywood’s hottest couple. Julia Reed catches up with them at work and at home.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: From the Archives: Cindy Crawford and Richard Gere’s November 1992 Cov...",
+      "score": 0,
       "published": "2026-08-11T12:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -775,20 +859,6 @@
       "aza_category": "Celebrity Style",
       "angle": "Fashion Intelligence: Pick Up a New Hobby With These Watercolor Paint Sets...",
       "score": 0,
-      "published": "2026-08-11T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7cd07a47a547",
-      "title": "12 Pre-Fall Accessory Trends to Introduce to Your Wardrobe Now",
-      "link": "https://www.vogue.com/article/pre-fall-2026-acessory-trends",
-      "summary": "From scarves to layered necklaces, these pre-fall accessory trends mark the transition into autumn.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
       "published": "2026-08-11T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1731,48 +1801,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "cb2a04913095",
-      "title": "This Affordable, French-Inspired Style Tweak Makes Any Outfit Instantly Chicer",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/zendaya-elsa-hosk-bandana-summer-accessory-trend-2026",
-      "summary": "If its good enough for the It girls…",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: This Affordable, French-Inspired Style Tweak Makes Any Outfit Instantl...",
-      "score": 2,
-      "published": "2026-08-09T07:40:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "22c0e6bfbde3",
-      "title": "My Chic Mom Gave Me a $275 Budget—I Sent Her These 3 Affordable Summer Outfit Ideas From Nordstrom",
-      "link": "https://www.whowhatwear.com/fashion/shopping/affordable-nordstrom-outfit-ideas-summer-2026",
-      "summary": "And rich-looking.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: My Chic Mom Gave Me a $275 Budget—I Sent Her These 3 Affordable Summer...",
-      "score": 1,
-      "published": "2026-08-09T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "19296644e61a",
-      "title": "Trust Me—When You're Ready to Wear Jeans Again, You Should Wear Then Like This, This and This",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/summer-to-autumn-outfits-with-jeans-2026",
-      "summary": "Your guide to transitional denim.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Trust Me—When You're Ready to Wear Jeans Again, You Should Wear Then L...",
-      "score": 1,
-      "published": "2026-08-09T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "bb2e3a5271e3",
       "title": "Katie Holmes Wears a White Fforme Gown for a Summer Gala Date Night With Jason Yarmosky",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73382935/katie-holmes-jason-yarmosky-guild-hall-summer-gala-photos/",
@@ -2695,56 +2723,196 @@
       "score": 3,
       "published": "2026-06-15T13:38:13+00:00",
       "discovered_via": "feed"
+    },
+    {
+      "id": "d9d5a1c9b951",
+      "title": "Know Your Designer – Episode 54: Arpita Mehta",
+      "link": "https://www.azafashions.com/blog/know-your-designer-arpita-mehta/?utm_source=rss&utm_medium=rss&utm_campaign=know-your-designer-arpita-mehta",
+      "summary": "There's a certain kind of designer who doesn't follow trends—they quietly create them. Arpita Mehta is exactly that. While the fashion world was busy chasing maximalism for its own sake,&#8230; The post Know Your Designer &#8211; Episode 54: Arpita Mehta appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Know Your Designer – Episode 54: Arpita Mehta...",
+      "score": 3,
+      "published": "2026-08-08T22:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b5af25defc26",
+      "title": "Balloon Pants Are About to Be Everywhere This Season",
+      "link": "https://www.azafashions.com/blog/balloon-pants-are-about-to-be-everywhere/?utm_source=rss&utm_medium=rss&utm_campaign=balloon-pants-are-about-to-be-everywhere",
+      "summary": "Fashion has always played with volume. But right now, the conversation has shifted from simply adding fabric to sculpting it and balloon pants are leading that charge. This season's most&#8230; The post Balloon Pants Are About to Be Everywhere This Season appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-08T22:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9e0324e28c8e",
+      "title": "8 Color Combos to Make Your Gold Bridal Outfits Look Expensive",
+      "link": "https://www.azafashions.com/blog/gold-outfit-color-combinations/?utm_source=rss&utm_medium=rss&utm_campaign=gold-outfit-color-combinations",
+      "summary": "Gold is not really a colour. It is a decision. It is the shade that turns up to every occasion, weddings, festivals, red carpets, a Tuesday that suddenly needs elevating. And&#8230; The post 8 Color Combos to Make Your Gold Bridal Outfits Look Expensive appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: 8 Color Combos to Make Your Gold Bridal Outfits Look Expensive — A Complete Style Guide",
+      "score": 4,
+      "published": "2026-08-08T04:33:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5099f85cde6a",
+      "title": "Ananya Panday Paithani Saree Turns Heads at Filmfare Awards Marathi 2026",
+      "link": "https://www.azafashions.com/blog/ananya-panday-paithani-saree/?utm_source=rss&utm_medium=rss&utm_campaign=ananya-panday-paithani-saree",
+      "summary": "Every awards season leaves us with a handful of looks we'll forget by next week. And then there's that one outfit you keep coming back to, not because it's dramatic&#8230; The post Ananya Panday Paithani Saree Turns Heads at Filmfare Awards Marathi 2026 appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Ananya Panday Paithani Saree Turns Heads at Filmfare Awards Marathi 20...",
+      "score": 3,
+      "published": "2026-08-07T10:30:37+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e8daa5d6f4f1",
+      "title": "National Handloom Day 2026: India’s Iconic Weaves that Refuse to be Forgotten",
+      "link": "https://www.azafashions.com/blog/national-handloom-day-iconic-indian-weaves/?utm_source=rss&utm_medium=rss&utm_campaign=national-handloom-day-iconic-indian-weaves",
+      "summary": "There is a particular sound a handloom makes, the wooden clack of the shuttle, the rhythmic thud of the reed pressing thread into place, that no machine has ever managed&#8230; The post National Handloom Day 2026: India&#8217;s Iconic Weaves that Refuse to be Forgotten appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
+      "score": 1,
+      "published": "2026-08-07T09:59:13+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "006373f8248e",
+      "title": "7 Wedding Accessory Trends That Will Be Everywhere in 2027",
+      "link": "https://www.azafashions.com/blog/wedding-accessory-trends/?utm_source=rss&utm_medium=rss&utm_campaign=wedding-accessory-trends",
+      "summary": "Weddings are getting louder in the details. The outfit sets the stage, but this season, it's the accessories doing the talking. Here's what's about to be everywhere. From sculptural mini bags and waist-cinching belts to stacked anklets and barely-there veils,&#8230; The post 7 Wedding Accessory Trends That Will Be Ever",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Bridal Edit: 7 Wedding Accessory Trends That Will Be Everywhere in 2027 — A Complete Style Guide",
+      "score": 5,
+      "published": "2026-08-07T03:11:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0e64cef3d99b",
+      "title": "Gen Z’s Favourite Statement Jewellery Trends of the Season",
+      "link": "https://www.azafashions.com/blog/gen-z-jewellery-trends/?utm_source=rss&utm_medium=rss&utm_campaign=gen-z-jewellery-trends",
+      "summary": "Forget \"timeless.\" Forget \"classic.\" Gen Z didn't come here for your grandmother's jewellery box rules, they came to remix them. Whether it's designer jewellery layered over a basic tee, statement earrings that steal the spotlight, sculptural gold necklaces, chunky rings, or playful hair accessories,&#8230; The post Ge",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
+      "published": "2026-08-06T20:59:09+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "978d04cc7533",
+      "title": "Not Another Gift Card: 5 Rakhi Gifts from Araiya by Aza Your Sister Will Actually Love",
+      "link": "https://www.azafashions.com/blog/rakhi-gifts-for-sisters-araiya-by-aza/?utm_source=rss&utm_medium=rss&utm_campaign=rakhi-gifts-for-sisters-araiya-by-aza",
+      "summary": "Every Raksha Bandhan comes with the same question: What do you gift the sister who has already claimed half your wardrobe, your favourite snacks, and most of your patience? Flowers fade, gift&#8230; The post Not Another Gift Card: 5 Rakhi Gifts from Araiya by Aza Your Sister Will Actually Love appeared first on Aza Edi",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Not Another Gift Card: 5 Rakhi Gifts from Araiya by Aza Your Sister Wi...",
+      "score": 0,
+      "published": "2026-08-06T06:04:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "106335b573c7",
+      "title": "Modern Brides Are Saying Yes to Statement Hair Accessories",
+      "link": "https://www.azafashions.com/blog/statement-hair-accessories/?utm_source=rss&utm_medium=rss&utm_campaign=statement-hair-accessories",
+      "summary": "The bridal conversation has shifted. Where once a bride's styling story began and ended with her lehenga and jewellery, today's modern bride understands something the fashion world has long known:&#8230; The post Modern Brides Are Saying Yes to Statement Hair Accessories appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Modern Brides Are Saying Yes to Statement Hair Accessories — A Complete Style Guide",
+      "score": 4,
+      "published": "2026-08-05T09:37:25+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "098cae667a43",
+      "title": "What to Wear on a Yacht Holiday This Summer",
+      "link": "https://www.azafashions.com/blog/what-to-wear-on-a-yacht-holiday/?utm_source=rss&utm_medium=rss&utm_campaign=what-to-wear-on-a-yacht-holiday",
+      "summary": "There's something about the combination of open water, salty air, and golden-hour light that demands a wardrobe to match. Yacht dressing occupies a unique space in fashion—somewhere between holiday ease&#8230; The post What to Wear on a Yacht Holiday This Summer appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 3,
+      "published": "2026-08-05T09:08:15+00:00",
+      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "jamaica kingsmen vs barbados tridents",
+      "term": "hal share price",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "n chandrasekaran",
+      "term": "स्वरा भास्कर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "टोयोटा",
+      "term": "వరద",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "chennai international airport",
-      "summary": "",
-      "aza_category": "Celebrity Style"
-    },
-    {
-      "term": "oracle layoffs",
+      "term": "ಮಧು ಬಂಗಾರಪ್ಪ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "हार्दिक पांड्या",
+      "term": "विजय",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "సినిమా",
+      "term": "కార్యదర్శి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "राशियाँ",
+      "term": "സുപ്രീം കോടതി",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "independence day 2026",
+      "term": "எதிர்நீச்சல்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "milky mist ipo",
+      "term": "google pixel",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "અમિતાભ બચ્ચન",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
