@@ -1,13 +1,83 @@
 {
-  "generated_at": "2026-08-14T03:56:12.976186+00:00",
+  "generated_at": "2026-08-14T06:13:44.611152+00:00",
   "owned_count": 10,
-  "competitor_count": 18,
+  "competitor_count": 12,
   "industry_count": 177,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "4635f5aaf248",
+      "title": "A Top Manicurist Just Told Me That These 6 Nail Trends Will Always Be in Style",
+      "link": "https://www.whowhatwear.com/beauty/nails/timeless-nail-trends",
+      "summary": "Totally timeless.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-14T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "62bc95ee8270",
+      "title": "This Understated, Affordable Basic Will Make Your Outfits Look 10 Times Chicer This Autumn",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-long-sleeved-t-shirts",
+      "summary": "A cool-girl favourite.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: This Understated, Affordable Basic Will Make Your Outfits Look 10 Time...",
+      "score": 1,
+      "published": "2026-08-14T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "033db820d6ce",
+      "title": "7 Classic Trends Every Chic Parisian Will Wear This Autumn",
+      "link": "https://www.whowhatwear.com/fashion/trends/parisian-classic-fall-trends-uk",
+      "summary": "Vive l'automne!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-14T05:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0acd120d2608",
+      "title": "Carmen Busquets Partners with Parsons on Award for Disabled Students",
+      "link": "https://www.vogue.com/article/carmen-busquets-partners-with-parsons-on-award-for-disabled-students",
+      "summary": "The $12,500 grant will support the futures of aspiring fashion leaders through mentorship and collaboration opportunities.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Carmen Busquets Partners with Parsons on Award for Disabled Students...",
+      "score": 1,
+      "published": "2026-08-14T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5184b16012f9",
+      "title": "How to Attract Gen Z’s New Club Kids",
+      "link": "https://www.vogue.com/article/how-to-attract-gen-zs-new-club-kids",
+      "summary": "It’s widely believed that Gen Z don’t party like other generations. But a new crop of influencers and social media savvy DJs are driving young crowds to party capitals like Ibiza. Should brands hit the club?",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How to Attract Gen Z’s New Club Kids...",
+      "score": 1,
+      "published": "2026-08-14T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "c9bbc778c76d",
       "title": "Gabbriette's Post-Wedding Vintage John Galliano Shoes Belong at the 2027 Met Gala",
@@ -583,6 +653,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "f6cb00de1deb",
+      "title": "5 One-Woman Shows Well Worth Seeing at Edinburgh Fringe 2026",
+      "link": "https://www.vogue.com/article/5-one-woman-shows-edinburgh-fringe-2026",
+      "summary": "Amanda Knox is far from the only woman with a solo show at Edinburgh Fringe this August!",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: 5 One-Woman Shows Well Worth Seeing at Edinburgh Fringe 2026...",
+      "score": 1,
+      "published": "2026-08-13T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "a4eb20014c56",
       "title": "Asos' Latest Initiative? Platforming Emerging Designers",
       "link": "https://fashionista.com/2026/08/asos-arrange-bespoke-emerging-designers-collaborations",
@@ -723,10 +807,10 @@
       "discovered_via": "feed"
     },
     {
-      "id": "df2f9da51592",
-      "title": "Autumn's First Major Trend Is Here, and It's Already All Over Zara, H&M and Róhe",
-      "link": "https://www.whowhatwear.com/fashion/fall/frog-fastening-jackets",
-      "summary": "Sorry to my trench coats.",
+      "id": "e196c74101fe",
+      "title": "I'm Ready For Autumn But It's Still Hot—7 Chic Trouser Trends That Work For Both",
+      "link": "https://www.whowhatwear.com/fashion/shopping/transitional-trouser-trends-2026",
+      "summary": "Autumn-friendly and heatwave-proof.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -751,10 +835,10 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e196c74101fe",
-      "title": "I'm Ready For Autumn But It's Still Hot—7 Chic Trouser Trends That Work For Both",
-      "link": "https://www.whowhatwear.com/fashion/shopping/transitional-trouser-trends-2026",
-      "summary": "Autumn-friendly and heatwave-proof.",
+      "id": "df2f9da51592",
+      "title": "Autumn's First Major Trend Is Here, and It's Already All Over Zara, H&M and Róhe",
+      "link": "https://www.whowhatwear.com/fashion/fall/frog-fastening-jackets",
+      "summary": "Sorry to my trench coats.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -779,20 +863,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ab2bf8c6e2bc",
-      "title": "How Exclusive Access Became the New Birkin",
-      "link": "https://www.vogue.com/article/how-exclusive-access-became-the-new-birkin",
-      "summary": "As tiered reward systems first popularized by finance and travel hit fashion, status is shifting from what you own to where you can go.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: How Exclusive Access Became the New Birkin...",
-      "score": 1,
-      "published": "2026-08-13T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "86a3ba67380b",
       "title": "The Vogue Business TikTok Trend Tracker",
       "link": "https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker",
@@ -802,6 +872,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-13T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ab2bf8c6e2bc",
+      "title": "How Exclusive Access Became the New Birkin",
+      "link": "https://www.vogue.com/article/how-exclusive-access-became-the-new-birkin",
+      "summary": "As tiered reward systems first popularized by finance and travel hit fashion, status is shifting from what you own to where you can go.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: How Exclusive Access Became the New Birkin...",
       "score": 1,
       "published": "2026-08-13T04:30:00+00:00",
       "discovered_via": "feed"
@@ -874,48 +958,6 @@
       "angle": "Fashion Intelligence: 46 Thoughts I Had About Episode 3 of ‘The Shards’...",
       "score": 0,
       "published": "2026-08-13T02:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7f93396115c4",
-      "title": "The 3 Hair-Care Habits I Picked Up at a Korean Scalp Spa",
-      "link": "https://www.vogue.com/article/korean-scalp-spa-hair-lessons",
-      "summary": "What can a Korean scalp spa teach you about hair care? One Vogue writer thought she had her routine down—until a scalp analysis revealed three steps she needed to change.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The 3 Hair-Care Habits I Picked Up at a Korean Scalp Spa...",
-      "score": 0,
-      "published": "2026-08-13T00:57:56+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "53f49785ff85",
-      "title": "The Best Rose Perfumes Pay Respect to the Heritage Note—Then Completely Disrupt It",
-      "link": "https://www.vogue.com/article/best-rose-perfume",
-      "summary": "Rose is no longer a singular olfactive expression. Fruity and sweet, or fresh and crisp, these blends prove how perfumers are putting a modern twist on the classic bloom.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Art & Craft",
-      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
-      "score": 0,
-      "published": "2026-08-12T23:27:55+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "eda8a3661693",
-      "title": "Oatmeal: A Bedtime Snack Scientifically Proven for Better Sleep",
-      "link": "https://www.vogue.com/article/oatmeal-before-bed",
-      "summary": "A nutritionist explains the science, potential benefits, and best way to prepare it at night.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Oatmeal: A Bedtime Snack Scientifically Proven for Better Sleep...",
-      "score": 0,
-      "published": "2026-08-12T23:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1381,20 +1423,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b6025b5245fb",
-      "title": "Attention—Drunk Elephant Just Launched Foundation, and I’m Never Going Back to Tinted Moisturizer",
-      "link": "https://www.whowhatwear.com/beauty/makeup/drunk-elephant-kamo-triple-peptide-cover-drops",
-      "summary": "I've worn it every single day for a month.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-08-11T20:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "4d6a9f05d3c8",
       "title": "If You Want Classic Pieces, Shop 31 Early Fall Shopbop Items You'll Wear for Years to Come",
       "link": "https://www.whowhatwear.com/fashion/shopping/shopbop-classic-fall-fashion-august-2026",
@@ -1404,6 +1432,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: If You Want Classic Pieces, Shop 31 Early Fall Shopbop Items You'll We...",
+      "score": 1,
+      "published": "2026-08-11T20:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b6025b5245fb",
+      "title": "Attention—Drunk Elephant Just Launched Foundation, and I’m Never Going Back to Tinted Moisturizer",
+      "link": "https://www.whowhatwear.com/beauty/makeup/drunk-elephant-kamo-triple-peptide-cover-drops",
+      "summary": "I've worn it every single day for a month.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 1,
       "published": "2026-08-11T20:00:00+00:00",
       "discovered_via": "feed"
@@ -1577,20 +1619,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f20a2cade228",
-      "title": "It’s Landed—The Early Autumn Shoes and Jeans Formula Fashion People Will Live in From September",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/blue-button-down-jeans-boat-shoes-autumn-outfit-elsa-hosk-2026",
-      "summary": "Get to know.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: It’s Landed—The Early Autumn Shoes and Jeans Formula Fashion People Wi...",
-      "score": 1,
-      "published": "2026-08-11T14:33:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "df6d660ca694",
       "title": "Anne Hathaway Bares Her Baby Bump With a Ruffled Sleeveless Top",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73402457/anne-hathaway-bares-baby-bump-jimmy-kimmel-live-photos/",
@@ -1647,20 +1675,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "73ceb568baaf",
-      "title": "I'm the Founder of a Fashion Brand and a Mom—These Are the Staples in My Capsule Wardrobe",
-      "link": "https://www.whowhatwear.com/fashion/shopping/stitch-fix-favorite-daughter",
-      "summary": "Sara Foster of Favorite Daughter.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm the Founder of a Fashion Brand and a Mom—These Are the Staples in ...",
-      "score": 2,
-      "published": "2026-08-11T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3c3e7f16bb9e",
       "title": "The Internet Declares 'No-Makeup Makeup' Dead",
       "link": "https://fashionista.com/2026/08/reddit-the-peoples-beauty-index-report-2026",
@@ -1686,20 +1700,6 @@
       "angle": "Fashion Intelligence: Michael Kors Fall 2026 Celebrates Legends of the Stage...",
       "score": 1,
       "published": "2026-08-11T11:43:31+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "da24dcbde3e1",
-      "title": "Shelve Your Flip-Flops—Elegant Dressers Are Wearing Minis With This More Comfortable Sandal Right Now",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/ankle-strap-sandals-white-minidress-outfit-emma-watson-2026",
-      "summary": "What's not to love?",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-08-11T11:26:32+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2487,20 +2487,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "75f6ee6d0efa",
-      "title": "Raksha Bandhan Outfit Ideas for Sisters and Brothers That Actually Match",
-      "link": "https://www.indianclothstore.com/blog/saree-for-rakshabandhan-outfit-ideas",
-      "summary": "A good saree for rakshabandhan paired with a matching kurta for the brother is the easiest way to create a coordinated Raksha Bandhan look without shopping for separate color palettes. This guide covers saree picks, kurti options, salwar kameez styles, men&#8217;s kurta pajama pairings, and color combinations that phot",
-      "source": "Indian Cloth Store",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Raksha Bandhan Outfit Ideas for Sisters and Brothers That Actually Mat...",
-      "score": 4,
-      "published": "2026-08-13T05:06:08+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "8588fe449fdb",
       "title": "Trending Indo Western Dresses For Raksha Bandhan",
       "link": "https://blog.kalkifashion.com/trending-indo-western-dresses-for-raksha-bandhan/",
@@ -2599,20 +2585,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9103f94dc229",
-      "title": "Punjabi Suit Design Guide: Neck Styles and Cuts to Know Before You Buy",
-      "link": "https://www.indianclothstore.com/blog/punjabi-suit-design-guide-neck-styles-and-cuts",
-      "summary": "The right punjabi suit design starts with the neckline, since it decides both comfort and how the outfit sits on the shoulders. Round necks, boat necks, and keyhole cuts are the three most requested styles at Indian Cloth Store, each suited to a different body type and occasion. Knowing which cut works before placing a",
-      "source": "Indian Cloth Store",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Punjabi Suit Design Guide: Neck Styles and Cuts to Know Before You Buy...",
-      "score": 3,
-      "published": "2026-07-28T05:32:48+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "106ac738dc6b",
       "title": "10 Unique Anarkali Suit Options For Raksha Bandhan",
       "link": "https://blog.kalkifashion.com/10-trending-anarkali-suits-for-raksha-bandhan/",
@@ -2638,34 +2610,6 @@
       "angle": "Bridal Edit: Skipping Red Bridal Lehengas? These Colors Are Winning Hearts This Wedding Season — A Complete Style Guide",
       "score": 5,
       "published": "2026-07-20T04:48:17+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "19b64ad7353c",
-      "title": "Jacket Style Lehenga Choli: What It Is and When to Wear One",
-      "link": "https://www.indianclothstore.com/blog/jacket-style-lehenga-choli-what-it-is-when-to-wear",
-      "summary": "A jacket style lehenga choli replaces the standard fitted blouse with a long, open-front jacket worn over a fitted inner blouse and a flared skirt. It works for sangeets, receptions, and festive parties where a buyer wants coverage on the arms with a modern silhouette. Indian Cloth Store stitches every jacket-style leh",
-      "source": "Indian Cloth Store",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Occasion Dressing",
-      "angle": "Bridal Edit: Jacket Style Lehenga Choli — A Complete Style Guide",
-      "score": 4,
-      "published": "2026-07-19T11:18:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "dd2c7cfcf426",
-      "title": "Indo-Western Lehenga Choli vs Traditional Lehenga Choli: What’s the Difference",
-      "link": "https://www.indianclothstore.com/blog/indo-western-lehenga-choli-vs-traditional-lehenga-choli-whats-the-difference",
-      "summary": "An indo western lehenga choli combines Western styles such as crop tops, dresses or draped skirts with traditional lehenga features. A traditional lehenga choli sticks to the original three-piece structure of skirt, blouse, and dupatta. The difference sits mainly in the cut, the choli style, and the amount of drape use",
-      "source": "Indian Cloth Store",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Indo-Western Lehenga Choli vs Traditional Lehenga Choli — A Complete Style Guide",
-      "score": 5,
-      "published": "2026-07-15T14:57:59+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2708,34 +2652,6 @@
       "angle": "Bridal Edit: Designer Sherwani for Groom Designed for Timeless Wedding Celebrations — A Complete Style Guide",
       "score": 3,
       "published": "2026-06-27T05:13:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "daac22f17dda",
-      "title": "White Anarkali Dress Styling Guide: 9 Looks for Every Skin Tone and Occasion",
-      "link": "https://www.indianclothstore.com/blog/white-anarkali-dress-styling-guide-skin-tone-occasion",
-      "summary": "A white anarkali dress is one of the most versatile pieces in Indian ethnic wear — but most women either avoid it out of uncertainty or style it the same way every time. White works beautifully across skin tones when the fabric, embellishment, and accessories are chosen correctly. Indian Cloth Store has put together th",
-      "source": "Indian Cloth Store",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Trend Alert",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 6,
-      "published": "2026-06-22T06:49:04+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "af8f4f6185a1",
-      "title": "Frock Anarkali vs Classic Anarkali: Which Style Actually Suits Your Body Type?",
-      "link": "https://www.indianclothstore.com/blog/frock-anarkali-vs-classic-anarkali-suit",
-      "summary": "A frock anarkali suit and a classic anarkali suit look similar at first glance — both are floor-length, and both are stunning. But the silhouette, the cut, and the way each one sits on the body are completely different. Choosing the wrong one for your frame or your occasion is one of the most common mistakes Indian eth",
-      "source": "Indian Cloth Store",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Frock Anarkali vs Classic Anarkali: Which Style Actually Suits Your Bo...",
-      "score": 3,
-      "published": "2026-06-15T13:38:13+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2881,52 +2797,52 @@
   ],
   "trends": [
     {
-      "term": "चोरी",
+      "term": "agadha movie review",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cruz azul vs chicago fire fc standings",
+      "term": "వరి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ஈரான்",
+      "term": "आग",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ángel di maría",
+      "term": "പെട്രോള്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ശ്രീകുമാരന് തമ്പി",
+      "term": "क्राइम थ्रिलर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "15 august 2026 which independence day",
+      "term": "har ghar tiranga certificate",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ys jagan",
+      "term": "lg electronics india share price",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "वीडियो",
+      "term": "शेयर प्राइस",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ambala news",
+      "term": "శ్రీదేవి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "h-1b visa",
+      "term": "खेत",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
