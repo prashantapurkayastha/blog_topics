@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T02:52:28.502124+00:00",
+  "generated_at": "2026-08-16T05:27:45.382398+00:00",
   "owned_count": 10,
   "competitor_count": 17,
   "industry_count": 178,
@@ -8,6 +8,20 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "3dd6abd22cd8",
+      "title": "Fresh Off the Runway—7 Designer Bags That Are Already Claiming It Status for Autumn",
+      "link": "https://www.whowhatwear.com/fashion/handbags/designer-autumn-it-bags-2026",
+      "summary": "From The Row to Gucci.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Fresh Off the Runway—7 Designer Bags That Are Already Claiming It Stat...",
+      "score": 2,
+      "published": "2026-08-16T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "57917ce2c2a0",
       "title": "As Bulldozers Arrive at the Border in Big Bend, Here’s What You Can Still Do to Protect the Park",
@@ -233,20 +247,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8657bdde5933",
-      "title": "Discover the Best Dresses for Every August Occasion",
-      "link": "https://www.vogue.com/article/dresses",
-      "summary": "Explore the best dresses of the month, from silk maxidresses to practical striped shirtdresses. Shop a wide selection of handpicked Vogue dresses.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 3,
-      "published": "2026-08-15T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0adea757e35f",
       "title": "The Scandi Street Style Way to Wear Sheers",
       "link": "https://www.vogue.com/article/the-scandi-street-style-way-to-wear-sheers",
@@ -256,6 +256,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: The Scandi Street Style Way to Wear Sheers...",
+      "score": 3,
+      "published": "2026-08-15T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8657bdde5933",
+      "title": "Discover the Best Dresses for Every August Occasion",
+      "link": "https://www.vogue.com/article/dresses",
+      "summary": "Explore the best dresses of the month, from silk maxidresses to practical striped shirtdresses. Shop a wide selection of handpicked Vogue dresses.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Festive Dressing: How to Own This Occasion",
       "score": 3,
       "published": "2026-08-15T10:00:00+00:00",
       "discovered_via": "feed"
@@ -1591,20 +1605,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1ceb2796f757",
-      "title": "Pedis at the Ready: I Think Flip-Flops and Ballet Flats Look Coolest When Styled With This Divisive Sock Trend",
-      "link": "https://www.whowhatwear.com/fashion/trends/toeless-sock-trend-2026",
-      "summary": "Footloose, but make it cool.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-13T07:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "00fc6753a7a0",
       "title": "How to Make Ballet Flats Feel Fresh Again",
       "link": "https://www.harpersbazaar.com/fashion/trends/a73403742/how-to-style-ballet-flats/",
@@ -2881,54 +2881,54 @@
   ],
   "trends": [
     {
-      "term": "mackenzie dern",
+      "term": "up scholarship",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "jalin turner",
+      "term": "खेल",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kaue fernandes",
+      "term": "india vs sri lanka test",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mitchell starc",
-      "summary": "",
-      "aza_category": "Celebrity Style"
-    },
-    {
-      "term": "cami clark",
+      "term": "ओमान",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सुखोई",
+      "term": "mominul haque",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "16 august",
+      "term": "ayushman bharat card",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "இந்தியா",
+      "term": "cholesterol",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ufc today",
+      "term": "alexander zverev",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "batwara 1947 collection",
+      "term": "तारक मेहता का उल्टा चश्मा",
       "summary": "",
-      "aza_category": "Designer Spotlight"
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "nathan lyon",
+      "summary": "",
+      "aza_category": "Fashion & Style"
     }
   ],
   "tracked_keywords": [
