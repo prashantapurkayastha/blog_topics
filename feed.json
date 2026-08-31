@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T07:53:45.322576+00:00",
+  "generated_at": "2026-08-31T11:23:14.280870+00:00",
   "owned_count": 10,
   "competitor_count": 20,
   "industry_count": 178,
@@ -8,6 +8,146 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "b44fa2aa5e77",
+      "title": "Yoshio Kubo Tokyo Spring 2027",
+      "link": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/yoshio-kubo",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Yoshio Kubo Tokyo Spring 2027...",
+      "score": 0,
+      "published": "2026-08-31T11:22:19+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "796d22a589bf",
+      "title": "The Graphic T-Shirts That Won Summer",
+      "link": "https://www.vogue.com/slideshow/the-graphic-t-shirts-that-won-summer",
+      "summary": "From Harry Styles and Zoë Kravitz’s shared wardrobe of slogan shirts to “Spoiled Boy” Pedro Pascal: these are the graphic t-shirts that said it with feeling.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Graphic T-Shirts That Won Summer...",
+      "score": 1,
+      "published": "2026-08-31T11:17:18+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c881b0ce11c6",
+      "title": "Victoria Beckham Holdings Hits Profitability",
+      "link": "https://www.vogue.com/article/victoria-beckham-holdings-hits-profitability",
+      "summary": "The brand, launched in 2008, posted its first operating profit, marking a “significant milestone.”",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Victoria Beckham Holdings Hits Profitability...",
+      "score": 2,
+      "published": "2026-08-31T11:01:11+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2f7c2368e4d4",
+      "title": "How ODOP is taking Kannauj's traditional perfume business to global markets",
+      "link": "https://www.indiatoday.in/india/video/up-odop-kannauj-traditional-perfume-business-global-markets-utrith-2983678-2026-08-31?utm_source=rss",
+      "summary": "How ODOP is taking Kannauj's traditional perfume business to global markets",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: How ODOP is taking Kannauj's traditional perfume business to global ma...",
+      "score": 1,
+      "published": "2026-08-31T10:16:40+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "680045a0e93f",
+      "title": "Fall and Suede Bags Were Made for Each Other",
+      "link": "https://www.vogue.com/article/suede-bags",
+      "summary": "Shop the season’s must-have suede bags, from structured top-handles to roomy, relaxed shapes—perfect for adding a touch of texture to your wardrobe.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Fall and Suede Bags Were Made for Each Other...",
+      "score": 1,
+      "published": "2026-08-31T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fed4a7eae67d",
+      "title": "When a Friend Steals Your Baby Name",
+      "link": "https://www.vogue.com/article/when-a-friend-steals-your-baby-name",
+      "summary": "“It was a family name that my entire girl group knew about, so when this particular friend announced she was going to use it, we were all shocked—especially because I was single at the time.”",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: When a Friend Steals Your Baby Name...",
+      "score": 0,
+      "published": "2026-08-31T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "48ef20a54e27",
+      "title": "6 Stylish Ways to Wear Barrel Leg Jeans Right Now",
+      "link": "https://www.vogue.com/article/barrel-leg-jeans-outfits",
+      "summary": "Styling barrel-leg leans is all about striking the right balance between fit and volume—here, Vogue shows six ways to wear them.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: 6 Stylish Ways to Wear Barrel Leg Jeans Right Now...",
+      "score": 2,
+      "published": "2026-08-31T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0689d82906ee",
+      "title": "10 Black-and-White Outfits to Master Transitional Dressing",
+      "link": "https://www.vogue.com/article/black-and-white-outfits",
+      "summary": "From white tees and fluid black trousers to sleek skirts and lightweight layers, here are 10 black and white outfits to try—with styling tricks to elevate each.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 10 Black-and-White Outfits to Master Transitional Dressing...",
+      "score": 2,
+      "published": "2026-08-31T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "67333ea82084",
+      "title": "Ib Kamara Departs Off-White",
+      "link": "https://www.vogue.com/article/ib-kamara-departs-off-white",
+      "summary": "Four years after succeeding founder Virgil Abloh as the creative lead at Off-White, Ib Kamara has departed the brand.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Ib Kamara Departs Off-White...",
+      "score": 1,
+      "published": "2026-08-31T09:47:02+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "30b159ef8158",
+      "title": "Not Kendall, Not Hailey—I’m Taking My Autumn Wardrobe Cues From This Unsung Style Icon",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/margaret-qualley-outfits",
+      "summary": "Chic every time.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Not Kendall, Not Hailey—I’m Taking My Autumn Wardrobe Cues From This U...",
+      "score": 1,
+      "published": "2026-08-31T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "fa76d23106a9",
       "title": "This Stylish New Scottish Highlands Retreat Is a Love Letter to Its Natural Surroundings",
@@ -48,20 +188,6 @@
       "angle": "Fashion Intelligence: Cut Through All The Retail Noise: These Nordstrom Shoes Picks Will Tur...",
       "score": 1,
       "published": "2026-08-31T06:56:15+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "942ce4825093",
-      "title": "Ankit Baliyan Murder: Exclusive Hotel CCTV Shows Shooters' Recce; 2 Suspects Killed In Encounter",
-      "link": "https://www.indiatoday.in/india/video/ankit-baliyan-murder-exclusive-hotel-cctv-shows-shooters-recce-2-suspects-killed-in-encounter-ytvd-2983505-2026-08-31?utm_source=rss",
-      "summary": "Ankit Baliyan Murder: Exclusive Hotel CCTV Shows Shooters' Recce; 2 Suspects Killed In Encounter",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Ankit Baliyan Murder: Exclusive Hotel CCTV Shows Shooters' Recce; 2 Su...",
-      "score": 1,
-      "published": "2026-08-31T06:52:48+00:00",
       "discovered_via": "feed"
     },
     {
@@ -317,20 +443,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "296f7b5c1ebb",
-      "title": "Everything to Know About the 2026 US Open",
-      "link": "https://www.whowhatwear.com/fashion/us-open-2026-fashion-fan-guide",
-      "summary": "From fashion collaborations to must-watch matches.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Everything to Know About the 2026 US Open...",
-      "score": 1,
-      "published": "2026-08-30T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a70a1934b6cd",
       "title": "Then and Now: Making an Entrance in Tennis",
       "link": "https://www.whowhatwear.com/fashion/us-open-tennis-player-outfits-sunita-kumar-nair-interview",
@@ -340,6 +452,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Then and Now: Making an Entrance in Tennis...",
+      "score": 1,
+      "published": "2026-08-30T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "296f7b5c1ebb",
+      "title": "Everything to Know About the 2026 US Open",
+      "link": "https://www.whowhatwear.com/fashion/us-open-2026-fashion-fan-guide",
+      "summary": "From fashion collaborations to must-watch matches.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Everything to Know About the 2026 US Open...",
       "score": 1,
       "published": "2026-08-30T11:00:00+00:00",
       "discovered_via": "feed"
@@ -415,10 +541,10 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f3f1eae4ebf5",
-      "title": "It’s Back: To Make the Bohemian Fashion Trend Look Chic This Autumn, Wear These 8 Pieces",
-      "link": "https://www.whowhatwear.com/fashion/fall/bohemian-autumn-dressing-2026",
-      "summary": "Long live boho.",
+      "id": "3eec76c119b9",
+      "title": "Elegant It Girls are Swapping These 5 “Dated” Autumn Fashion Trends for These Chicer Alternatives",
+      "link": "https://www.whowhatwear.com/fashion/fall/dated-fashion-trends-autumn-2026",
+      "summary": "The seasonal shift begins.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -429,10 +555,10 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3eec76c119b9",
-      "title": "Elegant It Girls are Swapping These 5 “Dated” Autumn Fashion Trends for These Chicer Alternatives",
-      "link": "https://www.whowhatwear.com/fashion/fall/dated-fashion-trends-autumn-2026",
-      "summary": "The seasonal shift begins.",
+      "id": "f3f1eae4ebf5",
+      "title": "It’s Back: To Make the Bohemian Fashion Trend Look Chic This Autumn, Wear These 8 Pieces",
+      "link": "https://www.whowhatwear.com/fashion/fall/bohemian-autumn-dressing-2026",
+      "summary": "Long live boho.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -454,6 +580,20 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
       "published": "2026-08-30T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3fe8cabcd2c1",
+      "title": "20 Best Jean Brands for Men in 2026",
+      "link": "https://www.fashionbeans.com/article/best-jeans-brands/",
+      "summary": "Jeans are often considered a generic product, so ubiquitous in our wardrobes that they’re the single most widely-worn garment on the planet. As such, to invest in a pair from expensive jeans brands can, to some, still seem a little excessive. But for those obsessed with jeans &#8211; and there are some real obsessives ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 20 Best Jean Brands for Men in 2026...",
+      "score": 1,
+      "published": "2026-08-30T07:00:21+00:00",
       "discovered_via": "feed"
     },
     {
@@ -499,20 +639,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5d0ec9aa2797",
-      "title": "I Exclusively Wear Brown Lip Gloss—These 7 Formulas Are Always in My Makeup Bag",
-      "link": "https://www.whowhatwear.com/best-brown-lip-glosses-uk",
-      "summary": "From Rhode to Dior.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Exclusively Wear Brown Lip Gloss—These 7 Formulas Are Always in My M...",
-      "score": 1,
-      "published": "2026-08-30T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ba7209e9fa33",
       "title": "I Just Spotted 5 Trends at H&M That Will Make Your Autumn Wardrobe Instantly More Elegant",
       "link": "https://www.whowhatwear.com/fashion/affordable/hm-autumn-trends-2026",
@@ -522,6 +648,20 @@
       "is_competitor": false,
       "aza_category": "Celebrity Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-08-30T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5d0ec9aa2797",
+      "title": "I Exclusively Wear Brown Lip Gloss—These 7 Formulas Are Always in My Makeup Bag",
+      "link": "https://www.whowhatwear.com/best-brown-lip-glosses-uk",
+      "summary": "From Rhode to Dior.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Exclusively Wear Brown Lip Gloss—These 7 Formulas Are Always in My M...",
       "score": 1,
       "published": "2026-08-30T06:00:00+00:00",
       "discovered_via": "feed"
@@ -821,20 +961,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "92fd69539c16",
-      "title": "What Would a ‘How to Lose a Guy in 10 Days’ Sequel Even Be About? 5 Predictions",
-      "link": "https://www.vogue.com/article/how-to-lose-a-guy-in-10-days-sequel-plot-predictions",
-      "summary": "“I want dating apps, I want ghosting, I want breadcrumbing, I want that thing where you arrange a drink with someone even though you really can’t be bothered and would rather be at home eating a posh lasagna for one.”",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: What Would a ‘How to Lose a Guy in 10 Days’ Sequel Even Be About? 5 Pr...",
-      "score": 0,
-      "published": "2026-08-29T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c0ab45203cf2",
       "title": "I Work in Fashion in NYC—8 Brands I'm Investing In Before Summer Is Over",
       "link": "https://www.whowhatwear.com/fashion/shopping/tops-dresses-summer-2026",
@@ -975,20 +1101,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e042e4c01b27",
-      "title": "It's Officially Fall at Banana Republic—The Coolest Fashion People Will Be Looking at These Specific Items",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-fall-banana-republic-new-arrivals-august-2026",
-      "summary": "Chic finds to refresh your fall wardrobe.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: It's Officially Fall at Banana Republic—The Coolest Fashion People Wil...",
-      "score": 1,
-      "published": "2026-08-29T02:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "dde5a913aa8b",
       "title": "Victoria Beckham's Nostalgic “Deep French Manicure” Is Back and Better Than Ever",
       "link": "https://www.harpersbazaar.com/beauty/nails/a73535564/victoria-beckham-deep-french-manicure/",
@@ -1028,76 +1140,6 @@
       "angle": "Fashion Intelligence: Adria Arjona Steals the Show in a Little Black Wrap Dress With a Ying-...",
       "score": 3,
       "published": "2026-08-28T21:39:33+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1f5c9a55641e",
-      "title": "The Best Loafers for Women to Invest In in 2026",
-      "link": "https://www.vogue.com/slideshow/best-loafers-for-women",
-      "summary": "Shop Vogue’s edit of the best loafers for women, with everyday styles from Gucci, The Row, Prada, and more.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Best Loafers for Women to Invest In in 2026...",
-      "score": 1,
-      "published": "2026-08-28T21:13:47+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "caf5534e0ebb",
-      "title": "8 Best Shampoos for Frizzy Hair, According to Hair Stylists and Vogue Editors",
-      "link": "https://www.vogue.com/article/shampoo-for-frizzy-hair",
-      "summary": "Can shampoo actually prevent hair frizz? Six pro hairstylists share everything you need to know; plus, shop Vogue’s edit of the best shampoos for frizzy hair.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 8 Best Shampoos for Frizzy Hair, According to Hair Stylists and Vogue ...",
-      "score": 0,
-      "published": "2026-08-28T20:41:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ba82d91040bb",
-      "title": "The Best NARS Products Have Serious Staying Power",
-      "link": "https://www.vogue.com/article/best-nars-makeup",
-      "summary": "The iconic ’90s beauty brand still holds up—in popularity and product wear time. From blush to foundation, these are the nine best NARS products according to Vogue.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best NARS Products Have Serious Staying Power...",
-      "score": 3,
-      "published": "2026-08-28T20:10:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "78163ae09a97",
-      "title": "57 Thoughts I Had While Watching 'Spa Weekend'",
-      "link": "https://www.vogue.com/article/57-thoughts-i-had-while-watching-spa-weekend",
-      "summary": "...so you don't have to. You're welcome!",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 57 Thoughts I Had While Watching 'Spa Weekend'...",
-      "score": 0,
-      "published": "2026-08-28T20:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9f3e84acc92d",
-      "title": "‘I Was Honestly Speechless’: Christy Lee on Post Malone’s Proposal—and That 20-Plus Carat Diamond Ring",
-      "link": "https://www.vogue.com/article/post-malone-christy-lee-engagement-exclusive",
-      "summary": "The bride-to-be Christy Lee shares the story behind her proposal from Post Malone—and her dazzling 20-plus-carat diamond engagement ring.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Fashion Intelligence: ‘I Was Honestly Speechless’: Christy Lee on Post Malone’s Proposal—and...",
-      "score": 0,
-      "published": "2026-08-28T19:49:07+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1168,34 +1210,6 @@
       "angle": "Fashion Intelligence: Kaia Gerber Makes an Off-the-Shoulder Tee Look So Chic...",
       "score": 0,
       "published": "2026-08-28T16:58:34+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c891ef8a20b9",
-      "title": "Retinol vs Hyaluronic Acid: Which Is Better For Fine Lines and Hydration?",
-      "link": "https://www.vogue.com/article/retinol-vs-hyaluronic-acid",
-      "summary": "When it comes to aging, acne or dry skin, the experts detail which ingredient, retinol vs hyaluronic acid, you should add to your routine. Plus, the best products to shop.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Retinol vs Hyaluronic Acid: Which Is Better For Fine Lines and Hydrati...",
-      "score": 0,
-      "published": "2026-08-28T16:16:18+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2d11ca786519",
-      "title": "The Best Labor Day Sales to Kick Off Your Fall Shopping in 2026",
-      "link": "https://www.vogue.com/article/best-labor-day-sales-2026",
-      "summary": "The best Labor Day sales 2026 have arrived early—meaning there’s no better time to shop for fall. Shop coveted deals from Net-a-Porter, Nordstrom & more.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Labor Day Sales to Kick Off Your Fall Shopping in 2026...",
-      "score": 0,
-      "published": "2026-08-28T16:00:45+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2235,20 +2249,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2e6322925b05",
-      "title": "How To Wear A Hat: The Ultimate Guide For Men",
-      "link": "https://www.fashionbeans.com/article/how-to-wear-a-hat-men/",
-      "summary": "When it comes to relationships, finding the perfect match can be as simple as swiping right. But as far as hats for men are concerned, ‘The One’ often proves annoyingly elusive. And that’s for those of us who are still actually trying to find it. Most men – once bitten, twice shy – have resigned &#8230; Continue readin",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How To Wear A Hat: The Ultimate Guide For Men...",
-      "score": 1,
-      "published": "2026-08-23T11:00:02+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "bf3cfac737f5",
       "title": "Ahyun: An Acne-Safe Beauty Brand Inspired by the Founder's Chinese and Korean Heritage",
       "link": "https://fashionista.com/2026/08/ahyun-cosmetics-skin-care-brand",
@@ -2516,15 +2516,15 @@
     },
     {
       "id": "eeab187d1473",
-      "title": "Janhvi Kapoor & Ishaan Khatter | Beyond The Vows",
+      "title": "BEYOND THE VOWS: Janhvi Kapoor & Ishaan Khatter Step Into The New Chapter Of Love",
       "link": "https://blog.kalkifashion.com/janhvi-kapoor-ishaan-khatter-beyond-the-vows/",
-      "summary": "BEYOND THE VOWS: Janhvi Kapoor &#38; Ishaan Khatter Step Into The New Chapter Of Love You know your wedding is not defined by a single day. There are moments before the vows are exchanged. Featuring Ishaan Khatter and Janhvi Kapoor, Kalki Fashion brings to you the Second chapter of Bride &#38; Groom Couture &#8217;26—B",
+      "summary": "You know your wedding is not defined by a single day. There are moments before the vows are exchanged. Featuring Ishaan Khatter and Janhvi Kapoor, Kalki Fashion brings to you the Second chapter of Bride &#38; Groom Couture &#8217;26—Beyond the Vows. Moving past the pheras and into the occasions that follow, this chapte",
       "source": "Kalki Fashion Blog",
       "tier": "competitor",
       "is_competitor": true,
       "aza_category": "Bridal & Wedding",
-      "angle": "Fashion Intelligence: Janhvi Kapoor & Ishaan Khatter | Beyond The Vows...",
-      "score": 3,
+      "angle": "Fashion Intelligence: BEYOND THE VOWS: Janhvi Kapoor & Ishaan Khatter Step Into The New Chap...",
+      "score": 4,
       "published": "2026-08-28T06:39:47+00:00",
       "discovered_via": "feed"
     },
@@ -2781,9 +2781,9 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9a3c40c3a51b",
+      "id": "69dced4f223d",
       "title": "Kiara Advani’s 100-Hour Gold Corset Is the New Way to Wear Banarasi",
-      "link": "https://www.azafashions.com/blog/2026/08/29/kiara-advani-gold-banarasi-corset-look/?utm_source=rss&utm_medium=rss&utm_campaign=kiara-advani-gold-banarasi-corset-look",
+      "link": "https://www.azafashions.com/blog/kiara-advani-gold-banarasi-corset-look/?utm_source=rss&utm_medium=rss&utm_campaign=kiara-advani-gold-banarasi-corset-look",
       "summary": "Kiara Advani's break from the spotlight just ended with two outfit changes, not one. After a gothic moment in a black velvet-and-lace Manish Malhotra saree for her Toxic promotions in&#8230; The post Kiara Advani’s 100-Hour Gold Corset Is the New Way to Wear Banarasi appeared first on Aza Editorials .",
       "source": "AZA Blog",
       "tier": "owned",
@@ -2795,9 +2795,9 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c51d7aca8d11",
+      "id": "90d06441d326",
       "title": "Kundan Mehendi Is the New Bridal Trend. Here’s How to Wear It",
-      "link": "https://www.azafashions.com/blog/2026/08/29/kundan-mehendi-is-the-new-bridal-trend/?utm_source=rss&utm_medium=rss&utm_campaign=kundan-mehendi-is-the-new-bridal-trend",
+      "link": "https://www.azafashions.com/blog/kundan-mehendi-is-the-new-bridal-trend/?utm_source=rss&utm_medium=rss&utm_campaign=kundan-mehendi-is-the-new-bridal-trend",
       "summary": "A quiet rebellion is happening at the mehendi table. Brides are looking at hours of dense henna, the smudge risk, the wait for stain to deepen—and asking if there's a&#8230; The post Kundan Mehendi Is the New Bridal Trend. Here&#8217;s How to Wear It appeared first on Aza Editorials .",
       "source": "AZA Blog",
       "tier": "owned",
@@ -2809,9 +2809,9 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d3c3e48426dd",
+      "id": "9cf319129064",
       "title": "9 Unique Blouse Designs That Make Every Saree a Statement",
-      "link": "https://www.azafashions.com/blog/2026/08/28/unique-blouse-designs/?utm_source=rss&utm_medium=rss&utm_campaign=unique-blouse-designs",
+      "link": "https://www.azafashions.com/blog/unique-blouse-designs/?utm_source=rss&utm_medium=rss&utm_campaign=unique-blouse-designs",
       "summary": "There was a time the blouse quietly waited its turn,&#160;tucked behind six yards of drama, doing its job and staying out of the conversation. That era is over. This wedding&#8230; The post 9 Unique Blouse Designs That Make Every Saree a Statement appeared first on Aza Editorials .",
       "source": "AZA Blog",
       "tier": "owned",
@@ -2823,9 +2823,9 @@
       "discovered_via": "feed"
     },
     {
-      "id": "da44e30e5b7d",
+      "id": "11a95cb204ae",
       "title": "How the 800-Year-Old Kamarbandh Became 2026’s Favourite Bridal Accessory",
-      "link": "https://www.azafashions.com/blog/2026/08/27/kamarbandh-is-back/?utm_source=rss&utm_medium=rss&utm_campaign=kamarbandh-is-back",
+      "link": "https://www.azafashions.com/blog/kamarbandh-is-back/?utm_source=rss&utm_medium=rss&utm_campaign=kamarbandh-is-back",
       "summary": "Long before it was cinching Rashmika Mandanna's bridal saree or catching flashbulbs at Manish Malhotra's Diwali bash, the kamarbandh was already doing its job on stone. Carved into temple walls,&#8230; The post How the 800-Year-Old Kamarbandh Became 2026&#8217;s Favourite Bridal Accessory appeared first on Aza Editoria",
       "source": "AZA Blog",
       "tier": "owned",
@@ -2837,9 +2837,9 @@
       "discovered_via": "feed"
     },
     {
-      "id": "68c5d7eaf0c7",
+      "id": "455437d9df7a",
       "title": "Abhinisha Jani Ashara Makes a Case for Maroon Maximalism",
-      "link": "https://www.azafashions.com/blog/2026/08/26/abhinisha-jani-mishra-in-samyukta-singhania-lehenga/?utm_source=rss&utm_medium=rss&utm_campaign=abhinisha-jani-mishra-in-samyukta-singhania-lehenga",
+      "link": "https://www.azafashions.com/blog/abhinisha-jani-mishra-in-samyukta-singhania-lehenga/?utm_source=rss&utm_medium=rss&utm_campaign=abhinisha-jani-mishra-in-samyukta-singhania-lehenga",
       "summary": "Some collaborations feel inevitable before they even happen. Abhinisha Jani Ashara has spent her platform teaching women to love their bodies without asterisks, without apology, without waiting for permission,&#160;so when&#8230; The post Abhinisha Jani Ashara Makes a Case for Maroon Maximalism appeared first on Aza Ed",
       "source": "AZA Blog",
       "tier": "owned",
@@ -2851,9 +2851,9 @@
       "discovered_via": "feed"
     },
     {
-      "id": "69b097b88608",
+      "id": "62f5985bbd8a",
       "title": "Navratri Garba USA 2026: City Guide & What to Wear",
-      "link": "https://www.azafashions.com/blog/2026/08/26/navratri-garba-events-usa-2026-city-guide-what-to-wear/?utm_source=rss&utm_medium=rss&utm_campaign=navratri-garba-events-usa-2026-city-guide-what-to-wear",
+      "link": "https://www.azafashions.com/blog/navratri-garba-events-usa-2026-city-guide-what-to-wear/?utm_source=rss&utm_medium=rss&utm_campaign=navratri-garba-events-usa-2026-city-guide-what-to-wear",
       "summary": "Navratri 2026 runs from October 11–19. Major Garba events are held across US cities including New Jersey, Houston, Chicago, Atlanta, and the Bay Area. Women traditionally wear chaniya choli or&#8230; The post Navratri Garba USA 2026: City Guide &amp; What to Wear appeared first on Aza Editorials .",
       "source": "AZA Blog",
       "tier": "owned",
@@ -2865,9 +2865,9 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6935bb4538fb",
+      "id": "ec3bffa04917",
       "title": "Kiara Advani’s Black Saree Moment Is Quiet Luxury With a Bollywood Twist – Here’s How to Recreate It",
-      "link": "https://www.azafashions.com/blog/2026/08/25/kiara-advani-black-velvet-saree/?utm_source=rss&utm_medium=rss&utm_campaign=kiara-advani-black-velvet-saree",
+      "link": "https://www.azafashions.com/blog/kiara-advani-black-velvet-saree/?utm_source=rss&utm_medium=rss&utm_campaign=kiara-advani-black-velvet-saree",
       "summary": "Some colours don't need company. Kiara Advani proved exactly that at the Toxic promotions in Hyderabad, stepping out in an all-black velvet saree by Manish Malhotra that skipped embellishment-heavy drama&#8230; The post Kiara Advani’s Black Saree Moment Is Quiet Luxury With a Bollywood Twist &#8211; Here&#8217;s How to",
       "source": "AZA Blog",
       "tier": "owned",
@@ -2879,9 +2879,9 @@
       "discovered_via": "feed"
     },
     {
-      "id": "63b132a63ab0",
+      "id": "9b8547067fc1",
       "title": "Chic Holiday Party Looks to Try in Singapore This Season",
-      "link": "https://www.azafashions.com/blog/2026/08/25/chic-holiday-looks-in-singapore/?utm_source=rss&utm_medium=rss&utm_campaign=chic-holiday-looks-in-singapore",
+      "link": "https://www.azafashions.com/blog/chic-holiday-looks-in-singapore/?utm_source=rss&utm_medium=rss&utm_campaign=chic-holiday-looks-in-singapore",
       "summary": "The rooftop bars are booked. The dinner reservations are made. The group chats are buzzing. Singapore's holiday party calendar moves fast, and your wardrobe needs to keep up. From Christmas&#8230; The post Chic Holiday Party Looks to Try in Singapore This Season appeared first on Aza Editorials .",
       "source": "AZA Blog",
       "tier": "owned",
@@ -2893,9 +2893,9 @@
       "discovered_via": "feed"
     },
     {
-      "id": "32301d24153f",
+      "id": "fc3b99117186",
       "title": "Skip the Heavy Silk: Lightweight Sarees to Wear This Ganesh Chaturthi",
-      "link": "https://www.azafashions.com/blog/2026/08/24/lightweight-sarees-ganesh-chaturthi/?utm_source=rss&utm_medium=rss&utm_campaign=lightweight-sarees-ganesh-chaturthi",
+      "link": "https://www.azafashions.com/blog/lightweight-sarees-ganesh-chaturthi/?utm_source=rss&utm_medium=rss&utm_campaign=lightweight-sarees-ganesh-chaturthi",
       "summary": "Ganesh Chaturthi calls for colour, festivity, and a saree that feels as good as it looks. But there's a common assumption that dressing up for a festive&#160;occasion often&#160;means reaching for&#8230; The post Skip the Heavy Silk: Lightweight Sarees to Wear This Ganesh Chaturthi appeared first on Aza Editorials .",
       "source": "AZA Blog",
       "tier": "owned",
@@ -2907,9 +2907,9 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e74906a99212",
+      "id": "6d1d0f5c7758",
       "title": "Aza Fashions Opens Its 13th Store in Santacruz, Bringing Fashion and Fine Jewellery Together",
-      "link": "https://www.azafashions.com/blog/2026/08/24/aza-fashions-13th-store-in-santacruz/?utm_source=rss&utm_medium=rss&utm_campaign=aza-fashions-13th-store-in-santacruz",
+      "link": "https://www.azafashions.com/blog/aza-fashions-13th-store-in-santacruz/?utm_source=rss&utm_medium=rss&utm_campaign=aza-fashions-13th-store-in-santacruz",
       "summary": "Some store openings feel like events. This one felt like a moment. Aza Fashions, one of India's most respected multi-designer fashion destinations, has officially opened its 13th store—and its newest&#8230; The post Aza Fashions Opens Its 13th Store in Santacruz, Bringing Fashion and Fine Jewellery Together appeared fi",
       "source": "AZA Blog",
       "tier": "owned",
@@ -2923,52 +2923,52 @@
   ],
   "trends": [
     {
-      "term": "gift nifty",
+      "term": "கிரிக்கெட்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बैंक के नोट",
+      "term": "ದುಲೀಪ್ ಟ್ರೋಫಿ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "इंडियन प्रीमियर लीग",
+      "term": "namibia vs zimbabwe",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nepal flood cost",
+      "term": "कर्मचारी भविष्य निधि संगठन",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बांग्लादेश",
+      "term": "neet pg 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "नंदकिशोर",
+      "term": "अमित ठाकरे",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "கொள்முதல்",
+      "term": "ನರೇಂದ್ರ ಮೋದಿ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "தலைமை நீதிபதி",
+      "term": "தேர்வு",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "कश्मीरा ईरानी",
+      "term": "सूर्यकांत",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "బంగ్లాదేశ్",
+      "term": "హత్య",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
