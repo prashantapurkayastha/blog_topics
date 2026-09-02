@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-09-02T06:38:21.114941+00:00",
+  "generated_at": "2026-09-02T09:20:12.497413+00:00",
   "owned_count": 10,
   "competitor_count": 20,
-  "industry_count": 168,
+  "industry_count": 170,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "f68c7f0d2eb2",
+      "title": "Pillings Tokyo Spring 2027",
+      "link": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/pillings",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Pillings Tokyo Spring 2027...",
+      "score": 0,
+      "published": "2026-09-02T09:17:55+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "83cbc8ab0256",
       "title": "Mukcyen Tokyo Spring 2027",
@@ -19,7 +33,119 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Mukcyen Tokyo Spring 2027...",
       "score": 0,
-      "published": "2026-09-02T06:36:35+00:00",
+      "published": "2026-09-02T09:17:55+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "614c4fb6e4fb",
+      "title": "The Best On-Court Style Moments Served at the 2026 U.S. Open",
+      "link": "https://www.vogue.com/slideshow/best-on-court-style-moments-2026-us-open",
+      "summary": "The 2026 U.S. Open is in full swing! With Naomi Osaka, Coco Gauff, and Venus Williams in play, don’t expect traditional tennis whites on the hard court.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best On-Court Style Moments Served at the 2026 U.S. Open...",
+      "score": 2,
+      "published": "2026-09-02T09:09:38+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d245a4965388",
+      "title": "Sheer, Weightless, and Dewy: Water-Splashed Blush Is the Dreamiest Summer-to-Fall Trend",
+      "link": "https://www.whowhatwear.com/beauty/makeup/water-blush-trend",
+      "summary": "It's like a Renaissance painting IRL.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-09-02T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "59ca367258e4",
+      "title": "Jennifer Lopez Embraces Fall With a Clever Layering Trick",
+      "link": "https://www.vogue.com/article/jennifer-lopez-embraces-fall-with-a-clever-layering-trick",
+      "summary": "J-Lo has been living la dolce vita with a wardrobe to match all summer long; but now, she’s ready for autumnal dressing.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Jennifer Lopez Embraces Fall With a Clever Layering Trick...",
+      "score": 1,
+      "published": "2026-09-02T08:43:12+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "26efeef69de9",
+      "title": "The Story Behind Dakota Johnson’s Dramatic Fall Hair Transformation",
+      "link": "https://www.vogue.com/article/dakota-johnson-dramatic-fall-hair-transformation",
+      "summary": "Speaking with Vogue, celebrity colorist Tracey Cunningham breaks down Dakota Johnson’s new look, with a hair color change she’s calling “glossed espresso.”",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The Story Behind Dakota Johnson’s Dramatic Fall Hair Transformation...",
+      "score": 1,
+      "published": "2026-09-02T08:14:19+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fcdc39bdae84",
+      "title": "My Friend Asked Me Which Trouser Trends Will Be Hot This Autumn—These 6 Were Top of My List",
+      "link": "https://www.whowhatwear.com/fashion/trends/autumn-trouser-trends-2026",
+      "summary": "Let your trousers do the talking.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-09-02T08:00:31+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "772686692662",
+      "title": "It's Officially September, and Zara Just Dropped Every Chic Autumn Trend—5 Pieces That Will Go First",
+      "link": "https://www.whowhatwear.com/fashion/shopping/zara-autumn-trends-2026",
+      "summary": "Tees! Quarter-zips! Loafers!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-09-02T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ec283f987a95",
+      "title": "Packaged Food Regulations, Red Warning Labels And Misleading Health Claims",
+      "link": "https://www.indiatoday.in/india/video/packaged-food-regulations-red-warning-labels-and-misleading-health-claims-ytvd-2985268-2026-09-02?utm_source=rss",
+      "summary": "Packaged Food Regulations, Red Warning Labels And Misleading Health Claims",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Packaged Food Regulations, Red Warning Labels And Misleading Health Cl...",
+      "score": 1,
+      "published": "2026-09-02T07:57:18+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "acebe3a82a87",
+      "title": "Bombay High Court Orders Fresh CBI Probe And FIR In 2020 Celebrity Manager Death Case",
+      "link": "https://www.indiatoday.in/india/video/bombay-high-court-orders-fresh-cbi-probe-and-fir-in-2020-celebrity-manager-death-case-ytvd-2985231-2026-09-02?utm_source=rss",
+      "summary": "Bombay High Court Orders Fresh CBI Probe And FIR In 2020 Celebrity Manager Death Case",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-09-02T07:26:19+00:00",
       "discovered_via": "feed"
     },
     {
@@ -597,20 +723,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "614c4fb6e4fb",
-      "title": "The Best On-Court Style Moments Served at the 2026 U.S. Open",
-      "link": "https://www.vogue.com/slideshow/best-on-court-style-moments-2026-us-open",
-      "summary": "The 2026 U.S. Open is here! With Naomi Osaka, Coco Gauff, and Venus Williams in play, don’t expect traditional tennis whites on the hard court.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best On-Court Style Moments Served at the 2026 U.S. Open...",
-      "score": 2,
-      "published": "2026-09-01T13:34:25+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "5572f3a9e149",
       "title": "The Newest Way to Wear Your Perfume Is as an Accessory",
       "link": "https://www.vogue.com/article/perfume-is-as-an-accessory",
@@ -620,6 +732,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: The Newest Way to Wear Your Perfume Is as an Accessory...",
+      "score": 2,
+      "published": "2026-09-01T13:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3e8d72d586d8",
+      "title": "The Bride Wore a White Lehenga for Her India-Meets-Italy Wedding in a Sicilian Baroque Church",
+      "link": "https://www.vogue.com/slideshow/divya-lagisetti-and-holden-prosser-wedding",
+      "summary": "Childhood sweethearts Divya Lagisetti and Holden Prosser held a multi-day celebration across Taormina’s ancient Greek theater, a 17th-century church, and a baraat celebration in the foothills of Mount Etna.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: The Bride Wore a White Lehenga for Her India-Meets-Italy Wedding in a Sicilian Baroque Church — A Complete Style Guide",
       "score": 2,
       "published": "2026-09-01T13:00:00+00:00",
       "discovered_via": "feed"
@@ -635,20 +761,6 @@
       "aza_category": "Celebrity Style",
       "angle": "Fashion Intelligence: ‘Sense & Sensibility’ Is the Vogue Book Club’s Next Read...",
       "score": 0,
-      "published": "2026-09-01T13:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3e8d72d586d8",
-      "title": "The Bride Wore a White Lehenga for Her India-Meets-Italy Wedding in a Sicilian Baroque Church",
-      "link": "https://www.vogue.com/slideshow/divya-lagisetti-and-holden-prosser-wedding",
-      "summary": "Childhood sweethearts Divya Lagisetti and Holden Prosser held a multi-day celebration across Taormina’s ancient Greek theater, a 17th-century church, and a baraat celebration in the foothills of Mount Etna.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: The Bride Wore a White Lehenga for Her India-Meets-Italy Wedding in a Sicilian Baroque Church — A Complete Style Guide",
-      "score": 2,
       "published": "2026-09-01T13:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -709,20 +821,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4250b2b9f56b",
-      "title": "Pop Art Pioneer, Wrestler, Author—Rosalyn Drexler Was the Ultimate Multihyphenate",
-      "link": "https://www.vogue.com/article/pop-art-pioneer-rosalyn-drexler",
-      "summary": "A new exhibition at Garth Greenan Gallery celebrates the life and work of this extraordinary, varied artist.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Pop Art Pioneer, Wrestler, Author—Rosalyn Drexler Was the Ultimate Mul...",
-      "score": 0,
-      "published": "2026-09-01T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c519b83d0189",
       "title": "An Insider’s Guide to Sardinia’s Costa Smeralda",
       "link": "https://www.vogue.com/article/costa-smeralda-sardinia-insiders-guide",
@@ -732,6 +830,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: An Insider’s Guide to Sardinia’s Costa Smeralda...",
+      "score": 0,
+      "published": "2026-09-01T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4250b2b9f56b",
+      "title": "Pop Art Pioneer, Wrestler, Author—Rosalyn Drexler Was the Ultimate Multihyphenate",
+      "link": "https://www.vogue.com/article/pop-art-pioneer-rosalyn-drexler",
+      "summary": "A new exhibition at Garth Greenan Gallery celebrates the life and work of this extraordinary, varied artist.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Pop Art Pioneer, Wrestler, Author—Rosalyn Drexler Was the Ultimate Mul...",
       "score": 0,
       "published": "2026-09-01T12:00:00+00:00",
       "discovered_via": "feed"
@@ -779,20 +891,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bb681a1c1172",
-      "title": "The Fashion Politics of Nicole Kidman’s Pieter Mulier Versace Debut",
-      "link": "https://www.vogue.com/article/nicole-kidman-versace-pieter-mulier",
-      "summary": "At the Los Angeles premiere of ‘Practical Magic 2,’ Nicole Kidman offered the first glimpse of Pieter Mulier’s vision for Versace.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-09-01T11:00:10+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b2a9abf60942",
       "title": "5 It Girl–Approved Color Trends That Will Be Everywhere Come Fall",
       "link": "https://www.whowhatwear.com/fashion/it-girl-color-trends-fall-2026",
@@ -821,31 +919,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "cb9ba102220d",
-      "title": "The Vogue Business AI Tracker",
-      "link": "https://www.vogue.com/story/technology/the-vogue-business-ai-tracker",
-      "summary": "Vogue Business brings you a weekly update of the most interesting stories in the world of AI that you need on your radar.Stay tuned as we spotlight AI initiatives in the fashion and beauty industry each week.",
-      "source": "Vogue US",
+      "id": "3f94db865018",
+      "title": "Cloudy, Buildable, and Painfully Chic—Dior's New Lip Blurs Are the Definition of Soft Fall Makeup",
+      "link": "https://www.whowhatwear.com/beauty/makeup/rouge-dior-on-stage-ink-blur-matte-launch",
+      "summary": "Believe me, every fashion person will own one.",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Vogue Business AI Tracker...",
-      "score": 2,
-      "published": "2026-09-01T10:15:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8657bdde5933",
-      "title": "Discover the Best Dresses for Every September Occasion",
-      "link": "https://www.vogue.com/article/dresses",
-      "summary": "Explore the best dresses of the month, from slip dresses to practical everyday dresses. Shop a wide selection of handpicked Vogue dresses.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 2,
-      "published": "2026-09-01T10:00:00+00:00",
+      "angle": "Fashion Intelligence: Cloudy, Buildable, and Painfully Chic—Dior's New Lip Blurs Are the Def...",
+      "score": 1,
+      "published": "2026-09-01T09:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -863,15 +947,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3f94db865018",
-      "title": "Cloudy, Buildable, and Painfully Chic—Dior's New Lip Blurs Are the Definition of Soft Fall Makeup",
-      "link": "https://www.whowhatwear.com/beauty/makeup/rouge-dior-on-stage-ink-blur-matte-launch",
-      "summary": "Believe me, every fashion person will own one.",
-      "source": "Who What Wear",
+      "id": "0472a077e2af",
+      "title": "The Quiff Hairstyle: What It Is & How To Style It",
+      "link": "https://www.fashionbeans.com/article/mens-quiff-hairstyle-guide/",
+      "summary": "One of the most iconic haircuts to have ever graced men’s heads, the quiff has been big (and big news) since the 1950s, earning it a place in the follicular hall of fame alongside other icons of the barber’s chair including the French crop, buzz cut and short back and sides. Splicing together elements of the pompadour,",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Cloudy, Buildable, and Painfully Chic—Dior's New Lip Blurs Are the Def...",
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Quiff Hairstyle: What It Is & How To Style It...",
       "score": 1,
       "published": "2026-09-01T09:00:00+00:00",
       "discovered_via": "feed"
@@ -1311,20 +1395,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8bfdd257328b",
-      "title": "Jasmine Tookes on '90s Supermodel Makeup and the One Trick That Makes Her Eyelashes Look Thicker",
-      "link": "https://www.whowhatwear.com/beauty/makeup/jasmine-tookes-makeup-interview-2026-uk",
-      "summary": "\"Polished but easy.\"",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Jasmine Tookes on '90s Supermodel Makeup and the One Trick That Makes ...",
-      "score": 1,
-      "published": "2026-08-31T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7b9fc1b5ae89",
       "title": "Brooches, Open Bags and Boho Jewellery—7 Accessory Trends It Girls Will Be Wearing This Autumn",
       "link": "https://www.whowhatwear.com/fashion/trends/autumn-accessory-trends-2026",
@@ -1409,20 +1479,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3aeaabe83364",
-      "title": "H&M Just Dropped a $40 Version of the Flat-Shoe Trend That Every Celeb Is Already Wearing for Fall",
-      "link": "https://www.whowhatwear.com/fashion/shoes/hm-jazz-shoe-trend-2026",
-      "summary": "Gracie! Charlize! Lily!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-08-30T15:52:23+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d917972d3efc",
       "title": "All the Celebrities at Olivia Rodrigo’s Daisy Chain Fields Festival",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73562530/celebrity-photos-daisy-chain-fields-festival-2026/",
@@ -1434,20 +1490,6 @@
       "angle": "Fashion Intelligence: All the Celebrities at Olivia Rodrigo’s Daisy Chain Fields Festival...",
       "score": 1,
       "published": "2026-08-30T14:56:29+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b4ece42bdeda",
-      "title": "I've Already Spotted the 7 Trends That Will Define Every Chic Early-Fall Outfit",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/early-fall-trendy-outfit-ideas-2026",
-      "summary": "Find out inside.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-08-30T13:52:12+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2151,20 +2193,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0472a077e2af",
-      "title": "The Quiff Hairstyle: What It Is & How To Style It",
-      "link": "https://www.fashionbeans.com/article/mens-quiff-hairstyle-guide/",
-      "summary": "One of the most iconic haircuts to have ever graced men’s heads, the quiff has been big (and big news) since the 1950s, earning it a place in the follicular hall of fame alongside other icons of the barber’s chair including the French crop, buzz cut and short back and sides. Splicing together elements of the pompadour,",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Quiff Hairstyle: What It Is & How To Style It...",
-      "score": 1,
-      "published": "2026-08-25T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a334c8d087bd",
       "title": "The Diamond Face Shape: Your Ultimate Style Guide",
       "link": "https://www.fashionbeans.com/article/diamond-face-shapes/",
@@ -2783,52 +2811,52 @@
   ],
   "trends": [
     {
-      "term": "इराण",
+      "term": "epf",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "epfo",
+      "term": "কর্মকর্তা",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "taiwan index",
+      "term": "hang seng index",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hdfc bank share",
+      "term": "vivo t5",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "itc share price",
+      "term": "lottery sambad lottery sambad",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "gold rate",
+      "term": "epfo passbook",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "misbah ul haq",
+      "term": "নেপাল",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kashi rudras vs meerut mavericks",
+      "term": "बाढ़",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "disha salian",
+      "term": "pf",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "gold rate today near india",
+      "term": "ಆರ್. ಅಶೋಕ",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
