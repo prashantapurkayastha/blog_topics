@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T06:59:32.513088+00:00",
+  "generated_at": "2026-09-16T09:42:13.806735+00:00",
   "owned_count": 10,
   "competitor_count": 17,
   "industry_count": 180,
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Markarian Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-16T06:55:56+00:00",
+      "published": "2026-09-16T09:41:28+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Staud Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-16T06:55:56+00:00",
+      "published": "2026-09-16T09:41:28+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: SC103 Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-16T06:55:56+00:00",
+      "published": "2026-09-16T09:41:28+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Norma Kamali Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-16T06:55:56+00:00",
+      "published": "2026-09-16T09:41:28+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +75,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Tanya Taylor Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-16T06:55:56+00:00",
+      "published": "2026-09-16T09:41:28+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,7 +89,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Thom Browne Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-16T06:55:56+00:00",
+      "published": "2026-09-16T09:41:28+00:00",
       "discovered_via": "feed"
     },
     {
@@ -103,7 +103,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Sabyasachi Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-16T06:55:56+00:00",
+      "published": "2026-09-16T09:41:28+00:00",
       "discovered_via": "feed"
     },
     {
@@ -117,7 +117,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: CDLM Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-16T06:55:56+00:00",
+      "published": "2026-09-16T09:41:28+00:00",
       "discovered_via": "feed"
     },
     {
@@ -131,7 +131,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Frederick Anderson Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-16T06:55:56+00:00",
+      "published": "2026-09-16T09:41:28+00:00",
       "discovered_via": "feed"
     },
     {
@@ -145,7 +145,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: 6397 Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-16T06:55:56+00:00",
+      "published": "2026-09-16T09:41:28+00:00",
       "discovered_via": "feed"
     },
     {
@@ -159,21 +159,21 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Colleen Allen Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-16T06:55:56+00:00",
+      "published": "2026-09-16T09:41:28+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "fc75564cedea",
-      "title": "Why I'm Breaking Up Quiet Luxury",
-      "link": "https://www.whowhatwear.com/fashion/trends/is-maximalism-coming-back-2026",
-      "summary": "More is more.",
-      "source": "Who What Wear",
+      "id": "eeabe975dd70",
+      "title": "The Best Hotels in Milan, From Grande Dames to Stylish Boutiques",
+      "link": "https://www.vogue.com/article/best-hotels-in-milan",
+      "summary": "Here are all the best stays to note in the buzzing Italian city of Milan for fashion week—and beyond.",
+      "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Why I'm Breaking Up Quiet Luxury...",
+      "angle": "Fashion Intelligence: The Best Hotels in Milan, From Grande Dames to Stylish Boutiques...",
       "score": 1,
-      "published": "2026-09-16T06:00:00+00:00",
+      "published": "2026-09-16T08:49:38+00:00",
       "discovered_via": "feed"
     },
     {
@@ -186,6 +186,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: 10+ Years of Being a Beauty Editor Qualifies Me to Say That This Is th...",
+      "score": 1,
+      "published": "2026-09-16T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fc75564cedea",
+      "title": "Why I'm Breaking Up Quiet Luxury",
+      "link": "https://www.whowhatwear.com/fashion/trends/is-maximalism-coming-back-2026",
+      "summary": "More is more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Why I'm Breaking Up Quiet Luxury...",
       "score": 1,
       "published": "2026-09-16T06:00:00+00:00",
       "discovered_via": "feed"
@@ -891,20 +905,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "029946d77bd8",
-      "title": "Sepideh Moafi​ on Her Historic Emmy Nomination, Skin Prep, and ‘The Pitt’",
-      "link": "https://www.vogue.com/article/sepideh-moafi-emmys-2026-beauty-diary",
-      "summary": "Vogue goes behind the scenes with Sepideh Moafi get ready for the 2026 Emmys—and get a tease of season three of The Pitt.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Sepideh Moafi​ on Her Historic Emmy Nomination, Skin Prep, and ‘The Pi...",
-      "score": 1,
-      "published": "2026-09-15T16:55:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "739548d0f4ea",
       "title": "For Her Fourth Emmys, Ayo Edebiri Wanted Something Joyful, Unexpected, and Fun",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73732957/ayo-edebiri-chanel-dress-2026-emmys-interview/",
@@ -1185,6 +1185,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "a3add2f5f45f",
+      "title": "The Best Taper Haircuts – Tapered Hairstyle Guide 2026",
+      "link": "https://www.fashionbeans.com/article/best-mens-taper-haircuts/",
+      "summary": "Meet the workhorse of men&#8217;s hairstyles. A foundation on which flashier styles are built, taper haircuts can be classic and cutting edge at the same time. They&#8217;re versatile. They last longer than most heavily clippered styles. And if our word isn&#8217;t good enough (come now…), take it from Messrs Beckham, ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-09-15T09:33:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "6c9cf9e0da3b",
       "title": "The Best Shoes To Wear With Jeans: Casual & Formal",
       "link": "https://www.fashionbeans.com/article/what-shoes-to-wear-with-jeans/",
@@ -1210,6 +1224,20 @@
       "angle": "Fashion Intelligence: I'm a Beauty Editor, and I Wouldn't Survive NYFW Without These 8 Items...",
       "score": 1,
       "published": "2026-09-15T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "814fa14009f3",
+      "title": "8 Best Colognes For Older Men That Cater To Any Age in 2026",
+      "link": "https://www.fashionbeans.com/article/best-colognes-for-older-men/",
+      "summary": "FYI After our latest round of research, we’ve enhanced this guide with a new comparison table to make finding the perfect cologne easier for readers. This table includes everything from scent notes to seasonal recommendations, helping you zero in on the ideal choice. We also revisited our product lineup, confirming tha",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 8 Best Colognes For Older Men That Cater To Any Age in 2026...",
+      "score": 1,
+      "published": "2026-09-15T07:58:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1255,20 +1283,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0c852b3a9086",
-      "title": "6 French Manicure Trends That Will Be on the Most Elegant of Hands This Autumn",
-      "link": "https://www.whowhatwear.com/beauty/fragrance/autumn-french-manicure-trends-2026",
-      "summary": "Screenshot-worthy.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-09-15T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a02708ee64e9",
       "title": "Hailey, Sadie and Kaia All Agree That This Is the Coolest Way to Wear Your Lipstick Right Now",
       "link": "https://www.whowhatwear.com/beauty/makeup/autumn-lip-trends-2026",
@@ -1278,6 +1292,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Hailey, Sadie and Kaia All Agree That This Is the Coolest Way to Wear ...",
+      "score": 1,
+      "published": "2026-09-15T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0c852b3a9086",
+      "title": "6 French Manicure Trends That Will Be on the Most Elegant of Hands This Autumn",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/autumn-french-manicure-trends-2026",
+      "summary": "Screenshot-worthy.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-09-15T06:00:00+00:00",
       "discovered_via": "feed"
@@ -2501,34 +2529,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "17abf55b698d",
-      "title": "15 Best Men’s T-Shirt Brands For Every Guy in 2026",
-      "link": "https://www.fashionbeans.com/article/best-mens-t-shirt-brands/",
-      "summary": "Navy suit and blue jeans aside, the trusty T-shirt is the ultimate wardrobe staple. The foundation of any successful smart-casual outfit, it’s not only comfortable but reliable, versatile, and undeniably stylish. Which is something the best men’s T-shirt brands fully understand. But who are they? I’m glad you asked. I’",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 15 Best Men’s T-Shirt Brands For Every Guy in 2026...",
-      "score": 2,
-      "published": "2026-09-07T11:39:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "17fca1607d3e",
-      "title": "13 Best Square Watches for Men 2026",
-      "link": "https://www.fashionbeans.com/article/best-square-watches/",
-      "summary": "No timepiece collection is complete without one of the best square watches. The shape isn’t just a fashion trend, it’s a bespoke innovation steeped in history. 100 years after the first round watch was worn on the wrist, Louis Cartier created the Cartier Santos for his fashionable aviator friend, Santos Dumont. The sha",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: 13 Best Square Watches for Men 2026...",
-      "score": 3,
-      "published": "2026-09-07T10:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e08665fd231d",
       "title": "Shivika and Mihir’s Sydney Love Story, A Bangkok Wedding & Two Cultures United",
       "link": "https://blog.kalkifashion.com/shivika-and-mihirs-sydney-love-story-a-bangkok-wedding-two-cultures-united/",
@@ -2909,52 +2909,52 @@
   ],
   "trends": [
     {
-      "term": "trisha krishnan",
+      "term": "jackpot result",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "special session",
+      "term": "ഭര്ത്താവ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "श्रेयस अय्यर",
+      "term": "டிஸ்கோ சாந்தி",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बेटी",
+      "term": "ಪ್ರಜ್ವಲ್ ರೇವಣ್ಣ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "taiwan index",
+      "term": "social security",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ss retail ipo",
+      "term": "చిరంజీవి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "हार्दिक पांड्या",
+      "term": "சவுக்கு சங்கர்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "prasol chemicals share price",
+      "term": "prabhas",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sterlite technologies share price",
+      "term": "अंकिता लोखंडे",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "raymond share price",
+      "term": "salesforce",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
