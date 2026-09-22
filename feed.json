@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T07:03:32.560721+00:00",
+  "generated_at": "2026-09-22T09:39:54.731958+00:00",
   "owned_count": 10,
   "competitor_count": 12,
   "industry_count": 175,
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Lela Rose Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-22T06:58:15+00:00",
+      "published": "2026-09-22T09:35:42+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Burberry Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-22T06:58:15+00:00",
+      "published": "2026-09-22T09:35:42+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Brooks Brothers Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-22T06:58:15+00:00",
+      "published": "2026-09-22T09:35:42+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Huishan Zhang Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-22T06:58:15+00:00",
+      "published": "2026-09-22T09:35:42+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +75,35 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Bianca Saunders Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-22T06:58:15+00:00",
+      "published": "2026-09-22T09:35:42+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b2cd2a55dcd7",
+      "title": "Do Fashion Brands Need a Clipping Strategy?",
+      "link": "https://www.vogue.com/article/do-fashion-brands-need-a-clipping-strategy",
+      "summary": "Chopping up long-form videos into short clips and spreading them far and wide across the internet has become a social media silver bullet for industries willing to partake.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Do Fashion Brands Need a Clipping Strategy?...",
+      "score": 2,
+      "published": "2026-09-22T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ca918213c649",
+      "title": "Moral policing can be done in decent, elegant fashion: Bihar Minister's shocker",
+      "link": "https://www.indiatoday.in/india/story/bihar-minister-shreyasi-singh-moral-policing-remark-jamui-harassment-case-row-3000194-2026-09-22?utm_source=rss",
+      "summary": "Moral policing can be done in decent, elegant fashion: Bihar Minister's shocker",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Moral policing can be done in decent, elegant fashion: Bihar Minister'...",
+      "score": 1,
+      "published": "2026-09-22T09:13:53+00:00",
       "discovered_via": "feed"
     },
     {
@@ -174,20 +202,6 @@
       "angle": "Fashion Intelligence: What Makes a Good Fashion Party?...",
       "score": 2,
       "published": "2026-09-22T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "611b816716f3",
-      "title": "Video: At breakfast scheme launch, Vijay serves students, eats pongal with them",
-      "link": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-free-breakfast-scheme-c-joseph-vijay-launches-kamarajar-expansion-chennai-2999977-2026-09-22?utm_source=rss",
-      "summary": "Video: At breakfast scheme launch, Vijay serves students, eats pongal with them",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-09-22T04:09:32+00:00",
       "discovered_via": "feed"
     },
     {
@@ -776,20 +790,6 @@
       "angle": "Fashion Intelligence: On Enters Football With Kylian Mbappé and Thierry Henry...",
       "score": 1,
       "published": "2026-09-21T13:26:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0688c9ed03f8",
-      "title": "Amal Clooney Brings Her Suiting and Summer Dresses to Malawi",
-      "link": "https://www.vogue.com/article/amal-clooney-malawi-clooney-foundation-for-justice",
-      "summary": "Proving once again that her style is as consistent and considered as her commitment to justice, Amal Clooney pairs impeccable tailoring with pops of color.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Amal Clooney Brings Her Suiting and Summer Dresses to Malawi...",
-      "score": 2,
-      "published": "2026-09-21T13:06:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2627,6 +2627,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "132063d19501",
+      "title": "Captivating Earring Trends Dominating this Festive Season",
+      "link": "https://www.azafashions.com/blog/earring-trends-festive-season/?utm_source=rss&utm_medium=rss&utm_campaign=earring-trends-festive-season",
+      "summary": "The festive season brings an excuse to indulge in rich textures, radiant hues, and exquisite artistry. While your choice of outfit sets the tone, your jewellery defines the final aesthetic,&#8230; The post Captivating Earring Trends Dominating this Festive Season appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 5,
+      "published": "2026-09-22T09:03:54+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "a9ecd33cabb4",
       "title": "From Bhog Lunch to Dhunuchi Night: 14 Trending Durga Pujo Looks for Canada",
       "link": "https://www.azafashions.com/blog/durga-puja-outfits-canada-occasion-guide/?utm_source=rss&utm_medium=rss&utm_campaign=durga-puja-outfits-canada-occasion-guide",
@@ -2751,70 +2765,56 @@
       "score": 3,
       "published": "2026-09-17T13:51:56+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "1b3762321c55",
-      "title": "What to Wear for Navratri in Mauritius: A Garba Outfit Guide",
-      "link": "https://www.azafashions.com/blog/navratri-in-mauritius/?utm_source=rss&utm_medium=rss&utm_campaign=navratri-in-mauritius",
-      "summary": "Nine nights of music, colour, and non-stop dancing. That's what Navratri looks like in Mauritius, where the island's Indian diaspora turns Garba and Dandiya nights into some of the most&#8230; The post What to Wear for Navratri in Mauritius: A Garba Outfit Guide appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 2,
-      "published": "2026-09-16T13:57:12+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "jev ai",
+      "term": "chatgpt",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sonyliv",
+      "term": "സ്വര്ണം",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cricinfo",
+      "term": "సంజు శాంసన్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "email",
+      "term": "ओडिशा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "moneycontrol",
+      "term": "സൂര്യ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cricbuzz",
+      "term": "ओप्पो",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "python",
+      "term": "తిరుమల",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "icici direct",
+      "term": "రాశి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cat",
+      "term": "राहुल गांधी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "espncricinfo",
+      "term": "கூட்டுறவு வங்கி",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
