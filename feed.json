@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T07:54:48.171974+00:00",
+  "generated_at": "2026-10-05T12:04:42.265621+00:00",
   "owned_count": 10,
   "competitor_count": 12,
   "industry_count": 175,
@@ -8,6 +8,62 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "8fdcf609f5a8",
+      "title": "Gabriela Hearst Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/gabriela-hearst",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Gabriela Hearst Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-10-05T11:59:25+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e7d5cb8566e5",
+      "title": "Abra Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/abra",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Abra Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-10-05T11:59:25+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "21520de64370",
+      "title": "Margaret Howell Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/margaret-howell",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Margaret Howell Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-10-05T11:59:25+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c8752130db67",
+      "title": "Sacai Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/sacai",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Sacai Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-10-05T11:59:25+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "eee95a25a7a6",
       "title": "A.W.A.K.E. Mode Spring 2027 Ready-to-Wear",
@@ -19,7 +75,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: A.W.A.K.E. Mode Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-05T07:54:32+00:00",
+      "published": "2026-10-05T11:59:25+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +89,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Jean Paul Gaultier Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-05T07:54:32+00:00",
+      "published": "2026-10-05T11:59:25+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +103,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Mugler Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-05T07:54:32+00:00",
+      "published": "2026-10-05T11:59:25+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +117,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Mira Mikati Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-05T07:54:32+00:00",
+      "published": "2026-10-05T11:59:25+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +131,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Johanna Ortiz Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-05T07:54:32+00:00",
+      "published": "2026-10-05T11:59:25+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,7 +145,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Undercover Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-05T07:54:32+00:00",
+      "published": "2026-10-05T11:59:25+00:00",
       "discovered_via": "feed"
     },
     {
@@ -103,7 +159,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Mossi Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-05T07:54:32+00:00",
+      "published": "2026-10-05T11:59:25+00:00",
       "discovered_via": "feed"
     },
     {
@@ -117,42 +173,70 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Valentino Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-05T07:54:32+00:00",
+      "published": "2026-10-05T11:59:25+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "89d7d9ad87b9",
-      "title": "Akris Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/akris",
-      "summary": "",
-      "source": "Vogue US",
+      "id": "f1e5a9067860",
+      "title": "These 11 Outfits Are Replacing The Ones We Couldn't Stop Wearing Last Fall",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/outdated-fall-outfits-2026",
+      "summary": "Simple updates inside.",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Akris Spring 2027 Ready-to-Wear...",
-      "score": 1,
-      "published": "2026-10-05T07:54:32+00:00",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-10-05T11:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "319129ee4e0d",
-      "title": "Miu Miu Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/miu-miu",
-      "summary": "",
-      "source": "Vogue US",
+      "id": "cc3df6b500fa",
+      "title": "All My Favourite Autumn Outfits Have This Rich-Looking Shoe Colour in Common",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/brown-heels-trend-victoria-beckham-2026",
+      "summary": "An outfit-altering shoe colour.",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Miu Miu Spring 2027 Ready-to-Wear...",
+      "angle": "Fashion Intelligence: All My Favourite Autumn Outfits Have This Rich-Looking Shoe Colour in ...",
       "score": 1,
-      "published": "2026-10-05T07:54:32+00:00",
+      "published": "2026-10-05T10:28:23+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6d5482a5b41a",
+      "title": "28 Best Beach Wedding Dresses for a Walk Down a Sandy Aisle",
+      "link": "https://www.vogue.com/slideshow/best-beach-wedding-dresses",
+      "summary": "Read on to discover tips for finding the best beach wedding dress—plus, shop 28 of our favorite designs here.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: 28 Best Beach Wedding Dresses for a Walk Down a Sandy Aisle — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-10-05T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4b5e9d26d188",
+      "title": "Leave It to NYC & LA’s Coolest Fashion Girls to Debut Fall’s Latest Denim Trend",
+      "link": "https://www.whowhatwear.com/fashion/denim/green-denim-outfits-fall-2026",
+      "summary": "Find out inside.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 2,
+      "published": "2026-10-05T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
       "id": "dfad41534476",
       "title": "Diane Keaton Films Are My Ultimate Style Inspiration—3 Iconic Characters I Still Want to Be in 2026",
       "link": "https://www.whowhatwear.com/fashion/diane-keaton-movie-outfits",
-      "summary": "The pillar of timeless dressing.",
+      "summary": "My icon of timeless dressing.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -527,34 +611,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8a9f5ca2d468",
-      "title": "On ‘SNL,’ Taylor Swift and Dakota Johnson Prove Bestie Style Doesn’t Have to Mean Matchy-Matchy",
-      "link": "https://www.vogue.com/article/taylor-swift-and-dakota-johnson-saturday-night-live",
-      "summary": "Taylor Swift joined her “Patient Zero” costar during her “Saturday Night Live” monologue, with the friends trading their co-ords for two very different takes on the statement mini.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: On ‘SNL,’ Taylor Swift and Dakota Johnson Prove Bestie Style Doesn’t H...",
-      "score": 1,
-      "published": "2026-10-04T11:35:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "60bf44e80dd3",
-      "title": "From the Archives: Rebel with a Shrine",
-      "link": "https://www.vogue.com/article/from-the-archives-rebel-with-a-shrine",
-      "summary": "In a culture that worships youth, James Dean remains one of our most potent icons—a young man for whom youth itself was a torture.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: From the Archives: Rebel with a Shrine...",
-      "score": 0,
-      "published": "2026-10-04T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6beda28a8b57",
       "title": "This Is the Flat Shoe Trend Fashion People Will Be Wearing With Skirts and Jeans All Autumn",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/dune-loafers-iris-law-2026",
@@ -566,20 +622,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
       "published": "2026-10-04T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2e43cabbe55c",
-      "title": "Lily Brant Followed in Her Mom’s Alaïa Footsteps—After Practicing in Heels on a Treadmill",
-      "link": "https://www.vogue.com/slideshow/lily-brant-alaia-paris-fashion-week-diary",
-      "summary": "For her Paris Fashion Week runway debut, 20-year-old Lily Brant took a little advice from Stephanie Seymour and revisited her lifelong connection to Alaïa.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Lily Brant Followed in Her Mom’s Alaïa Footsteps—After Practicing in H...",
-      "score": 2,
-      "published": "2026-10-04T10:46:31+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1171,20 +1213,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2421bac8d7e4",
-      "title": "It Turns Out, This \"Dated\" Eyeliner Trend Is the Key to Looking Like a Cool Celeb in Paris",
-      "link": "https://www.whowhatwear.com/beauty/makeup/rihanna-inde-navarrette-paris-fashion-week-eyeliner",
-      "summary": "I'm rethinking my fall makeup bag.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-10-02T20:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "553709800122",
       "title": "The Best Street-Style Looks From Paris Fashion Week",
       "link": "https://www.harpersbazaar.com/fashion/trends/a73981821/spring-2027-paris-fashion-week-street-style-trends/",
@@ -1196,20 +1224,6 @@
       "angle": "Fashion Intelligence: The Best Street-Style Looks From Paris Fashion Week...",
       "score": 3,
       "published": "2026-10-02T18:46:20+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "12f964fc01bb",
-      "title": "Wearing This Viral Item Is a True Sign of a High-Fashion 2026 It Girl",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/conner-ives-embroidered-fur-robe-laura-harrier",
-      "summary": "Spotted at Paris Fashion Week.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-10-02T18:38:03+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1350,20 +1364,6 @@
       "angle": "Fashion Intelligence: Sarah Jessica Parker’s Rapunzel Braid Is Totally and Completely Mesmer...",
       "score": 0,
       "published": "2026-10-02T15:49:56+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a989a667b6ee",
-      "title": "If You Care About Cost Per Wear, These 23 Elevated Basics From Shopbop Are Worth Buying",
-      "link": "https://www.whowhatwear.com/fashion/shopping/shopbop-elevated-basics",
-      "summary": "Fall staples.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: If You Care About Cost Per Wear, These 23 Elevated Basics From Shopbop...",
-      "score": 1,
-      "published": "2026-10-02T15:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2769,52 +2769,52 @@
   ],
   "trends": [
     {
-      "term": "v2 retail",
+      "term": "earthquake",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "பெ. சண்முகம்",
+      "term": "novak djokovic",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "దిగుమతి",
+      "term": "भुवनेश्वर कुमार",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "russia plague outbreak",
+      "term": "सरकार",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "రంజీ ట్రోఫీ",
+      "term": "bse sensex",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "aadhar card",
+      "term": "महंगाई भत्ता",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cancer horoscope today",
+      "term": "उपेन्द्र कुशवाहा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sbi",
+      "term": "japan vs new zealand",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "taiwan index",
+      "term": "വിജയ് ദേവരകൊണ്ട",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ashutosh ranka",
+      "term": "zimbabwe vs west indies",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
