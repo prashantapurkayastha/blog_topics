@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T06:47:59.684861+00:00",
+  "generated_at": "2026-10-18T09:20:48.156429+00:00",
   "owned_count": 10,
   "competitor_count": 14,
   "industry_count": 177,
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Shushu/Tong Shanghai Spring 2027...",
       "score": 0,
-      "published": "2026-10-18T06:44:00+00:00",
+      "published": "2026-10-18T09:15:56+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,21 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Marchesa Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-18T06:44:00+00:00",
+      "published": "2026-10-18T09:15:56+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f8433cba6775",
+      "title": "Victoria Beckham Just Solved a Big Fashion Dilemma—The Shoe Colour to Wear With Red Dresses",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/red-dress-plum-heels-outfit-victoria-beckham-2026",
+      "summary": "My new favourite pairing.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Victoria Beckham Just Solved a Big Fashion Dilemma—The Shoe Colour to ...",
+      "score": 3,
+      "published": "2026-10-18T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1745,20 +1759,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d293ac552371",
-      "title": "WWW Curates: The Knitwear Foundations to Build Your Autumn Wardrobe Around",
-      "link": "https://www.whowhatwear.com/fashion/www-curates-the-knitwear-foundations-to-build-your-autumn-wardrobe-around",
-      "summary": "From sculptural necklines to a quietly versatile palette, this season's knits bring a polished finish to a wearable everyday wardrobe.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: WWW Curates: The Knitwear Foundations to Build Your Autumn Wardrobe Ar...",
-      "score": 2,
-      "published": "2026-10-15T15:10:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f03a75274121",
       "title": "This Luxury Vehicle Proves Style Is So Much More Than What You Wear",
       "link": "https://www.harpersbazaar.com/culture/travel-dining/a74135933/luxury-style-infiniti-sport-qx80-car-review/",
@@ -2825,52 +2825,52 @@
   ],
   "trends": [
     {
-      "term": "आलू",
+      "term": "alejandro davidovich fokina",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "twitch",
+      "term": "ജനാധിപത്യം",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mohammed kaif",
+      "term": "rafael jodar",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "মৌসুমি বায়ু",
+      "term": "മനോരമ ന്യൂസ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "aam aadmi party",
-      "summary": "",
-      "aza_category": "Occasion Dressing"
-    },
-    {
-      "term": "uday saharan",
+      "term": "કોલકાતા",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "elizabeth holmes movie amanda seyfried",
+      "term": "angkrish raghuvanshi",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "david sabatini",
+      "term": "அக்டோபர் 18",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "த்ரிஷா",
+      "term": "ಉಕ್ರೇನ್",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cruz azul vs fc juárez standings",
+      "term": "केन्द्र सरकार",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "லாரி",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
