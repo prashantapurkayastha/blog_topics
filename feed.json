@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-21T06:46:42.496785+00:00",
+  "generated_at": "2026-10-21T09:50:44.506293+00:00",
   "owned_count": 10,
   "competitor_count": 14,
-  "industry_count": 175,
+  "industry_count": 173,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Francisco Cancino Mexico Spring 2027...",
       "score": 0,
-      "published": "2026-10-21T06:44:28+00:00",
+      "published": "2026-10-21T09:48:58+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,21 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Mikio Sakabe Tokyo Spring 2027...",
       "score": 0,
-      "published": "2026-10-21T06:44:28+00:00",
+      "published": "2026-10-21T09:48:58+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "82d15c8ef7d8",
+      "title": "This Lake Como Hotel Is Less Than a Year Old and Already a Fashion Girl Favorite",
+      "link": "https://www.whowhatwear.com/living/travel/lake-como-edition-hotel-review",
+      "summary": "Fans include Milan’s top designers and Martha Stewart herself.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: This Lake Como Hotel Is Less Than a Year Old and Already a Fashion Gir...",
+      "score": 2,
+      "published": "2026-10-21T08:05:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -947,20 +961,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "eedb7d9a59d2",
-      "title": "Don't Sleep on the CVS Beauty Section—17 Items I Swear By, From French Skincare to Designer Perfume",
-      "link": "https://www.whowhatwear.com/beauty/best-beauty-products-cvs",
-      "summary": "Trust me. It's a gold mine.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Don't Sleep on the CVS Beauty Section—17 Items I Swear By, From French...",
-      "score": 3,
-      "published": "2026-10-20T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3e28b99ea990",
       "title": "TL;DR: This Single Complexion Perfector Made Me Forget About Foundation for an Entire Month",
       "link": "https://www.whowhatwear.com/beauty/makeup/marc-jacobs-beauty-concealer-review",
@@ -971,6 +971,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: TL;DR: This Single Complexion Perfector Made Me Forget About Foundatio...",
       "score": 1,
+      "published": "2026-10-20T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "eedb7d9a59d2",
+      "title": "Don't Sleep on the CVS Beauty Section—17 Items I Swear By, From French Skincare to Designer Perfume",
+      "link": "https://www.whowhatwear.com/beauty/best-beauty-products-cvs",
+      "summary": "Trust me. It's a gold mine.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Don't Sleep on the CVS Beauty Section—17 Items I Swear By, From French...",
+      "score": 3,
       "published": "2026-10-20T11:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -989,20 +1003,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "54d78dd849ad",
-      "title": "How to Wear a Fair Isle Sweater Like a Fashion Person This Winter",
-      "link": "https://www.whowhatwear.com/fashion/jumpers-sweaters/how-to-style-a-fair-isle-sweater",
-      "summary": "The knit is bound to be a cold-weather favorite.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How to Wear a Fair Isle Sweater Like a Fashion Person This Winter...",
-      "score": 2,
-      "published": "2026-10-20T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a5789d1780a2",
       "title": "I'm a 54-Year-Old CEO of a Resale Brand—These Are the 7 Outfits I Wore This Week",
       "link": "https://www.whowhatwear.com/fashion/refined-luxury-resale-outfit-ideas",
@@ -1017,17 +1017,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3f2e8e90eba2",
-      "title": "I Wear Zara When I Want to Look Trend-Forward—40 New Items That Are Chic and Relevant for Fall 2026",
-      "link": "https://www.whowhatwear.com/fashion/shopping/zara-fall-winter-2026-collection",
-      "summary": "From opulent outerwear to pops of purple.",
+      "id": "54d78dd849ad",
+      "title": "How to Wear a Fair Isle Sweater Like a Fashion Person This Winter",
+      "link": "https://www.whowhatwear.com/fashion/jumpers-sweaters/how-to-style-a-fair-isle-sweater",
+      "summary": "The knit is bound to be a cold-weather favorite.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "angle": "Fashion Intelligence: How to Wear a Fair Isle Sweater Like a Fashion Person This Winter...",
       "score": 2,
-      "published": "2026-10-20T09:00:00+00:00",
+      "published": "2026-10-20T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1055,6 +1055,20 @@
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 4,
+      "published": "2026-10-20T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3f2e8e90eba2",
+      "title": "I Wear Zara When I Want to Look Trend-Forward—40 New Items That Are Chic and Relevant for Fall 2026",
+      "link": "https://www.whowhatwear.com/fashion/shopping/zara-fall-winter-2026-collection",
+      "summary": "From opulent outerwear to pops of purple.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
       "published": "2026-10-20T09:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1591,34 +1605,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b9b88b45de0a",
-      "title": "Fashion People Everywhere Are Suddenly Swapping Oversized Jackets for This Dressier Alternative, and I'm Sold",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/fitted-jackets-outfits-2026",
-      "summary": "Move over, boyfriend blazers.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Fashion People Everywhere Are Suddenly Swapping Oversized Jackets for ...",
-      "score": 2,
-      "published": "2026-10-19T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "aa82630c292d",
-      "title": "Trust Me: We’ll All Be Wearing Our French Tips in This Shade for Autumn",
-      "link": "https://www.whowhatwear.com/beauty/nails/black-french-manicure-ideas",
-      "summary": "Nail noir.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-10-19T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a2066f28097a",
       "title": "Suddenly, Tasteful Dressers in NYC Are All Wearing This Elegant Bag Trend",
       "link": "https://www.whowhatwear.com/fashion/handbags/satin-bag-trend-2026",
@@ -1629,6 +1615,20 @@
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
+      "published": "2026-10-19T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b9b88b45de0a",
+      "title": "Fashion People Everywhere Are Suddenly Swapping Oversized Jackets for This Dressier Alternative, and I'm Sold",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/fitted-jackets-outfits-2026",
+      "summary": "Move over, boyfriend blazers.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Fashion People Everywhere Are Suddenly Swapping Oversized Jackets for ...",
+      "score": 2,
       "published": "2026-10-19T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1714,34 +1714,6 @@
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 1,
       "published": "2026-10-19T00:51:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "06336ab83072",
-      "title": "Kylie Jenner Just Walked Her First Victoria’s Secret Fashion Show Wearing a $50 Million Fantasy Bra",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/kylie-jenner-victorias-secret-fashion-show-2026",
-      "summary": "An iconic bra for an iconic girl",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-10-19T00:51:48+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9c83ea75898f",
-      "title": "Bella! Adriana! Vittoria! The Most Iconic Victoria's Secret Fashion Show Looks from 2026",
-      "link": "https://www.whowhatwear.com/fashion/runway/victorias-secret-fashion-show-2026",
-      "summary": "Plus, the best wings that walked the runway",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Bella! Adriana! Vittoria! The Most Iconic Victoria's Secret Fashion Sh...",
-      "score": 3,
-      "published": "2026-10-19T00:13:05+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2797,52 +2769,52 @@
   ],
   "trends": [
     {
-      "term": "கூவம்",
+      "term": "ஜீவா",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बिहार",
+      "term": "october 23 2026 ott releases",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "noel tata chandrasekaran power struggle",
+      "term": "ओप्पो रेनो",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cbse 2027 candidate list submission",
+      "term": "2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "రోహిత్ శర్మ",
+      "term": "मार्को रुबियो",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "வேலை",
+      "term": "l&t andhra pradesh office towers",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ssa",
+      "term": "fentanyl",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "कुंभ राशिफल",
+      "term": "दिल्ली उच्च न्यायालय",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rodri barcelona",
+      "term": "ഡല്ഹി",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "state bank of india",
+      "term": "കോക്രോച്ച് ജനതാ പാര്ട്ടി",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
