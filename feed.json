@@ -1,13 +1,111 @@
 {
-  "generated_at": "2026-10-25T09:35:48.972564+00:00",
+  "generated_at": "2026-10-25T14:51:04.319336+00:00",
   "owned_count": 10,
   "competitor_count": 11,
-  "industry_count": 181,
+  "industry_count": 175,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "22382b47283b",
+      "title": "PM Modi Visits Varanasi, Witnesses Mega IAF Air Show and Opens Garment Unit",
+      "link": "https://www.indiatoday.in/india/video/pm-modi-visits-varanasi-witnesses-mega-iaf-air-show-and-opens-garment-unit-ytvd-3024752-2026-10-25?utm_source=rss",
+      "summary": "PM Modi Visits Varanasi, Witnesses Mega IAF Air Show and Opens Garment Unit",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: PM Modi Visits Varanasi, Witnesses Mega IAF Air Show and Opens Garment...",
+      "score": 1,
+      "published": "2026-10-25T12:07:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a92a378f72c9",
+      "title": "From the Archives: America’s Enduring Appetite for Candy",
+      "link": "https://www.vogue.com/article/2009/10/from-the-archives-dream-sweets",
+      "summary": "With Halloween treats on his mind, Jeffrey Steingarten investigates America's enduring appetite for candy.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: From the Archives: America’s Enduring Appetite for Candy...",
+      "score": 0,
+      "published": "2026-10-25T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "688458fb8b9c",
+      "title": "Dior Restored 13 of Its Vintage Scents in Its Most Ambitious Fragrance Project Yet",
+      "link": "https://www.harpersbazaar.com/beauty/a74183212/diororiginals-fragrance-collection-dior-perfume/",
+      "summary": "The collection is a feast for fragrance and history nerds alike",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Dior Restored 13 of Its Vintage Scents in Its Most Ambitious Fragrance...",
+      "score": 1,
+      "published": "2026-10-25T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9500312b2f41",
+      "title": "Dua Lipa Knows a Good Book—and a Great Look",
+      "link": "https://www.vogue.com/article/dua-lipa-knows-a-good-book-and-a-great-look-october-25-2026",
+      "summary": "At London’s Literature Festival, guest curator Dua Lipa made a compelling case for literary chic by way of Chanel and Prada alongside Mustafa and Zadie Smith.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Dua Lipa Knows a Good Book—and a Great Look...",
+      "score": 0,
+      "published": "2026-10-25T11:24:11+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "89bbf6b8afc0",
+      "title": "Don’t Buy Another Black Jacket Until You See These Cooler Alternatives",
+      "link": "https://www.whowhatwear.com/fashion/outerwear/non-black-fall-jackets",
+      "summary": "Shop the styles inside.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Don’t Buy Another Black Jacket Until You See These Cooler Alternatives...",
+      "score": 1,
+      "published": "2026-10-25T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "450b95a0dc7c",
+      "title": "Drake Celebrates 40 With a Big Rolex, Free Birkins, and the Backstreet Boys",
+      "link": "https://www.vogue.com/article/drake-celebrates-40th-birthday",
+      "summary": "The rapper rang in a new decade with a sparkling tuxedo and a birthday weekend that spared no expense.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Drake Celebrates 40 With a Big Rolex, Free Birkins, and the Backstreet...",
+      "score": 0,
+      "published": "2026-10-25T10:59:22+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f6e43d6f9b09",
+      "title": "What Is Brutalism? Alex Eagle Explains How to Bring the Aesthetic Home",
+      "link": "https://www.vogue.com/article/eagle-eye-brutalism",
+      "summary": "Designer and creative director Alex Eagle on why brutalism feels so current—and how to bring the style home.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: What Is Brutalism? Alex Eagle Explains How to Bring the Aesthetic Home...",
+      "score": 2,
+      "published": "2026-10-25T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "58430a8cc41f",
       "title": "Fashion’s Most Discerning Dressers Swear By The Row Coats—9 Quiet Luxury Styles to Know This Winter",
@@ -37,20 +135,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6a881083a9e5",
-      "title": "Air Show Creating 'Package Of Confidence' In UP: Badri Narayan",
-      "link": "https://www.indiatoday.in/india/video/air-show-creating-package-of-confidence-in-up-badri-narayan-ytvd-3024603-2026-10-25?utm_source=rss",
-      "summary": "Air Show Creating 'Package Of Confidence' In UP: Badri Narayan",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Air Show Creating 'Package Of Confidence' In UP: Badri Narayan...",
-      "score": 1,
-      "published": "2026-10-25T08:19:19+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a72c58ee6da4",
       "title": "Sophisticated, Easy and Cool—Fashion People Will Be Wearing This Two-Tone Colour Trend All Winter",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/grey-white-colour-combination-trend-miranda-kerr-alexa-chung-2026",
@@ -65,20 +149,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a86e22dea09a",
-      "title": "PM Modi In Varanasi For IAF Air Show At Namo Ghat Ahead Of UP Polls",
-      "link": "https://www.indiatoday.in/india/video/pm-modi-in-varanasi-for-iaf-air-show-at-namo-ghat-ahead-of-up-polls-ytvd-3024594-2026-10-25?utm_source=rss",
-      "summary": "PM Modi In Varanasi For IAF Air Show At Namo Ghat Ahead Of UP Polls",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: PM Modi In Varanasi For IAF Air Show At Namo Ghat Ahead Of UP Polls...",
-      "score": 1,
-      "published": "2026-10-25T08:05:07+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "97365071a976",
       "title": "I Think At-Home Manicures Are Incredibly Chic—These 25 Designer Nail Polishes Are Forever Staples",
       "link": "https://www.whowhatwear.com/beauty/nails/best-designer-nail-polish",
@@ -90,34 +160,6 @@
       "angle": "Fashion Intelligence: I Think At-Home Manicures Are Incredibly Chic—These 25 Designer Nail P...",
       "score": 1,
       "published": "2026-10-25T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9574d1afd6ed",
-      "title": "PM Modi In Varanasi: Garment Factory Unveiled, IAF Air Show At Namo Ghat",
-      "link": "https://www.indiatoday.in/india/video/pm-modi-in-varanasi-garment-factory-unveiled-iaf-air-show-at-namo-ghat-ytvd-3024570-2026-10-25?utm_source=rss",
-      "summary": "PM Modi In Varanasi: Garment Factory Unveiled, IAF Air Show At Namo Ghat",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: PM Modi In Varanasi: Garment Factory Unveiled, IAF Air Show At Namo Gh...",
-      "score": 1,
-      "published": "2026-10-25T07:14:06+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a35778d68db2",
-      "title": "PM Modi Visits Varanasi, Launches Arvind Garment Facility, Witnesses IAF Air Show",
-      "link": "https://www.indiatoday.in/india/video/pm-modi-visits-varanasi-launches-arvind-garment-facility-witnesses-iaf-air-show-ytvd-3024564-2026-10-25?utm_source=rss",
-      "summary": "PM Modi Visits Varanasi, Launches Arvind Garment Facility, Witnesses IAF Air Show",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 2,
-      "published": "2026-10-25T07:04:59+00:00",
       "discovered_via": "feed"
     },
     {
@@ -174,62 +216,6 @@
       "angle": "Fashion Intelligence: A Makeup Artist Agrees: These Are the 6 Coolest Ways to Wear Your Blus...",
       "score": 1,
       "published": "2026-10-25T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "713142e4d533",
-      "title": "Theaterisation should be based on India's needs, not foreign models: IAF chief",
-      "link": "https://www.indiatoday.in/india/story/indian-air-force-chief-ap-singh-on-theaterisation-structure-should-be-based-on-india-security-needs-ptag-3024538-2026-10-25?utm_source=rss",
-      "summary": "Theaterisation should be based on India's needs, not foreign models: IAF chief",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Theaterisation should be based on India's needs, not foreign models: I...",
-      "score": 1,
-      "published": "2026-10-25T06:34:27+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "860c2f57e6f8",
-      "title": "IAF Wings Over Ganges Air Show In Varanasi, PM Modi Visit And Banarasi Weaving Boost",
-      "link": "https://www.indiatoday.in/india/video/iaf-wings-over-ganges-air-show-in-varanasi-pm-modi-visit-and-banarasi-weaving-boost-ytvd-3024531-2026-10-25?utm_source=rss",
-      "summary": "IAF Wings Over Ganges Air Show In Varanasi, PM Modi Visit And Banarasi Weaving Boost",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: IAF Wings Over Ganges Air Show In Varanasi, PM Modi Visit And Banarasi...",
-      "score": 2,
-      "published": "2026-10-25T05:13:08+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "87178c2d9e75",
-      "title": "PM Modi in Varanasi for IAF Air Show, Garment Unit; Opposition Questions Border Row",
-      "link": "https://www.indiatoday.in/india/video/pm-modi-in-varanasi-for-iaf-air-show-garment-unit-opposition-questions-border-row-ytvd-3024528-2026-10-25?utm_source=rss",
-      "summary": "PM Modi in Varanasi for IAF Air Show, Garment Unit; Opposition Questions Border Row",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: PM Modi in Varanasi for IAF Air Show, Garment Unit; Opposition Questio...",
-      "score": 1,
-      "published": "2026-10-25T05:05:18+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3695854229d8",
-      "title": "PM Modi in Varanasi, IAF Air Show 'Wings Over Ganges' at Namo Ghat, Rafale and Tejas Roar",
-      "link": "https://www.indiatoday.in/india/video/pm-modi-in-varanasi-iaf-air-show-wings-over-ganges-at-namo-ghat-rafale-and-tejas-roar-ytvd-3024519-2026-10-25?utm_source=rss",
-      "summary": "PM Modi in Varanasi, IAF Air Show 'Wings Over Ganges' at Namo Ghat, Rafale and Tejas Roar",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: PM Modi in Varanasi, IAF Air Show 'Wings Over Ganges' at Namo Ghat, Ra...",
-      "score": 1,
-      "published": "2026-10-25T04:08:02+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1353,62 +1339,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bc54216fcea3",
-      "title": "Victoria Beckham’s Second Gap Collection Reimagines Fall’s Essential Layers",
-      "link": "https://www.vogue.com/article/victoria-beckham-gap-collaboration-fall-2026",
-      "summary": "Beckham shares the inspiration behind her second collab with Gap—a 37-piece collection built around fall staples, including knits outerwear, and jeans.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 2,
-      "published": "2026-10-23T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "278a2178d360",
-      "title": "Ariana Grande Is Now Bobiana Grande",
-      "link": "https://www.vogue.com/article/ariana-grande-bob-haircut",
-      "summary": "The ponytail is taking a hiatus, people: Ariana Grande has unveiled a serious hair chop and color switch-up.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Ariana Grande Is Now Bobiana Grande...",
-      "score": 0,
-      "published": "2026-10-23T10:05:03+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e6f9e666b78a",
-      "title": "His Year in Fashion: Artist Jack Jildevik Documented His Wardrobe in 365 Flat-Lay Photos",
-      "link": "https://www.vogue.com/article/his-year-in-fashion-artist-jack-jildevik-documented-his-wardrobe-in-365-flat-lay-photos",
-      "summary": "The new book ‘Portrait of Absence’ considers identity and fashion apart from the body.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: His Year in Fashion: Artist Jack Jildevik Documented His Wardrobe in 3...",
-      "score": 1,
-      "published": "2026-10-23T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4bfdcc559d72",
-      "title": "Reed All About It: Here’s How Alexander Skarsgård Wound Up in Couture Scuba Pants for ‘Wicker’",
-      "link": "https://www.vogue.com/article/alexander-skarsgard-wicker-suit-costume-designer-interview-andras-attila",
-      "summary": "Costume designers András Dániel Tóth and Attila Godena-Juhász were given nine days’ notice to create a bottom half for Alexander Skarsgård’s Wicker Man.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Reed All About It: Here’s How Alexander Skarsgård Wound Up in Couture ...",
-      "score": 2,
-      "published": "2026-10-23T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ebb176e6e722",
       "title": "Zara Studio Fall 2026 Dresses for a Little Mystery",
       "link": "https://www.fashiongonerogue.com/story/zara-studio-fall-2026-campaign/",
@@ -1910,20 +1840,6 @@
       "angle": "Fashion Intelligence: This New Exhibit Captures Fashion’s ’90s Golden Age...",
       "score": 2,
       "published": "2026-10-21T19:51:21+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fa22b4df5837",
-      "title": "Is Virginia Woolf This Season’s Literary It Girl?",
-      "link": "https://www.harpersbazaar.com/culture/film-tv/a74205849/is-virginia-woolf-this-seasons-literary-it-girl/",
-      "summary": "This fall sees the release of two film adaptations of the novelist’s work. Why do her books resonate now?",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-10-21T19:36:39+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2839,52 +2755,52 @@
   ],
   "trends": [
     {
-      "term": "నాని",
+      "term": "premier league games",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sebi",
+      "term": "वीवो",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "అక్టోబర్ 24",
+      "term": "florian wirtz",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "elena rybakina",
+      "term": "celta vs betis",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "வங்காள விரிகுடா",
+      "term": "hoffenheim vs leverkusen",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "പണം",
+      "term": "কলকাতা",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಕಾವೇರಿ",
+      "term": "అనంత్ అంబానీ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "new zealand a cricket team",
+      "term": "संयुक्त अरब अमीरात क्रिकेट टीम बनाम नीदरलैंड्स क्रिकेट टीम टीम की रैंक",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "smriti mandhana",
+      "term": "telangana",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बैंक अवकाश",
+      "term": "taylor fritz",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
