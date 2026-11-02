@@ -1,25 +1,109 @@
 {
-  "generated_at": "2026-11-02T08:36:59.181098+00:00",
+  "generated_at": "2026-11-02T13:08:10.773414+00:00",
   "owned_count": 10,
   "competitor_count": 14,
-  "industry_count": 175,
+  "industry_count": 170,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
     {
-      "id": "b57bdaef4d8f",
-      "title": "CM Vijay launches development projects worth over Rs 80 crore in Pudukkottai",
-      "link": "https://www.indiatoday.in/india/story/tamil-nadu-projects-cm-vijay-inaugurates-44-works-launches-70-more-3030454-2026-11-02?utm_source=rss",
-      "summary": "CM Vijay launches development projects worth over Rs 80 crore in Pudukkottai",
-      "source": "India Today Fashion",
+      "id": "bff32f9bdfd0",
+      "title": "The Grooms—and Every Single Guest—Wore White to This Wedding at a Virginia Gilded Age Mansion",
+      "link": "https://www.vogue.com/slideshow/cameron-billinghurst-and-nolan-beck-rivera-wedding",
+      "summary": "From an a cappella gospel choir to a disco-ball piñata and late-night Slurpees, the wedding of Cameron Billinghurst and Nolan Beck Rivera, founders of interiors studio Studio Tarea, was filled with playful details.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: The Grooms—and Every Single Guest—Wore White to This Wedding at a Virginia Gilded Age Mansion — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-11-02T13:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7b27d4f8e47b",
+      "title": "Estée Lauder Companies Sales Climb 6% in Q1",
+      "link": "https://www.vogue.com/article/estee-lauder-companies-sales-climb-6-in-q1",
+      "summary": "The company marks five quarters of consecutive growth, demonstrating the success of its consumer-first turnaround plan.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Estée Lauder Companies Sales Climb 6% in Q1...",
+      "score": 0,
+      "published": "2026-11-02T12:17:30+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4c91358b3e27",
+      "title": "Engagement Ring Care: 13 Tips From the Experts",
+      "link": "https://www.vogue.com/article/engagement-ring-rules-care-how-to",
+      "summary": "Have questions about engagement ring care? Find out when to wear it, when to leave it off, how to clean it and more, with insightful tips from industry experts.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Fashion Intelligence: Engagement Ring Care: 13 Tips From the Experts...",
+      "score": 1,
+      "published": "2026-11-02T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f899e338de3a",
+      "title": "If You Wear This Fashion-Forward Beauty Trend, You're Automatically Cool in My Eyes",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/perfume-pendants",
+      "summary": "It's only expected to grow this year.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
+      "published": "2026-11-02T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e2c8a1b04de7",
+      "title": "Bored of Jeans? IMO, This Comfortable Trouser Trend Looks Even Better With Flats",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/cropped-trousers-flat-mules-outfit-elsa-hosk-2026",
+      "summary": "Casual but considered.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-11-02T11:52:32+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "393af2a7fd85",
+      "title": "Confessions of a Pants Girl: How I Finally Came to Love the Skirt",
+      "link": "https://www.vogue.com/article/how-i-came-to-love-the-skirt",
+      "summary": "Pernille Teisbaek on how the recent shows inspired her to revisit the skirt’s place in her wardrobe. Here’s how she’s styling it now.",
+      "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "angle": "Fashion Intelligence: Confessions of a Pants Girl: How I Finally Came to Love the Skirt...",
       "score": 1,
-      "published": "2026-11-02T08:22:21+00:00",
+      "published": "2026-11-02T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9b5e4b10348d",
+      "title": "Jeans With This Shirt Trend and This Heel Trend Will Be the It-Girl Uniform of November 2026",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/plaid-shirt-jeans-ballet-pumps-outfit-lila-moss",
+      "summary": "Spotted on Lila Moss",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-11-02T11:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -48,20 +132,6 @@
       "angle": "Fashion Intelligence: The Iconic 90's Celeb Outfits We'd Wear This Winter, According to Our ...",
       "score": 2,
       "published": "2026-11-02T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8e5fe49013b8",
-      "title": "Omar Abdullah and Nidhi Razdan's wedding unlawful under Sharia: Jamaat chief",
-      "link": "https://www.indiatoday.in/india/story/omar-abdullah-nidhi-rajdan-marriage-unlawful-under-sharia-muslim-jamaat-chief-fatwa-3030369-2026-11-02?utm_source=rss",
-      "summary": "Omar Abdullah and Nidhi Razdan's wedding unlawful under Sharia: Jamaat chief",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Omar Abdullah and Nidhi Razdan's wedding unlawful under Sharia — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-11-02T06:35:41+00:00",
       "discovered_via": "feed"
     },
     {
@@ -514,7 +584,7 @@
     },
     {
       "id": "ec1f10cb775c",
-      "title": "Forget Balayage—Nude Hair Is the Low-Key Colour Trend Taking Over This Autumn",
+      "title": "Forget Balayage—\"Nude Hair\" Is the Low-Key Colour Trend Taking Over This Autumn",
       "link": "https://www.whowhatwear.com/beauty/hair/nude-hair-colour-trend",
       "summary": "It's so chic.",
       "source": "Who What Wear",
@@ -933,34 +1003,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ffd9379a6948",
-      "title": "I Know You're Stylish If You're Wearing This New British Brand That Rivals COS and Reformation",
-      "link": "https://www.whowhatwear.com/fashion/shopping/arteof-small-brand-best-pieces-2026",
-      "summary": "A new favourite.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-10-31T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "882340f1fcfe",
-      "title": "5 Fall Hair Color Combos That Shouldn’t Work, But Celebrity Stylists Love",
-      "link": "https://www.whowhatwear.com/beauty/hair/best-unexpected-fall-hair-color-combos",
-      "summary": "Not your first thought, but so so pretty.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-10-31T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "9329882c0d58",
       "title": "Top 30 Gag Gifts for Men: Hilarious Ideas for Every Occasion 2026",
       "link": "https://www.fashionbeans.com/article/funny-gifts-for-men/",
@@ -972,62 +1014,6 @@
       "angle": "Festive Dressing: How to Own This Occasion",
       "score": 1,
       "published": "2026-10-31T06:00:29+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fac21f768555",
-      "title": "How to Spot an It Girl This Winter? She’ll Be Wearing One of These 7 Elite Fashion Trends",
-      "link": "https://www.whowhatwear.com/fashion/winter/it-girl-winter-trends-2026",
-      "summary": "Babe, you look so cool.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-10-31T05:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "69600e91c71d",
-      "title": "Spotted on the Set of The Housemaid's Secret: Kirsten Dunst Wearing 2027's Sexiest Heel Trend",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/the-housemaids-secret-set-photos-kirsten-dunst",
-      "summary": "The sequel just started filming in NYC.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-10-31T02:02:01+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ffefdba7c6a0",
-      "title": "Zoë Kravitz Just Wore the Fall 2026 Shoe Trend That's Been Hiding in Prada's 1995 Archives",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/zoe-kravitz-prada-heels",
-      "summary": "Zoë Kravitz Just Wore the Fall 2026 Shoe Trend That's Been Hiding in Prada's 1995 Archives",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-10-31T01:17:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c807425712bf",
-      "title": "I Combed Through Thousands of New Activewear Arrivals—These 33 Finds Are at the Top of My List",
-      "link": "https://www.whowhatwear.com/fashion/athleisure/new-winter-activewear-arrivals-shop-talk",
-      "summary": "So chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Combed Through Thousands of New Activewear Arrivals—These 33 Finds A...",
-      "score": 1,
-      "published": "2026-10-31T01:07:28+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1185,20 +1171,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ce8091e58d4b",
-      "title": "You Heard it Here First: It’s Going to Be an Ugg Boot Fall",
-      "link": "https://www.vogue.com/article/ugg-boots-outfits",
-      "summary": "Ugg boots are an off-duty favorite for a reason. Here’s how to wear yours for the season, with outfit inspiration from a few of our favorite stylish celebs.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: You Heard it Here First: It’s Going to Be an Ugg Boot Fall...",
-      "score": 3,
-      "published": "2026-10-30T18:30:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e0e96c1482ef",
       "title": "Rosie Huntington-Whiteley on the Quiet Power of Saint Laurent",
       "link": "https://www.harpersbazaar.com/fashion/designers/a74249277/rosie-huntington-whiteley-on-the-quiet-power-of-saint-laurent/",
@@ -1227,34 +1199,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "42756b01acf3",
-      "title": "Benito Skinner and Mary Beth Barone Share 12 Last-Minute Halloween Costume Ideas",
-      "link": "https://www.vogue.com/article/benito-skinner-mary-beth-barone-last-minute-halloween-ideas-10-30-2026",
-      "summary": "One of them is the \"What was that?\" lady from The Wendy Williams Show.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Benito Skinner and Mary Beth Barone Share 12 Last-Minute Halloween Cos...",
-      "score": 1,
-      "published": "2026-10-30T17:50:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c0c13ad88bb3",
-      "title": "9 Tips for The Day Before a Marathon",
-      "link": "https://www.vogue.com/article/tips-for-the-day-before-a-marathon",
-      "summary": "Experts share tips on how to survive—and even thrive—a long run.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 9 Tips for The Day Before a Marathon...",
-      "score": 0,
-      "published": "2026-10-30T17:45:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "1eaa302e5dfa",
       "title": "The Best Rhode Skincare Products, According to Experts",
       "link": "https://www.harpersbazaar.com/beauty/skin-care/a74297564/best-rhode-products/",
@@ -1266,20 +1210,6 @@
       "angle": "Fashion Intelligence: The Best Rhode Skincare Products, According to Experts...",
       "score": 0,
       "published": "2026-10-30T17:43:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fb6b4c81514b",
-      "title": "9 Best Skin Tightening Creams for Smooth & Lifted Skin",
-      "link": "https://www.vogue.com/article/skin-tightening-creams",
-      "summary": "Experts sound off on the best skin-tightening creams packed with peptides, retinol, and more that boost collagen and elastin production for firmer, smoother skin.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 9 Best Skin Tightening Creams for Smooth & Lifted Skin...",
-      "score": 0,
-      "published": "2026-10-30T17:42:45+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2655,6 +2585,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "127b6e11594b",
+      "title": "Diwali Lehenga Ideas 2026 for Every Budget",
+      "link": "https://www.azafashions.com/blog/diwali-lehenga-ideas-2026-every-budget/?utm_source=rss&utm_medium=rss&utm_campaign=diwali-lehenga-ideas-2026-every-budget",
+      "summary": "Diwali 2026 lehengas range from easy, budget-friendly sets under a few thousand rupees to statement couture pieces with hand embroidery and bridal-level detailing. Pick a sequinned or gota-work lehenga if&#8230; The post Diwali Lehenga Ideas 2026 for Every Budget appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Diwali Lehenga Ideas 2026 for Every Budget — A Complete Style Guide",
+      "score": 4,
+      "published": "2026-11-02T12:40:19+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "734b638c8c5c",
       "title": "13 Types of Skirts Every Wardrobe Needs Right Now (And How to Wear Each One)",
       "link": "https://www.azafashions.com/blog/types-of-skirts-to-know/?utm_source=rss&utm_medium=rss&utm_campaign=types-of-skirts-to-know",
@@ -2779,70 +2723,56 @@
       "score": 3,
       "published": "2026-10-29T04:52:00+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "6dfc3173b94c",
-      "title": "10 Ways to Dress for an Indian Baby Shower Without Outshining the Mom-to-Be",
-      "link": "https://www.azafashions.com/blog/indian-baby-shower-outfit-ideas-usa/?utm_source=rss&utm_medium=rss&utm_campaign=indian-baby-shower-outfit-ideas-usa",
-      "summary": "Forget the games, the cupcake tower, and the “guess the baby food” bingo.&#160; An Indian baby shower is a different kind of party. Think a living room that smells of&#8230; The post 10 Ways to Dress for an Indian Baby Shower Without Outshining the Mom-to-Be appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: 10 Ways to Dress for an Indian Baby Shower Without Outshining the Mom-...",
-      "score": 2,
-      "published": "2026-10-28T14:53:00+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "meg lanning",
+      "term": "pakhtakor vs al-nassr",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "prithvi shaw",
+      "term": "kerala lottery results",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "abp ananda live",
+      "term": "thanksgiving 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "বেতন",
+      "term": "બંગાળની ખાડીમાં",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hang seng",
+      "term": "gta vi",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सांसद",
+      "term": "rafael jodar",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "airport",
-      "summary": "",
-      "aza_category": "Celebrity Style"
-    },
-    {
-      "term": "झारखंड",
+      "term": "అంతర్జాతీయ క్రికెట్ మండలి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "red dead redemption 2",
+      "term": "henry nicholls",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "इज़राइल",
+      "term": "சூர்யா",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "लता मंगेशकर",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
